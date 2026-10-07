@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T01:02:51.100616+05:30",
+ "updated": "2026-10-08T05:20:49.200796+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,171 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/international/cornell-students-stage-sit-in-to-protest-universitys-handling-of-alleged-2024-gang-rape/article71557283.ece",
+   "h": "Cornell students stage sit-in to protest university’s handling of alleged 2024 gang rape",
+   "link": "https://www.thehindu.com/news/international/cornell-students-stage-sit-in-to-protest-universitys-handling-of-alleged-2024-gang-rape/article71557283.ece",
+   "src": "The Hindu - International",
+   "t": "2026-10-08T03:32:12+05:30",
+   "date": "2026-10-08",
+   "snip": "Some Cornell students have staged a sit-in at a dining hall and vowed not to spend money on campus to protest sexual violence and how the university has handled complaints",
+   "cat": "Polity",
+   "gs": "GS2"
+  },
+  {
+   "id": "https://www.thehindu.com/news/international/evicted-spanish-octogenarian-maricarmen-abascal-heart-of-spains-housing-protests-has-died/article71557243.ece",
+   "h": "Evicted Spanish octogenarian Maricarmen Abascal, heart of Spain's housing protests, has died",
+   "link": "https://www.thehindu.com/news/international/evicted-spanish-octogenarian-maricarmen-abascal-heart-of-spains-housing-protests-has-died/article71557243.ece",
+   "src": "The Hindu - International",
+   "t": "2026-10-08T02:53:37+05:30",
+   "date": "2026-10-08",
+   "snip": "Ms. Abascal had been in hospital since her eviction on September 23 from her home of more than 70 ‌years, when police and social workers removed her by stretcher",
+   "cat": "Polity",
+   "gs": "GS2"
+  },
+  {
+   "id": "https://www.thehindu.com/news/international/trump-administration-plans-to-charge-international-students-70000-for-work-authorisation/article71557192.ece",
+   "h": "Trump administration plans to charge international students $70,000 for work authorisation",
+   "link": "https://www.thehindu.com/news/international/trump-administration-plans-to-charge-international-students-70000-for-work-authorisation/article71557192.ece",
+   "src": "The Hindu - International",
+   "t": "2026-10-08T02:25:50+05:30",
+   "date": "2026-10-08",
+   "snip": "Under ‌the proposal, nonimmigrant students with F-1 visas would be required to pay $70,000 to a certified institution for on-the-job training, known as ‌Optional Practical Training (OPT), and $30,000 for any additional w",
+   "cat": "Polity",
+   "gs": "GS2"
+  },
+  {
+   "id": "https://www.thehindu.com/news/international/christa-pikes-first-words-after-surviving-execution-where-am-i-attorney-says/article71557194.ece",
+   "h": "Christa Pike’s first words after surviving execution: ‘Where am I?’ attorney says",
+   "link": "https://www.thehindu.com/news/international/christa-pikes-first-words-after-surviving-execution-where-am-i-attorney-says/article71557194.ece",
+   "src": "The Hindu - International",
+   "t": "2026-10-08T02:13:51+05:30",
+   "date": "2026-10-08",
+   "snip": "Pike, 50, survived despite receiving two lethal doses of pentobarbital on Sept. 30",
+   "cat": "Economy",
+   "gs": "GS3"
+  },
+  {
+   "id": "https://www.thehindu.com/news/international/dozens-of-soldiers-militants-and-miners-killed-in-nigeriaattacks/article71557197.ece",
+   "h": "Dozens of soldiers, militants and miners killed in Nigeria attacks",
+   "link": "https://www.thehindu.com/news/international/dozens-of-soldiers-militants-and-miners-killed-in-nigeriaattacks/article71557197.ece",
+   "src": "The Hindu - International",
+   "t": "2026-10-08T02:08:07+05:30",
+   "date": "2026-10-08",
+   "snip": "The attacks underscore the persistent ‌threat ⁠posed by Islamist insurgents in northeastern Nigeria despite years of military campaigns ⁠against Boko Haram and its offshoot",
+   "cat": "Security",
+   "gs": "GS3"
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/bihar/rakesh-tikait-warns-bihar-state-govt-over-satellite-township-projects/article71555659.ece",
+   "h": "Rakesh Tikait warns Bihar State govt over Satellite Township Projects",
+   "link": "https://www.thehindu.com/news/national/bihar/rakesh-tikait-warns-bihar-state-govt-over-satellite-township-projects/article71555659.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T02:03:31+05:30",
+   "date": "2026-10-08",
+   "snip": "He asserted that the Union is not opposed to development; however, development that comes at the cost of farmers losing their land, livelihoods, and social security cannot be accepted.",
+   "cat": "Science & Tech",
+   "gs": "GS3"
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/uttar-pradesh/abe-memorial-corridor-honoring-shinzo-abe-india-japan-ties-inaugurated-in-varanasi/article71557004.ece",
+   "h": "Abe Memorial Corridor honoring Shinzo Abe, India-Japan ties inaugurated in Varanasi",
+   "link": "https://www.thehindu.com/news/national/uttar-pradesh/abe-memorial-corridor-honoring-shinzo-abe-india-japan-ties-inaugurated-in-varanasi/article71557004.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T01:51:13+05:30",
+   "date": "2026-10-08",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2"
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/loanees-do-not-mortgage-their-constitutional-rights-with-banks-madras-high-court/article71556876.ece",
+   "h": "Loanees do not mortgage their constitutional rights with banks: Madras High Court",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/loanees-do-not-mortgage-their-constitutional-rights-with-banks-madras-high-court/article71556876.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T01:47:39+05:30",
+   "date": "2026-10-08",
+   "snip": "Justice V. Lakshminarayanan says banks cannot prevent defaulters, not facing any criminal charge, from going abroad",
+   "cat": "Polity",
+   "gs": "GS2"
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/bihar/no-political-party-can-do-politics-in-bihar-without-jdu-says-sanjay-jha/article71556857.ece",
+   "h": "No political party can do politics in Bihar without JD(U), says Sanjay Jha",
+   "link": "https://www.thehindu.com/news/national/bihar/no-political-party-can-do-politics-in-bihar-without-jdu-says-sanjay-jha/article71556857.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T01:41:36+05:30",
+   "date": "2026-10-08",
+   "snip": "Mr. Jha asserted that the 2025 Bihar assembly election was contested on the face of Nitish and his leadership.",
+   "cat": "Polity",
+   "gs": "GS2"
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/maharashtra/sugar-mill-owners-to-start-early-crushing-under-fear-of-ed-probe-farmers-leader-raju-shetti/article71556612.ece",
+   "h": "Sugar mill owners to start early crushing under fear of ED probe: Farmers’ leader Raju Shetti",
+   "link": "https://www.thehindu.com/news/national/maharashtra/sugar-mill-owners-to-start-early-crushing-under-fear-of-ed-probe-farmers-leader-raju-shetti/article71556612.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T01:36:04+05:30",
+   "date": "2026-10-08",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2"
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/odisha/odisha-govt-forms-panel-to-study-sebc-political-backwardness/article71557071.ece",
+   "h": "Odisha govt. forms panel to study SEBC political backwardness",
+   "link": "https://www.thehindu.com/news/national/odisha/odisha-govt-forms-panel-to-study-sebc-political-backwardness/article71557071.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T01:23:31+05:30",
+   "date": "2026-10-08",
+   "snip": "The decision assumes significance as both panchayat and urban local body polls are scheduled to be held next year",
+   "cat": "Polity",
+   "gs": "GS2"
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/west-bengal/pm-hmlikely-to-skip-west-bengal-govts-mega-mahalaya-event/article71556527.ece",
+   "h": "PM, HM likely to skip West Bengal govt’s mega Mahalaya event",
+   "link": "https://www.thehindu.com/news/national/west-bengal/pm-hmlikely-to-skip-west-bengal-govts-mega-mahalaya-event/article71556527.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T01:22:40+05:30",
+   "date": "2026-10-08",
+   "snip": "The West Bengal government is holding the grand Mahalaya event at Eden Gardens cricket stadium and Chief Minister Suvendu Adhikari had said that Prime Minister Narendra Modi was supposed to attend the grand event.",
+   "cat": "Polity",
+   "gs": "GS2"
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/civil-supplies-officials-seizeone-tonne-of-pds-rice-in-ranipet/article71555700.ece",
+   "h": "Civil Supplies officials seize one tonne of PDS rice in Ranipet",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/civil-supplies-officials-seizeone-tonne-of-pds-rice-in-ranipet/article71555700.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T01:04:11+05:30",
+   "date": "2026-10-08",
+   "snip": "Special teams were formed to nab escaped suspects",
+   "cat": "Polity",
+   "gs": "GS2"
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/cmc-to-organise-conference-on-gene-therapy-in-vellore/article71555717.ece",
+   "h": "CMC to organise conference on gene therapy in Vellore",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/cmc-to-organise-conference-on-gene-therapy-in-vellore/article71555717.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T01:03:18+05:30",
+   "date": "2026-10-08",
+   "snip": "CGTCON 2026 aims to strengthen collaborations between clinicians, scientists, industry partners, and regulatory stakeholders",
+   "cat": "Polity",
+   "gs": "GS2"
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/bihar/india-bloc-leaders-in-bihar-take-out-aakrosh-march-against-eci/article71556245.ece",
+   "h": "INDIA bloc leaders in Bihar take out Aakrosh March against ECI",
+   "link": "https://www.thehindu.com/news/national/bihar/india-bloc-leaders-in-bihar-take-out-aakrosh-march-against-eci/article71556245.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T01:02:36+05:30",
+   "date": "2026-10-08",
+   "snip": "INDIA bloc leaders alleged that the Election Commission of India (ECI) is acting as a puppet of the Bharatiya Janata Party (BJP) and that politics is underway to weaken democracy and the constitution.",
+   "cat": "Polity",
+   "gs": "GS2"
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320389",
    "h": "रक्षा राज्य मंत्री ने सारेक्स-2026 का उद्घाटन किया; 24वीं एनएमएसएआर बोर्ड बैठक में समुद्री खोज एवं बचाव तैयारियों की समीक्षा की गई",
@@ -225,6 +390,28 @@
    "gs": "GS2"
   },
   {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/after-14-years-tamil-nadu-records-lowest-cauvery-realisation/article71552373.ece",
+   "h": "After 14 years, Tamil Nadu records lowest Cauvery realisation",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/after-14-years-tamil-nadu-records-lowest-cauvery-realisation/article71552373.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T01:02:22+05:30",
+   "date": "2026-10-08",
+   "snip": "The paddy coverage in the Cauvery delta region is almost one lakh acres down, compared to the previous year’s figure.",
+   "cat": "Polity",
+   "gs": "GS2"
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/state-govt-relaxes-domicile-clause-for-gold-ring-scheme/article71556250.ece",
+   "h": "State govt. relaxes domicile clause for gold ring scheme",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/state-govt-relaxes-domicile-clause-for-gold-ring-scheme/article71556250.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T01:00:40+05:30",
+   "date": "2026-10-08",
+   "snip": "",
+   "cat": "Society",
+   "gs": "GS1"
+  },
+  {
    "id": "https://www.thehindu.com/news/national/tamil-nadu/villagers-block-key-stretch-demand-relocation-of-tasmac-outlet/article71555710.ece",
    "h": "Villagers block key stretch, demand relocation of Tasmac outlet",
    "link": "https://www.thehindu.com/news/national/tamil-nadu/villagers-block-key-stretch-demand-relocation-of-tasmac-outlet/article71555710.ece",
@@ -245,6 +432,17 @@
    "snip": "",
    "cat": "Polity",
    "gs": "GS2"
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/sc-pulls-up-delhi-civic-body-asi-over-lackadaisical-approach-to-preservation-of-heritage-sites/article71556190.ece",
+   "h": "SC pulls up Delhi civic body, ASI over ‘lackadaisical approach’ to preservation of heritage sites",
+   "link": "https://www.thehindu.com/news/national/sc-pulls-up-delhi-civic-body-asi-over-lackadaisical-approach-to-preservation-of-heritage-sites/article71556190.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T00:55:04+05:30",
+   "date": "2026-10-08",
+   "snip": "The observations came while the top court was hearing a petition filed by Delhi resident Rajeev Suri concerning the preservation and restoration of heritage sites across the national capital",
+   "cat": "History & Culture",
+   "gs": "GS1"
   },
   {
    "id": "https://www.thehindu.com/news/national/tamil-nadu/gcc-mssrf-discuss-measures-to-strengthen-waste-management/article71557026.ece",
