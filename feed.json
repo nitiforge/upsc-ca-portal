@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T14:22:36.741181+05:30",
+ "updated": "2026-10-08T16:34:23.245735+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,222 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320696",
+   "h": "जल शक्ति मंत्री श्री सी. आर. पाटिल ने गंगा संरक्षण संबंधी अधिकार प्राप्त कार्यबल की 20वीं बैठक की अध्यक्षता की",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320696",
+   "src": "PIB",
+   "t": "2026-10-08T16:33:56.099357+05:30",
+   "date": "2026-10-08",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320706",
+   "h": "भारत ने 20वें पूर्वी एशिया शिखर सम्मेलन में ऊर्जा मंत्रियों की बैठक में क्षेत्रीय ऊर्जा सहयोग और ऊर्जा सुरक्षा पर बल दिया",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320706",
+   "src": "PIB",
+   "t": "2026-10-08T16:33:56.099229+05:30",
+   "date": "2026-10-08",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320734",
+   "h": "एनआईएसडी कल दीव में पांच दिवसीय वृद्धावस्था देखभाल प्रशिक्षण कार्यक्रम का आयोजन करेगा",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320734",
+   "src": "PIB",
+   "t": "2026-10-08T16:33:56.099197+05:30",
+   "date": "2026-10-08",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320731",
+   "h": "केंद्रीय स्वास्थ्य मंत्री श्री जेपी नड्डा ने युवा नेतृत्व वाले क्षय रोग उन्मूलन प्रयासों को गति देने के लिए जोश टीमों का शुभारंभ किया",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320731",
+   "src": "PIB",
+   "t": "2026-10-08T16:33:56.099156+05:30",
+   "date": "2026-10-08",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320702",
+   "h": "प्रधानमंत्री ने प्रधानमंत्री के पूर्व प्रधान सचिव श्री नृपेंद्र मिश्रा का एक लेख साझा किया, जिसमें शासन और नेतृत्व के प्रति प्रधानमंत्री मोदी के दृष्टिकोण पर प्रकाश डाला गया है",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320702",
+   "src": "PIB",
+   "t": "2026-10-08T16:33:56.097633+05:30",
+   "date": "2026-10-08",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/gcc-mssrf-discuss-measures-to-strengthen-waste-management/article71557026.ece",
+   "h": "Chennai Corporation, MSSRF discuss measures to strengthen waste management",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/gcc-mssrf-discuss-measures-to-strengthen-waste-management/article71557026.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T16:30:21+05:30",
+   "date": "2026-10-08",
+   "snip": "",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/beyond-the-textbook-why-an-exhibition-on-constitution-in-keralam-is-drawing-young-minds/article71559189.ece",
+   "h": "Beyond the textbook: Why an exhibition on Constitution in Keralam is drawing young minds",
+   "link": "https://www.thehindu.com/news/national/kerala/beyond-the-textbook-why-an-exhibition-on-constitution-in-keralam-is-drawing-young-minds/article71559189.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T16:17:26+05:30",
+   "date": "2026-10-08",
+   "snip": "Organised as part of State Conference of All India Lawyers Union, ‘Constitution Exhibition and Public Debate’ traces the making and evolution of India’s Constitution, contributions of national leaders and lesser-known personalities and more",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/telangana/forged-seals-of-23-sub-registrar-offices-found-as-malkajgiri-police-bust-property-document-racket/article71556040.ece",
+   "h": "Duo run property documents forgery racket for eight years, Malkajgiri Police seize forged seals of 23 SROs",
+   "link": "https://www.thehindu.com/news/national/telangana/forged-seals-of-23-sub-registrar-offices-found-as-malkajgiri-police-bust-property-document-racket/article71556040.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T16:13:19+05:30",
+   "date": "2026-10-08",
+   "snip": "Of the seized seals, 23 belonged to Sub-Registrar offices, three to GHMC and HMDA and two to the Gram Panchayat office at Mansoorabad. Five purported to be from authorities in other countries, including three from Dubai and two from the United States.",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/international/russia-pneumonic-plague-epidemic-siberia-lab-worker-death/article71558805.ece",
+   "h": "Pneumonic plague outbreak in Russia? What we know so far",
+   "link": "https://www.thehindu.com/news/international/russia-pneumonic-plague-epidemic-siberia-lab-worker-death/article71558805.ece",
+   "src": "The Hindu - International",
+   "t": "2026-10-08T16:12:29+05:30",
+   "date": "2026-10-08",
+   "snip": "An employee at a plague research institute in Siberia, Darya Shipilova, employed at a plague research institute in Siberia fell ill and died in undisclosed circumstances. Unconfirmed reports in Russia blamed the woman’s death on pneumonic plague",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/telangana/no-campus-no-transport-no-proper-hostels-gmc-jagtial-medical-students-on-indefinite-protest-after-four-year-delay/article71554429.ece",
+   "h": "Four-year delay for permanent campus, transport triggers Telangana’s Jagtial GMC medical students to launch indefinite protest",
+   "link": "https://www.thehindu.com/news/national/telangana/no-campus-no-transport-no-proper-hostels-gmc-jagtial-medical-students-on-indefinite-protest-after-four-year-delay/article71554429.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T16:04:29+05:30",
+   "date": "2026-10-08",
+   "snip": "The students allege they could not participate in the mandatory Rural/Urban Health Training Centre postings and community medical camps over the past three years due to lack of transport facility",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/legislative-privilege-versus-free-speech-what-was-the-supreme-court-reference-about-explained/article71559121.ece",
+   "h": "Legislative privilege versus free speech: What was the Supreme Court reference about? | Explained",
+   "link": "https://www.thehindu.com/news/national/legislative-privilege-versus-free-speech-what-was-the-supreme-court-reference-about-explained/article71559121.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T15:58:23+05:30",
+   "date": "2026-10-08",
+   "snip": "Court clarified that all substantial questions of law regarding the precedence between parliamentary privileges and free speech are kept open for determination in appropriate future proceedings",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/videos/delhi-police-monitor-travel-plans-bus-bookings-ahead-of-proposed-cjp-protest/article71559262.ece",
+   "h": "Delhi police monitor travel plans, bus bookings ahead of proposed CJP protest",
+   "link": "https://www.thehindu.com/videos/delhi-police-monitor-travel-plans-bus-bookings-ahead-of-proposed-cjp-protest/article71559262.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T15:54:25+05:30",
+   "date": "2026-10-08",
+   "snip": "Delhi Police have intensified security arrangements ahead of the Cockroach Janta Party’s proposed protest on October 10. Authorities are monitoring mobilisation efforts, reviewing travel and transport arrangements, and deploying thousands of personnel across the New Delhi district. With no formal permission granted so far, security has been increased around Jantar Mantar and nearby areas. Police have also coordinated with educational institutions, accommodation providers and transport operators as part of a broader strategy to maintain law and order during the proposed demonstration.",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/west-bengal/bengal-govt-to-provide-18-lakh-aid-for-fully-damaged-houses-in-flood-hit-malda/article71559243.ece",
+   "h": "Bengal government to provide ₹1.8 lakh aid for fully damaged houses in flood-hit Malda",
+   "link": "https://www.thehindu.com/news/national/west-bengal/bengal-govt-to-provide-18-lakh-aid-for-fully-damaged-houses-in-flood-hit-malda/article71559243.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T15:53:20+05:30",
+   "date": "2026-10-08",
+   "snip": "Speaking at a flood-relief distribution programme at Raghunathpur, CM Adhikari also said that IIT-Kanpur has been tasked with preparing a detailed project report (DPR) for a permanent flood solution in Malda",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/election-petition-tamil-nadu-cm-vijay-produces-kodaikanal-land-sale-deed-before-madras-high-court/article71558877.ece",
+   "h": "Election petition: Tamil Nadu CM Vijay produces Kodaikanal land sale deed before Madras High Court",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/election-petition-tamil-nadu-cm-vijay-produces-kodaikanal-land-sale-deed-before-madras-high-court/article71558877.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T15:51:32+05:30",
+   "date": "2026-10-08",
+   "snip": "Justice V. Lakshminarayanan asks whether an election tribunal can decide the title of a property if it is confronted with conflicting documents",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/videos/after-detentions-and-firs-india-bloc-pushes-for-presidential-intervention/article71559239.ece",
+   "h": "After detentions and FIRs, INDIA bloc pushes for presidential intervention",
+   "link": "https://www.thehindu.com/videos/after-detentions-and-firs-india-bloc-pushes-for-presidential-intervention/article71559239.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T15:46:14+05:30",
+   "date": "2026-10-08",
+   "snip": "The INDIA bloc has intensified its campaign against Chief Election Commissioner Gyanesh Kumar, claiming that its request for a meeting with President Droupadi Murmu has not yet received a response. The developments come amid continuing protests led by Rahul Gandhi and other opposition leaders over the Special Intensive Revision (SIR) exercise and allegations related to voter rolls. The opposition says it will continue its campaign while seeking the President’s intervention in the matter.",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/special-meeting-to-address-attappady-land-issues-says-keralam-minister-anilkumar/article71559021.ece",
+   "h": "Special meeting to address Attappady land issues, says Keralam Minister Anilkumar",
+   "link": "https://www.thehindu.com/news/national/kerala/special-meeting-to-address-attappady-land-issues-says-keralam-minister-anilkumar/article71559021.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T15:44:48+05:30",
+   "date": "2026-10-08",
+   "snip": "Anilkumar says that the Revenue department will take steps to issue title deeds to people from Scheduled Caste, Scheduled Tribe and fishing communities after State government’s 100-day action programme",
+   "cat": "Society",
+   "gs": "GS1",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/supreme-court-seeks-review-of-state-dgp-appointment-rules-against-2006-prakash-singh-judgment/article71559163.ece",
+   "h": "Supreme Court seeks review of State DGP appointment rules against 2006 Prakash Singh judgment",
+   "link": "https://www.thehindu.com/news/national/supreme-court-seeks-review-of-state-dgp-appointment-rules-against-2006-prakash-singh-judgment/article71559163.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T15:23:19+05:30",
+   "date": "2026-10-08",
+   "snip": "The 2006 judgment referred to by a Bench headed by Chief Justice of India Surya Kant had laid down guidelines for transparent appointment process and a minimum tenure of two years",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/punjab/supreme-court-sets-aside-elections-in-50-wards-in-punjab-orders-fresh-polls/article71559157.ece",
+   "h": "Supreme Court sets aside elections in 50 wards in Punjab, orders fresh polls",
+   "link": "https://www.thehindu.com/news/national/punjab/supreme-court-sets-aside-elections-in-50-wards-in-punjab-orders-fresh-polls/article71559157.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T15:20:29+05:30",
+   "date": "2026-10-08",
+   "snip": "A Bench comprising Chief Justice Surya Kant and Justices Joymalya Bagchi and V. Mohana set aside elections in 50 wards – 28 in Patiala district and 22 in Moga.",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320625",
    "h": "सागरमंथन 2026 का शुभारंभ, भारत ने विश्‍वसनीय, नियम-आधारित वैश्विक समुद्री व्यवस्था का अपना मार्ग, रणनीति और दिशा तय की",
@@ -1144,6 +1360,18 @@
    "score": 2
   },
   {
+   "id": "https://www.thehindu.com/news/national/andhra-pradesh/isro-scientists-lead-space-awareness-rally-in-rajamahendravaram/article71556662.ece",
+   "h": "ISRO scientists lead space awareness rally in Rajamahendravaram",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/isro-scientists-lead-space-awareness-rally-in-rajamahendravaram/article71556662.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-10-07T21:44:29+05:30",
+   "date": "2026-10-07",
+   "snip": "",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
    "id": "https://www.thehindu.com/news/national/telangana/focus-on-skill-development-and-digital-education-telangana-governor-urges-higher-education-institutions/article71556382.ece",
    "h": "Focus on skill development and digital education, Telangana Governor urges higher education institutions",
    "link": "https://www.thehindu.com/news/national/telangana/focus-on-skill-development-and-digital-education-telangana-governor-urges-higher-education-institutions/article71556382.ece",
@@ -1636,6 +1864,18 @@
    "score": 3
   },
   {
+   "id": "https://www.thehindu.com/news/national/unable-to-distinguish-between-victim-and-perpetrator-india-slams-oic-remarks-at-un/article71555241.ece",
+   "h": "Unable to distinguish between victim and perpetrator: India slams OIC remarks at UN",
+   "link": "https://www.thehindu.com/news/national/unable-to-distinguish-between-victim-and-perpetrator-india-slams-oic-remarks-at-un/article71555241.ece",
+   "src": "The Hindu - International",
+   "t": "2026-10-07T16:37:57+05:30",
+   "date": "2026-10-07",
+   "snip": "“The OIC chair would do better to focus on Pakistan’s illegal occupation, especially in Rawalakot, where wanton killings, brutal violence and the denial of basic rights to the people living there are so visible. Such willful blindness only speaks of bigotry and intolerance,” Lok Sabha MP Biplab Kumar Deb said",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
    "id": "https://www.thehindu.com/business/Economy/rbi-has-done-what-it-can-with-interest-rates-but-heavy-lifting-on-inflation-will-fall-on-government/article71555013.ece",
    "h": "RBI has done what it can with interest rates for now, but heavy lifting on inflation will fall on government",
    "link": "https://www.thehindu.com/business/Economy/rbi-has-done-what-it-can-with-interest-rates-but-heavy-lifting-on-inflation-will-fall-on-government/article71555013.ece",
@@ -2078,6 +2318,18 @@
    "cat": "Environment",
    "gs": "GS3",
    "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/sci-tech/science/nazi-germany-atom-bomb-werner-heisenberg-nuclear-archaeology-heavy-water-industry/article71547175.ece",
+   "h": "Nazis and the bomb: nuclear archaeology finds Werner Heisenberg mistook how close he was",
+   "link": "https://www.thehindu.com/sci-tech/science/nazi-germany-atom-bomb-werner-heisenberg-nuclear-archaeology-heavy-water-industry/article71547175.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-10-06T08:34:24+05:30",
+   "date": "2026-10-06",
+   "snip": "Scientists have found that the Nobel laureate may have grossly overestimated how close his team was to having a working nuclear reactor, much less a nuclear weapon",
+   "cat": "History & Culture",
+   "gs": "GS1",
+   "score": 2
   },
   {
    "id": "https://www.thehindu.com/sci-tech/energy-and-environment/supreme-court-refuses-to-stay-calcutta-hc-order-in-great-nicobar-island-project-terms-preservation-of-culture-a-fundamental-right/article71546355.ece",
