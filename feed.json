@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T23:30:21.988011+05:30",
+ "updated": "2026-10-09T04:45:57.115232+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,150 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/national/punjab/cbi-raid-at-punjab-cm-camp-office-a-bjp-campaign-tactic-says-mann-bjp-says-dont-give-political-colour-to-hc-order/article71560255.ece",
+   "h": "CBI raid at Punjab CM camp office a BJP campaign tactic, says Mann; BJP says don’t give political colour to HC order",
+   "link": "https://www.thehindu.com/news/national/punjab/cbi-raid-at-punjab-cm-camp-office-a-bjp-campaign-tactic-says-mann-bjp-says-dont-give-political-colour-to-hc-order/article71560255.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-09T04:09:15+05:30",
+   "date": "2026-10-09",
+   "snip": "Mr. Mann’s remark came after the Punjab and Haryana High Court directed the CBI to probe corruption allegations linked to his office.",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-registry-lodges-police-complaint-for-forging-its-proceedings-to-get-bangladesh-nationals-deported/article71560093.ece",
+   "h": "Madras High Court Registry lodges police complaint for forging its proceedings to get Bangladesh nationals deported",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-registry-lodges-police-complaint-for-forging-its-proceedings-to-get-bangladesh-nationals-deported/article71560093.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-09T04:05:50+05:30",
+   "date": "2026-10-09",
+   "snip": "Justice V. Lakshminarayanan has directed the police to investigate the matter and submit a status report by November 10, 2026",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/opinion/editorial/adequate-response-on-the-rbi-and-inflation/article71560012.ece",
+   "h": "Adequate response: on the RBI and inflation",
+   "link": "https://www.thehindu.com/opinion/editorial/adequate-response-on-the-rbi-and-inflation/article71560012.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-09T01:08:33+05:30",
+   "date": "2026-10-09",
+   "snip": "The RBI policy review will need Central assistance to effectively fight inflation",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/opinion/lead/flawed-by-design-exclusionary-in-impact/article71560731.ece",
+   "h": "Flawed by design, exclusionary in impact",
+   "link": "https://www.thehindu.com/opinion/lead/flawed-by-design-exclusionary-in-impact/article71560731.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-09T01:00:50+05:30",
+   "date": "2026-10-09",
+   "snip": "The Gyanesh Kumar-led Election Commission of India, emboldened by a deferential Supreme Court judgment, has already disenfranchised lakhs of genuine electors through its Special Intensive Revision (SIR) of electoral rolls and risks excluding many more",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/opinion/editorial/chance-and-happenstance-on-the-nobel-prize-in-chemistry/article71559993.ece",
+   "h": "Chance and happenstance: On the Nobel Prize in Chemistry",
+   "link": "https://www.thehindu.com/opinion/editorial/chance-and-happenstance-on-the-nobel-prize-in-chemistry/article71559993.ece",
+   "src": "The Hindu - Editorial",
+   "t": "2026-10-09T00:51:00+05:30",
+   "date": "2026-10-09",
+   "snip": "Bias is more than human sociology; life makes choices with definite preferences",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/odisha/sebc-commission-odishas-move-goes-beyond-technicalities-of-obc-reservation/article71559349.ece",
+   "h": "SEBC Commission: Odisha’s move goes beyond technicalities of OBC reservation",
+   "link": "https://www.thehindu.com/news/national/odisha/sebc-commission-odishas-move-goes-beyond-technicalities-of-obc-reservation/article71559349.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-09T00:40:40+05:30",
+   "date": "2026-10-09",
+   "snip": "The accurate reflection of the SEBC community’s numbers, representation, and their issues can now take place in the State’s rural and urban self-governance institutions, says former Union Minister Dharmendra Pradhan",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/forest-department-organises-volleyball-tournament-for-tribal-youth-in-jawadhu-hills/article71559841.ece",
+   "h": "Forest Department organises volleyball tournament for tribal youth in Jawadhu Hills",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/forest-department-organises-volleyball-tournament-for-tribal-youth-in-jawadhu-hills/article71559841.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-09T00:33:10+05:30",
+   "date": "2026-10-09",
+   "snip": "",
+   "cat": "Environment",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/bihar/india-bloc-leaders-submit-memorandum-to-bihar-governor-demand-cec-removal-and-re-election-in-state/article71559445.ece",
+   "h": "INDIA bloc leaders submit memorandum to Bihar Governor, demand CEC removal and re-election in State",
+   "link": "https://www.thehindu.com/news/national/bihar/india-bloc-leaders-submit-memorandum-to-bihar-governor-demand-cec-removal-and-re-election-in-state/article71559445.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-09T00:31:37+05:30",
+   "date": "2026-10-09",
+   "snip": "In the memorandum, the INDIA bloc alleged that Gyanesh Kumar has been acting at the behest of Prime Minister Narendra Modi and Union Home Minister Amit Shah",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/andhra-pradesh/apsrtc-to-run-5261-special-buses-to-clear-dasara-rush/article71560364.ece",
+   "h": "APSRTC to run 5,261 special buses to clear Dasara rush",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/apsrtc-to-run-5261-special-buses-to-clear-dasara-rush/article71560364.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-09T00:27:31+05:30",
+   "date": "2026-10-09",
+   "snip": "Special services to be operated in two phases — 3,207 buses from October 16 to 19, ahead of the festival, and 2,054 buses from October 20 to 25 for the return journey",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/kakodkar-urges-diplomatic-community-to-work-towards-india-becoming-nsg-member/article71558868.ece",
+   "h": "Kakodkar urges diplomatic community to work towards India becoming NSG member",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/kakodkar-urges-diplomatic-community-to-work-towards-india-becoming-nsg-member/article71558868.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-09T00:07:18+05:30",
+   "date": "2026-10-09",
+   "snip": "We get a lot of uranium now from the international market, thanks to the NSG waiver. But, it is only a waiver. It is not membership, says Atomic Energy Commission member",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/assam/retired-assam-forest-officers-extension-in-key-post-challenged/article71560056.ece",
+   "h": "Retired Assam Forest officer’s extension in key post challenged",
+   "link": "https://www.thehindu.com/news/national/assam/retired-assam-forest-officers-extension-in-key-post-challenged/article71560056.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T23:59:35+05:30",
+   "date": "2026-10-08",
+   "snip": "The Gauhati High Court has sought a response from the State government in the second petition in about a month",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/andhra-pradesh/shar-deputy-director-urges-educational-institutions-to-set-up-space-cells-on-campus/article71560669.ece",
+   "h": "SHAR Deputy Director urges educational institutions to set up Space Cells on campus",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/shar-deputy-director-urges-educational-institutions-to-set-up-space-cells-on-campus/article71560669.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T23:30:10+05:30",
+   "date": "2026-10-08",
+   "snip": "Such initiatives will help students develop an intrest in space science, says Gopi Krishna",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321031",
    "h": "सामाजिक न्याय एवं अधिकारिता मंत्रालय कल दीव में क्षेत्रीय समीक्षा बैठक आयोजित करेगा",
@@ -552,6 +696,18 @@
    "date": "2026-10-08",
    "snip": "Saudi Arabia’s civil defence agency said a kindergarten and medical complex in Riyadh were damaged by shrapnel from an intercepted missile, hours after explosions rattled Riyadh",
    "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/sci-tech/science/science-for-all-newsletter-food-waste-a-major-contributor-to-climate-change/article71546619.ece",
+   "h": "Food waste, a major contributor to climate change",
+   "link": "https://www.thehindu.com/sci-tech/science/science-for-all-newsletter-food-waste-a-major-contributor-to-climate-change/article71546619.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-10-08T19:00:21+05:30",
+   "date": "2026-10-08",
+   "snip": "The Hindu’s weekly Science for All newsletter explains all things Science, without the jargon.",
+   "cat": "Environment",
    "gs": "GS3",
    "score": 2
   },
