@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T16:34:23.245735+05:30",
+ "updated": "2026-10-08T17:01:52.142981+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,66 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320775",
+   "h": "शिक्षा मंत्रालय के विद्यालयी शिक्षा और साक्षरता विभाग ने प्रशस्त (पीआरएएसएचएएसटी) पार्टल के माध्यम से समावेशी शिक्षा संबंधी जागरुकता मॉड्यूल की राष्ट्रव्यापी स्क्रीनिंग आयोजित की",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320775",
+   "src": "PIB",
+   "t": "2026-10-08T17:01:24.917166+05:30",
+   "date": "2026-10-08",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320780",
+   "h": "जब दुनिया दीवारें खड़ी कर रही थी, तब भारत ने पुलों का निर्माण शुरू किया: केंद्रीय वाणिज्य और उद्योग मंत्री श्री पीयूष गोयल",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320780",
+   "src": "PIB",
+   "t": "2026-10-08T17:01:24.917124+05:30",
+   "date": "2026-10-08",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320785",
+   "h": "डॉ. एल. मुरुगन ने युवाओं से 2047 तक विकसित भारत यात्रा में देश का नेतृत्व करने का आह्वान किया",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320785",
+   "src": "PIB",
+   "t": "2026-10-08T17:01:24.915622+05:30",
+   "date": "2026-10-08",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/16th-finance-commission-recommends-one-time-grant-to-urban-local-bodies-for-merging-peri-urban-villages/article71559287.ece",
+   "h": "16th Finance Commission recommends one-time grant to urban local bodies for merging peri-urban villages",
+   "link": "https://www.thehindu.com/news/national/kerala/16th-finance-commission-recommends-one-time-grant-to-urban-local-bodies-for-merging-peri-urban-villages/article71559287.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T16:45:53+05:30",
+   "date": "2026-10-08",
+   "snip": "The grant is for urban local bodies with population above one lakh as an urbanisation premium component; conditions for clearance of grant include publishing of audited figures from previous financial years",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/andhra-pradesh/goyal-backs-andhras-investment-pitch-at-cii-curtain-raiser-naidu-cites-22-lakh-crore-in-agreements/article71559071.ece",
+   "h": "Piyush Goyal backs Andhra’s investment pitch at CII curtain raiser; Naidu cites ₹22 lakh crore in agreements",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/goyal-backs-andhras-investment-pitch-at-cii-curtain-raiser-naidu-cites-22-lakh-crore-in-agreements/article71559071.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T16:39:43+05:30",
+   "date": "2026-10-08",
+   "snip": "The Union Minister speaks at the curtain raiser for the CII Partnership Summit; Naidu says the State has attracted investment agreements worth nearly ₹22 lakh crore in 28 months",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 2
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320696",
    "h": "जल शक्ति मंत्री श्री सी. आर. पाटिल ने गंगा संरक्षण संबंधी अधिकार प्राप्त कार्यबल की 20वीं बैठक की अध्यक्षता की",
@@ -2724,18 +2784,6 @@
    "date": "2026-10-01",
    "snip": "Chief Justice Sushrut Arvind Dharmadhikari and Justice G. Arul Murugan order that the draft SOP must be placed before the court on October 30, 2026",
    "cat": "History & Culture",
-   "gs": "GS1",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/energy-and-environment/loss-of-grasslands-and-kutch-drought-green-humour-by-rohan-chakravarty/article71523335.ece",
-   "h": "Loss of grasslands and Kutch drought | Green Humour by Rohan Chakravarty",
-   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/loss-of-grasslands-and-kutch-drought-green-humour-by-rohan-chakravarty/article71523335.ece",
-   "src": "The Hindu - Environment",
-   "t": "2026-10-01T16:38:27+05:30",
-   "date": "2026-10-01",
-   "snip": "",
-   "cat": "Geography",
    "gs": "GS1",
    "score": 2
   }
