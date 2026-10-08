@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T05:20:49.200796+05:30",
+ "updated": "2026-10-08T09:48:36.410546+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,358 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320497",
+   "h": "सूक्ष्म, लघु एवं मध्यम उद्यम मंत्रालय ने अपने कार्यालयों में स्वच्छता को नियमित कार्यप्रणाली का हिस्सा बनाना और लंबित मामलों को कम करने के लक्ष्यों को हासिल करने हेतु “विशेष अभियान 6.0” शुरू किया",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320497",
+   "src": "PIB",
+   "t": "2026-10-08T09:48:08.024759+05:30",
+   "date": "2026-10-08",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2"
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320496",
+   "h": "प्रधानमंत्री ने सरकार के प्रमुख के रूप में राष्ट्र सेवा के 25 वर्ष पूरे करने पर शुभकामनाएं देने के लिए बोत्सवाना के राष्ट्रपति डुमा बोको का आभार व्यक्त किया",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320496",
+   "src": "PIB",
+   "t": "2026-10-08T09:48:08.024427+05:30",
+   "date": "2026-10-08",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2"
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320507",
+   "h": "प्रधानमंत्री ने सरकार के प्रमुख के रूप में राष्ट्र की सेवा के 25 वर्ष पूरे करने पर सर्बिया के राष्ट्रपति अलेक्जेंडर वुसिक द्वारा दी गई शुभकामनाओं के लिए उनका आभार व्यक्त किया",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320507",
+   "src": "PIB",
+   "t": "2026-10-08T09:48:08.024394+05:30",
+   "date": "2026-10-08",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2"
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320508",
+   "h": "प्रधानमंत्री ने सरकार के प्रमुख के रूप में राष्ट्र की सेवा के 25 वर्ष पूरे करने पर जापान की प्रधानमंत्री सुश्री सनाए ताकाइची द्वारा दी गई शुभकामनाओं के लिए उनका आभार व्यक्त किया",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320508",
+   "src": "PIB",
+   "t": "2026-10-08T09:48:08.024358+05:30",
+   "date": "2026-10-08",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2"
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320495",
+   "h": "प्रधानमंत्री ने श्री एल.के. आडवाणी से मुलाकात की और उनका आशीर्वाद लिया",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320495",
+   "src": "PIB",
+   "t": "2026-10-08T09:48:08.024325+05:30",
+   "date": "2026-10-08",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2"
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320498",
+   "h": "प्रधानमंत्री ने सरकार के प्रमुख के रूप में राष्ट्र सेवा के 25 वर्ष पूरे करने पर शुभकामनाएँ देने के लिए दक्षिण कोरिया के राष्ट्रपति ली जे-म्युंग का आभार व्यक्त किया",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320498",
+   "src": "PIB",
+   "t": "2026-10-08T09:48:08.024286+05:30",
+   "date": "2026-10-08",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2"
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320494",
+   "h": "प्रधानमंत्री ने सरकार के प्रमुख के रूप में राष्ट्र सेवा के 25 वर्ष पूरे करने पर शुभकामनाएं देने के लिए पूर्व राष्ट्रपति श्री रामनाथ कोविंद जी का आभार व्यक्त किया",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320494",
+   "src": "PIB",
+   "t": "2026-10-08T09:48:08.022824+05:30",
+   "date": "2026-10-08",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2"
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/cec-gyanesh-kumar-india-bloc-congress-jantar-mantar-rahul-priyanka-gandhi-detention-cjp-protest-live-updates/article71558244.ece",
+   "h": "CEC row LIVE: CJP, Dhruv Rathee to participate in Bengaluru's ‘People’s Tribunal’ against SIR; Rahul Gandhi says 'won't stop' till Gyanesh Kumar resigns",
+   "link": "https://www.thehindu.com/news/national/cec-gyanesh-kumar-india-bloc-congress-jantar-mantar-rahul-priyanka-gandhi-detention-cjp-protest-live-updates/article71558244.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T09:44:09+05:30",
+   "date": "2026-10-08",
+   "snip": "CJP, AISA and other student organisations called for a united mobilisation against Chief Election Commissioner Gyanesh Kumar ahead of their October 10 protest, saying that the agitation will continue until the electoral ",
+   "cat": "Polity",
+   "gs": "GS2"
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/odisha/moef-grants-environmental-crz-clearance-for-puris-greenfield-airport/article71556220.ece",
+   "h": "MoEF grants environmental, CRZ clearance for Puri’s greenfield airport",
+   "link": "https://www.thehindu.com/news/national/odisha/moef-grants-environmental-crz-clearance-for-puris-greenfield-airport/article71556220.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T09:42:17+05:30",
+   "date": "2026-10-08",
+   "snip": "MoEF directs to prepare a bird hazard study from reputed institute in the field after a Wildlife Institute of India study flags the issue of risk posed by migratory birds from Chilika Lake",
+   "cat": "Environment",
+   "gs": "GS3"
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/news-analysis-on-rahul-gandhi-show-resignation-of-gyanesh-kumar/article71558304.ece",
+   "h": "The Rahul Gandhi show and the Congress’s alliance dilemma: Analysis",
+   "link": "https://www.thehindu.com/news/national/news-analysis-on-rahul-gandhi-show-resignation-of-gyanesh-kumar/article71558304.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T09:39:45+05:30",
+   "date": "2026-10-08",
+   "snip": "The Congress, therefore, needs to strike a balance: occupy the pole position in the campaign while ensuring that the INDIA bloc does not begin to look like a platform for a single party or leader",
+   "cat": "Security",
+   "gs": "GS3"
+  },
+  {
+   "id": "https://www.thehindu.com/entertainment/movies/nana-patekar-dies-at-75-goa-heart-attack/article71558236.ece",
+   "h": "Actor Nana Patekar passes away at 75",
+   "link": "https://www.thehindu.com/entertainment/movies/nana-patekar-dies-at-75-goa-heart-attack/article71558236.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T09:29:30+05:30",
+   "date": "2026-10-08",
+   "snip": "Mr. Patekar was brought to a private hospital after he was found unconscious at his apartment in Dona Paula, near Goa’s Panaji region",
+   "cat": "Polity",
+   "gs": "GS2"
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/arunachal-pradesh/sbi-software-denies-schedule-tribe-option-to-christians-arunachal-forum/article71556178.ece",
+   "h": "SBI software denies Schedule Tribe option to Christians: Arunachal forum",
+   "link": "https://www.thehindu.com/news/national/arunachal-pradesh/sbi-software-denies-schedule-tribe-option-to-christians-arunachal-forum/article71556178.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T09:23:46+05:30",
+   "date": "2026-10-08",
+   "snip": "Scheduled Tribe people are automatically classified as ‘General’ upon marking their religion while applying for account opening and KYC updates, the Arunachal Christian Forum says",
+   "cat": "Polity",
+   "gs": "GS2"
+  },
+  {
+   "id": "https://www.thehindu.com/news/international/trump-says-he-deserves-the-nobel-peace-prize-doubts-winning-this-year/article71558284.ece",
+   "h": "Trump says he deserves Nobel Peace Prize ,but doubts he will get it",
+   "link": "https://www.thehindu.com/news/international/trump-says-he-deserves-the-nobel-peace-prize-doubts-winning-this-year/article71558284.ece",
+   "src": "The Hindu - International",
+   "t": "2026-10-08T09:21:21+05:30",
+   "date": "2026-10-08",
+   "snip": "Since ‌his return to the White House last ‌year, Mr. ⁠Trump has repeatedly said he deserves what may ⁠be the world's most prestigious award",
+   "cat": "Polity",
+   "gs": "GS2"
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/odisha/bjd-distances-itself-from-congress-after-withdrawing-support-for-odisha-bandh/article71556470.ece",
+   "h": "BJD distances itself from Congress after withdrawing support for Odisha Bandh",
+   "link": "https://www.thehindu.com/news/national/odisha/bjd-distances-itself-from-congress-after-withdrawing-support-for-odisha-bandh/article71556470.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T09:17:56+05:30",
+   "date": "2026-10-08",
+   "snip": "Senior BJD leader and party Chief Whip Pramila Mallik backtracked on Odisha Bandh support within an hour after initially extending support for INDIA Bloc’s call for Bandh on Thursday",
+   "cat": "Polity",
+   "gs": "GS2"
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/air-force-day-president-pm-modi-lead-nation-in-extending-greetings-to-indian-air-force-personnel/article71558275.ece",
+   "h": "Air Force Day: President, PM Modi lead nation in extending greetings to Indian Air Force personnel",
+   "link": "https://www.thehindu.com/news/national/air-force-day-president-pm-modi-lead-nation-in-extending-greetings-to-indian-air-force-personnel/article71558275.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T09:05:41+05:30",
+   "date": "2026-10-08",
+   "snip": "Air Force Day is observed on October 8 to commemorate the establishment of the IAF and the sacrifices made by air warriors",
+   "cat": "Security",
+   "gs": "GS3"
+  },
+  {
+   "id": "https://www.thehindu.com/business/Economy/indias-trade-caught-in-the-middle/article71555534.ece",
+   "h": "India’s trade caught in the middle",
+   "link": "https://www.thehindu.com/business/Economy/indias-trade-caught-in-the-middle/article71555534.ece",
+   "src": "The Hindu - Business",
+   "t": "2026-10-08T09:01:33+05:30",
+   "date": "2026-10-08",
+   "snip": "India’s trade surplus with the U.S. is critical as it offsets a structural trade deficit with China, but a heavy U.S. tariff and the potential impact of AI on exports could put this surplus at risk and intensify pressure",
+   "cat": "Economy",
+   "gs": "GS3"
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/organisations-engaged-in-religious-conversion-shall-be-denied-fcra-registration-madras-hc/article71556387.ece",
+   "h": "Organisations engaged in religious conversion shall be denied FCRA registration: Madras HC",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/organisations-engaged-in-religious-conversion-shall-be-denied-fcra-registration-madras-hc/article71556387.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T08:49:13+05:30",
+   "date": "2026-10-08",
+   "snip": "Only organisations whose activities do not affect nation’s secular fabric can receive foreign funds, says the Madurai Bench, rejecting an appeal by a charitable trust for registration under the Act",
+   "cat": "Science & Tech",
+   "gs": "GS3"
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/kerala-state-road-transport-corporation-launches-cargo-service-to-increase-non-ticket-revenue/article71555575.ece",
+   "h": "Kerala State Road Transport Corporation launches cargo service to increase non-ticket revenue",
+   "link": "https://www.thehindu.com/news/national/kerala/kerala-state-road-transport-corporation-launches-cargo-service-to-increase-non-ticket-revenue/article71555575.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T08:16:10+05:30",
+   "date": "2026-10-08",
+   "snip": "One tonne of mobile phones transported from Thiruvananthapuram to Aluva in its inaugural consignment on Wednesday (October 7, 2026)",
+   "cat": "Science & Tech",
+   "gs": "GS3"
+  },
+  {
+   "id": "https://www.thehindu.com/news/international/imf-reaches-staff-deal-with-pakistan-potentially-unlocking-12-billion/article71558176.ece",
+   "h": "IMF reaches staff deal with Pakistan, potentially unlocking $1.2 billion",
+   "link": "https://www.thehindu.com/news/international/imf-reaches-staff-deal-with-pakistan-potentially-unlocking-12-billion/article71558176.ece",
+   "src": "The Hindu - International",
+   "t": "2026-10-08T08:13:32+05:30",
+   "date": "2026-10-08",
+   "snip": "If the board approves the ‌deal, Pakistan could access about $1 ‌billion ⁠under the Extended Fund ⁠Facility (EFF) and $210 million under the climate-focused Resilience and Sustainability Facility",
+   "cat": "Polity",
+   "gs": "GS2"
+  },
+  {
+   "id": "https://www.thehindu.com/news/international/brazilian-students-in-rio-de-janeiro-march-against-the-prospect-of-another-bolsonaro-presidency/article71557284.ece",
+   "h": "Brazilian students in Rio de Janeiro march against the prospect of another Bolsonaro presidency",
+   "link": "https://www.thehindu.com/news/international/brazilian-students-in-rio-de-janeiro-march-against-the-prospect-of-another-bolsonaro-presidency/article71557284.ece",
+   "src": "The Hindu - International",
+   "t": "2026-10-08T08:07:06+05:30",
+   "date": "2026-10-08",
+   "snip": "Thousands of Brazilian students have marched in Rio de Janeiro against the possibility of Flávio Bolsonaro winning the presidency",
+   "cat": "Polity",
+   "gs": "GS2"
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/press-council-of-india-reconstituted-13-members-nominated/article71558177.ece",
+   "h": "Press Council of India reconstituted; 13 members nominated",
+   "link": "https://www.thehindu.com/news/national/press-council-of-india-reconstituted-13-members-nominated/article71558177.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T08:06:46+05:30",
+   "date": "2026-10-08",
+   "snip": "The PCI is headed by Justice Ranjana Prakash Desai (retd) and it has 14 members, including five MPs, six representatives from newspaper owners and three experts from the Bar Council of India (BCI), University Grants Comm",
+   "cat": "Science & Tech",
+   "gs": "GS3"
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/captain-smit-machchhars-health-is-improving-mea/article71557188.ece",
+   "h": "Captain Smit Machchhar’s health is improving: MEA",
+   "link": "https://www.thehindu.com/news/national/captain-smit-machchhars-health-is-improving-mea/article71557188.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T07:48:02+05:30",
+   "date": "2026-10-08",
+   "snip": "On flydubai flight FZ1073 on September 30, Mr. Machchhar was attacked by his co-pilot, an Omani citizen, with a crash axe",
+   "cat": "International Relations",
+   "gs": "GS2"
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/telangana/how-telanganas-meeseva-migration-to-open-source-could-make-governments-rethink-software-costs/article71541810.ece",
+   "h": "How Telangana’s MeeSeva migration to open source could make governments rethink software costs",
+   "link": "https://www.thehindu.com/news/national/telangana/how-telanganas-meeseva-migration-to-open-source-could-make-governments-rethink-software-costs/article71541810.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T07:47:55+05:30",
+   "date": "2026-10-08",
+   "snip": "The State’s move from Oracle to open-source PostgreSQL, completed in April 2026, shows both the potential savings and the technical and administrative hurdles involved in moving mission-critical government systems away f",
+   "cat": "Science & Tech",
+   "gs": "GS3"
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/nose-of-indigo-plane-found-damaged-after-landing-at-lucknow-airport-lightning-strike-suspected/article71557281.ece",
+   "h": "Nose of IndiGo plane found damaged after landing at Lucknow airport, lightning strike suspected",
+   "link": "https://www.thehindu.com/news/national/nose-of-indigo-plane-found-damaged-after-landing-at-lucknow-airport-lightning-strike-suspected/article71557281.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T07:32:01+05:30",
+   "date": "2026-10-08",
+   "snip": "The incident did not involve an emergency landing and the aircraft landed normally at the Lucknow airport",
+   "cat": "Polity",
+   "gs": "GS2"
+  },
+  {
+   "id": "https://www.thehindu.com/news/international/texas-carries-out-first-execution-in-us-since-christa-pikes-failed-lethal-injection/article71558194.ece",
+   "h": "Texas carries out first execution in U.S. since Christa Pike's failed lethal injection",
+   "link": "https://www.thehindu.com/news/international/texas-carries-out-first-execution-in-us-since-christa-pikes-failed-lethal-injection/article71558194.ece",
+   "src": "The Hindu - International",
+   "t": "2026-10-08T07:29:20+05:30",
+   "date": "2026-10-08",
+   "snip": "Texas has executed six people so far in 2026 and plans two more executions scheduled this year",
+   "cat": "Polity",
+   "gs": "GS2"
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/karnataka/lokayukta-court-sentences-acf-to-3-years-for-possessing-disproportionate-assets/article71556198.ece",
+   "h": "Lokayukta court sentences ACF to 3 years for possessing disproportionate assets",
+   "link": "https://www.thehindu.com/news/national/karnataka/lokayukta-court-sentences-acf-to-3-years-for-possessing-disproportionate-assets/article71556198.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T06:51:32+05:30",
+   "date": "2026-10-08",
+   "snip": "The investigation established that he had allegedly accumulated ₹1,35,29,714.37 worth of disproportionate assets.",
+   "cat": "Polity",
+   "gs": "GS2"
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/karnataka/ed-gets-custody-of-former-kpsc-chief-sahukar-member-geetha-in-veterinary-recruitment-scam/article71555340.ece",
+   "h": "ED gets custody of former KPSC chief Sahukar, member Geetha in veterinary recruitment scam",
+   "link": "https://www.thehindu.com/news/national/karnataka/ed-gets-custody-of-former-kpsc-chief-sahukar-member-geetha-in-veterinary-recruitment-scam/article71555340.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T06:50:19+05:30",
+   "date": "2026-10-08",
+   "snip": "The ED officials taken the duo into custody on Wednesday based on the alleged revelations made by IAS officer Gyanendra Kumar Gangwar, an accused, and Basavaraj Kannale, another accused.",
+   "cat": "Polity",
+   "gs": "GS2"
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-orders-using-parenting-time-instead-of-visitation-in-all-child-custody-cases/article71555498.ece",
+   "h": "Karnataka High Court orders using ‘parenting time’ instead of ‘visitation’ in all child custody cases",
+   "link": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-orders-using-parenting-time-instead-of-visitation-in-all-child-custody-cases/article71555498.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T06:14:18+05:30",
+   "date": "2026-10-08",
+   "snip": "“Calling it ‘parenting time’ recognises a simple truth that no parent is a ‘visitor’ in the life of a child”",
+   "cat": "Polity",
+   "gs": "GS2"
+  },
+  {
+   "id": "https://www.thehindu.com/news/international/attacks-on-saudi-airports-claimed-by-houthi-rebels-kill-several/article71557187.ece",
+   "h": "Attacks on Saudi airports claimed by Houthi rebels kill 3 people, officials say",
+   "link": "https://www.thehindu.com/news/international/attacks-on-saudi-airports-claimed-by-houthi-rebels-kill-several/article71557187.ece",
+   "src": "The Hindu - International",
+   "t": "2026-10-08T06:01:56+05:30",
+   "date": "2026-10-08",
+   "snip": "The Saudi General Authority for Civil Aviation did not blame any party for the attacks at Abha and Riyadh’s King Khalid international airports, but Houthi rebels took credit earlier for the airport strikes",
+   "cat": "Polity",
+   "gs": "GS2"
+  },
+  {
+   "id": "https://www.thehindu.com/news/international/oil-tanker-off-qatar-reports-hits-from-multiple-projectiles-hormuz-strait-october-7-2026/article71558152.ece",
+   "h": "Tanker off Qatar reports hits from multiple projectiles: U.K. maritime agency",
+   "link": "https://www.thehindu.com/news/international/oil-tanker-off-qatar-reports-hits-from-multiple-projectiles-hormuz-strait-october-7-2026/article71558152.ece",
+   "src": "The Hindu - International",
+   "t": "2026-10-08T05:50:44+05:30",
+   "date": "2026-10-08",
+   "snip": "The reported attack on Wednesday (October 7, 2026) was around 500 kilometres (300 miles) from the Strait of Hormuz",
+   "cat": "Economy",
+   "gs": "GS3"
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/jaishankar-discusses-bilateral-ties-with-cote-divoire/article71558153.ece",
+   "h": "Jaishankar discusses bilateral ties with Cote d'Ivoire",
+   "link": "https://www.thehindu.com/news/national/jaishankar-discusses-bilateral-ties-with-cote-divoire/article71558153.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T05:46:04+05:30",
+   "date": "2026-10-08",
+   "snip": "The Minister arrived in Cote d'Ivoire from Ghana on the second leg of his three-nation tour of African countries, which also includes Ethiopia",
+   "cat": "International Relations",
+   "gs": "GS2"
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/jharkhand/supreme-court-to-hear-centres-contempt-plea-against-appointment-of-jharkhand-dgp-tadasha-mishra/article71555367.ece",
+   "h": "SC to hear Centre’s plea against Jharkhand DGP appointments",
+   "link": "https://www.thehindu.com/news/national/jharkhand/supreme-court-to-hear-centres-contempt-plea-against-appointment-of-jharkhand-dgp-tadasha-mishra/article71555367.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T03:55:46+05:30",
+   "date": "2026-10-08",
+   "snip": "A Bench comprising Chief Justice Surya Kant and justices Joymalya Bagchi and V. Mohana was urged by Solicitor General Tushar Mehta that the contempt plea be also listed for hearing",
+   "cat": "Polity",
+   "gs": "GS2"
+  },
   {
    "id": "https://www.thehindu.com/news/international/cornell-students-stage-sit-in-to-protest-universitys-handling-of-alleged-2024-gang-rape/article71557283.ece",
    "h": "Cornell students stage sit-in to protest university’s handling of alleged 2024 gang rape",
@@ -34,6 +386,17 @@
    "t": "2026-10-08T02:53:37+05:30",
    "date": "2026-10-08",
    "snip": "Ms. Abascal had been in hospital since her eviction on September 23 from her home of more than 70 ‌years, when police and social workers removed her by stretcher",
+   "cat": "Polity",
+   "gs": "GS2"
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/india-seeks-update-from-russia-on-whereabouts-of-indians-working-with-russian-military/article71557190.ece",
+   "h": "India seeks update from Russia on whereabouts of Indians working with Russian military",
+   "link": "https://www.thehindu.com/news/national/india-seeks-update-from-russia-on-whereabouts-of-indians-working-with-russian-military/article71557190.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T02:30:45+05:30",
+   "date": "2026-10-08",
+   "snip": "New Delhi has been consistently urging Moscow to release all the Indian nationals serving with the Russian military",
    "cat": "Polity",
    "gs": "GS2"
   },
@@ -144,6 +507,17 @@
    "t": "2026-10-08T01:22:40+05:30",
    "date": "2026-10-08",
    "snip": "The West Bengal government is holding the grand Mahalaya event at Eden Gardens cricket stadium and Chief Minister Suvendu Adhikari had said that Prime Minister Narendra Modi was supposed to attend the grand event.",
+   "cat": "Polity",
+   "gs": "GS2"
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/thirumavalavans-statements-on-sir-sends-mixed-signal-to-cadre-party-leaders/article71556622.ece",
+   "h": "Thirumavalavan’s statements on SIR sends mixed signal to cadre, party leaders",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/thirumavalavans-statements-on-sir-sends-mixed-signal-to-cadre-party-leaders/article71556622.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-08T01:08:04+05:30",
+   "date": "2026-10-08",
+   "snip": "Participating in a protest against the Election Commission of India in New Delhi recently, VCK president Thol. Thirumavalavan raised doubts over TVK’s recent victory and attributed its success to the SIR process",
    "cat": "Polity",
    "gs": "GS2"
   },
@@ -2491,6 +2865,17 @@
    "gs": "GS3"
   },
   {
+   "id": "https://www.thehindu.com/sci-tech/science/why-do-we-suddenly-forget-why-we-walked-into-a-room/article71554602.ece",
+   "h": "Why do we suddenly forget why we walked into a room?",
+   "link": "https://www.thehindu.com/sci-tech/science/why-do-we-suddenly-forget-why-we-walked-into-a-room/article71554602.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-10-07T12:22:44+05:30",
+   "date": "2026-10-07",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2"
+  },
+  {
    "id": "https://www.thehindu.com/opinion/op-ed/why-charging-for-upi-changes-the-math/article71552957.ece",
    "h": "Why charging for UPI changes the math",
    "link": "https://www.thehindu.com/opinion/op-ed/why-charging-for-upi-changes-the-math/article71552957.ece",
@@ -3294,6 +3679,17 @@
    "gs": "GS2"
   },
   {
+   "id": "https://www.thehindu.com/sci-tech/energy-and-environment/india-formidable-cement-footprint-stands-way-to-net-zero/article71550380.ece",
+   "h": "India’s formidable cement footprint stands in its way to net-zero",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/india-formidable-cement-footprint-stands-way-to-net-zero/article71550380.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-10-06T12:45:30+05:30",
+   "date": "2026-10-06",
+   "snip": "Producing cement is highly carbon-intensive and releases large quantities of greenhouse gases as part of its heating and limestone calcination processes. Extracting limestone also destroys forests and fertile topsoil. Bu",
+   "cat": "Environment",
+   "gs": "GS3"
+  },
+  {
    "id": "https://www.thehindu.com/news/international/trump-approves-firing-squad-execution-for-fort-hood-shooter-nidal-hasan/article71549975.ece",
    "h": "Trump approves firing squad execution for Fort Hood shooter Nidal Hasan",
    "link": "https://www.thehindu.com/news/international/trump-approves-firing-squad-execution-for-fort-hood-shooter-nidal-hasan/article71549975.ece",
@@ -3965,6 +4361,17 @@
    "gs": "GS3"
   },
   {
+   "id": "https://www.thehindu.com/sci-tech/science/scientists-report-worlds-first-working-nuclear-clocks/article71537614.ece",
+   "h": "Scientists report world’s first working nuclear clocks",
+   "link": "https://www.thehindu.com/sci-tech/science/scientists-report-worlds-first-working-nuclear-clocks/article71537614.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-10-02T19:43:41+05:30",
+   "date": "2026-10-02",
+   "snip": "A laser’s electric field oscillates rapidly: positive, zero, negative, zero, positive, and so on. An atomic or nuclear clock counts these cycles like an old clock counts the swings of a pendulum",
+   "cat": "Economy",
+   "gs": "GS3"
+  },
+  {
    "id": "https://www.thehindu.com/news/national/csir-ccmb-develops-india-specific-tool-to-predict-sickle-cell-severity/article71536615.ece",
    "h": "CSIR-CCMB develops India-specific tool to predict Sickle Cell severity",
    "link": "https://www.thehindu.com/news/national/csir-ccmb-develops-india-specific-tool-to-predict-sickle-cell-severity/article71536615.ece",
@@ -4007,193 +4414,6 @@
    "snip": "The IMD is conservative when it comes to projecting rainfall deficit",
    "cat": "Polity",
    "gs": "GS2"
-  },
-  {
-   "id": "https://www.thehindu.com/opinion/editorial/other-than-outrage-on-women-unsafe-public-spaces/article71533047.ece",
-   "h": "Other than outrage: On women, unsafe public spaces",
-   "link": "https://www.thehindu.com/opinion/editorial/other-than-outrage-on-women-unsafe-public-spaces/article71533047.ece",
-   "src": "The Hindu - Editorial",
-   "t": "2026-10-02T12:07:47+05:30",
-   "date": "2026-10-02",
-   "snip": "Restrictions on women cannot be the answer to unsafe public spaces",
-   "cat": "Science & Tech",
-   "gs": "GS3"
-  },
-  {
-   "id": "https://www.thehindu.com/news/cities/Visakhapatnam/wildlife-week-at-vizag-zoo-workshops-competitions-and-conservation-activities/article71531559.ece",
-   "h": "Wildlife week at Vizag zoo: Workshops, competitions and conservation activities",
-   "link": "https://www.thehindu.com/news/cities/Visakhapatnam/wildlife-week-at-vizag-zoo-workshops-competitions-and-conservation-activities/article71531559.ece",
-   "src": "The Hindu - Environment",
-   "t": "2026-10-02T09:14:35+05:30",
-   "date": "2026-10-02",
-   "snip": "Wildlife Week at Indira Gandhi Zoological Park brings together art, workshops and conservation activities from October 2 to 8",
-   "cat": "Environment",
-   "gs": "GS3"
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/science/scientists-can-now-measure-the-damage-each-new-coal-mine-can-do-to-people-nature/article71533182.ece",
-   "h": "Scientists can now measure the damage each new coal mine can do to people, nature",
-   "link": "https://www.thehindu.com/sci-tech/science/scientists-can-now-measure-the-damage-each-new-coal-mine-can-do-to-people-nature/article71533182.ece",
-   "src": "The Hindu - Science",
-   "t": "2026-10-01T19:21:35+05:30",
-   "date": "2026-10-01",
-   "snip": "The Carbon Impacts Tracer shows the robust causal links between project and harms. It will be useful to communities and organisations seeking to attribute legal responsibility for climate harms to governments and fossil ",
-   "cat": "International Relations",
-   "gs": "GS2"
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/tamil-nadu/frame-sop-governing-participation-of-elephants-in-temple-events-religious-functions-madras-hc-directs-tamil-nadu-government/article71532428.ece",
-   "h": "Frame SOP governing participation of elephants in temple events, religious functions, Madras HC directs Tamil Nadu government",
-   "link": "https://www.thehindu.com/news/national/tamil-nadu/frame-sop-governing-participation-of-elephants-in-temple-events-religious-functions-madras-hc-directs-tamil-nadu-government/article71532428.ece",
-   "src": "The Hindu - Environment",
-   "t": "2026-10-01T18:41:12+05:30",
-   "date": "2026-10-01",
-   "snip": "Chief Justice Sushrut Arvind Dharmadhikari and Justice G. Arul Murugan order that the draft SOP must be placed before the court on October 30, 2026",
-   "cat": "History & Culture",
-   "gs": "GS1"
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/energy-and-environment/loss-of-grasslands-and-kutch-drought-green-humour-by-rohan-chakravarty/article71523335.ece",
-   "h": "Loss of grasslands and Kutch drought | Green Humour by Rohan Chakravarty",
-   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/loss-of-grasslands-and-kutch-drought-green-humour-by-rohan-chakravarty/article71523335.ece",
-   "src": "The Hindu - Environment",
-   "t": "2026-10-01T16:38:27+05:30",
-   "date": "2026-10-01",
-   "snip": "",
-   "cat": "Geography",
-   "gs": "GS1"
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/science/after-great-apes-scientists-find-african-elephants-self-medicate-too/article71527977.ece",
-   "h": "After great apes, scientists find African elephants self-medicate too",
-   "link": "https://www.thehindu.com/sci-tech/science/after-great-apes-scientists-find-african-elephants-self-medicate-too/article71527977.ece",
-   "src": "The Hindu - Science",
-   "t": "2026-10-01T16:26:34+05:30",
-   "date": "2026-10-01",
-   "snip": "Several plants they use are also consumed as indigenous human traditional medicine",
-   "cat": "Polity",
-   "gs": "GS2"
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/science/behind-india-record-performance-international-math-olympiad-2024/article68496188.ece",
-   "h": "Behind India’s record performance at International Math Olympiad 2024",
-   "link": "https://www.thehindu.com/sci-tech/science/behind-india-record-performance-international-math-olympiad-2024/article68496188.ece",
-   "src": "The Hindu - Science",
-   "t": "2026-10-01T16:18:56+05:30",
-   "date": "2026-10-01",
-   "snip": "For the first time, trainers from India and Iran jointly prepared questions for practice tests that the two countries’ candidates took together",
-   "cat": "Polity",
-   "gs": "GS2"
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/health/what-human-brain-tissue-transplanted-into-mice-showed-us/article71503023.ece",
-   "h": "What human brain tissue transplanted into mice showed us",
-   "link": "https://www.thehindu.com/sci-tech/health/what-human-brain-tissue-transplanted-into-mice-showed-us/article71503023.ece",
-   "src": "The Hindu - Science",
-   "t": "2026-10-01T15:53:15+05:30",
-   "date": "2026-10-01",
-   "snip": "A Stanford University experiment called ‘xenocortication’ lets human brain tissue develop inside a living mouse, offering a novel way to study the developing human brain and, potentially, how disease develops. It also ra",
-   "cat": "Polity",
-   "gs": "GS2"
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/science/ancient-grasslands-once-destroyed-for-development-can-take-100-years-to-grow-back/article71522834.ece",
-   "h": "Ancient grasslands, once destroyed for development, can take 100 years to grow back",
-   "link": "https://www.thehindu.com/sci-tech/science/ancient-grasslands-once-destroyed-for-development-can-take-100-years-to-grow-back/article71522834.ece",
-   "src": "The Hindu - Science",
-   "t": "2026-10-01T15:49:56+05:30",
-   "date": "2026-10-01",
-   "snip": "The Hindu’s weekly Science for All newsletter explains all things Science, without the jargon.",
-   "cat": "Polity",
-   "gs": "GS2"
-  },
-  {
-   "id": "https://www.thehindu.com/opinion/editorial/state-of-anticipation/article71524628.ece",
-   "h": "State of anticipation: on Jammu and Kashmir and Statehood",
-   "link": "https://www.thehindu.com/opinion/editorial/state-of-anticipation/article71524628.ece",
-   "src": "The Hindu - Editorial",
-   "t": "2026-10-01T13:34:53+05:30",
-   "date": "2026-10-01",
-   "snip": "J&K should be given its Statehood without any further delay",
-   "cat": "Polity",
-   "gs": "GS2"
-  },
-  {
-   "id": "https://www.thehindu.com/opinion/editorial/bitter-pills-on-courts-intervention-drug-pricing/article71528814.ece",
-   "h": "Bitter pills: on Court’s intervention, drug pricing",
-   "link": "https://www.thehindu.com/opinion/editorial/bitter-pills-on-courts-intervention-drug-pricing/article71528814.ece",
-   "src": "The Hindu - Editorial",
-   "t": "2026-10-01T13:34:02+05:30",
-   "date": "2026-10-01",
-   "snip": "The Supreme Court did well to intervene in drug pricing by retailers",
-   "cat": "Polity",
-   "gs": "GS2"
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/energy-and-environment/supreme-court-allows-limited-conditional-release-of-gen-2-green-crackers-neeri/article71531674.ece",
-   "h": "Gen-2 joined green crackers | Explained",
-   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/supreme-court-allows-limited-conditional-release-of-gen-2-green-crackers-neeri/article71531674.ece",
-   "src": "The Hindu - Environment",
-   "t": "2026-10-01T13:27:16+05:30",
-   "date": "2026-10-01",
-   "snip": "The Supreme Court order on September 30 relaxes the framework for a redesigned version of the “Gen-2” joined green cracker, subject to NEERI’s conditions",
-   "cat": "Polity",
-   "gs": "GS2"
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/science/m31-v1-the-star-hubble-viewed-and-changed-our-universe/article71495038.ece",
-   "h": "M31-V1, the star Hubble viewed and changed our universe",
-   "link": "https://www.thehindu.com/sci-tech/science/m31-v1-the-star-hubble-viewed-and-changed-our-universe/article71495038.ece",
-   "src": "The Hindu - Science",
-   "t": "2026-10-01T10:41:35+05:30",
-   "date": "2026-10-01",
-   "snip": "The observations that American astronomer Edwin Hubble made on the night of October 5-6, 1923 and one that he had made the previous night, enabled him to discover M31-V1, the first Cepheid star in the Andromeda galaxy. T",
-   "cat": "Polity",
-   "gs": "GS2"
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/science/new-guidelines-set-by-in-space-for-indian-and-foreign-hosted-payloads-explained/article71528617.ece",
-   "h": "What are the new guidelines set by IN-SPACe for Indian and foreign hosted-payloads? | Explained",
-   "link": "https://www.thehindu.com/sci-tech/science/new-guidelines-set-by-in-space-for-indian-and-foreign-hosted-payloads-explained/article71528617.ece",
-   "src": "The Hindu - Science",
-   "t": "2026-10-01T10:33:05+05:30",
-   "date": "2026-10-01",
-   "snip": "IN-SPACe releases guidelines for hosted-payloads, detailing authorisation rules for Indian and foreign entities, security, ITU filings, and regulatory compliance",
-   "cat": "Science & Tech",
-   "gs": "GS3"
-  },
-  {
-   "id": "https://www.thehindu.com/opinion/editorial/good-foundation-on-indias-strong-industrial-growth-performance/article71524281.ece",
-   "h": "Good foundation: on India’s strong industrial growth performance",
-   "link": "https://www.thehindu.com/opinion/editorial/good-foundation-on-indias-strong-industrial-growth-performance/article71524281.ece",
-   "src": "The Hindu - Editorial",
-   "t": "2026-10-01T07:42:52+05:30",
-   "date": "2026-10-01",
-   "snip": "The festive season looks set to build on months of strong industrial growth",
-   "cat": "Polity",
-   "gs": "GS2"
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/energy-and-environment/india-river-interlink-project-spread-invasive-species-ecologically-sensitive-basins/article71516506.ece",
-   "h": "India’s river interlinks may carry invasive species to more areas",
-   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/india-river-interlink-project-spread-invasive-species-ecologically-sensitive-basins/article71516506.ece",
-   "src": "The Hindu - Science",
-   "t": "2026-10-01T07:21:29+05:30",
-   "date": "2026-10-01",
-   "snip": "The Lower Ganga basin hosts 13-15 invasive alien species and could become a major source of invasives for the Mahanadi, home to 69 threatened species; water connections under the river interlinking project could also hel",
-   "cat": "Geography",
-   "gs": "GS1"
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/meity-indiaai-centre-of-excellence-in-artificial-intelligence-to-be-launched-on-wednesday/article71524860.ece",
-   "h": "MeitY IndiaAI Centre of Excellence in Artificial Intelligence to be launched on Wednesday",
-   "link": "https://www.thehindu.com/news/national/kerala/meity-indiaai-centre-of-excellence-in-artificial-intelligence-to-be-launched-on-wednesday/article71524860.ece",
-   "src": "The Hindu - Science",
-   "t": "2026-10-01T07:18:53+05:30",
-   "date": "2026-10-01",
-   "snip": "A major milestone accompanying the launch is the announcement of CAIK’s first cohort of 15 start-ups.",
-   "cat": "Science & Tech",
-   "gs": "GS3"
   }
  ]
 }
