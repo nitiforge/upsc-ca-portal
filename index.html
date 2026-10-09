@@ -184,16 +184,19 @@ const isHi=e=>/[\u0900-\u097F]/.test(e.h||"");
 const langOk=e=>fl==="all"||(isHi(e)?"hi":"en")===fl;
 let feed={items:[],updated:null},feedErr=null,nextAt=Date.now()+REFRESH_MS,lastOk=null;
 
-let ours=[],ourErr=null,curNote=null;
+let ours=[],ourErr=null,curNote=null,auto={},nf="all";
+async function pullAuto(){try{const r=await fetch("auto_notes.json?t="+Date.now(),{cache:"no-store"});if(r.ok){const d=await r.json();auto=d.notes||{}}}catch(e){}}
+const autoNote=id=>auto[id]?Object.assign({id:"a:"+id,ai:true},auto[id]):null;
 async function pullNotes(){
   try{const r=await fetch("notes.json?t="+Date.now(),{cache:"no-store"});if(!r.ok)throw new Error(r.status);ours=await r.json();ourErr=null}
   catch(e){ourErr="notes.json not found. Upload notes.json next to index.html in your repo."}
-  render();
+  await pullAuto();render();
 }
 function keyHit(t,k){k=String(k||"").trim();if(!k)return false;
   if(k.length<=4)return new RegExp("\\b"+k.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")+"\\b","i").test(t);
   return t.includes(k.toLowerCase())}
 function noteFor(it){const t=((it.h||"")+" "+(it.snip||"")).toLowerCase();return ours.find(n=>(n.keys||[]).some(k=>keyHit(t,k)))}
+const anyNote=it=>noteFor(it)||autoNote(it.id);
 function wrapText(s,n){const w=String(s).split(/\s+/),out=[];let c="";for(const x of w){if((c+" "+x).trim().length>n&&c){out.push(c);c=x}else c=(c+" "+x).trim()}if(c)out.push(c);return out.slice(0,4)}
 function flowSvg(text){
   const names=[],edges=[],idx=n=>{let i=names.indexOf(n);if(i<0){names.push(n);i=names.length-1}return i};
@@ -235,32 +238,34 @@ function noteHtml(n){
   return `<div class="brand">Niti Pathshala × NitiForge · UPSC Current Affairs Notes</div>
   <h2 style="font-size:21px;line-height:1.3;margin:6px 0">${esc(n.title)}</h2>
   <div class="tags"><span class="tag gs">${esc(n.gs)}</span><span class="tag">${esc(n.cat)}</span><span class="tag">${esc(n.date)}</span><span class="tag">${esc(n.src)}</span></div>
+  ${n.ai?`<div class="callout"><b>AI draft.</b> Written automatically from ${n.basis==="summary"?"the headline and RSS summary only (the full article could not be read)":"the article text"}. Check facts against the source before quoting.</div>`:""}
   ${n.check?`<div class="callout"><b>Verify:</b> ${esc(n.check)}</div>`:""}
   ${S("Why in news",para(n.why))}${S("Background",para(n.background))}${S("Key points",ul(n.key))}
   ${dg?S("Concept diagram",`<div class="dgm">${dg}</div>`):""}
   ${S("Prelims facts",ul(n.pre))}${S("Mains angle",para(n.mains))}${S("Way forward",para(n.way))}
   ${all.length?S("Images",`<div class="imgs">${all.map(i=>`<figure><img src="${esc(i.src)}" alt="${esc(i.cap||"note image")}">${i.cap?`<figcaption>${esc(i.cap)}</figcaption>`:""}${i.k>=0?`<button class="ic noprint" data-di="${esc(n.id)}|${i.k}" title="Remove image">🗑</button>`:""}</figure>`).join("")}</div>`):""}
   ${n.link?`<div class="sub noprint" style="margin-top:10px">Source: <a href="${esc(n.link)}" target="_blank" rel="noopener noreferrer">${esc(n.src)} ↗</a></div>`:""}
-  <div class="sub" style="margin-top:10px">Prepared by Niti Pathshala × NitiForge. Verify facts against the original source before quoting.</div>`;
+  <div class="sub" style="margin-top:10px">Prepared by Niti Pathshala × NitiForge${n.ai?" (AI draft)":""}. Verify facts against the original source before quoting.</div>`;
 }
 function openNote(id){
-  const n=ours.find(x=>x.id===id);if(!n)return;curNote=n;
+  const n=id.startsWith("a:")?autoNote(id.slice(2)):ours.find(x=>x.id===id);if(!n)return;curNote=n;
   if($("dlgD").open)$("dlgD").close();
   $("nBody").innerHTML=noteHtml(n);$("nCopy").textContent="Copy text";
   if(!$("dlgN").open)$("dlgN").showModal();
 }
 function noteText(n){
   const L=a=>(a||[]).map(x=>"• "+x).join("\n");
-  return [`Niti Pathshala × NitiForge · ${n.title}`,`${n.gs} | ${n.cat} | ${n.date}`,n.check?"VERIFY: "+n.check:"","WHY IN NEWS\n"+n.why,"BACKGROUND\n"+n.background,"KEY POINTS\n"+L(n.key),"PRELIMS FACTS\n"+L(n.pre),"MAINS ANGLE\n"+n.mains,n.way?"WAY FORWARD\n"+n.way:""].filter(Boolean).join("\n\n");
+  return [`Niti Pathshala × NitiForge · ${n.title}${n.ai?" (AI draft, verify)":""}`,`${n.gs} | ${n.cat} | ${n.date}`,n.check?"VERIFY: "+n.check:"","WHY IN NEWS\n"+n.why,"BACKGROUND\n"+n.background,"KEY POINTS\n"+L(n.key),"PRELIMS FACTS\n"+L(n.pre),"MAINS ANGLE\n"+n.mains,n.way?"WAY FORWARD\n"+n.way:""].filter(Boolean).join("\n\n");
 }
+function allNotes(){return ours.map(n=>Object.assign({ai:false},n)).concat(Object.keys(auto).map(autoNote).filter(Boolean))}
 function ourList(q){
-  return ours.filter(n=>(!fc||n.cat===fc)&&(!fg||n.gs===fg)&&(!q||JSON.stringify(n).toLowerCase().includes(q))).sort((a,b)=>(b.date||"").localeCompare(a.date||""));
+  return allNotes().filter(n=>(nf==="all"||(nf==="ai")===!!n.ai)&&(!fc||n.cat===fc)&&(!fg||n.gs===fg)&&(!q||JSON.stringify(n).toLowerCase().includes(q))).sort((a,b)=>(b.date||"").localeCompare(a.date||"")||(a.ai?1:0)-(b.ai?1:0));
 }
 async function pullFeed(){
   try{
     const r=await fetch("feed.json?t="+Date.now(),{cache:"no-store"});
     if(!r.ok)throw new Error(r.status);
-    feed=await r.json();feedErr=null;lastOk=new Date();
+    feed=await r.json();feedErr=null;lastOk=new Date();await pullAuto();
   }catch(e){feedErr="feed.json not reachable. Run the GitHub Action once, and open this page from the same site (not as a local file)."}
   nextAt=Date.now()+REFRESH_MS;render();
 }
@@ -270,7 +275,7 @@ function tick(){
   $("liveBar").innerHTML=(view==="feed"||view==="top")?`<span class="live ${feedErr?"off":""}"></span>${feedErr?esc(feedErr):`Auto-refresh in ${m}:${ss} · Latest item: ${latest} IST · Checked ${lastOk?lastOk.toLocaleTimeString("en-IN"):"–"}`}`:"";
 }
 function chips(){
-  $("langs").innerHTML=(view==="notes"||view==="our")?"":[["en","English"],["hi","हिन्दी"],["all","Both"]].map(([k,l])=>`<button class="chip ${fl===k?"on":""}" data-l="${k}">${l}</button>`).join("");
+  $("langs").innerHTML=view==="our"?[["all","All notes"],["hand","Hand-written"],["ai","AI drafts"]].map(([k,l])=>`<button class="chip ${nf===k?"on":""}" data-nf="${k}">${l}</button>`).join(""):view==="notes"?"":[["en","English"],["hi","हिन्दी"],["all","Both"]].map(([k,l])=>`<button class="chip ${fl===k?"on":""}" data-l="${k}">${l}</button>`).join("");
   $("cats").innerHTML=["All",...CATS].map(c=>`<button class="chip ${(fc||"All")===c?"on":""}" data-c="${c}">${c}</button>`).join("");
   $("gs").innerHTML=["All papers",...GSS].map(c=>`<button class="chip ${(fg||"All papers")===c?"on":""}" data-g="${c}">${c}</button>`).join("");
   const srcs=view==="feed"?[...new Set((feed.items||[]).map(i=>i.src))]:[];
@@ -300,9 +305,9 @@ function render(){
   const q=$("q").value.trim().toLowerCase(),all=$("allDays").checked||!!q,bm=$("onlyBm").checked;
   if(view==="our"){
     const L=ourList(q);
-    $("stats").innerHTML=`<span>${L.length} shown</span><span>${ours.length} notes</span>`;
+    $("stats").innerHTML=`<span>${L.length} shown</span><span>${ours.length} hand-written</span><span>${Object.keys(auto).length} AI drafts</span>`;
     $("list").innerHTML=L.length?L.map(n=>`<article class="card">
-      <div class="tags"><span class="tag gs">${esc(n.gs)}</span><span class="tag">${esc(n.cat)}</span><span class="tag">${esc(n.date)}</span>${n.diagram?'<span class="tag">Diagram</span>':""}${n.check?'<span class="tag sample">Verify one point</span>':""}</div>
+      <div class="tags"><span class="tag gs">${esc(n.gs)}</span><span class="tag">${esc(n.cat)}</span><span class="tag">${esc(n.date)}</span>${n.diagram?'<span class="tag">Diagram</span>':""}${n.ai?'<span class="tag">AI draft</span>':""}${n.check?'<span class="tag sample">Verify one point</span>':""}</div>
       <h3><a href="#" data-n="${esc(n.id)}">${esc(n.title)}</a></h3>
       <div class="sub" style="font-family:Georgia,serif;font-size:14px">${esc((n.why||"").length>260?n.why.slice(0,260)+"…":(n.why||""))}</div>
       <div style="margin-top:8px"><button class="btn p" data-n="${esc(n.id)}">Open full note</button></div></article>`).join(""):`<div class="empty">${ourErr?esc(ourErr):"No notes match this filter."}</div>`;
@@ -317,7 +322,7 @@ function render(){
       <div><button class="ic ${mem.bm.includes(e.id)?"on":""}" data-b="${esc(e.id)}" title="Bookmark">${mem.bm.includes(e.id)?"★":"☆"}</button></div></div>
       <h3><a href="#" data-o="${esc(e.id)}">${esc(e.h)}</a></h3>
       ${e.snip?`<div class="sub" style="font-family:Georgia,serif;font-size:14px">${esc(e.snip.length>220?e.snip.slice(0,220)+"…":e.snip)}</div>`:""}
-      <div style="margin-top:8px">${(()=>{const n=noteFor(e);return n?`<button class="btn p" data-n="${esc(n.id)}">★ Our note</button> `:""})()}<button class="btn" data-o="${esc(e.id)}">Open details &amp; notes</button> <a class="sub" href="${esc(e.link)}" target="_blank" rel="noopener noreferrer" style="margin-left:8px">Original ↗</a></div>
+      <div style="margin-top:8px">${(()=>{const n=anyNote(e);return n?`<button class="btn ${n.ai?"":"p"}" data-n="${esc(n.id)}">${n.ai?"Note (AI draft)":"★ Our note"}</button> `:""})()}<button class="btn" data-o="${esc(e.id)}">Open details &amp; notes</button> <a class="sub" href="${esc(e.link)}" target="_blank" rel="noopener noreferrer" style="margin-left:8px">Original ↗</a></div>
     </article>`).join(""):`<div class="empty">${feedErr?"Feed not loaded yet.":view==="top"?"No feed items for this date yet.":"Nothing for this date/filter. Try “All dates” or another day."}</div>`;
   }else{
     const L=mem.entries.filter(e=>matches(e,q,all,bm)).sort((a,b)=>b.date.localeCompare(a.date));
@@ -356,6 +361,7 @@ document.addEventListener("click",ev=>{
   if(t.dataset.n)openNote(t.dataset.n);
   if(t.dataset.di){const[id,k]=t.dataset.di.split("|");if(confirm("Remove this image?")){(mem.imgs[id]||[]).splice(+k,1);save();if(curNote)$("nBody").innerHTML=noteHtml(curNote)}}
   if(t.dataset.l){fl=t.dataset.l;render()}
+  if(t.dataset.nf){nf=t.dataset.nf;render()}
   if(t.dataset.o)openDetail(t.dataset.o);
   if(t.dataset.c){fc=t.dataset.c==="All"?null:t.dataset.c;render()}
   if(t.dataset.g){fg=t.dataset.g==="All papers"?null:t.dataset.g;render()}
@@ -373,7 +379,7 @@ function openDetail(id){
   $("dH").textContent=f.h;
   $("dMeta").textContent=new Date(f.t).toLocaleString("en-IN",{dateStyle:"medium",timeStyle:"short"})+" IST";
   $("dSnip").textContent=f.snip||"The source did not provide a summary for this item. Use “Read original” if you need the full text.";
-  $("dLink").href=f.link;{const rn=noteFor(f);$("dNote").innerHTML=rn?` <button class="btn p" data-n="${esc(rn.id)}">★ Our note</button>`:""}
+  $("dLink").href=f.link;{const rn=anyNote(f);$("dNote").innerHTML=rn?` <button class="btn ${rn.ai?"":"p"}" data-n="${esc(rn.id)}">${rn.ai?"Note (AI draft)":"★ Our note"}</button>`:""}
   $("dC").value=n?n.cat:f.cat;$("dG").value=n?n.gs:f.gs;
   $("dK").value=n?(n.key||[]).join("\n"):"";$("dP").value=n?(n.pre||[]).join("\n"):"";$("dM").value=n?(n.mains||""):"";
   $("dSave").textContent="Save notes";$("dlgD").showModal();
