@@ -18,13 +18,19 @@ jobs:
           python-version: "3.12"
       - name: Fetch feeds
         run: python fetch_feeds.py
+      - name: Write study notes (skipped if no API key)
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python generate_notes.py
       - name: Commit if changed
         run: |
           git config user.name "feed-bot"
           git config user.email "feed-bot@users.noreply.github.com"
           git add feed.json
+          if [ -f auto_notes.json ]; then git add auto_notes.json; fi
           if git diff --cached --quiet; then echo "No changes"; exit 0; fi
-          git commit -m "Update feed"
+          git commit -m "Update feed and notes"
           for i in 1 2 3; do
             git pull --rebase -X theirs origin main && git push && exit 0
             sleep 5
