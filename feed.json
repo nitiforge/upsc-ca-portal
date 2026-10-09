@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T18:24:04.184281+05:30",
+ "updated": "2026-10-09T18:32:28.710049+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,18 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321487",
+   "h": "शिक्षा, महिला, बाल, युवा और खेल मामलों से संबंधित संसदीय स्थायी समिति की \"नेशनल टेस्टिंग एजेंसी (NTA) में सुधार और उसे मजबूत बनाने\" पर 382वीं रिपोर्ट संबंधी प्रेस विज्ञप्ति।",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321487",
+   "src": "PIB",
+   "t": "2026-10-09T18:32:01.348447+05:30",
+   "date": "2026-10-09",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321387",
    "h": "एनएलएमसी ने नई दिल्ली में एचआईएल (इंडिया) लिमिटेड के 5.119 एकड़ प्रमुख फ्रीहोल्ड भूखंड के मुद्रीकरण के लिए बोलियां आमंत्रित कीं",
@@ -146,6 +158,18 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/bjp-targets-rahul-over-exchange-with-musk-counters-spacex-founders-remarks-on-spectrum-policy/article71563780.ece",
+   "h": "BJP targets Rahul over exchange with Musk; counters SpaceX founder’s remarks on spectrum policy",
+   "link": "https://www.thehindu.com/news/national/bjp-targets-rahul-over-exchange-with-musk-counters-spacex-founders-remarks-on-spectrum-policy/article71563780.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-09T18:23:26+05:30",
+   "date": "2026-10-09",
+   "snip": "What happened for Rahul Gandhi to have become ‘surrender’ Gandhi, asks BJP national vice-president Ram Madhav in press conference",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
   },
   {
    "id": "https://www.thehindu.com/business/Economy/indias-share-of-global-greenfield-investments-more-than-double-chinas-in-2020-25/article71564075.ece",
