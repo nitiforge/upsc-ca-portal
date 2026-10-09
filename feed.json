@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T22:41:37.671774+05:30",
+ "updated": "2026-10-10T03:11:07.961244+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,150 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/national/madhya-pradesh/hc-strikes-down-madhya-pradeshs-27-obc-quota-law-calls-it-unconstitutional/article71565305.ece",
+   "h": "HC strikes down Madhya Pradesh’s 27% OBC quota law, calls it ‘unconstitutional’",
+   "link": "https://www.thehindu.com/news/national/madhya-pradesh/hc-strikes-down-madhya-pradeshs-27-obc-quota-law-calls-it-unconstitutional/article71565305.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-10T01:46:30+05:30",
+   "date": "2026-10-10",
+   "snip": "The High Court judgment came after years of hearing on a number of petitions filed by students from unreserved categories, who had challenged the Amendment Act of August 2019",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/telangana/breakfast-scheme-brings-more-students-to-schools-in-telangana/article71564342.ece",
+   "h": "Breakfast scheme brings more students to schools in Telangana",
+   "link": "https://www.thehindu.com/news/national/telangana/breakfast-scheme-brings-more-students-to-schools-in-telangana/article71564342.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-10T00:51:09+05:30",
+   "date": "2026-10-10",
+   "snip": "Increased enrolment, enhanced attendance, no complaints of hunger and more energy among students throughout the day were some of the key factors that emerged as focal points in the Telangana schools after the introduction of the breakfast scheme this academic year, according to a survey in Kodangal constituency by Third Vision Research and Services",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/opinion/editorial/delivery-completed-on-the-gst-council-meet-reforms/article71564732.ece",
+   "h": "Delivery completed: On the GST Council meet, reforms",
+   "link": "https://www.thehindu.com/opinion/editorial/delivery-completed-on-the-gst-council-meet-reforms/article71564732.ece",
+   "src": "The Hindu - Editorial",
+   "t": "2026-10-10T00:38:54+05:30",
+   "date": "2026-10-10",
+   "snip": "With the latest reforms, GST might finally become a ‘good and simple tax’",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 4
+  },
+  {
+   "id": "https://www.thehindu.com/opinion/editorial/beyond-forms-on-the-2026-nobel-prize-in-literature/article71564244.ece",
+   "h": "Beyond forms: On the 2026 Nobel Prize in Literature",
+   "link": "https://www.thehindu.com/opinion/editorial/beyond-forms-on-the-2026-nobel-prize-in-literature/article71564244.ece",
+   "src": "The Hindu - Editorial",
+   "t": "2026-10-10T00:36:25+05:30",
+   "date": "2026-10-10",
+   "snip": "The Nobel for Anne Carson celebrates experimentation and imagination",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/supreme-court-backs-tn-speakers-decision-to-drop-disqualification-proceedings-against-aiadmk-mlas/article71564397.ece",
+   "h": "Supreme Court backs T.N. Speaker’s decision to drop disqualification proceedings against AIADMK MLAs",
+   "link": "https://www.thehindu.com/news/national/supreme-court-backs-tn-speakers-decision-to-drop-disqualification-proceedings-against-aiadmk-mlas/article71564397.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-10T00:32:32+05:30",
+   "date": "2026-10-10",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/units-grappling-with-rising-costs-says-expert-at-vettri-tamil-nadu-msme-summit-2026/article71564229.ece",
+   "h": "Units grappling with rising costs, says expert at Vettri Tamil Nadu MSME Summit 2026",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/units-grappling-with-rising-costs-says-expert-at-vettri-tamil-nadu-msme-summit-2026/article71564229.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-10T00:22:13+05:30",
+   "date": "2026-10-10",
+   "snip": "According to S. Vasudevan, president of Tanstia, Micro and Small Enterprises are presently undergoing an extremely challenging phase due to the West Asia conflict and the continuous increase in production and operational costs",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/568-projects-proposed-under-udf-governments-100-day-action-plan-implemented-says-keralam-chief-minister/article71565293.ece",
+   "h": "568 projects proposed under UDF government’s 100-day action plan implemented, says Keralam Chief Minister",
+   "link": "https://www.thehindu.com/news/national/kerala/568-projects-proposed-under-udf-governments-100-day-action-plan-implemented-says-keralam-chief-minister/article71565293.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-10T00:05:30+05:30",
+   "date": "2026-10-10",
+   "snip": "Satheesan announces the government’s second ‘mission’ christened ‘Janasparsham’ -- a ‘File Adalat’ lasting from October 15 to December 31 to dispose of pending files",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/how-can-a-police-officer-aver-that-accused-will-abscond-because-he-is-a-north-indian-questions-madras-high-court/article71565175.ece",
+   "h": "How can a police officer aver that accused will abscond because he is a ‘North Indian?’ questions Madras High Court",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/how-can-a-police-officer-aver-that-accused-will-abscond-because-he-is-a-north-indian-questions-madras-high-court/article71565175.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-09T23:22:26+05:30",
+   "date": "2026-10-09",
+   "snip": "Justice N. Ramesh says such an averment is not appreciated and that a person’s place of origin cannot be a reason for apprehending that he may flee",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/andhra-pradesh/two-arrested-13-navy-personnel-among-18-under-scanner-for-alleged-leaks-to-pakistan-intelligence-operatives/article71551131.ece",
+   "h": "Two arrested; 13 Navy personnel among 18 under scanner for alleged leaks to Pakistan intelligence operatives",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/two-arrested-13-navy-personnel-among-18-under-scanner-for-alleged-leaks-to-pakistan-intelligence-operatives/article71551131.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-09T23:10:06+05:30",
+   "date": "2026-10-09",
+   "snip": "A civilian driver for naval officers and a sailor posted at the Visakhapatnam Naval Base are in judicial custody till October 14",
+   "cat": "Security",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/assault-on-child-child-rights-panel-registers-case/article71565555.ece",
+   "h": "Assault on child: child rights panel registers case",
+   "link": "https://www.thehindu.com/news/national/kerala/assault-on-child-child-rights-panel-registers-case/article71565555.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-09T23:10:02+05:30",
+   "date": "2026-10-09",
+   "snip": "The commission has sought details from the Parassala Station House Officer and the district child protection officer following media reports that the child was beaten up after she deleted WhatsApp from her mother’s phone",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/andhra-pradesh/how-did-a-pakistan-linked-spy-network-target-navys-eastern-command-and-how-was-it-cracked-explained/article71554274.ece",
+   "h": "How did a Pakistan-linked spy network target Navy’s Eastern Command, and how was it cracked? | Explained",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/how-did-a-pakistan-linked-spy-network-target-navys-eastern-command-and-how-was-it-cracked-explained/article71554274.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-09T23:08:16+05:30",
+   "date": "2026-10-09",
+   "snip": "Pakistani Operatives posing as women on Facebook moved servicemen to WhatsApp and sought ship and submarine movements; 18 suspects including 13 naval personnel are under probe and two are in custody",
+   "cat": "Security",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/supreme-court-rejects-ap-government-plea-to-restore-34-quota-for-backward-classes-in-local-bodies/article71563329.ece",
+   "h": "Supreme Court rejects A.P. government plea to restore 34% quota for Backward Classes in local bodies",
+   "link": "https://www.thehindu.com/news/national/supreme-court-rejects-ap-government-plea-to-restore-34-quota-for-backward-classes-in-local-bodies/article71563329.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-09T23:02:23+05:30",
+   "date": "2026-10-09",
+   "snip": "The top court says data from a unified family survey were insufficient to justify the enhanced reservation in the absence of a specific empirical assessment of backwardness and representation in local bodies",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321514",
    "h": "राज्यसभा के माननीय उप-सभापति श्री हरिवंश के नेतृत्व में भारतीय संसदीय प्रतिनिधिमंडल ने तंजानिया के अरुशा में आयोजित आईपीयू की 153वीं सभा के चौथे दिन, 08 अक्टूबर 2026 को अपनी भागीदारी जारी रखी",
@@ -866,6 +1010,18 @@
    "cat": "Economy",
    "gs": "GS3",
    "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/sci-tech/science/scientists-report-worlds-first-working-nuclear-clocks/article71537614.ece",
+   "h": "Scientists report world’s first working nuclear clocks",
+   "link": "https://www.thehindu.com/sci-tech/science/scientists-report-worlds-first-working-nuclear-clocks/article71537614.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-10-09T10:35:19+05:30",
+   "date": "2026-10-09",
+   "snip": "A laser’s electric field oscillates rapidly: positive, zero, negative, zero, positive, and so on. An atomic or nuclear clock counts these cycles like an old clock counts the swings of a pendulum",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 3
   },
   {
    "id": "https://www.thehindu.com/business/two-mumbai-based-firms-five-indian-nationals-face-us-sanctions-over-iran-oil-trade/article71561446.ece",
@@ -2512,6 +2668,18 @@
    "score": 2
   },
   {
+   "id": "https://www.thehindu.com/sci-tech/energy-and-environment/two-cheetahs-released-into-tiger-reserve-their-third-habitat-in-madhya-pradesh/article71556825.ece",
+   "h": "Two cheetahs released into tiger reserve, their third habitat in Madhya Pradesh",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/two-cheetahs-released-into-tiger-reserve-their-third-habitat-in-madhya-pradesh/article71556825.ece",
+   "src": "The Hindu - Environment",
+   "t": "2026-10-08T00:32:11+05:30",
+   "date": "2026-10-08",
+   "snip": "After Kuno National Park in Sheopur and Gandhi Sagar Wildlife Sanctuary in Mandsaur, the tiger reserve in Bundelkhand will be the third cheetah habitat in MP",
+   "cat": "Environment",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
    "id": "https://www.thehindu.com/news/national/karnataka/pointing-to-indus-water-treaty-karnataka-signals-intent-to-reopen-cauvery-water-consensus/article71556952.ece",
    "h": "Pointing to Indus Waters Treaty, Karnataka signals intent to revisit Cauvery water allocation",
    "link": "https://www.thehindu.com/news/national/karnataka/pointing-to-indus-water-treaty-karnataka-signals-intent-to-reopen-cauvery-water-consensus/article71556952.ece",
@@ -3218,6 +3386,18 @@
    "cat": "Economy",
    "gs": "GS3",
    "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/business/Industry/gradiant-bets-big-on-india-secures-five-contracts-including-semiconductor-fab/article71555160.ece",
+   "h": "Gradiant bets big on India, secures five contracts, including semiconductor fab",
+   "link": "https://www.thehindu.com/business/Industry/gradiant-bets-big-on-india-secures-five-contracts-including-semiconductor-fab/article71555160.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-10-07T16:41:29+05:30",
+   "date": "2026-10-07",
+   "snip": "Company appoints Hari Prasad as India MD as water-treatment firm wins five contracts across semiconductor, PCB and solar manufacturing",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
   },
   {
    "id": "https://www.thehindu.com/news/national/unable-to-distinguish-between-victim-and-perpetrator-india-slams-oic-remarks-at-un/article71555241.ece",
@@ -3950,42 +4130,6 @@
    "cat": "Environment",
    "gs": "GS3",
    "score": 5
-  },
-  {
-   "id": "https://www.thehindu.com/news/international/nepal-plans-to-drain-four-glacial-lakes-after-deadly-floods/article71538382.ece",
-   "h": "Nepal plans to drain four glacial lakes after deadly floods",
-   "link": "https://www.thehindu.com/news/international/nepal-plans-to-drain-four-glacial-lakes-after-deadly-floods/article71538382.ece",
-   "src": "The Hindu - Environment",
-   "t": "2026-10-02T23:39:03+05:30",
-   "date": "2026-10-02",
-   "snip": "The work of draining “through gated structures” will start after a detailed study, and could take up ⁠to six years to complete, said Sanjeeb Baral, the Centre’s executive director.",
-   "cat": "Geography",
-   "gs": "GS1",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/west-bengal/tigress-released-in-bengals-buxa-tiger-reserve-plans-afoot-for-three-more-by-end-of-year/article71536359.ece",
-   "h": "Buxa Reserve regains its stripes with the release of a three-year-old tigress",
-   "link": "https://www.thehindu.com/news/national/west-bengal/tigress-released-in-bengals-buxa-tiger-reserve-plans-afoot-for-three-more-by-end-of-year/article71536359.ece",
-   "src": "The Hindu - Environment",
-   "t": "2026-10-02T23:31:13+05:30",
-   "date": "2026-10-02",
-   "snip": "Three-year-old tigress translocated from Bihar’s Valmiki reserve; release marks beginning of phased efforts to establish viable, self-sustaining tiger population in Buxa",
-   "cat": "Environment",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/energy-and-environment/pay-the-global-south-for-climate-damage-but-only-if-it-prices-carbon-says-economist-greenstone/article71537394.ece",
-   "h": "Pay the Global South for climate damage, but only if it prices carbon, says economist Greenstone",
-   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/pay-the-global-south-for-climate-damage-but-only-if-it-prices-carbon-says-economist-greenstone/article71537394.ece",
-   "src": "The Hindu - Environment",
-   "t": "2026-10-02T23:23:53+05:30",
-   "date": "2026-10-02",
-   "snip": "Michael Greenstone, Director of the Energy Policy Institute of the University of Chicago, says that the exact parameters of agreements would have to be negotiated",
-   "cat": "Environment",
-   "gs": "GS3",
-   "score": 3
   }
  ]
 }
