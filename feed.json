@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T04:45:57.115232+05:30",
+ "updated": "2026-10-09T08:31:15.266831+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,54 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/national/andhra-pradesh/fishers-from-six-andhra-districts-seek-forest-rights-act-style-law-to-protect-fishing-grounds/article71559124.ece",
+   "h": "Fishers from coastal Andhra seek Forest Rights Act-style law to protect fishing grounds",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/fishers-from-six-andhra-districts-seek-forest-rights-act-style-law-to-protect-fishing-grounds/article71559124.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-09T08:02:28+05:30",
+   "date": "2026-10-09",
+   "snip": "At a consultation in Visakhapatnam, traditional fishers also ask for early warnings that reach boats at sea and compensation for the closed season",
+   "cat": "Environment",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/cities/bangalore/crawl-stop-repeat-the-rough-road-to-school-bengaluru/article71559102.ece",
+   "h": "Crawl, stop, repeat: The rough road to school in Bengaluru",
+   "link": "https://www.thehindu.com/news/cities/bangalore/crawl-stop-repeat-the-rough-road-to-school-bengaluru/article71559102.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-09T06:53:24+05:30",
+   "date": "2026-10-09",
+   "snip": "Children in some parts of Bengaluru struggle with long and arduous commute to schools. Meanwhile, residents suffer as roads around the schools are choked during peak hours. Chetan B.C. looks at the scenario and examines possible solutions...",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/business/two-mumbai-based-firms-five-indian-nationals-face-us-sanctions-over-iran-oil-trade/article71561446.ece",
+   "h": "Two Mumbai-based firms, five Indian nationals face U.S. sanctions over Iran oil trade",
+   "link": "https://www.thehindu.com/business/two-mumbai-based-firms-five-indian-nationals-face-us-sanctions-over-iran-oil-trade/article71561446.ece",
+   "src": "The Hindu - Business",
+   "t": "2026-10-09T06:36:30+05:30",
+   "date": "2026-10-09",
+   "snip": "The action against the Indian entities and individuals is part of the U.S. crackdown against Iran under Operation Economic Outcast",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/telangana/bhatti-seeks-protection-of-states-revenues-in-gst-reforms/article71560866.ece",
+   "h": "Bhatti seeks protection of States’ revenues in GST reforms",
+   "link": "https://www.thehindu.com/news/national/telangana/bhatti-seeks-protection-of-states-revenues-in-gst-reforms/article71560866.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-09T04:50:41+05:30",
+   "date": "2026-10-09",
+   "snip": "GST accounts for about 35% of Telangana’s own tax revenue and any decline in collections would directly affect expenditure on schools, hospitals, welfare programmes and infrastructure, he said",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
   {
    "id": "https://www.thehindu.com/news/national/punjab/cbi-raid-at-punjab-cm-camp-office-a-bjp-campaign-tactic-says-mann-bjp-says-dont-give-political-colour-to-hc-order/article71560255.ece",
    "h": "CBI raid at Punjab CM camp office a BJP campaign tactic, says Mann; BJP says don’t give political colour to HC order",
@@ -38,6 +86,18 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/international/europe-backs-ukraine-funding-but-tightens-anti-corruption-conditions/article71560310.ece",
+   "h": "Europe backs Ukraine funding but tightens anti-corruption conditions",
+   "link": "https://www.thehindu.com/news/international/europe-backs-ukraine-funding-but-tightens-anti-corruption-conditions/article71560310.ece",
+   "src": "The Hindu - International",
+   "t": "2026-10-09T03:32:57+05:30",
+   "date": "2026-10-09",
+   "snip": "Europe has moved to cover Ukraine’s 2026 defence funding gap, but its refusal to front-load promised aid has exposed unease over how Kyiv spends the money; new conditions on taxation and anti-graft oversight underline the EU’s demand for greater accountability as Ukraine’s financial needs rise",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
   },
   {
    "id": "https://www.thehindu.com/opinion/editorial/adequate-response-on-the-rbi-and-inflation/article71560012.ece",
