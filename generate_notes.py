@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Write UPSC study-note drafts for new feed items -> auto_notes.json.
 
-Runs after fetch_feeds.py in the GitHub Action. Needs the secret ANTHROPIC_API_KEY;
+Runs after fetch_feeds.py in the GitHub Action. Needs the secret GEMINI_API_KEY;
 without it the script exits quietly and the portal still works (hand-written notes only).
 
 Each note is an AI draft built from the article's own text (or its RSS summary when the
@@ -12,7 +12,7 @@ Cost controls (environment variables, all optional):
   NOTES_MAX_PER_RUN  notes per run            (default 6)
   NOTES_DAILY_CAP    notes per calendar day   (default 60)
   NOTES_MIN_SCORE    minimum relevance score  (default 4)
-  NOTES_MODEL        API model name           (default claude-sonnet-5-5)
+  GEMINI_MODEL        API model name           (default gemini-3.8-flash)
 """
 import json, os, re, sys, time, html, urllib.request, urllib.error
 from datetime import datetime, timezone, timedelta
@@ -20,8 +20,8 @@ from datetime import datetime, timezone, timedelta
 HERE = os.path.dirname(os.path.abspath(__file__))
 FEED = os.path.join(HERE, "feed.json")
 OUT = os.path.join(HERE, "auto_notes.json")
-KEY = os.environ.get("ANTHROPIC_API_KEY", "").strip()
-MODEL = os.environ.get("NOTES_MODEL", "claude-sonnet-5-5")
+KEY = os.environ.get("GEMINI_API_KEY", "").strip()
+MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.8-flash")
 MAX_PER_RUN = int(os.environ.get("NOTES_MAX_PER_RUN", "6"))
 DAILY_CAP = int(os.environ.get("NOTES_DAILY_CAP", "60"))
 MIN_SCORE = int(os.environ.get("NOTES_MIN_SCORE", "4"))
@@ -78,22 +78,28 @@ class AuthError(Exception):
 
 
 def call_llm(system, user):
-    body = json.dumps({"model": MODEL, "max_tokens": 1800, "system": system,
-                       "messages": [{"role": "user", "content": user}]}).encode()
+    body = json.dumps({
+        "systemInstruction": {"parts": [{"text": system}]},
+        "contents": [{"role": "user", "parts": [{"text": user}]}],
+        "generationConfig": {"maxOutputTokens": 1800, "responseMimeType": "application/json", "temperature": 0.2}
+    }).encode()
+    endpoint = "https://generativelanguage.googleapis.com/v1beta/models/%s:generateContent" % MODEL
     for attempt in range(3):
-        req = urllib.request.Request("https://api.anthropic.com/v1/messages", data=body, headers={
-            "x-api-key": KEY, "anthropic-version": "2023-06-01", "content-type": "application/json"})
+        req = urllib.request.Request(endpoint, data=body, headers={
+            "x-goog-api-key": KEY, "content-type": "application/json"})
         try:
             with urllib.request.urlopen(req, timeout=90) as r:
                 d = json.load(r)
-            return "".join(b.get("text", "") for b in d.get("content", []) if b.get("type") == "text")
+            parts = d.get("candidates", [{}])[0].get("content", {}).get("parts", [])
+            return "".join(p.get("text", "") for p in parts if isinstance(p, dict))
         except urllib.error.HTTPError as e:
-            if e.code in (401, 403):
-                raise AuthError("API key rejected (HTTP %s). Check the ANTHROPIC_API_KEY secret and your API credit." % e.code)
-            if e.code in (429, 500, 502, 503, 529) and attempt < 2:
+            detail = e.read()[:300]
+            if e.code in (401, 403) or b"API_KEY_INVALID" in detail:
+                raise AuthError("Gemini API key rejected (HTTP %s). Check the GEMINI_API_KEY GitHub secret and your Google AI Studio quota." % e.code)
+            if e.code in (429, 500, 502, 503, 504) and attempt < 2:
                 time.sleep(5 * (attempt + 1))
                 continue
-            raise RuntimeError("API error %s: %s" % (e.code, e.read()[:200]))
+            raise RuntimeError("API error %s: %s" % (e.code, detail))
     raise RuntimeError("API retries exhausted")
 
 
@@ -144,7 +150,7 @@ def load_json(path, default):
 
 def main():
     if not KEY:
-        print("ANTHROPIC_API_KEY is not set; skipping auto notes.")
+        print("GEMINI_API_KEY is not set; skipping auto notes.")
         return
     now = datetime.now(IST)
     today = now.strftime("%Y-%m-%d")
