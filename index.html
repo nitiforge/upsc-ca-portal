@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>UPSC Current Affairs – Daily Portal</title>
+<title>UPSC Current Affairs – Niti Pathshala × NitiForge</title>
 <style>
 :root{box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);
 --bg:#f6f4ef;--card:#fff;--ink:#1d2330;--mut:#6b7280;--line:#e4e0d6;--acc:#b45309;--acc2:#1e3a5f;--chip:#efe9dc}
@@ -54,6 +54,22 @@ dialog::backdrop{background:rgba(0,0,0,.45)}
 label{display:block;font:600 12px system-ui,sans-serif;margin:10px 0 3px;color:var(--mut)}
 .two{display:grid;grid-template-columns:1fr 1fr;gap:10px}
 textarea{min-height:70px;resize:vertical}
+.callout{background:rgba(245,158,11,.13);border:1px solid #f59e0b;border-radius:8px;padding:8px 10px;font:13px system-ui,sans-serif;margin-top:10px}
+.brand{font:700 11px system-ui,sans-serif;letter-spacing:.12em;color:var(--acc);text-transform:uppercase}
+.nbody p{margin:4px 0}.nbody ul{margin:4px 0;padding-left:20px}
+.dgm{overflow-x:auto;margin-top:6px;border:1px solid var(--line);border-radius:10px;padding:8px;background:var(--card)}
+.dgm svg{max-width:100%;height:auto;display:block;margin:0 auto}
+.dn{fill:var(--chip);stroke:var(--acc2);stroke-width:1.2}.dt{fill:var(--ink);font:12px system-ui,sans-serif}
+.de{stroke:var(--mut);stroke-width:1.4;fill:none}.da{fill:var(--mut)}
+.imgs{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:10px;margin-top:6px}
+.imgs figure{margin:0}.imgs img{width:100%;border-radius:8px;border:1px solid var(--line)}.imgs figcaption{font:12px system-ui,sans-serif;color:var(--mut)}
+dialog.wide{width:min(780px,96vw);max-height:92vh;overflow:auto}
+#printArea{display:none}
+@media print{
+ body.printing .wrap,body.printing dialog{display:none!important}
+ body.printing #printArea{display:block;--bg:#fff;--card:#fff;--ink:#111;--mut:#555;--line:#ccc;--acc:#b45309;--acc2:#1e3a5f;--chip:#f1ece0;color:#111;background:#fff;padding:0 4px}
+ body.printing{background:#fff}
+}
 .foot{color:var(--mut);font:12px system-ui,sans-serif;text-align:center;margin:20px 0 8px}
 </style>
 </head>
@@ -61,7 +77,7 @@ textarea{min-height:70px;resize:vertical}
 <div class="wrap">
   <header>
     <div>
-      <h1>UPSC Current Affairs · Daily Portal</h1>
+      <h1>UPSC Current Affairs · Niti Pathshala × NitiForge</h1>
       <div class="sub" id="dateLabel"></div>
     </div>
     <div class="bar" style="margin:0">
@@ -72,7 +88,8 @@ textarea{min-height:70px;resize:vertical}
   </header>
 
   <div class="tabs">
-    <button class="tab on" id="tFeed">Live Feed</button>
+    <button class="tab on" id="tOur">Our Notes</button>
+    <button class="tab" id="tFeed">Live Feed</button>
     <button class="tab" id="tTop">Top 10</button>
     <button class="tab" id="tNotes">My Notes</button>
   </div>
@@ -89,7 +106,7 @@ textarea{min-height:70px;resize:vertical}
   <div class="chips" id="gs"></div>
   <div class="chips" id="langs"></div>
   <div class="chips" id="srcs"></div>
-  <div class="bar">
+  <div class="bar" id="optBar">
     <label style="margin:0;display:flex;gap:6px;align-items:center"><input type="checkbox" id="allDays"> All dates</label>
     <label style="margin:0;display:flex;gap:6px;align-items:center"><input type="checkbox" id="byTime"> Newest first</label>
     <label style="margin:0;display:flex;gap:6px;align-items:center"><input type="checkbox" id="onlyBm"> Bookmarked only</label>
@@ -103,7 +120,7 @@ textarea{min-height:70px;resize:vertical}
     <button class="btn" id="impBtn">Import notes JSON</button>
     <input type="file" id="imp" accept=".json" hidden>
   </div>
-  <div class="foot">Live Feed lists headlines and links only; open the source for the full story. Notes are stored in this browser.</div>
+  <div class="foot">Our Notes are written by Niti Pathshala × NitiForge from official and press sources; verify against the source before quoting. Live Feed lists headlines and links only; open the source for the full story. Notes are stored in this browser.</div>
 </div>
 
 <dialog id="dlg">
@@ -133,6 +150,7 @@ textarea{min-height:70px;resize:vertical}
   <div class="sub" id="dMeta"></div>
   <div id="dSnip" style="margin:12px 0"></div>
   <a class="btn" id="dLink" target="_blank" rel="noopener noreferrer">Read original ↗</a>
+  <span id="dNote"></span>
   <hr style="border:0;border-top:1px solid var(--line);margin:14px 0 4px">
   <b style="font:600 13px system-ui,sans-serif;color:var(--acc)">MY NOTES FOR THIS ITEM</b>
   <div class="two"><div><label>Topic</label><select id="dC"></select></div><div><label>GS Paper</label><select id="dG"></select></div></div>
@@ -142,22 +160,102 @@ textarea{min-height:70px;resize:vertical}
   <div class="bar" style="margin-top:12px;justify-content:flex-end"><button class="btn" id="dCancel">Close</button><button class="btn p" id="dSave">Save notes</button></div>
 </dialog>
 
+<dialog id="dlgN" class="wide">
+  <div class="row noprint" style="margin-bottom:6px"><span class="sub">Our note</span>
+    <div><button class="btn" id="nPrint">Print / Save PDF</button> <button class="btn" id="nCopy">Copy text</button> <button class="ic" id="nx">✕</button></div></div>
+  <div id="nBody" class="nbody"></div>
+  <div class="bar noprint" style="margin-top:12px"><label class="btn" style="display:inline-block;margin:0;font:14px system-ui,sans-serif;color:var(--ink)">+ Add image<input type="file" id="nImg" accept="image/*" hidden></label><span class="sub">Your images are stored in this browser only.</span></div>
+</dialog>
+<div id="printArea" class="nbody"></div>
+
 <script>
 const CATS=["Polity","Economy","International Relations","Environment","Science & Tech","Society","History & Culture","Security","Geography"];
 const GSS=["GS1","GS2","GS3","GS4","Prelims","Essay"];
 const KEY="upsc-ca-portal-v2",REFRESH_MS=15*60*1000;
 const iso=d=>new Date(d.getTime()-d.getTimezoneOffset()*60000).toISOString().slice(0,10);
 const todayS=iso(new Date());
-let mem={entries:[],bm:[],theme:null};
+let mem={entries:[],bm:[],theme:null,imgs:{}};
 function load(){try{const r=localStorage.getItem(KEY);if(r)mem=Object.assign(mem,JSON.parse(r))}catch(e){}}
-function save(){try{localStorage.setItem(KEY,JSON.stringify(mem))}catch(e){}}
+function save(){try{localStorage.setItem(KEY,JSON.stringify(mem));return true}catch(e){return false}}
 const $=id=>document.getElementById(id);
 const esc=s=>String(s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-let view="feed",sel=todayS,fc=null,fg=null,fs=null,fl="en";
+let view="our",sel=todayS,fc=null,fg=null,fs=null,fl="en";
 const isHi=e=>/[\u0900-\u097F]/.test(e.h||"");
 const langOk=e=>fl==="all"||(isHi(e)?"hi":"en")===fl;
 let feed={items:[],updated:null},feedErr=null,nextAt=Date.now()+REFRESH_MS,lastOk=null;
 
+let ours=[],ourErr=null,curNote=null;
+async function pullNotes(){
+  try{const r=await fetch("notes.json?t="+Date.now(),{cache:"no-store"});if(!r.ok)throw new Error(r.status);ours=await r.json();ourErr=null}
+  catch(e){ourErr="notes.json not found. Upload notes.json next to index.html in your repo."}
+  render();
+}
+function keyHit(t,k){k=String(k||"").trim();if(!k)return false;
+  if(k.length<=4)return new RegExp("\\b"+k.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")+"\\b","i").test(t);
+  return t.includes(k.toLowerCase())}
+function noteFor(it){const t=((it.h||"")+" "+(it.snip||"")).toLowerCase();return ours.find(n=>(n.keys||[]).some(k=>keyHit(t,k)))}
+function wrapText(s,n){const w=String(s).split(/\s+/),out=[];let c="";for(const x of w){if((c+" "+x).trim().length>n&&c){out.push(c);c=x}else c=(c+" "+x).trim()}if(c)out.push(c);return out.slice(0,4)}
+function flowSvg(text){
+  const names=[],edges=[],idx=n=>{let i=names.indexOf(n);if(i<0){names.push(n);i=names.length-1}return i};
+  String(text).split("\n").forEach(l=>{const p=l.split("->").map(x=>x.trim()).filter(Boolean);for(let i=0;i<p.length;i++){idx(p[i]);if(i>0)edges.push([idx(p[i-1]),idx(p[i])])}});
+  if(!names.length)return"";
+  const depth=names.map(()=>0);
+  for(let k=0;k<names.length;k++){let ch=false;edges.forEach(([a,b])=>{if(a!==b&&depth[b]<depth[a]+1&&depth[a]+1<names.length){depth[b]=depth[a]+1;ch=true}});if(!ch)break}
+  const ds=[...new Set(depth)].sort((a,b)=>a-b),row=depth.map(d=>ds.indexOf(d)),rows=ds.map(()=>[]);
+  names.forEach((n,i)=>rows[row[i]].push(i));
+  const W=176,GX=16,GY=44,lines=names.map(n=>wrapText(n,24)),Hh=lines.map(l=>l.length*14+16);
+  const rowW=rows.map(r=>r.length*W+(r.length-1)*GX),total=Math.max(...rowW)+20;
+  const pos={};let y=10;
+  rows.forEach(r=>{const rh=Math.max(...r.map(i=>Hh[i]));let x=(total-(r.length*W+(r.length-1)*GX))/2;r.forEach(i=>{pos[i]={x,y,h:Hh[i]};x+=W+GX});y+=rh+GY});
+  const H=y-GY+10;
+  let s=`<svg viewBox="0 0 ${total} ${H}" width="${total}" role="img" aria-label="Flow diagram"><defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path class="da" d="M0 0L10 5L0 10z"/></marker></defs>`;
+  edges.forEach(([a,b])=>{if(row[b]<=row[a])return;const A=pos[a],B=pos[b],x1=A.x+W/2,y1=A.y+A.h,x2=B.x+W/2,y2=B.y,m=(y2-y1)/2;
+    s+=`<path class="de" marker-end="url(#ah)" d="M${x1} ${y1}C${x1} ${y1+m} ${x2} ${y2-m} ${x2} ${y2-1}"/>`});
+  names.forEach((n,i)=>{const P=pos[i];s+=`<rect class="dn" x="${P.x}" y="${P.y}" width="${W}" height="${P.h}" rx="8"/>`;
+    lines[i].forEach((ln,k)=>{s+=`<text class="dt" text-anchor="middle" x="${P.x+W/2}" y="${P.y+20+k*14}">${esc(ln)}</text>`})});
+  return s+"</svg>";
+}
+function treeSvg(text){
+  const rows=String(text).split("\n").filter(l=>l.trim()).map(l=>({lv:Math.floor(l.match(/^ */)[0].length/2),t:l.trim()}));
+  if(!rows.length)return"";
+  const RH=30,IND=26;let W=0;
+  rows.forEach((r,i)=>{r.w=r.t.length*6.6+22;r.x=8+r.lv*IND;r.y=4+i*RH;W=Math.max(W,r.x+r.w+8)});
+  const H=rows.length*RH+8;
+  let s=`<svg viewBox="0 0 ${W} ${H}" width="${W}" role="img" aria-label="Concept tree">`;
+  rows.forEach((r,i)=>{if(!r.lv)return;let p=i-1;while(p>=0&&rows[p].lv>=r.lv)p--;if(p<0)return;
+    s+=`<path class="de" d="M${rows[p].x+10} ${rows[p].y+24}V${r.y+12}H${r.x}"/>`});
+  rows.forEach(r=>{s+=`<rect class="dn" x="${r.x}" y="${r.y}" width="${r.w}" height="24" rx="6"/><text class="dt" x="${r.x+9}" y="${r.y+16}">${esc(r.t)}</text>`});
+  return s+"</svg>";
+}
+const para=t=>String(t||"").split("\n").filter(Boolean).map(x=>`<p>${esc(x)}</p>`).join("");
+function noteHtml(n){
+  const own=((mem.imgs||{})[n.id]||[]).map((d,k)=>({src:d.d,cap:d.cap,k})),all=(n.images||[]).map(i=>({src:i.src,cap:i.cap,k:-1})).concat(own);
+  const S=(t,b)=>b?`<div class="sec"><b>${t}</b>${b}</div>`:"";
+  const dg=n.diagram&&n.diagram.text?(n.diagram.type==="tree"?treeSvg(n.diagram.text):flowSvg(n.diagram.text)):"";
+  return `<div class="brand">Niti Pathshala × NitiForge · UPSC Current Affairs Notes</div>
+  <h2 style="font-size:21px;line-height:1.3;margin:6px 0">${esc(n.title)}</h2>
+  <div class="tags"><span class="tag gs">${esc(n.gs)}</span><span class="tag">${esc(n.cat)}</span><span class="tag">${esc(n.date)}</span><span class="tag">${esc(n.src)}</span></div>
+  ${n.check?`<div class="callout"><b>Verify:</b> ${esc(n.check)}</div>`:""}
+  ${S("Why in news",para(n.why))}${S("Background",para(n.background))}${S("Key points",ul(n.key))}
+  ${dg?S("Concept diagram",`<div class="dgm">${dg}</div>`):""}
+  ${S("Prelims facts",ul(n.pre))}${S("Mains angle",para(n.mains))}${S("Way forward",para(n.way))}
+  ${all.length?S("Images",`<div class="imgs">${all.map(i=>`<figure><img src="${esc(i.src)}" alt="${esc(i.cap||"note image")}">${i.cap?`<figcaption>${esc(i.cap)}</figcaption>`:""}${i.k>=0?`<button class="ic noprint" data-di="${esc(n.id)}|${i.k}" title="Remove image">🗑</button>`:""}</figure>`).join("")}</div>`):""}
+  ${n.link?`<div class="sub noprint" style="margin-top:10px">Source: <a href="${esc(n.link)}" target="_blank" rel="noopener noreferrer">${esc(n.src)} ↗</a></div>`:""}
+  <div class="sub" style="margin-top:10px">Prepared by Niti Pathshala × NitiForge. Verify facts against the original source before quoting.</div>`;
+}
+function openNote(id){
+  const n=ours.find(x=>x.id===id);if(!n)return;curNote=n;
+  if($("dlgD").open)$("dlgD").close();
+  $("nBody").innerHTML=noteHtml(n);$("nCopy").textContent="Copy text";
+  if(!$("dlgN").open)$("dlgN").showModal();
+}
+function noteText(n){
+  const L=a=>(a||[]).map(x=>"• "+x).join("\n");
+  return [`Niti Pathshala × NitiForge · ${n.title}`,`${n.gs} | ${n.cat} | ${n.date}`,n.check?"VERIFY: "+n.check:"","WHY IN NEWS\n"+n.why,"BACKGROUND\n"+n.background,"KEY POINTS\n"+L(n.key),"PRELIMS FACTS\n"+L(n.pre),"MAINS ANGLE\n"+n.mains,n.way?"WAY FORWARD\n"+n.way:""].filter(Boolean).join("\n\n");
+}
+function ourList(q){
+  return ours.filter(n=>(!fc||n.cat===fc)&&(!fg||n.gs===fg)&&(!q||JSON.stringify(n).toLowerCase().includes(q))).sort((a,b)=>(b.date||"").localeCompare(a.date||""));
+}
 async function pullFeed(){
   try{
     const r=await fetch("feed.json?t="+Date.now(),{cache:"no-store"});
@@ -172,7 +270,7 @@ function tick(){
   $("liveBar").innerHTML=(view==="feed"||view==="top")?`<span class="live ${feedErr?"off":""}"></span>${feedErr?esc(feedErr):`Auto-refresh in ${m}:${ss} · Latest item: ${latest} IST · Checked ${lastOk?lastOk.toLocaleTimeString("en-IN"):"–"}`}`:"";
 }
 function chips(){
-  $("langs").innerHTML=view==="notes"?"":[["en","English"],["hi","हिन्दी"],["all","Both"]].map(([k,l])=>`<button class="chip ${fl===k?"on":""}" data-l="${k}">${l}</button>`).join("");
+  $("langs").innerHTML=(view==="notes"||view==="our")?"":[["en","English"],["hi","हिन्दी"],["all","Both"]].map(([k,l])=>`<button class="chip ${fl===k?"on":""}" data-l="${k}">${l}</button>`).join("");
   $("cats").innerHTML=["All",...CATS].map(c=>`<button class="chip ${(fc||"All")===c?"on":""}" data-c="${c}">${c}</button>`).join("");
   $("gs").innerHTML=["All papers",...GSS].map(c=>`<button class="chip ${(fg||"All papers")===c?"on":""}" data-g="${c}">${c}</button>`).join("");
   const srcs=view==="feed"?[...new Set((feed.items||[]).map(i=>i.src))]:[];
@@ -193,12 +291,23 @@ function matches(e,q,all,bm){
 const ul=a=>a&&a.length?`<ul>${a.map(x=>`<li>${esc(x)}</li>`).join("")}</ul>`:"";
 function render(){
   $("date").value=sel;
-  $("dateLabel").textContent=new Date(sel+"T00:00:00").toLocaleDateString("en-IN",{weekday:"long",day:"numeric",month:"long",year:"numeric"});
-  $("tFeed").classList.toggle("on",view==="feed");$("tTop").classList.toggle("on",view==="top");$("tNotes").classList.toggle("on",view==="notes");
+  $("dateLabel").textContent=view==="our"?"Our own study notes, written from official and press sources":new Date(sel+"T00:00:00").toLocaleDateString("en-IN",{weekday:"long",day:"numeric",month:"long",year:"numeric"});
+  $("tOur").classList.toggle("on",view==="our");$("tFeed").classList.toggle("on",view==="feed");$("tTop").classList.toggle("on",view==="top");$("tNotes").classList.toggle("on",view==="notes");
   $("refresh").style.display=(view==="feed"||view==="top")?"":"none";
   $("addBtn").style.display=view==="notes"?"":"none";
+  ["prev","date","next","today"].forEach(i=>$(i).style.display=view==="our"?"none":"");$("optBar").style.display=view==="our"?"none":"";
   chips();tick();
   const q=$("q").value.trim().toLowerCase(),all=$("allDays").checked||!!q,bm=$("onlyBm").checked;
+  if(view==="our"){
+    const L=ourList(q);
+    $("stats").innerHTML=`<span>${L.length} shown</span><span>${ours.length} notes</span>`;
+    $("list").innerHTML=L.length?L.map(n=>`<article class="card">
+      <div class="tags"><span class="tag gs">${esc(n.gs)}</span><span class="tag">${esc(n.cat)}</span><span class="tag">${esc(n.date)}</span>${n.diagram?'<span class="tag">Diagram</span>':""}${n.check?'<span class="tag sample">Verify one point</span>':""}</div>
+      <h3><a href="#" data-n="${esc(n.id)}">${esc(n.title)}</a></h3>
+      <div class="sub" style="font-family:Georgia,serif;font-size:14px">${esc((n.why||"").length>260?n.why.slice(0,260)+"…":(n.why||""))}</div>
+      <div style="margin-top:8px"><button class="btn p" data-n="${esc(n.id)}">Open full note</button></div></article>`).join(""):`<div class="empty">${ourErr?esc(ourErr):"No notes match this filter."}</div>`;
+    return;
+  }
   if(view==="feed"||view==="top"){
     const L=view==="top"?top10(sel):(feed.items||[]).filter(e=>matches(e,q,all,bm)&&(!fs||e.src===fs)&&langOk(e));
     if(view==="feed"&&!$("byTime").checked)L.sort((a,b)=>(b.score||0)-(a.score||0)||b.t.localeCompare(a.t));
@@ -208,7 +317,7 @@ function render(){
       <div><button class="ic ${mem.bm.includes(e.id)?"on":""}" data-b="${esc(e.id)}" title="Bookmark">${mem.bm.includes(e.id)?"★":"☆"}</button></div></div>
       <h3><a href="#" data-o="${esc(e.id)}">${esc(e.h)}</a></h3>
       ${e.snip?`<div class="sub" style="font-family:Georgia,serif;font-size:14px">${esc(e.snip.length>220?e.snip.slice(0,220)+"…":e.snip)}</div>`:""}
-      <div style="margin-top:8px"><button class="btn" data-o="${esc(e.id)}">Open details &amp; notes</button> <a class="sub" href="${esc(e.link)}" target="_blank" rel="noopener noreferrer" style="margin-left:8px">Original ↗</a></div>
+      <div style="margin-top:8px">${(()=>{const n=noteFor(e);return n?`<button class="btn p" data-n="${esc(n.id)}">★ Our note</button> `:""})()}<button class="btn" data-o="${esc(e.id)}">Open details &amp; notes</button> <a class="sub" href="${esc(e.link)}" target="_blank" rel="noopener noreferrer" style="margin-left:8px">Original ↗</a></div>
     </article>`).join(""):`<div class="empty">${feedErr?"Feed not loaded yet.":view==="top"?"No feed items for this date yet.":"Nothing for this date/filter. Try “All dates” or another day."}</div>`;
   }else{
     const L=mem.entries.filter(e=>matches(e,q,all,bm)).sort((a,b)=>b.date.localeCompare(a.date));
@@ -243,7 +352,9 @@ $("fC").innerHTML=CATS.map(c=>`<option>${c}</option>`).join("");
 $("addBtn").onclick=()=>openDlg();$("cancel").onclick=$("x").onclick=()=>$("dlg").close();
 document.addEventListener("click",ev=>{
   const t=ev.target;
-  if(t.closest&&t.closest("a[data-o],a[data-e]"))ev.preventDefault();
+  if(t.closest&&t.closest("a[data-o],a[data-e],a[data-n]"))ev.preventDefault();
+  if(t.dataset.n)openNote(t.dataset.n);
+  if(t.dataset.di){const[id,k]=t.dataset.di.split("|");if(confirm("Remove this image?")){(mem.imgs[id]||[]).splice(+k,1);save();if(curNote)$("nBody").innerHTML=noteHtml(curNote)}}
   if(t.dataset.l){fl=t.dataset.l;render()}
   if(t.dataset.o)openDetail(t.dataset.o);
   if(t.dataset.c){fc=t.dataset.c==="All"?null:t.dataset.c;render()}
@@ -262,7 +373,7 @@ function openDetail(id){
   $("dH").textContent=f.h;
   $("dMeta").textContent=new Date(f.t).toLocaleString("en-IN",{dateStyle:"medium",timeStyle:"short"})+" IST";
   $("dSnip").textContent=f.snip||"The source did not provide a summary for this item. Use “Read original” if you need the full text.";
-  $("dLink").href=f.link;
+  $("dLink").href=f.link;{const rn=noteFor(f);$("dNote").innerHTML=rn?` <button class="btn p" data-n="${esc(rn.id)}">★ Our note</button>`:""}
   $("dC").value=n?n.cat:f.cat;$("dG").value=n?n.gs:f.gs;
   $("dK").value=n?(n.key||[]).join("\n"):"";$("dP").value=n?(n.pre||[]).join("\n"):"";$("dM").value=n?(n.mains||""):"";
   $("dSave").textContent="Save notes";$("dlgD").showModal();
@@ -274,7 +385,20 @@ $("dSave").onclick=()=>{
   save();$("dSave").textContent="Saved ✓";render();
 };
 $("dCancel").onclick=$("dx").onclick=()=>$("dlgD").close();
-$("tFeed").onclick=()=>{view="feed";render()};$("tTop").onclick=()=>{view="top";render()};$("tNotes").onclick=()=>{view="notes";render()};
+$("tOur").onclick=()=>{view="our";render()};$("tFeed").onclick=()=>{view="feed";render()};$("tTop").onclick=()=>{view="top";render()};$("tNotes").onclick=()=>{view="notes";render()};
+$("nx").onclick=()=>$("dlgN").close();
+$("nCopy").onclick=async()=>{if(!curNote)return;const t=noteText(curNote);try{await navigator.clipboard.writeText(t);$("nCopy").textContent="Copied ✓"}catch(e){prompt("Copy note:",t)}};
+$("nPrint").onclick=()=>{const pa=$("printArea");pa.innerHTML=$("nBody").innerHTML;pa.querySelectorAll(".noprint").forEach(x=>x.remove());document.body.classList.add("printing");setTimeout(()=>window.print(),60)};
+window.addEventListener("afterprint",()=>{document.body.classList.remove("printing");$("printArea").innerHTML=""});
+$("nImg").onchange=e=>{
+  const f=e.target.files[0];e.target.value="";if(!f||!curNote)return;
+  const r=new FileReader();r.onload=()=>{const im=new Image();im.onload=()=>{
+    const s=Math.min(1,900/im.width),c=document.createElement("canvas");c.width=Math.round(im.width*s);c.height=Math.round(im.height*s);
+    c.getContext("2d").drawImage(im,0,0,c.width,c.height);
+    const d=c.toDataURL("image/jpeg",.8),cap=prompt("Caption for this image (optional)")||"";
+    mem.imgs=mem.imgs||{};const a=(mem.imgs[curNote.id]=mem.imgs[curNote.id]||[]);a.push({d,cap});
+    if(!save()){a.pop();alert("Browser storage is full. Remove an image or export your notes first.");return}
+    $("nBody").innerHTML=noteHtml(curNote)};im.onerror=()=>alert("That file could not be read as an image.");im.src=r.result};r.readAsDataURL(f)};
 const shift=n=>{const d=new Date(sel+"T00:00:00");d.setDate(d.getDate()+n);sel=iso(d);render()};
 $("prev").onclick=()=>shift(-1);$("next").onclick=()=>shift(1);$("today").onclick=()=>{sel=todayS;render()};
 $("date").onchange=e=>{if(e.target.value){sel=e.target.value;render()}};
@@ -286,13 +410,13 @@ $("digestBtn").onclick=async()=>{
   try{await navigator.clipboard.writeText(t);$("digestBtn").textContent="Copied ✓"}catch(e){prompt("Copy digest:",t)}
   setTimeout(()=>$("digestBtn").textContent="Copy digest",1500);
 };
-$("exp").onclick=()=>{const b=new Blob([JSON.stringify({entries:mem.entries,bm:mem.bm},null,2)],{type:"application/json"});const a=document.createElement("a");a.href=URL.createObjectURL(b);a.download="upsc-notes-"+todayS+".json";a.click()};
+$("exp").onclick=()=>{const b=new Blob([JSON.stringify({entries:mem.entries,bm:mem.bm,imgs:mem.imgs||{}},null,2)],{type:"application/json"});const a=document.createElement("a");a.href=URL.createObjectURL(b);a.download="upsc-notes-"+todayS+".json";a.click()};
 $("impBtn").onclick=()=>$("imp").click();
-$("imp").onchange=e=>{const f=e.target.files[0];if(!f)return;const r=new FileReader();r.onload=()=>{try{const d=JSON.parse(r.result);const ids=new Set(mem.entries.map(x=>x.id));(d.entries||[]).forEach(x=>{if(!ids.has(x.id))mem.entries.push(x)});(d.bm||[]).forEach(b=>{if(!mem.bm.includes(b))mem.bm.push(b)});save();render()}catch(err){alert("Invalid file")}};r.readAsText(f)};
+$("imp").onchange=e=>{const f=e.target.files[0];if(!f)return;const r=new FileReader();r.onload=()=>{try{const d=JSON.parse(r.result);const ids=new Set(mem.entries.map(x=>x.id));(d.entries||[]).forEach(x=>{if(!ids.has(x.id))mem.entries.push(x)});(d.bm||[]).forEach(b=>{if(!mem.bm.includes(b))mem.bm.push(b)});mem.imgs=mem.imgs||{};Object.entries(d.imgs||{}).forEach(([k,v])=>{if(!mem.imgs[k])mem.imgs[k]=v});save();render()}catch(err){alert("Invalid file")}};r.readAsText(f)};
 $("themeBtn").onclick=()=>{const dark=document.documentElement.dataset.theme==="dark"||(!document.documentElement.dataset.theme&&matchMedia("(prefers-color-scheme:dark)").matches);
   document.documentElement.dataset.theme=dark?"light":"dark";mem.theme=document.documentElement.dataset.theme;save()};
 load();if(mem.theme)document.documentElement.dataset.theme=mem.theme;
-render();pullFeed();setInterval(pullFeed,REFRESH_MS);setInterval(tick,1000);
+render();pullNotes();pullFeed();setInterval(pullFeed,REFRESH_MS);setInterval(tick,1000);
 document.addEventListener("visibilitychange",()=>{if(!document.hidden&&Date.now()>nextAt)pullFeed()});
 </script>
 </body>

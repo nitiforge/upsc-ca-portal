@@ -1,0 +1,265 @@
+[
+ {
+  "id": "itla-2026-10-06",
+  "title": "Cabinet approves Integrated Transport & Logistics Authority (ITLA)",
+  "date": "2026-10-06",
+  "cat": "Economy",
+  "gs": "GS3",
+  "src": "PIB / AIR News",
+  "link": "https://newsonair.gov.in/union-cabinet-approves-integrated-transport-and-logistics-authority/",
+  "keys": [
+   "Integrated Transport",
+   "ITLA"
+  ],
+  "pinned": true,
+  "why": "On 6 Oct 2026 the Union Cabinet approved a Special Purpose Vehicle, the Integrated Transport & Logistics Authority (ITLA), to act as the apex body for transport and logistics planning, research, project appraisal, monitoring and data analytics.",
+  "background": "Transport planning in India is spread across separate ministries (roads, railways, ports, civil aviation, waterways), which leads to fragmented plans and higher logistics costs. Earlier steps include PM GatiShakti (2021) and the National Logistics Policy (2022). ITLA is meant to give integrated planning a permanent institutional home.",
+  "key": [
+   "Form: Special Purpose Vehicle (SPV) set up by Cabinet decision of 6 Oct 2026.",
+   "Prepares a National Transport Master Plan with a horizon of 10+ years covering roads, railways, ports and shipping, civil aviation, inland waterways, coastal shipping, urban mobility and logistics.",
+   "Evaluates 5-year sectoral plans and annual plans of transport ministries so they stay aligned with the master plan.",
+   "Builds a National Transport Data Repository (NTDR) using GSTN e-way bill, FASTag, Vahan, GPS-based and urban traffic data.",
+   "Monitors transport and infrastructure projects above Rs 500 crore and does post-implementation impact assessment (as reported).",
+   "Advises on review of the National Logistics Policy 2022; also capacity building, skilling, research and innovation."
+  ],
+  "pre": [
+   "ITLA = SPV; NTDR = National Transport Data Repository",
+   "Data sources named: e-way bill (GSTN), FASTag, Vahan",
+   "Linked to National Logistics Policy 2022 and Vision 2047 goals (lower logistics cost, global competitiveness)",
+   "Announced by Minister Ashwini Vaishnaw after the Cabinet meeting chaired by PM Modi"
+  ],
+  "mains": "Q: Fragmented planning is a key reason for high logistics costs in India. Examine how an integrated planning authority can help.\nAngle: multimodal integration, data-driven appraisal, cost and time overruns, Centre-State coordination. Also discuss risks: overlap with PM GatiShakti's Network Planning Group and ministries, and the fact that an SPV is an executive creation without statutory powers.",
+  "way": "Give ITLA clear institutional powers, avoid overlap with GatiShakti, publish the Master Plan and open data, align with States, and link outcomes to measurable logistics-cost targets.",
+  "diagram": {
+   "type": "tree",
+   "text": "ITLA (Special Purpose Vehicle)\n  Plan\n    National Transport Master Plan (10+ years)\n    Align 5-year and annual ministry plans\n  Monitor\n    Projects above Rs 500 crore\n    Post-implementation impact assessment\n  Data\n    National Transport Data Repository\n      e-way bill, FASTag, Vahan, GPS\n  Policy\n    Review National Logistics Policy 2022\n    Research, skilling, innovation"
+  },
+  "images": [],
+  "tags": [],
+  "check": ""
+ },
+ {
+  "id": "sme-growth-fund-2026-10-06",
+  "title": "Cabinet approves Rs 10,000 crore SME Growth Fund",
+  "date": "2026-10-06",
+  "cat": "Economy",
+  "gs": "GS3",
+  "src": "AIR News / PIB",
+  "link": "https://newsonair.gov.in/union-cabinet-approves-integrated-transport-and-logistics-authority/",
+  "keys": [
+   "SME Growth Fund",
+   "Small and Medium Enterprises Growth"
+  ],
+  "check": "The fund structure (Alternative Investment Fund, Budget para 28) is reported by secondary sources. Confirm in the PIB Cabinet release.",
+  "why": "The Cabinet on 6 Oct 2026 approved a Rs 10,000 crore SME Growth Fund to make equity investments in small and medium enterprises.",
+  "background": "SMEs are a large source of jobs and exports, but many lack long-term equity capital; most support so far has been credit-based. Reports link the fund to the Union Budget 2026-27 announcement and describe a Government commitment to an Alternative Investment Fund (AIF).",
+  "key": [
+   "Rs 10,000 crore SME Growth Fund for equity investments in SMEs.",
+   "Aim: long-term equity capital for high-potential SMEs with proven business viability and the ability to scale.",
+   "Most of the money is meant for manufacturing-focused SMEs; also services, technology, innovation-driven sectors and strategic value chains.",
+   "Reported as linked to Union Budget 2026-27 (para 28) and routed through an AIF."
+  ],
+  "pre": [
+   "AIF = Alternative Investment Fund (regulated by SEBI)",
+   "Equity support, not debt: different from credit-guarantee schemes",
+   "Approved 6 Oct 2026; announced by Minister Ashwini Vaishnaw"
+  ],
+  "mains": "Q: Credit alone cannot scale MSMEs; discuss the role of equity funding.\nAngle: Fund-of-funds style support, scaling gap, manufacturing push, risks (fund-manager selection, exits, concentration in a few firms).",
+  "way": "Transparent fund-manager selection, focus on manufacturing clusters, mix patient capital with market discipline, and track jobs and exports outcomes.",
+  "diagram": {
+   "type": "flow",
+   "text": "Union Budget 2026-27 announcement -> Cabinet approves Rs 10,000 crore SME Growth Fund\nCabinet approves Rs 10,000 crore SME Growth Fund -> Long-term equity to high-potential SMEs\nLong-term equity to high-potential SMEs -> Majority to manufacturing SMEs\nLong-term equity to high-potential SMEs -> Services, technology and strategic value chains"
+  },
+  "images": [],
+  "tags": []
+ },
+ {
+  "id": "ncm-2-2026-09-30",
+  "title": "National Coastal Mission (NCM) 2.0 guidelines launched",
+  "date": "2026-09-30",
+  "cat": "Environment",
+  "gs": "GS3",
+  "src": "PIB / AIR News",
+  "link": "https://newsonair.gov.in/environment-minister-bhupender-yadav-launches-guidelines-for-national-coastal-mission-2-0/",
+  "keys": [
+   "National Coastal Mission",
+   "NCM 2.0"
+  ],
+  "why": "Environment Minister Bhupender Yadav launched the implementation guidelines for National Coastal Mission (NCM) 2.0 on 30 Sep 2026.",
+  "background": "NCM 1.0 ran from 2021-22 to 2025-26 and supported mangroves and coral reefs, coastal and marine research, and beach development. NCM 2.0 subsumes it. Coastal development is also regulated through the CRZ Notification, 2019 under the Environment (Protection) Act, 1986.",
+  "key": [
+   "Central Sector Scheme with an approved outlay of Rs 767 crore for 2025-26 to 2030-31.",
+   "Covers 9 coastal States and 4 Union Territories.",
+   "Components: vulnerability assessment, ecosystem restoration, pollution management, biodiversity conservation, sustainable tourism, spatial planning, research and capacity building.",
+   "Guidelines promote a whole-of-government approach, clarify roles of the Centre, State Coastal Zone Management Authorities (SCZMAs) and district bodies, and strengthen monitoring.",
+   "Aim: stronger coastal resilience and unlocking the Blue Economy."
+  ],
+  "pre": [
+   "9 States: Gujarat, Maharashtra, Goa, Karnataka, Kerala, Tamil Nadu, Andhra Pradesh, Odisha, West Bengal",
+   "4 UTs: Dadra & Nagar Haveli and Daman & Diu, Andaman & Nicobar Islands, Puducherry, Lakshadweep",
+   "Nodal ministry: MoEFCC; NCM 1.0 period 2021-22 to 2025-26",
+   "Central Sector Scheme = funded fully by the Union Government",
+   "Blue Economy = sustainable use of ocean and coastal resources for growth and jobs"
+  ],
+  "mains": "Q: Coastal regions face erosion, sea-level rise and pollution. Evaluate India's institutional response (NCM 2.0, CRZ 2019).\nAngle: mangroves and coral reefs as natural buffers, fishing-community livelihoods, convergence with other schemes, SCZMA capacity, Blue Economy versus ecological limits.",
+  "way": "Strengthen SCZMAs, use shoreline-change data for planning, protect mangroves and coral, involve fishing communities, and measure outcomes and not only spending.",
+  "diagram": {
+   "type": "tree",
+   "text": "NCM 2.0 (Central Sector, Rs 767 crore, till 2030-31)\n  Coverage\n    9 coastal States\n    4 Union Territories\n  Components\n    Vulnerability assessment\n    Ecosystem restoration\n    Pollution management\n    Biodiversity, sustainable tourism\n    Spatial planning, research, capacity\n  Aim\n    Coastal resilience\n    Blue Economy"
+  },
+  "images": [],
+  "tags": [],
+  "check": ""
+ },
+ {
+  "id": "india-efta-tepa-2026-10-05",
+  "title": "Swiss President's State visit marks one year of India-EFTA TEPA",
+  "date": "2026-10-05",
+  "cat": "International Relations",
+  "gs": "GS2",
+  "src": "MEA / Swiss Government",
+  "link": "https://www.admin.ch/en/newnsb/JCmjlmrgdWi8",
+  "keys": [
+   "EFTA",
+   "TEPA",
+   "Parmelin",
+   "Switzerland"
+  ],
+  "why": "Swiss President Guy Parmelin made his first State visit to India (5-7 Oct 2026), marking one year since the India-EFTA Trade and Economic Partnership Agreement (TEPA) came into force. PM Modi and Parmelin held talks and exchanged MoUs on 5 Oct; the 2nd India-EFTA Prosperity Summit was scheduled for 7 Oct.",
+  "background": "EFTA comprises Iceland, Liechtenstein, Norway and Switzerland (none is an EU member). TEPA was signed on 10 March 2024 and came into force on 1 October 2025. PM Modi described it as India's first FTA with an economic bloc in Europe. The EFTA side has committed to promote USD 100 billion of investment and 1 million jobs in India over 15 years (as per MEA / India Year Book).",
+  "key": [
+   "Visit: 5-7 Oct 2026; Parmelin's first State visit to India and second visit this year (earlier at the AI Impact Summit, Feb 2026).",
+   "5 Oct: meetings with President Murmu, EAM Jaishankar and PM Modi; several MoUs exchanged, including on trade and opportunities for young professionals.",
+   "6 Oct programme included a visit to Noida International Airport, operated by a subsidiary of Zurich Airport.",
+   "7 Oct: 2nd India-EFTA Prosperity Summit to mark TEPA's first anniversary.",
+   "Switzerland is India's largest trade and investment partner among EFTA countries; 330+ Swiss companies operate in India."
+  ],
+  "pre": [
+   "EFTA: Iceland, Liechtenstein, Norway, Switzerland",
+   "TEPA signed 10 Mar 2024; in force 1 Oct 2025",
+   "TEPA = Trade and Economic Partnership Agreement; India's first FTA with a European economic bloc",
+   "Headline commitment: USD 100 billion investment and 10 lakh jobs over 15 years"
+  ],
+  "mains": "Q: Examine the significance of TEPA for India's trade diplomacy.\nAngle: investment-linked FTA model (not tariff cuts alone), market access for Swiss machinery and precision goods, India's asks on services and mobility, lessons for India-EU talks, commonly raised concerns on IPR and data exclusivity, supply-chain diversification.",
+  "way": "Track delivery of investment commitments, ensure benefits reach MSMEs and services, protect public-health flexibilities in IPR, and use TEPA as a template for other FTAs.",
+  "diagram": {
+   "type": "flow",
+   "text": "TEPA signed (10 Mar 2024) -> TEPA in force (1 Oct 2025)\nTEPA in force (1 Oct 2025) -> Swiss President State visit (5-7 Oct 2026)\nSwiss President State visit (5-7 Oct 2026) -> Talks and MoUs (5 Oct)\nSwiss President State visit (5-7 Oct 2026) -> 2nd India-EFTA Prosperity Summit (7 Oct)"
+  },
+  "images": [],
+  "tags": [],
+  "check": ""
+ },
+ {
+  "id": "rbi-mpc-2026-10-07",
+  "title": "RBI MPC (5-7 Oct 2026): framework, repo rate and transmission",
+  "date": "2026-10-07",
+  "cat": "Economy",
+  "gs": "GS3",
+  "src": "RBI / press reports",
+  "link": "https://www.rbi.org.in",
+  "keys": [
+   "repo rate",
+   "Monetary Policy Committee",
+   "MPC"
+  ],
+  "check": "The MPC outcome announced on 7 Oct 2026 is NOT captured here. Read the Governor's statement at rbi.org.in and add the decision to your own notes.",
+  "why": "RBI's Monetary Policy Committee met 5-7 Oct 2026 with the decision due on 7 Oct at 10 am. Before the meeting the repo rate was 5.25% with a neutral stance, and analysts were split between a hold and the first hike since February 2023.",
+  "background": "The August 2026 MPC (3-5 Aug) kept the repo rate unchanged at 5.25% by a unanimous 6-0 vote and retained the neutral stance. The last rate change was a cut to 5.25% in December 2025. RBI expected headline inflation to peak in Oct-Dec before easing, amid uncertainty linked to the West Asia conflict (as reported).",
+  "key": [
+   "MPC has 6 members: RBI Governor (chair), Deputy Governor in charge of monetary policy, one RBI officer nominated by the Central Board, and three external members.",
+   "Pre-meeting rates: repo 5.25%; SDF 5.00% (floor of the corridor); MSF and Bank Rate 5.50% (ceiling).",
+   "Stance: neutral, so decisions stay data-dependent.",
+   "Pre-decision views: SBI Research and Nomura expected a 25 bps hike in October; Bank of Baroda expected a hold with hikes from December."
+  ],
+  "pre": [
+   "Repo rate: rate at which RBI lends to banks against government securities (under LAF)",
+   "SDF (Standing Deposit Facility): floor of the corridor; banks park funds without collateral; introduced April 2022",
+   "MSF: ceiling rate for overnight borrowing against G-secs; Bank Rate is aligned to MSF",
+   "Inflation target: 4% with a 2% band either side (flexible inflation targeting)",
+   "MPC is statutory under the RBI Act, 1934 (Section 45ZB); meets at least four times a year"
+  ],
+  "mains": "Q: Explain how a repo rate change transmits to the real economy.\nAngle: repo to EBLR-linked loans (fast) and MCLR loans (slow), then deposit rates, demand and inflation; role of liquidity operations, exchange rate and oil prices; growth-inflation trade-off; why a neutral stance gives flexibility.",
+  "way": "In answers, always tie the rate action to the inflation outlook, growth and external shocks, and mention transmission lags and the shift to external-benchmark lending.",
+  "diagram": {
+   "type": "flow",
+   "text": "MPC changes repo rate -> Banks adjust EBLR and MCLR\nBanks adjust EBLR and MCLR -> Lending and deposit rates change\nLending and deposit rates change -> Borrowing, investment, consumption\nBorrowing, investment, consumption -> Demand and inflation\nDemand and inflation -> RBI reviews at next MPC"
+  },
+  "images": [],
+  "tags": []
+ },
+ {
+  "id": "nobel-medicine-2026-10-05",
+  "title": "Nobel Prize in Medicine 2026: optogenetics",
+  "date": "2026-10-05",
+  "cat": "Science & Tech",
+  "gs": "GS3",
+  "src": "Nobel Prize / press reports",
+  "link": "https://www.nobelprize.org/prizes/medicine/2026/prize-announcement/",
+  "keys": [
+   "Nobel",
+   "optogenetics",
+   "Deisseroth"
+  ],
+  "check": "The mechanism in the background is standard textbook knowledge. Confirm the official prize citation at nobelprize.org.",
+  "why": "The 2026 Nobel Prize in Physiology or Medicine went to Karl Deisseroth, Peter Hegemann and Georg Nagel for their discoveries in optogenetics, which uses light to control nerve cells and shows how neurons shape memories, emotions and behaviour in the living brain.",
+  "background": "Optogenetics works by adding light-sensitive channel proteins (channelrhodopsins, first found in algae) to chosen neurons through gene delivery, then switching those cells on or off with light. This lets researchers link specific circuits to specific behaviours.",
+  "key": [
+   "Announced on 5 Oct 2026 by the Nobel Assembly at Karolinska Institutet.",
+   "Optogenetics = genetics + light: genetically add light-sensitive proteins to chosen cells, then control them with light.",
+   "Used to study brain circuits behind memory, emotion and behaviour.",
+   "2026 prize money: SEK 12 million per full prize (raised by 1 million for the 125th anniversary); the ceremony is on 10 Dec."
+  ],
+  "pre": [
+   "Laureates: Karl Deisseroth, Peter Hegemann, Georg Nagel (Medicine 2026)",
+   "Channelrhodopsin = light-gated ion channel from algae",
+   "Nobel ceremony: 10 December (death anniversary of Alfred Nobel)",
+   "Other 2026 announcements: Peace on 9 Oct (Oslo), Economic Sciences on 12 Oct"
+  ],
+  "mains": "Q: Discuss the significance of neuroscience tools like optogenetics for health research, and the ethical questions they raise.\nAngle: potential for understanding brain disorders, animal-model ethics, gene-delivery safety, and building India's research capacity in neuroscience.",
+  "diagram": {
+   "type": "flow",
+   "text": "Light-sensitive protein from algae -> Gene delivered to chosen neurons\nGene delivered to chosen neurons -> Light pulse switches neurons on or off\nLight pulse switches neurons on or off -> Link activity to memory, emotion, behaviour\nLink activity to memory, emotion, behaviour -> Research on brain disorders"
+  },
+  "images": [],
+  "tags": [],
+  "way": ""
+ },
+ {
+  "id": "upsc-centenary-2026-10-01",
+  "title": "UPSC completes 100 years (1 Oct 2026)",
+  "date": "2026-10-01",
+  "cat": "Polity",
+  "gs": "GS2",
+  "src": "Press reports / UPSC",
+  "link": "https://upsc.gov.in",
+  "keys": [
+   "Union Public Service Commission",
+   "UPSC centenary",
+   "100 years of UPSC"
+  ],
+  "check": "Historical milestones are from standard sources. Confirm exact details in UPSC's centenary material at upsc.gov.in.",
+  "why": "The Union Public Service Commission completed 100 years on 1 Oct 2026.",
+  "background": "A Public Service Commission was set up on 1 Oct 1926, following the Lee Commission (1924). It became the Federal Public Service Commission under the Government of India Act, 1935, and after the Constitution came into force it became the UPSC, covered in Part XIV, Chapter II (Articles 315-323).",
+  "key": [
+   "UPSC is a constitutional body that recruits for the All India Services and Central Services through competitive examinations.",
+   "Chairman and members are appointed by the President (Art. 316) and hold office for 6 years or until age 65, whichever is earlier.",
+   "Removal is by the President on grounds of misbehaviour after a Supreme Court inquiry (Art. 317), or on other specified grounds such as insolvency.",
+   "Functions are in Art. 320 (conducting exams, advising on recruitment rules, promotions and disciplinary matters); Art. 323 requires an annual report to the President to be laid before Parliament."
+  ],
+  "pre": [
+   "Articles 315-323 (Part XIV, Chapter II): Public Service Commissions",
+   "Art. 315 PSCs; Art. 316 appointment and term; Art. 317 removal; Art. 320 functions; Art. 322 expenses; Art. 323 reports",
+   "Tenure: 6 years or age 65, whichever is earlier",
+   "Origin: Public Service Commission, 1 Oct 1926 (Lee Commission, 1924)"
+  ],
+  "mains": "Q: UPSC's autonomy is central to a merit-based civil service. Discuss the safeguards and the challenges.\nAngle: constitutional safeguards (tenure, removal procedure, expenses charged on the Consolidated Fund under Art. 322), advisory and non-binding role under Art. 320, lateral entry debate, exam reforms, transparency.",
+  "way": "Protect autonomy, improve transparency in recruitment, hold exams on time and use technology to cut delays.",
+  "diagram": {
+   "type": "flow",
+   "text": "Lee Commission recommends PSC (1924) -> Public Service Commission set up (1 Oct 1926)\nPublic Service Commission set up (1 Oct 1926) -> Federal PSC (GoI Act 1935)\nFederal PSC (GoI Act 1935) -> UPSC under the Constitution (Arts 315-323)\nUPSC under the Constitution (Arts 315-323) -> Centenary (1 Oct 2026)"
+  },
+  "images": [],
+  "tags": []
+ }
+]
