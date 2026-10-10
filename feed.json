@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T23:44:17.289929+05:30",
+ "updated": "2026-10-11T03:18:00.472247+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,54 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/international/missile-strikes-passenger-terminal-at-riyadh-airport-many-wounded/article71569514.ece",
+   "h": "Missile strikes passenger terminal at Riyadh airport, many wounded",
+   "link": "https://www.thehindu.com/news/international/missile-strikes-passenger-terminal-at-riyadh-airport-many-wounded/article71569514.ece",
+   "src": "The Hindu - International",
+   "t": "2026-10-11T01:07:36+05:30",
+   "date": "2026-10-11",
+   "snip": "President Donald Trump told reporters he was evaluating whether the U.S. should join Saudi strikes against the Iran-backed Houthi rebels in neighbouring Yemen",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/cjp-member-moves-supreme-court-on-whereabouts-of-dipke-das-ranka/article71569478.ece",
+   "h": "CJP member moves Supreme Court on whereabouts of Dipke, Das, Ranka",
+   "link": "https://www.thehindu.com/news/national/cjp-member-moves-supreme-court-on-whereabouts-of-dipke-das-ranka/article71569478.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-11T01:06:40+05:30",
+   "date": "2026-10-11",
+   "snip": "Filing a habeas corpus petition in the top court, CJP coverage coordinator Gaurav Bharti seeks urgent hearing on October 11",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/pm-modi-to-launch-chennai-metro-rail-phase-2-to-share-ride-with-tamil-nadu-cm-vijay/article71568212.ece",
+   "h": "PM Modi to launch Chennai Metro Rail Phase 2, to share ride with Tamil Nadu CM Vijay",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/pm-modi-to-launch-chennai-metro-rail-phase-2-to-share-ride-with-tamil-nadu-cm-vijay/article71568212.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-11T00:15:16+05:30",
+   "date": "2026-10-11",
+   "snip": "In the initial period, 15 trains will be run from Poonamallee to Vadapalani, and commuters can access a train every 10 minutes during the peak hours",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/cities/chennai/residents-of-western-suburbs-call-for-regulation-of-spaces-beneath-flyovers/article71552778.ece",
+   "h": "Residents of western suburbs call for regulation of spaces beneath flyovers",
+   "link": "https://www.thehindu.com/news/cities/chennai/residents-of-western-suburbs-call-for-regulation-of-spaces-beneath-flyovers/article71552778.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-11T00:11:03+05:30",
+   "date": "2026-10-11",
+   "snip": "These encroachments under the bridge and along the service lanes were there for nearly 15 years without any interference from an agency, said a resident",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321844",
    "h": "विकसित भारत के लिए सुदृढ़ शासन, बेहतर समन्वय और परिणामोन्मुखी सीएसआर पर जोर के साथ कॉरपोरेट सामाजिक उत्तरदायित्व पर तीसरा राष्ट्रीय सम्मेलन एवं प्रदर्शनी संपन्न",
@@ -4766,54 +4814,6 @@
    "cat": "Environment",
    "gs": "GS3",
    "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/science/cities-warming-due-to-combined-effect-of-urbanisation-climate-change/article68236549.ece",
-   "h": "Cities warming due to combined effect of urbanisation, climate change",
-   "link": "https://www.thehindu.com/sci-tech/science/cities-warming-due-to-combined-effect-of-urbanisation-climate-change/article68236549.ece",
-   "src": "The Hindu - Science",
-   "t": "2026-10-05T13:50:10+05:30",
-   "date": "2026-10-05",
-   "snip": "The ongoing climate change and rapid urbanisation are now defining the Anthropocene, with the cities experiencing both thereby making the urban population vulnerable to the compounding impact.",
-   "cat": "Environment",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/opinion/editorial/tragic-unpreparedness-on-the-maharashtra-heatwave-incident/article66750672.ece",
-   "h": "Tragic unpreparedness: on the Maharashtra heatwave incident",
-   "link": "https://www.thehindu.com/opinion/editorial/tragic-unpreparedness-on-the-maharashtra-heatwave-incident/article66750672.ece",
-   "src": "The Hindu - Editorial",
-   "t": "2026-10-05T13:48:35+05:30",
-   "date": "2026-10-05",
-   "snip": "Governments must prepare people to deal with extreme weather events",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/opinion/editorial/obstacle-race-on-special-intensive-revision-exercise/article71537443.ece",
-   "h": "Obstacle race: On Special Intensive Revision exercise",
-   "link": "https://www.thehindu.com/opinion/editorial/obstacle-race-on-special-intensive-revision-exercise/article71537443.ece",
-   "src": "The Hindu - Editorial",
-   "t": "2026-10-05T10:47:26+05:30",
-   "date": "2026-10-05",
-   "snip": "The SIR is threatening universal adult franchise",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/energy-and-environment/reintroduction-of-tigers-in-buxa-what-it-means-for-conservation-explained/article71540010.ece",
-   "h": "Reintroduction of tigers in Buxa: What it means for conservation | Explained",
-   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/reintroduction-of-tigers-in-buxa-what-it-means-for-conservation-explained/article71540010.ece",
-   "src": "The Hindu - Environment",
-   "t": "2026-10-05T10:18:20+05:30",
-   "date": "2026-10-05",
-   "snip": "The release of the tigress is not is not merely about bringing tigers back to Buxa but its “objective is to create the conditions in which a tiger population can establish, breed and ultimately become viable and self-sus",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 3
   }
  ]
 }
