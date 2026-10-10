@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T03:11:07.961244+05:30",
+ "updated": "2026-10-10T06:46:35.953181+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -16,6 +16,30 @@
  },
  "items": [
   {
+   "id": "https://www.thehindu.com/news/international/panama-earthquake-toll-injuries-damage-update-october-10-2026/article71565816.ece",
+   "h": "Magnitude 7.6 earthquake shakes Panama, USGS reports",
+   "link": "https://www.thehindu.com/news/international/panama-earthquake-toll-injuries-damage-update-october-10-2026/article71565816.ece",
+   "src": "The Hindu - International",
+   "t": "2026-10-10T04:10:31+05:30",
+   "date": "2026-10-10",
+   "snip": "Visibly shaken residents of Panama City gathered outside as they waited for news of the quake’s impact on Friday (October 9, 2026)",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/assam/accused-in-zubeen-death-case-singer-amrit-prabha-granted-bail-by-gauhati-high-court/article71564391.ece",
+   "h": "Accused in Zubeen death case, singer Amrit Prabha granted bail by Gauhati High Court",
+   "link": "https://www.thehindu.com/news/national/assam/accused-in-zubeen-death-case-singer-amrit-prabha-granted-bail-by-gauhati-high-court/article71564391.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-10T03:46:11+05:30",
+   "date": "2026-10-10",
+   "snip": "Justice Pranjal Das granted bail to Mahanta against a bond of ₹50,000 and two sureties of the same amount, Mr. Kamar told reporters",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
    "id": "https://www.thehindu.com/news/national/madhya-pradesh/hc-strikes-down-madhya-pradeshs-27-obc-quota-law-calls-it-unconstitutional/article71565305.ece",
    "h": "HC strikes down Madhya Pradesh’s 27% OBC quota law, calls it ‘unconstitutional’",
    "link": "https://www.thehindu.com/news/national/madhya-pradesh/hc-strikes-down-madhya-pradeshs-27-obc-quota-law-calls-it-unconstitutional/article71565305.ece",
@@ -25,6 +49,18 @@
    "snip": "The High Court judgment came after years of hearing on a number of petitions filed by students from unreserved categories, who had challenged the Amendment Act of August 2019",
    "cat": "Polity",
    "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/maharashtra/pil-in-bombay-hc-seeks-filling-of-posts-in-14-maharashtra-government-bodies/article71564482.ece",
+   "h": "PIL in Bombay HC seeks filling of posts in 14 Maharashtra government bodies",
+   "link": "https://www.thehindu.com/news/national/maharashtra/pil-in-bombay-hc-seeks-filling-of-posts-in-14-maharashtra-government-bodies/article71564482.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-10T01:43:31+05:30",
+   "date": "2026-10-10",
+   "snip": "The PIL says that the MPSC published its report for 2022–23 only in July 2026 and omitted appendix data on staff workloads",
+   "cat": "Economy",
+   "gs": "GS3",
    "score": 2
   },
   {
@@ -97,6 +133,18 @@
    "snip": "Satheesan announces the government’s second ‘mission’ christened ‘Janasparsham’ -- a ‘File Adalat’ lasting from October 15 to December 31 to dispose of pending files",
    "cat": "Science & Tech",
    "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/kerala-hc-order-against-former-chief-minister-pinarayi-vijayan-and-others-raises-a-larger-question-of-natural-justice-say-legal-experts/article71564921.ece",
+   "h": "Kerala HC order against former Chief Minister Pinarayi Vijayan and others raises a larger question of natural justice, say legal experts",
+   "link": "https://www.thehindu.com/news/national/kerala/kerala-hc-order-against-former-chief-minister-pinarayi-vijayan-and-others-raises-a-larger-question-of-natural-justice-say-legal-experts/article71564921.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-10T00:05:28+05:30",
+   "date": "2026-10-10",
+   "snip": "Pinarayi, Riyas and Veena denied an opportunity to be heard, which can be construed as denial of natural justice and could be challenged in the High Court or the Supreme Court, they say. Some also say that single judge’s order bypasses a law that mandates approval from the competent authority to conduct inquiry into public servants",
+   "cat": "Polity",
+   "gs": "GS2",
    "score": 2
   },
   {
@@ -4118,18 +4166,6 @@
    "cat": "Environment",
    "gs": "GS3",
    "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/opinion/editorial/rescue-act-on-tiger-reintroduction-in-west-bengals-buxa/article71537248.ece",
-   "h": "Rescue act: On tiger reintroduction in West Bengal’s Buxa",
-   "link": "https://www.thehindu.com/opinion/editorial/rescue-act-on-tiger-reintroduction-in-west-bengals-buxa/article71537248.ece",
-   "src": "The Hindu - Editorial",
-   "t": "2026-10-03T04:33:28+05:30",
-   "date": "2026-10-03",
-   "snip": "Preventing ecological degradation is the way to protect wildlife",
-   "cat": "Environment",
-   "gs": "GS3",
-   "score": 5
   }
  ]
 }
