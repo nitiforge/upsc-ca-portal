@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T23:46:32.284171+05:30",
+ "updated": "2026-10-12T03:45:24.841688+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,54 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/opinion/editorial/rights-and-wrongs-on-the-fundamental-right-to-peaceful-assembly-and-protest/article71571833.ece",
+   "h": "Rights and wrongs: On the fundamental right to peaceful assembly and protest",
+   "link": "https://www.thehindu.com/opinion/editorial/rights-and-wrongs-on-the-fundamental-right-to-peaceful-assembly-and-protest/article71571833.ece",
+   "src": "The Hindu - Editorial",
+   "t": "2026-10-12T01:49:08+05:30",
+   "date": "2026-10-12",
+   "snip": "The government must not clamp down on dissent and protest",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/opinion/editorial/message-of-peace-on-the-2026-nobel-peace-prize/article71571868.ece",
+   "h": "Message of peace: On the 2026 Nobel Peace Prize",
+   "link": "https://www.thehindu.com/opinion/editorial/message-of-peace-on-the-2026-nobel-peace-prize/article71571868.ece",
+   "src": "The Hindu - Editorial",
+   "t": "2026-10-12T01:37:01+05:30",
+   "date": "2026-10-12",
+   "snip": "The Nobel Committee has redeemed itself by awarding Navi Pillay",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 4
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/vijay-urges-prime-minister-modi-to-sanction-metro-rail-for-the-hosur-bommasandra-sector/article71571740.ece",
+   "h": "Vijay urges Prime Minister Modi to sanction Metro Rail from Hosur to Bommasandra",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/vijay-urges-prime-minister-modi-to-sanction-metro-rail-for-the-hosur-bommasandra-sector/article71571740.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-12T00:23:59+05:30",
+   "date": "2026-10-12",
+   "snip": "The CM says the inter-State link will benefit both T.N. and Karnataka. He also urges Modi to reconsider Metro Rail projects in Coimbatore and Madurai in view of the future development and economic growth of T.N.’s western and southern regions",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/over-one-tonne-of-waste-removed-in-forest-land-along-girivalam-path-under-clean-tiruvannamalai-initiative/article71571734.ece",
+   "h": "Over one tonne of waste removed in forest land along Girivalam path under ‘Clean Tiruvannamalai’ initiative",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/over-one-tonne-of-waste-removed-in-forest-land-along-girivalam-path-under-clean-tiruvannamalai-initiative/article71571734.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-12T00:02:25+05:30",
+   "date": "2026-10-12",
+   "snip": "Forest officials said that a request was made to the District Collector by the Forest Department to remove accumulated wastes in the forest land along the path",
+   "cat": "Environment",
+   "gs": "GS3",
+   "score": 2
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322050",
    "h": "प्रधानमंत्री श्री नरेन्द्र मोदी ने चेन्नई, तमिलनाडु में ₹13,000 करोड़ से ज़्यादा की विभिन्न विकास परियोजनाओं का शिलान्यास, उद्घाटन और लोकार्पण किया",
@@ -4765,54 +4813,6 @@
    "snip": "Chief Minister D.K. Shivakumar is learnt to have warned his Cabinet colleagues to remain vigilant against possible sting operations, amid reports that private agencies could be secretly recording Ministers’ conversations",
    "cat": "Polity",
    "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/andhra-pradesh/collector-lauds-lab-on-wheels-for-bringing-free-digital-education-directly-to-students/article71555892.ece",
-   "h": "Collector lauds ‘Lab on Wheels’ for bringing free digital education directly to students",
-   "link": "https://www.thehindu.com/news/national/andhra-pradesh/collector-lauds-lab-on-wheels-for-bringing-free-digital-education-directly-to-students/article71555892.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-07T19:26:58+05:30",
-   "date": "2026-10-07",
-   "snip": "Launching the “Infosys Springboard Maker Lab on Wheels” initiative, Shyam Prasad says the mobile laboratory will offer hands-on training in electronics, robotics, microcontrollers and 3D printing",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/business/Economy/individuals-spared-from-new-fema-reporting-requirement-rbi-clarifies/article71556019.ece",
-   "h": "Individuals spared from new FEMA reporting requirement: RBI clarifies",
-   "link": "https://www.thehindu.com/business/Economy/individuals-spared-from-new-fema-reporting-requirement-rbi-clarifies/article71556019.ece",
-   "src": "The Hindu - Business",
-   "t": "2026-10-07T19:25:28+05:30",
-   "date": "2026-10-07",
-   "snip": "The clarification is expected to ease concerns among small digital service providers and individuals receiving or making legitimate cross-border payments for personal or small-scale professional purposes.",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-cabinet-clears-path-for-foreign-university-campuses-in-state/article71555259.ece",
-   "h": "Andhra Pradesh Cabinet clears path for foreign university campuses in State",
-   "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-cabinet-clears-path-for-foreign-university-campuses-in-state/article71555259.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-07T19:14:48+05:30",
-   "date": "2026-10-07",
-   "snip": "The Cabinet approves 12 agendas including establishment of Horticulture Information and Management System, upgrade of Repalle CHC to 100-bed hospital and guidelines for Thalliki Vandanam scheme",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/cities/Mangalore/students-should-be-encouraged-to-develop-scientific-temperament-says-deputy-director-of-u-r-rao-satellite-centre/article71555841.ece",
-   "h": "Students should be encouraged to develop scientific temperament, says Deputy Director of U. R. Rao Satellite Centre",
-   "link": "https://www.thehindu.com/news/cities/Mangalore/students-should-be-encouraged-to-develop-scientific-temperament-says-deputy-director-of-u-r-rao-satellite-centre/article71555841.ece",
-   "src": "The Hindu - Science",
-   "t": "2026-10-07T19:13:53+05:30",
-   "date": "2026-10-07",
-   "snip": "Pilikula Development Authority organises two-day World Space Week - 2026 programme at Pilikula on October 7",
-   "cat": "Science & Tech",
-   "gs": "GS3",
    "score": 3
   }
  ]
