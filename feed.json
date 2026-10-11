@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T03:18:00.472247+05:30",
+ "updated": "2026-10-11T06:09:23.104528+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,18 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-govt-accepts-dedicated-commissions-recommendations-on-bc-reservation/article71568829.ece",
+   "h": "Andhra Pradesh govt. accepts Dedicated Commission’s recommendations on BC reservation",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-govt-accepts-dedicated-commissions-recommendations-on-bc-reservation/article71568829.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-11T06:03:06+05:30",
+   "date": "2026-10-11",
+   "snip": "Headed by Rajeev Ranjan Mishra, the Commission submitted its report on provision of reservation for the BCs local body-wise, in due compliance with the triple test mandate laid down by the Supreme Court and other constitutional provisions",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 4
+  },
   {
    "id": "https://www.thehindu.com/news/international/missile-strikes-passenger-terminal-at-riyadh-airport-many-wounded/article71569514.ece",
    "h": "Missile strikes passenger terminal at Riyadh airport, many wounded",
@@ -4288,6 +4300,18 @@
    "score": 3
   },
   {
+   "id": "https://www.thehindu.com/opinion/editorial/obstacle-race-on-special-intensive-revision-exercise/article71537443.ece",
+   "h": "Obstacle race: On Special Intensive Revision exercise",
+   "link": "https://www.thehindu.com/opinion/editorial/obstacle-race-on-special-intensive-revision-exercise/article71537443.ece",
+   "src": "The Hindu - Editorial",
+   "t": "2026-10-07T15:39:29+05:30",
+   "date": "2026-10-07",
+   "snip": "The SIR is threatening universal adult franchise",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
    "id": "https://www.thehindu.com/sci-tech/science/starlinks-india-struggle-spectrum-surveillance-and-connectivity/article69504845.ece",
    "h": "Starlink’s India struggle: spectrum, surveillance, and connectivity",
    "link": "https://www.thehindu.com/sci-tech/science/starlinks-india-struggle-spectrum-surveillance-and-connectivity/article69504845.ece",
@@ -4788,30 +4812,6 @@
    "date": "2026-10-05",
    "snip": "Despite being so fundamental to our survival as a species, scientists are still piecing together how emotions arise in our brains. In a study recently published in the journal Science, in fact, scientists have just repor",
    "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/science/funnel-weaving-spider-soundproof-webs-urban-areas-noise-pollution/article69500656.ece",
-   "h": "Urban spider found building soundproof webs to keep noise out",
-   "link": "https://www.thehindu.com/sci-tech/science/funnel-weaving-spider-soundproof-webs-urban-areas-noise-pollution/article69500656.ece",
-   "src": "The Hindu - Science",
-   "t": "2026-10-05T13:52:19+05:30",
-   "date": "2026-10-05",
-   "snip": "India’s urban centres are notorious for their noise pollution; the new study raises questions about what its findings mean for spiders living in such places",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/science/successful-urban-birds-sport-different-colours-from-unsuccessful-ones/article69534524.ece",
-   "h": "Successful urban birds sport different colours from unsuccessful ones",
-   "link": "https://www.thehindu.com/sci-tech/science/successful-urban-birds-sport-different-colours-from-unsuccessful-ones/article69534524.ece",
-   "src": "The Hindu - Science",
-   "t": "2026-10-05T13:50:44+05:30",
-   "date": "2026-10-05",
-   "snip": "The findings of a new study challenge some long-held assumptions in urban ecology",
-   "cat": "Environment",
    "gs": "GS3",
    "score": 2
   }
