@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T03:45:24.841688+05:30",
+ "updated": "2026-10-12T06:53:20.803279+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,66 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/national/maharashtra/tukaram-mundhe-appointed-secretary-of-panel-to-overhaul-mpsc-aspirants-end-agitation/article71573596.ece",
+   "h": "Tukaram Mundhe appointed Secretary of panel to overhaul MPSC; aspirants end agitation",
+   "link": "https://www.thehindu.com/news/national/maharashtra/tukaram-mundhe-appointed-secretary-of-panel-to-overhaul-mpsc-aspirants-end-agitation/article71573596.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-12T06:36:51+05:30",
+   "date": "2026-10-12",
+   "snip": "Subsequently, Maharashtra Public Service Commission Chairman Vivek Bhimanwar announced that he had proceeded on leave till the inquiry was completed",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/entertainment/movies/roundglass-sustains-short-film-a-spring-against-all-odds-to-be-showcased-at-international-film-festival/article71562550.ece",
+   "h": "Roundglass Sustain’s short film A Spring Against All Odds to be showcased at international film festival",
+   "link": "https://www.thehindu.com/entertainment/movies/roundglass-sustains-short-film-a-spring-against-all-odds-to-be-showcased-at-international-film-festival/article71562550.ece",
+   "src": "The Hindu - Environment",
+   "t": "2026-10-12T06:36:19+05:30",
+   "date": "2026-10-12",
+   "snip": "The film, one of 48 films selected for Film SouthAsia (FSA), an international documentary film festival to be held in Kathmandu from November 27–29, 2026, is based on a script by Radhika Raj and has been directed by Samreen Farooqui",
+   "cat": "History & Culture",
+   "gs": "GS1",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/telangana/telangana-to-seek-special-financial-package-from-centre-to-tackle-potential-el-nino-impact-ponguleti/article71572291.ece",
+   "h": "Telangana to seek special financial package from Centre to tackle potential El Nino impact: Ponguleti",
+   "link": "https://www.thehindu.com/news/national/telangana/telangana-to-seek-special-financial-package-from-centre-to-tackle-potential-el-nino-impact-ponguleti/article71572291.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-12T05:49:13+05:30",
+   "date": "2026-10-12",
+   "snip": "The Minister said the delegation to meet PM Modi would submit a representation seeking adequate financial assistance and additional workdays under the VB-G RAM G Scheme.",
+   "cat": "Society",
+   "gs": "GS1",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/haryana/community-led-model-to-tackle-drug-abuse-in-300-haryana-villages/article71572302.ece",
+   "h": "Community-led model to tackle drug abuse in 300 Haryana villages",
+   "link": "https://www.thehindu.com/news/national/haryana/community-led-model-to-tackle-drug-abuse-in-300-haryana-villages/article71572302.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-12T03:57:43+05:30",
+   "date": "2026-10-12",
+   "snip": "The voluntary, non-political initiative has been launched by the Haryana Professional Forum and Jind Social Forum, a network of volunteers with roots in Haryana",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/kerala-state-biodiversity-board-submits-policy-document-to-address-threats-by-invasive-species/article71571968.ece",
+   "h": "Kerala State Biodiversity Board submits policy document to mitigate threats due to invasive species",
+   "link": "https://www.thehindu.com/news/national/kerala/kerala-state-biodiversity-board-submits-policy-document-to-address-threats-by-invasive-species/article71571968.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-12T03:31:58+05:30",
+   "date": "2026-10-12",
+   "snip": "Document suggests laying emphasise on prevention and monitoring of the spread of invasive alien species and generating public awareness and capacity-building to handle the menace",
+   "cat": "Environment",
+   "gs": "GS3",
+   "score": 2
+  },
   {
    "id": "https://www.thehindu.com/opinion/editorial/rights-and-wrongs-on-the-fundamental-right-to-peaceful-assembly-and-protest/article71571833.ece",
    "h": "Rights and wrongs: On the fundamental right to peaceful assembly and protest",
@@ -61,6 +121,18 @@
    "snip": "Forest officials said that a request was made to the District Collector by the Forest Department to remove accumulated wastes in the forest land along the path",
    "cat": "Environment",
    "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/forum-proposes-draft-bill-seeking-protection-for-advocates-their-kin-staff-in-keralam/article71571190.ece",
+   "h": "Forum proposes draft Bill seeking protection for advocates, their kin, staff in Keralam",
+   "link": "https://www.thehindu.com/news/national/kerala/forum-proposes-draft-bill-seeking-protection-for-advocates-their-kin-staff-in-keralam/article71571190.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-12T00:00:04+05:30",
+   "date": "2026-10-12",
+   "snip": "Keralam Advocates Protection Bill, 2021, seeks to protect them from assault, criminal force, intimidation and threats; it proposes a punishment of imprisonment up to five years and a fine of ₹1 lakh",
+   "cat": "Polity",
+   "gs": "GS2",
    "score": 2
   },
   {
@@ -205,6 +277,18 @@
    "snip": "Court seeks affidavits on Metro curbs and alleged violations of its October 9 order",
    "cat": "Polity",
    "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/sci-tech/science/trishna-satellite-is-in-advanced-stage-of-realisation-says-isro-official/article71571635.ece",
+   "h": "TRISHNA satellite is in advanced stage of realisation, says ISRO official",
+   "link": "https://www.thehindu.com/sci-tech/science/trishna-satellite-is-in-advanced-stage-of-realisation-says-isro-official/article71571635.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-10-11T21:25:29+05:30",
+   "date": "2026-10-11",
+   "snip": "TRISHNA is the third satellite that India and France are developing after Megha-Tropiques and SARAL (Satellite with ARGOS and ALTIKA) satellites.",
+   "cat": "Science & Tech",
+   "gs": "GS3",
    "score": 2
   },
   {
@@ -4727,90 +4811,6 @@
    "t": "2026-10-07T19:46:14.901111+05:30",
    "date": "2026-10-07",
    "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320316",
-   "h": "वित्तीय कठिनाइयों से वैज्ञानिक उपलब्धि तक: राष्ट्रीय फेलोशिप के सहयोग से बालामुरुगन एस. का सफर",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320316",
-   "src": "PIB",
-   "t": "2026-10-07T19:46:14.901081+05:30",
-   "date": "2026-10-07",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320336",
-   "h": "एनएलएमसी ने आरआईएनएल भूमि ई-नीलामी से पहले एक मॉक ई-ऑक्शन प्रशिक्षण आयोजित किया",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320336",
-   "src": "PIB",
-   "t": "2026-10-07T19:46:14.901044+05:30",
-   "date": "2026-10-07",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320350",
-   "h": "इस्पात मंत्रालय ने कार्यस्थल पर मन की शांति विषय पर लघु चिंतन शिविर का आयोजन किया",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2320350",
-   "src": "PIB",
-   "t": "2026-10-07T19:46:14.899577+05:30",
-   "date": "2026-10-07",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/supreme-court-to-examine-plea-that-systemic-blind-spots-in-aviation-boom-left-disabled-travellers-stranded/article71555374.ece",
-   "h": "Supreme Court to examine plea that systemic blind spots in aviation boom left disabled travellers stranded",
-   "link": "https://www.thehindu.com/news/national/supreme-court-to-examine-plea-that-systemic-blind-spots-in-aviation-boom-left-disabled-travellers-stranded/article71555374.ece",
-   "src": "The Hindu - Business",
-   "t": "2026-10-07T19:44:17+05:30",
-   "date": "2026-10-07",
-   "snip": "The plea highlights a systemic and nationwide failure of non-implementation of accessibility across all stages of air travel, including booking, web-check-in, airport entry and navigation, counter check-in, security scre",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/andhra-pradesh/cabinet-panel-to-probe-alleged-lapses-in-jagananna-colonies-in-andhra-pradesh/article71555585.ece",
-   "h": "Cabinet panel to probe alleged lapses in Jagananna colonies in Andhra Pradesh",
-   "link": "https://www.thehindu.com/news/national/andhra-pradesh/cabinet-panel-to-probe-alleged-lapses-in-jagananna-colonies-in-andhra-pradesh/article71555585.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-07T19:39:54+05:30",
-   "date": "2026-10-07",
-   "snip": "Penal to submit report within 45 days after examining allegations that land was purchased at inflated rates and land unsuitable for housing was acquired",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/cjp-jantar-mantar-protests-permission-delhi-police/article71556047.ece",
-   "h": "Must seek Jantar Mantar protest permission 10 days before event: Delhi Police",
-   "link": "https://www.thehindu.com/news/national/cjp-jantar-mantar-protests-permission-delhi-police/article71556047.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-07T19:29:47+05:30",
-   "date": "2026-10-07",
-   "snip": "The clarification from Delhi police comes as security has been heightened in central Delhi, with the INDIA bloc holding a protest demanding the removal of CEC Gyanesh Kumar, and the CJP planning a protest at Jantar Manta",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/karnataka/karnataka-cm-shivakumar-cautions-ministers-against-possible-sting-operations/article71555747.ece",
-   "h": "Karnataka CM Shivakumar cautions Ministers against possible ‘sting operations’",
-   "link": "https://www.thehindu.com/news/national/karnataka/karnataka-cm-shivakumar-cautions-ministers-against-possible-sting-operations/article71555747.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-07T19:29:14+05:30",
-   "date": "2026-10-07",
-   "snip": "Chief Minister D.K. Shivakumar is learnt to have warned his Cabinet colleagues to remain vigilant against possible sting operations, amid reports that private agencies could be secretly recording Ministers’ conversations",
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
