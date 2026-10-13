@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T23:56:08.380056+05:30",
+ "updated": "2026-10-14T04:30:11.529014+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,78 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/national/goa/goa-police-defend-detention-of-seven-cjp-members-before-high-court-cite-history-of-protests-without-permission/article71580765.ece",
+   "h": "Goa Police defend detention of seven CJP members before High Court, cite history of protests without permission",
+   "link": "https://www.thehindu.com/news/national/goa/goa-police-defend-detention-of-seven-cjp-members-before-high-court-cite-history-of-protests-without-permission/article71580765.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-14T03:36:18+05:30",
+   "date": "2026-10-14",
+   "snip": "The police denied the allegations of use of force",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/cities/mumbai/cec-protests-bombay-high-court-says-wont-allow-detentions-that-violate-law/article71580830.ece",
+   "h": "CEC protests: Bombay High Court says won’t allow detentions that violate law",
+   "link": "https://www.thehindu.com/news/cities/mumbai/cec-protests-bombay-high-court-says-wont-allow-detentions-that-violate-law/article71580830.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-14T03:21:11+05:30",
+   "date": "2026-10-14",
+   "snip": "The Bench asked the petitioner to document detentions in Mumbai CEC protests, lists matter for October 19",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/opinion/editorial/spiralling-food-prices-on-rising-inflation/article71579752.ece",
+   "h": "Spiralling food prices: on rising inflation",
+   "link": "https://www.thehindu.com/opinion/editorial/spiralling-food-prices-on-rising-inflation/article71579752.ece",
+   "src": "The Hindu - Editorial",
+   "t": "2026-10-14T01:21:10+05:30",
+   "date": "2026-10-14",
+   "snip": "Rural households have felt the greatest impact of rising inflation",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 4
+  },
+  {
+   "id": "https://www.thehindu.com/opinion/editorial/the-sound-and-the-fiery-on-green-crackers-pollution-control/article71579360.ece",
+   "h": "The sound and the fiery: on green crackers, pollution control",
+   "link": "https://www.thehindu.com/opinion/editorial/the-sound-and-the-fiery-on-green-crackers-pollution-control/article71579360.ece",
+   "src": "The Hindu - Editorial",
+   "t": "2026-10-14T01:20:36+05:30",
+   "date": "2026-10-14",
+   "snip": "Green crackers do little to curb air and noise pollution",
+   "cat": "Environment",
+   "gs": "GS3",
+   "score": 4
+  },
+  {
+   "id": "https://www.thehindu.com/data/muslims-disproportionately-flagged-in-delhi-sir/article71580772.ece",
+   "h": "Muslims disproportionately flagged in Delhi SIR",
+   "link": "https://www.thehindu.com/data/muslims-disproportionately-flagged-in-delhi-sir/article71580772.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-14T00:52:11+05:30",
+   "date": "2026-10-14",
+   "snip": "Muslims, who form 13.6% of electors on Delhi’s draft roll, made up 20.3% of those flagged for ‘logical discrepancies’ and 30% of those flagged under five reasons indicative of family size by the Election Commission’s ERONET software; in Bihar, which didn’t have ‘logical discrepancy’ checks, Muslims accounted for 18.4% of deleted electors, in line with their 17.7% share in population",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/andhra-pradesh/foreign-students-urged-to-help-foster-trade-ties-with-india/article71580626.ece",
+   "h": "Foreign students urged to help foster trade ties with India",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/foreign-students-urged-to-help-foster-trade-ties-with-india/article71580626.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-13T23:57:51+05:30",
+   "date": "2026-10-13",
+   "snip": "",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 2
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322912",
    "h": "एग्रीविजन–2026 के 10वें राष्ट्रीय अधिवेशन का नई दिल्ली में आयोजन",
@@ -1132,6 +1204,18 @@
    "score": 2
   },
   {
+   "id": "https://www.thehindu.com/opinion/editorial/privacy-and-transparency-on-the-rti-act-amendment-petitions/article70652568.ece",
+   "h": "Privacy and transparency: On the RTI Act amendment, petitions",
+   "link": "https://www.thehindu.com/opinion/editorial/privacy-and-transparency-on-the-rti-act-amendment-petitions/article70652568.ece",
+   "src": "The Hindu - Editorial",
+   "t": "2026-10-13T08:29:12+05:30",
+   "date": "2026-10-13",
+   "snip": "There must be no information asymmetry between state and citizens",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 5
+  },
+  {
    "id": "https://www.thehindu.com/news/national/anti-cec-delhi-protest-against-gyanesh-kumar-cec-october-13-2026-live-updates/article71577767.ece",
    "h": "Anti-CEC protests LIVE: Supreme Court to hear pleas challenging closure of metro stations in Delhi on Oct. 13",
    "link": "https://www.thehindu.com/news/national/anti-cec-delhi-protest-against-gyanesh-kumar-cec-october-13-2026-live-updates/article71577767.ece",
@@ -2234,6 +2318,18 @@
    "cat": "Economy",
    "gs": "GS3",
    "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/sci-tech/energy-and-environment/el-nino-sets-temperature-record-in-key-pacific-zone-eu-monitor/article71573644.ece",
+   "h": "El Nino sets temperature record in key Pacific zone: EU monitor",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/el-nino-sets-temperature-record-in-key-pacific-zone-eu-monitor/article71573644.ece",
+   "src": "The Hindu - Environment",
+   "t": "2026-10-12T07:52:02+05:30",
+   "date": "2026-10-12",
+   "snip": "Global forecasters have been warning for months that this El Nino would likely become the strongest ever observed and the latest record has tumbled even before the episode’s expected peak later this year",
+   "cat": "Society",
+   "gs": "GS1",
+   "score": 2
   },
   {
    "id": "https://www.thehindu.com/news/national/maharashtra/tukaram-mundhe-appointed-secretary-of-panel-to-overhaul-mpsc-aspirants-end-agitation/article71573596.ece",
@@ -4718,102 +4814,6 @@
    "cat": "Science & Tech",
    "gs": "GS3",
    "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/international/navanethem-navi-pillay-wins-nobel-peace-prize-2026/article71563375.ece",
-   "h": "‘Navi’ Pillay, South African jurist of Tamil descent, wins 2026 Peace Nobel",
-   "link": "https://www.thehindu.com/news/international/navanethem-navi-pillay-wins-nobel-peace-prize-2026/article71563375.ece",
-   "src": "The Hindu - International",
-   "t": "2026-10-09T17:16:11+05:30",
-   "date": "2026-10-09",
-   "snip": "Ms. Pillay has served as a judge on the High Court in South Africa, the International Criminal Tribunal for Rwanda and the International Criminal Court",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/international/france-students-plan-fresh-protests-as-un-flags-concern-over-violence/article71563825.ece",
-   "h": "France students plan fresh protests as UN flags concern over violence",
-   "link": "https://www.thehindu.com/news/international/france-students-plan-fresh-protests-as-un-flags-concern-over-violence/article71563825.ece",
-   "src": "The Hindu - International",
-   "t": "2026-10-09T17:11:39+05:30",
-   "date": "2026-10-09",
-   "snip": "The students have complained of absent teachers, overloaded timetables, dilapidated classrooms and buildings that cannot cope with rising temperatures",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/telangana/telangana-cm-revanth-to-review-el-nino-impact-drought-conditions-on-october-12/article71563702.ece",
-   "h": "Telangana CM Revanth to review El Nino impact, drought conditions on October 12",
-   "link": "https://www.thehindu.com/news/national/telangana/telangana-cm-revanth-to-review-el-nino-impact-drought-conditions-on-october-12/article71563702.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-09T17:09:29+05:30",
-   "date": "2026-10-09",
-   "snip": "The action plan prepared by Telangana Cabinet sub-committee on drought mitigation, along with relief measures likely to be examined",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 4
-  },
-  {
-   "id": "https://www.thehindu.com/news/international/navi-pillay-enabler-of-justice/article70074764.ece",
-   "h": "Navi Pillay | Enabler of justice",
-   "link": "https://www.thehindu.com/news/international/navi-pillay-enabler-of-justice/article70074764.ece",
-   "src": "The Hindu - International",
-   "t": "2026-10-09T17:05:27+05:30",
-   "date": "2026-10-09",
-   "snip": "The Indian-origin head of the U.N. Independent Inquiry Commission on Palestine has had an illustrious career in humanitarian law",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/andhra-pradesh/helpline-set-up-to-fix-vahan-and-sarathi-portal-problems-says-andhra-transport-minister-ramprasad-reddy/article71563298.ece",
-   "h": "Helpline set up to fix VAHAN and SARATHI portal problems, says Andhra Transport Minister Ramprasad Reddy",
-   "link": "https://www.thehindu.com/news/national/andhra-pradesh/helpline-set-up-to-fix-vahan-and-sarathi-portal-problems-says-andhra-transport-minister-ramprasad-reddy/article71563298.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-09T16:41:21+05:30",
-   "date": "2026-10-09",
-   "snip": "People can report problems on 9281607001 by phone or WhatsApp, says Transport Minister Mandipalli Ramprasad Reddy",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/andhra-pradesh/census-2027-ensure-every-individual-is-counted-says-registrar-general/article71563598.ece",
-   "h": "Census 2027: Ensure every individual is counted, says Registrar General",
-   "link": "https://www.thehindu.com/news/national/andhra-pradesh/census-2027-ensure-every-individual-is-counted-says-registrar-general/article71563598.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-09T16:29:16+05:30",
-   "date": "2026-10-09",
-   "snip": "Mrityunjay Kumar Narayan asks census officials in Andhra Pradesh to complete the second phase with accuracy and within deadlines",
-   "cat": "Society",
-   "gs": "GS1",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/two-bills-to-be-considered-in-nine-day-keralam-assembly-session-starting-october-12/article71563152.ece",
-   "h": "Two Bills to be considered in nine-day Keralam Assembly session starting October 12",
-   "link": "https://www.thehindu.com/news/national/kerala/two-bills-to-be-considered-in-nine-day-keralam-assembly-session-starting-october-12/article71563152.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-09T16:23:47+05:30",
-   "date": "2026-10-09",
-   "snip": "As per the approved schedule, two Bills — Kerala Court Fees and Suits Valuation (Amendment) Bill, 2026, and Madras Hindu Religious and Charitable Endowments (Amendment) Bill, 2026 — will be considered during the session",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/cmrl-pay-off-case-kerala-hc-orders-registration-of-fir-against-pinarayi-vijayan-kin-based-on-ed-report/article71562715.ece",
-   "h": "CMRL payoff case: Kerala HC orders registration of FIR against Pinarayi Vijayan, kin based on ED report",
-   "link": "https://www.thehindu.com/news/national/kerala/cmrl-pay-off-case-kerala-hc-orders-registration-of-fir-against-pinarayi-vijayan-kin-based-on-ed-report/article71562715.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-09T16:10:20+05:30",
-   "date": "2026-10-09",
-   "snip": "High Court directs ED to forward all necessary documents to Director of Vigilance and Anti-Corruption Bureau",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
   }
  ]
 }
