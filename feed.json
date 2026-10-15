@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T05:30:53.831955+05:30",
+ "updated": "2026-10-15T10:06:30.899735+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,54 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/national/anti-cec-sir-protest-live-updates-oct-15-2026-rahul-gandhi-india-bloc/article71586459.ece",
+   "h": "Anti-CEC protest LIVE | Supreme Court likely to hear Rahul Gandhi, INDIA bloc leaders’ plea against SIR today",
+   "link": "https://www.thehindu.com/news/national/anti-cec-sir-protest-live-updates-oct-15-2026-rahul-gandhi-india-bloc/article71586459.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-15T10:03:01+05:30",
+   "date": "2026-10-15",
+   "snip": "Cockroach Janta Party (CJP) founder Abhijeet Dipke has called for a ‘Lehra Do Tiranga’ gathering at Central Park, Connaught Place, in Delhi, on October 16",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/india-asks-when-un-body-will-report-on-pok-human-rights-concerns/article71586551.ece",
+   "h": "India asks when UN body will report on PoK human rights concerns",
+   "link": "https://www.thehindu.com/news/national/india-asks-when-un-body-will-report-on-pok-human-rights-concerns/article71586551.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-15T09:12:21+05:30",
+   "date": "2026-10-15",
+   "snip": "The statements had also called for detained leaders of the Joint Awami Action Committee to have access to legal representation and their families, and had called for due process and fair trial",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/international/north-korea-says-it-tested-cruise-missiles-designed-to-be-fired-from-submarines/article71586524.ece",
+   "h": "North Korea says it tested cruise missiles designed to be fired from submarines",
+   "link": "https://www.thehindu.com/news/international/north-korea-says-it-tested-cruise-missiles-designed-to-be-fired-from-submarines/article71586524.ece",
+   "src": "The Hindu - International",
+   "t": "2026-10-15T08:46:33+05:30",
+   "date": "2026-10-15",
+   "snip": "North Korean state media said the tests were aimed at assessing the readiness of the country's underwater combat systems, improving the Navy's ability to carry out strategic missions and demonstrating the reliability of its nuclear deterrent",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/madhya-pradesh/weeks-after-judicial-panel-held-him-responsible-for-indore-water-tragedy-ias-officer-made-collector/article71584133.ece",
+   "h": "Weeks after judicial panel held him responsible for Indore water tragedy, IAS officer made Collector",
+   "link": "https://www.thehindu.com/news/national/madhya-pradesh/weeks-after-judicial-panel-held-him-responsible-for-indore-water-tragedy-ias-officer-made-collector/article71584133.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-15T06:39:40+05:30",
+   "date": "2026-10-15",
+   "snip": "Slamming the fresh appointment, Mr. Patwari questioned whether the action taken by the government was based on the panel’s report and whether facts were considered before appointing Mr. Sisonia as a District Collector",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
   {
    "id": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-high-court-seeks-policy-on-retention-of-government-accommodation-by-ex-cm-azad-bjps-raina/article71584472.ece",
    "h": "J&K High Court seeks policy on retention of government accommodation by ex-CM Azad, BJP’s Raina",
@@ -421,6 +469,18 @@
    "snip": "GCoM brings together more than 14,000 cities and local governments from 150 countries across six continents, representing over 1.2 billion people worldwide",
    "cat": "Polity",
    "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/international/why-the-debate-between-keynesian-and-orthodox-economics-matters/article71583919.ece",
+   "h": "Why the debate between Keynesian and orthodox economics matters",
+   "link": "https://www.thehindu.com/news/international/why-the-debate-between-keynesian-and-orthodox-economics-matters/article71583919.ece",
+   "src": "The Hindu - International",
+   "t": "2026-10-14T22:41:43+05:30",
+   "date": "2026-10-14",
+   "snip": "Keynes-Kalecki framework holds that demand, in particular private investment, shapes short-term fluctuations as well as long-term growth, unlike orthodox approaches that see supply as determining long-term growth; shift towards inflation targeting coincided with falling wage shares and greater burden on workers",
+   "cat": "Economy",
+   "gs": "GS3",
    "score": 2
   },
   {
@@ -1060,6 +1120,18 @@
    "score": 2
   },
   {
+   "id": "https://www.thehindu.com/sci-tech/science/majorana-2-old-doubts-linger-new-microsoft-quantum-chip-raises-stakes/article71583068.ece",
+   "h": "Old doubts linger, yet new Microsoft quantum chip raises the stakes",
+   "link": "https://www.thehindu.com/sci-tech/science/majorana-2-old-doubts-linger-new-microsoft-quantum-chip-raises-stakes/article71583068.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-10-14T15:17:51+05:30",
+   "date": "2026-10-14",
+   "snip": "Not everyone is convinced Microsoft learnt the bigger lesson from its experience with announcing the Majorana 1 chip. As University of Pittsburgh professor Sergey Frolov has said, Microsoft’s previous record has left him unwilling to treat the new work as resting on a well-understood foundation",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
    "id": "https://www.thehindu.com/news/national/dgca-bans-specific-power-banks-on-flights/article71582914.ece",
    "h": "DGCA bans specific power banks on flights",
    "link": "https://www.thehindu.com/news/national/dgca-bans-specific-power-banks-on-flights/article71582914.ece",
@@ -1069,6 +1141,18 @@
    "snip": "The DGCA has also advised airlines to take appropriate measures to identify and prevent the carriage of the specified power bank",
    "cat": "International Relations",
    "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/children/the-kalam-code/article71582692.ece",
+   "h": "Quiz: The Kalam Code",
+   "link": "https://www.thehindu.com/children/the-kalam-code/article71582692.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-10-14T15:14:54+05:30",
+   "date": "2026-10-14",
+   "snip": "Every year, World Students Day is celebrated in India on October 15, marking the birth of Dr. APJ Abdul Kalam. Here is a quiz on the life and times of the Missile Man of India. Get started!",
+   "cat": "Security",
+   "gs": "GS3",
    "score": 2
   },
   {
@@ -3388,6 +3472,18 @@
    "score": 3
   },
   {
+   "id": "https://www.thehindu.com/sci-tech/science/iiser-researchers-make-solid-material-that-releases-two-fuel-gases/article71574650.ece",
+   "h": "IISER researchers make solid material that releases two fuel gases",
+   "link": "https://www.thehindu.com/sci-tech/science/iiser-researchers-make-solid-material-that-releases-two-fuel-gases/article71574650.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-10-12T16:22:01+05:30",
+   "date": "2026-10-12",
+   "snip": "The team developed a compound called magnesium hydridomethylzincate. When it was heated in solution to 100° C, it released hydrogen, and when its crystals were heated in the absence of a solvent at 80-110° C, it released both hydrogen and methane",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
    "id": "https://www.thehindu.com/sci-tech/science/ipcc-deadlocked-inclusivity-concerns-reports-publishing-more-time/article71574460.ece",
    "h": "World’s top climate body deadlocked over inclusivity concerns",
    "link": "https://www.thehindu.com/sci-tech/science/ipcc-deadlocked-inclusivity-concerns-reports-publishing-more-time/article71574460.ece",
@@ -4718,102 +4814,6 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321831",
-   "h": "युवाओं को विकसित भारत का ब्रांड एम्बेसडर बनना चाहिए और हर कार्य के केंद्र में राष्ट्र निर्माण को रखना चाहिए: डॉ. मनसुख मांडविया",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321831",
-   "src": "PIB",
-   "t": "2026-10-10T23:43:49.347215+05:30",
-   "date": "2026-10-10",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321826",
-   "h": "रक्षा संवाददाताओं का प्रशिक्षण पाठ्यक्रम तेजपुर में संपन्न हुआ",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2321826",
-   "src": "PIB",
-   "t": "2026-10-10T23:43:49.346038+05:30",
-   "date": "2026-10-10",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/cities/Delhi/cjp-protests-jantar-mantar-new-delhi-election-commissioner-gyanesh-kumar-resignation-sir-cec-row-october-10-2026-live-news/article71566021.ece",
-   "h": "Anti-CEC protest LIVE updates: CJP calls for another protest at Jantar Mantar on Sunday; members allege they have no information on detained CJP leaders' whereabouts",
-   "link": "https://www.thehindu.com/news/cities/Delhi/cjp-protests-jantar-mantar-new-delhi-election-commissioner-gyanesh-kumar-resignation-sir-cec-row-october-10-2026-live-news/article71566021.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-10T23:33:52+05:30",
-   "date": "2026-10-10",
-   "snip": "Supreme Court to hold Sunday special hearing on contempt petition against shutdown of transit corridors, metro stations across Delhi; Delhi Metro reopens 45 stations after 25-hour closure",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/health/slew-of-events-planned-in-memory-of-kv-thiruvengadam-in-centenary-year/article71555118.ece",
-   "h": "Slew of events planned in memory of K.V. Thiruvengadam in centenary year",
-   "link": "https://www.thehindu.com/sci-tech/health/slew-of-events-planned-in-memory-of-kv-thiruvengadam-in-centenary-year/article71555118.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-10T23:06:04+05:30",
-   "date": "2026-10-10",
-   "snip": "The celebrations, in memory of the renowned physician’s extraordinary impact on medicine both in Chennai and beyond, will focus on restoring the art of listening to the patient, examining at the bedside, thinking before ordering a test, and finally, and dwelling on the fundamental question of what it means to be a good physician in an age of extraordinary technology",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/former-ias-ifs-officers-defend-election-commission-and-sir-in-an-open-letter/article71568900.ece",
-   "h": "Former IAS, IFS officers defend Election Commission and SIR in an open letter",
-   "link": "https://www.thehindu.com/news/national/former-ias-ifs-officers-defend-election-commission-and-sir-in-an-open-letter/article71568900.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-10T22:50:39+05:30",
-   "date": "2026-10-10",
-   "snip": "A system cannot be honest when you win and rigged when you lose, say the officials",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/supreme-court-sets-sunday-hearing-of-contempt-plea-against-october-10-delhi-transit-shutdown/article71568844.ece",
-   "h": "Supreme Court fixes special hearing on Sunday for pleas challenging mass detentions, transit shutdown in Delhi",
-   "link": "https://www.thehindu.com/news/national/supreme-court-sets-sunday-hearing-of-contempt-plea-against-october-10-delhi-transit-shutdown/article71568844.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-10T22:32:54+05:30",
-   "date": "2026-10-10",
-   "snip": "The Apex Court is also hearing a petition against the indiscriminate detentions of students, youths, former Chief Ministers, journalists, lawyers, and others by the Delhi Police, against the rule of law and democratic dissent",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/business/sebi-to-issue-guidelines-on-cas-in-a-week-chairman-pandey/article71569322.ece",
-   "h": "SEBI to issue guidelines on CAS in a week: Chairman Pandey",
-   "link": "https://www.thehindu.com/business/sebi-to-issue-guidelines-on-cas-in-a-week-chairman-pandey/article71569322.ece",
-   "src": "The Hindu - Business",
-   "t": "2026-10-10T22:24:03+05:30",
-   "date": "2026-10-10",
-   "snip": "SEBI had sought public comments till October 3 on proposals to review certain aspects of the CAS mechanism, market timings and the settlement methodology for derivative contracts",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/cities/Delhi/delhi-protest-daily-wage-workers-prevented-from-reaching-workplace/article71567421.ece",
-   "h": "Delhi protest: Stopped at police barricades, daily-wage workers lose day’s earnings",
-   "link": "https://www.thehindu.com/news/cities/Delhi/delhi-protest-daily-wage-workers-prevented-from-reaching-workplace/article71567421.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-10T21:50:56+05:30",
-   "date": "2026-10-10",
-   "snip": "As Delhi turned into a fortress ahead of the protest demanding Chief Election Commissioner Gyanesh Kumar’s resignation, mostly only people with government ID cards were allowed to proceed towards Central Delhi",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
   }
  ]
 }
