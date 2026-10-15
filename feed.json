@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T03:11:00.401075+05:30",
+ "updated": "2026-10-16T05:22:49.483153+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,102 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/dentist-dismissed-after-joining-black-flag-protest-against-minister-in-keralam/article71544274.ece",
+   "h": "Dentist dismissed after joining black flag protest against Minister in Keralam",
+   "link": "https://www.thehindu.com/news/national/kerala/dentist-dismissed-after-joining-black-flag-protest-against-minister-in-keralam/article71544274.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-16T04:56:45+05:30",
+   "date": "2026-10-16",
+   "snip": "Sidharth Ravindran was working temporarily at the Kanhangad District Hospital under the National Health Mission. He was dismissed after authorities concluded that his participation in the protest violated the terms of the agreement he had signed while joining the service",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/andhra-pradesh/sharmila-reiterates-demand-for-cec-gyanesh-kumars-resignation/article71544002.ece",
+   "h": "Sharmila reiterates demand for CEC Gyanesh Kumar’s resignation",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/sharmila-reiterates-demand-for-cec-gyanesh-kumars-resignation/article71544002.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-16T04:53:07+05:30",
+   "date": "2026-10-16",
+   "snip": "APCC president alleges unilateral decisions in Election Commission raise questions over transparency, accountability and collective decision-making",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/traders-in-kozhikode-announce-protest-against-unauthorised-street-vending/article71543519.ece",
+   "h": "Traders in Kozhikode announce protest against unauthorised street vending",
+   "link": "https://www.thehindu.com/news/national/kerala/traders-in-kozhikode-announce-protest-against-unauthorised-street-vending/article71543519.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-16T04:52:00+05:30",
+   "date": "2026-10-16",
+   "snip": "Traders owing allegiance to the KVVES demands that street vending be restricted to areas identified by local self-government institutions in accordance with the Street Vendors Act",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/karnataka/rare-inscription-found-on-farm-bund-agricultural-field-in-ballari/article71541438.ece",
+   "h": "Rare inscription found on farm bund agricultural field in Ballari",
+   "link": "https://www.thehindu.com/news/national/karnataka/rare-inscription-found-on-farm-bund-agricultural-field-in-ballari/article71541438.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-16T04:38:35+05:30",
+   "date": "2026-10-16",
+   "snip": "",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/ernakulam-district-panchayat-to-study-social-impact-of-milmaschool-programme/article71543291.ece",
+   "h": "Ernakulam District Panchayat to study social impact of Milma@School programme",
+   "link": "https://www.thehindu.com/news/national/kerala/ernakulam-district-panchayat-to-study-social-impact-of-milmaschool-programme/article71543291.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-16T04:29:39+05:30",
+   "date": "2026-10-16",
+   "snip": "The decision comes in the wake of concerns raised by civic representatives at the Ernakulam District Panchayat council meeting last week.",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/karnataka/district-administration-seeks-agricultural-research-land-for-private-healthcare-project/article71543986.ece",
+   "h": "District administration seeks agricultural research land for private healthcare project",
+   "link": "https://www.thehindu.com/news/national/karnataka/district-administration-seeks-agricultural-research-land-for-private-healthcare-project/article71543986.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-16T04:26:29+05:30",
+   "date": "2026-10-16",
+   "snip": "Scientists say the 34-year-old wilt-sick plot at ZARS is at the centre of growing concerns over the proposed land diversion",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/meghalaya/report-sought-after-child-dies-in-mothers-arms-during-trek-to-hospital-in-meghalaya/article71543591.ece",
+   "h": "Report sought after child dies in mother’s arms during trek to hospital in Meghalaya",
+   "link": "https://www.thehindu.com/news/national/meghalaya/report-sought-after-child-dies-in-mothers-arms-during-trek-to-hospital-in-meghalaya/article71543591.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-16T04:24:47+05:30",
+   "date": "2026-10-16",
+   "snip": "Members of the three-year-old’s family had to walk about 10 km from their village in West Khasi Hills district to the nearest point a vehicle could reach",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/cities/Hyderabad/milk-bank-launched-at-private-hospital-as-hyderabad-eyes-formula-free-city-status/article71543382.ece",
+   "h": "Milk bank launched at private hospital as Hyderabad eyes ‘Formula-Free City’ status",
+   "link": "https://www.thehindu.com/news/cities/Hyderabad/milk-bank-launched-at-private-hospital-as-hyderabad-eyes-formula-free-city-status/article71543382.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-16T03:44:08+05:30",
+   "date": "2026-10-16",
+   "snip": "",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
   {
    "id": "https://www.thehindu.com/business/experts-poll-rbi-may-hike-rates-by-025-in-october-policy-amid-inflationary-pressures/article71543381.ece",
    "h": "Experts’ poll: RBI may hike rates by 0.25% in October policy amid inflationary pressures",
@@ -112,6 +208,18 @@
    "score": 2
   },
   {
+   "id": "https://www.thehindu.com/news/international/yemen-houthis-say-they-attacked-aramco-facility-in-riyadh-with-missiles-drones/article71541954.ece",
+   "h": "Yemen’s Houthis say they attacked Aramco facility in Riyadh with missiles, drones",
+   "link": "https://www.thehindu.com/news/international/yemen-houthis-say-they-attacked-aramco-facility-in-riyadh-with-missiles-drones/article71541954.ece",
+   "src": "The Hindu - International",
+   "t": "2026-10-16T02:17:46+05:30",
+   "date": "2026-10-16",
+   "snip": "The ⁠reported attack comes amid escalating hostilities between Saudi Arabia and ‌the Houthis, who have stepped up attacks on Saudi cities and energy infrastructure",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
    "id": "https://www.thehindu.com/news/national/andhra-pradesh/el-nino-draws-kasai-pitta-out-in-rayalaseema-scrub-lands/article71540589.ece",
    "h": "El Niño draws ‘Kasai Pitta' out in Rayalaseema scrub lands",
    "link": "https://www.thehindu.com/news/national/andhra-pradesh/el-nino-draws-kasai-pitta-out-in-rayalaseema-scrub-lands/article71540589.ece",
@@ -121,6 +229,18 @@
    "snip": "The long-tailed shrike, Lanius schach, is sighted along the Penna River belt and fringes of the Erramala and Palakonda ranges in Nandyal and Kadapa",
    "cat": "Science & Tech",
    "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/international/nolo-becomes-category-3-hurricane-in-remote-pacific-ocean/article71542838.ece",
+   "h": "Nolo becomes Category 3 Hurricane in remote Pacific Ocean",
+   "link": "https://www.thehindu.com/news/international/nolo-becomes-category-3-hurricane-in-remote-pacific-ocean/article71542838.ece",
+   "src": "The Hindu - International",
+   "t": "2026-10-16T02:12:10+05:30",
+   "date": "2026-10-16",
+   "snip": "The storm’s maximum sustained winds rapidly intensified to 115 mph (185 kph), the Miami-based National Hurricane Center reported, meaning it was a Category 3 hurricane",
+   "cat": "International Relations",
+   "gs": "GS2",
    "score": 2
   },
   {
@@ -2692,6 +2812,18 @@
    "score": 2
   },
   {
+   "id": "https://www.thehindu.com/sci-tech/science/science-contract-society-citizens-research-partners/article71574135.ece",
+   "h": "Why science’s contract with society needs citizens as research partners",
+   "link": "https://www.thehindu.com/sci-tech/science/science-contract-society-citizens-research-partners/article71574135.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-10-14T10:36:11+05:30",
+   "date": "2026-10-14",
+   "snip": "While governments, as the patrons, are entitled to establish broad priorities and expectations, they should not use science policy as an excuse to politically micromanage research",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 3
+  },
+  {
    "id": "https://www.thehindu.com/business/rupee-rises-44-paise-to-9492-against-us-dollar-in-early-trade/article71582299.ece",
    "h": "Rupee rises 44 paise to 94.92 against U.S. dollar in early trade",
    "link": "https://www.thehindu.com/business/rupee-rises-44-paise-to-9492-against-us-dollar-in-early-trade/article71582299.ece",
@@ -4682,138 +4814,6 @@
    "cat": "Science & Tech",
    "gs": "GS3",
    "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-strikes-down-law-increasing-reservation-for-scssts-declares-it-unconstitutional/article71575639.ece",
-   "h": "Karnataka High Court strikes down attempt to increase reservation for SCs/STs, declares it unconstitutional",
-   "link": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-strikes-down-law-increasing-reservation-for-scssts-declares-it-unconstitutional/article71575639.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-12T21:22:23+05:30",
-   "date": "2026-10-12",
-   "snip": "Court says 50% ceiling on total reservation is binding constitutional principle",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/karnataka/vb-g-ram-g-minister-orders-issue-of-show-cause-notices-as-311-panchayats-over-report-delay-in-payments/article71575844.ece",
-   "h": "VB-G RAM G: Minister orders show-cause notices as 311 panchayats report delay in payments",
-   "link": "https://www.thehindu.com/news/national/karnataka/vb-g-ram-g-minister-orders-issue-of-show-cause-notices-as-311-panchayats-over-report-delay-in-payments/article71575844.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-12T21:19:41+05:30",
-   "date": "2026-10-12",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/kerala-high-court-admits-states-appeal-challenging-court-order-to-set-aside-police-association-reorganisation/article71575866.ece",
-   "h": "Kerala High Court admits State’s appeal challenging court order to set aside police association reorganisation",
-   "link": "https://www.thehindu.com/news/national/kerala/kerala-high-court-admits-states-appeal-challenging-court-order-to-set-aside-police-association-reorganisation/article71575866.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-12T21:07:33+05:30",
-   "date": "2026-10-12",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/andhra-pradesh/sri-sathya-sai-district-wins-pmddky-award-for-farm-credit-excellence-agriculture-promotion/article71574654.ece",
-   "h": "Sri Sathya Sai district wins PMDDKY award for farm credit excellence, agriculture promotion",
-   "link": "https://www.thehindu.com/news/national/andhra-pradesh/sri-sathya-sai-district-wins-pmddky-award-for-farm-credit-excellence-agriculture-promotion/article71574654.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-12T21:07:14+05:30",
-   "date": "2026-10-12",
-   "snip": "The district excelled in disbursing bank loans to farmers on time, providing loans to 3,69,970 farmers worth ₹4,992 crore, ensuring investment support, hassle-free cultivation, and financial empowerment that led to quality crop production and economic development",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/haryana/haryana-rti-activists-seek-reforms-in-state-information-commission-submit-17-point-memorandum-to-governor/article71575873.ece",
-   "h": "Haryana RTI activists seek reforms in State Information Commission, submit 17-point memorandum to Governor",
-   "link": "https://www.thehindu.com/news/national/haryana/haryana-rti-activists-seek-reforms-in-state-information-commission-submit-17-point-memorandum-to-governor/article71575873.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-12T21:04:13+05:30",
-   "date": "2026-10-12",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/andhra-pradesh/global-horticulture-hub-awareness-drive-kicks-off-in-sri-sathya-sai-district/article71574874.ece",
-   "h": "Global Horticulture Hub awareness drive kicks off in Sri Sathya Sai district",
-   "link": "https://www.thehindu.com/news/national/andhra-pradesh/global-horticulture-hub-awareness-drive-kicks-off-in-sri-sathya-sai-district/article71574874.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-12T20:57:44+05:30",
-   "date": "2026-10-12",
-   "snip": "District Horticulture Officer says the week-long drive will create awareness on Rayalaseema Integrated Horticulture Development Programme (RIHDP) schemes and receive applications from eligible farmers across the district",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/business/Economy/the-2026-nobel-winning-insights-into-how-govts-should-stabilise-economies/article71574871.ece",
-   "h": "The 2026 Nobel-winning insights into how governments should stabilise economies",
-   "link": "https://www.thehindu.com/business/Economy/the-2026-nobel-winning-insights-into-how-govts-should-stabilise-economies/article71574871.ece",
-   "src": "The Hindu - Business",
-   "t": "2026-10-12T19:31:51+05:30",
-   "date": "2026-10-12",
-   "snip": "The research done by Robert E. Hall and Michael Woodford also provides an empirical basis for the idea that the effectiveness of economic policy is also determined by how well governments communicate why they are implementing those policies",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/business/Economy/retail-inflation-rises-in-september-on-costlier-food-items/article71574789.ece",
-   "h": "Food, fuel and precious metals drive September retail inflation to 23-month high of 5.5%",
-   "link": "https://www.thehindu.com/business/Economy/retail-inflation-rises-in-september-on-costlier-food-items/article71574789.ece",
-   "src": "The Hindu - Business",
-   "t": "2026-10-12T18:37:11+05:30",
-   "date": "2026-10-12",
-   "snip": "Inflation as measured by the Consumer Price Index (CPI) in September 2026 was the highest since October 2024. The rate in September also marked a substantial increase over the 4.8% rate seen in August 2026",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/education/indian-researcher-recalls-lifechanging-mentorship-of-late-nobel-laureate-ada-yonath/article71563606.ece",
-   "h": "Indian researcher recalls lifechanging mentorship of late Nobel laureate Ada Yonath",
-   "link": "https://www.thehindu.com/education/indian-researcher-recalls-lifechanging-mentorship-of-late-nobel-laureate-ada-yonath/article71563606.ece",
-   "src": "The Hindu - Science",
-   "t": "2026-10-12T18:17:28+05:30",
-   "date": "2026-10-12",
-   "snip": "For Dr. Tanaya Bose, who spent seven years in her laboratory, says Yonath’s legacy extends beyond science to a rare generosity that continues to shape the way she mentors young researchers.",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/business/Economy/explained-rbis-worries-about-pressure-on-rupee-and-measures-to-curb-volatility-in-forex-market/article71574231.ece",
-   "h": "Explained | RBI’s worries about pressure on rupee and measures to curb volatility in forex market",
-   "link": "https://www.thehindu.com/business/Economy/explained-rbis-worries-about-pressure-on-rupee-and-measures-to-curb-volatility-in-forex-market/article71574231.ece",
-   "src": "The Hindu - Business",
-   "t": "2026-10-12T17:05:57+05:30",
-   "date": "2026-10-12",
-   "snip": "The RBI said these measures would strengthen market discipline and ensure appropriate risk management in the foreign exchange market, while maintaining an orderly and transparent market environment",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/business/Economy/nobel-prize-in-economics-2026-announced-robert-e-hall-michael-woodford/article71573945.ece",
-   "h": "Americans Robert E. Hall, Michael Woodford win Economics Nobel 2026",
-   "link": "https://www.thehindu.com/business/Economy/nobel-prize-in-economics-2026-announced-robert-e-hall-michael-woodford/article71573945.ece",
-   "src": "The Hindu - International",
-   "t": "2026-10-12T16:47:08+05:30",
-   "date": "2026-10-12",
-   "snip": "“This year’s laureates in economic sciences, Robert E. Hall and Michael Woodford, have developed new macroeconomic models that have significantly improved our ability to implement effective stabilisation policy. On the basis of these models, well-timed fiscal and monetary policy measures can reduce the economy’s peaks and troughs,” the Royal Swedish Academy of Sciences said",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 3
   }
  ]
 }
