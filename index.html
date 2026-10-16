@@ -330,7 +330,7 @@ function render(){
     const L=aiList(q),upd=autoUpd?new Date(autoUpd).toLocaleString("en-IN",{day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"})+" IST":null;
     $("stats").innerHTML=`<span>${L.length} shown</span><span>${Object.keys(auto).length} AI notes</span><span>${upd?"Last written "+upd:"Not generated yet"}</span>`;
     const banner=`<div class="empty" style="text-align:left;margin-bottom:10px;border-style:solid">AI notes are written automatically for new UPSC-relevant headlines (highest priority first), a few every 15 minutes, with a diagram where useful. They are drafts built from the article text: check any “Verify” point before quoting.</div>`;
-    const setup=`<div class="empty" style="text-align:left">No AI notes yet. One-time setup: add a free <b>GEMINI_API_KEY</b> in the repo (Settings → Secrets and variables → Actions), then run the “Update CA feed” workflow once. Notes appear here after it finishes.</div>`;
+    const setup=`<div class="empty" style="text-align:left">No AI notes yet. AI drafts are generated for eligible recent headlines when an API key is configured. Check the latest Update CA feed workflow run if none appear.</div>`;
     $("list").innerHTML=banner+(L.length?L.map(n=>`<article class="card">
       <div class="tags"><span class="tag gs">${esc(n.gs)}</span><span class="tag">${esc(n.cat)}</span><span class="tag">${esc(n.date)}</span>${n.diagram?'<span class="tag">Diagram</span>':""}<span class="tag">AI draft</span>${n.check?'<span class="tag sample">Verify one point</span>':""}</div>
       <h3><a href="#" data-n="${esc(n.id)}">${esc(n.title)}</a></h3>
