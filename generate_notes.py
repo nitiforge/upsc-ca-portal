@@ -14,7 +14,7 @@ Cost controls (environment variables, all optional):
   NOTES_MAX_PER_RUN  notes per run            (default 6)
   NOTES_DAILY_CAP    notes per calendar day   (default 60)
   NOTES_MIN_SCORE    minimum relevance score  (default 4)
-  NOTES_MODEL        API model name           (default claude-sonnet-5-5)
+  NOTES_MODEL        API model name           (default claude-sonnet-5)
 """
 import json, os, re, sys, time, html, urllib.request, urllib.error
 from datetime import datetime, timezone, timedelta
@@ -30,7 +30,7 @@ KEY = GEMINI_KEY or ANTHROPIC_KEY
 # Gemini models tried in order; a model that is missing/unavailable (404) falls through to the next.
 GEMINI_MODELS = [m.strip() for m in os.environ.get(
     "NOTES_MODEL", "gemini-3.5-flash-lite,gemini-3.1-flash-lite,gemini-3.8-flash").split(",") if m.strip()]
-MODEL = os.environ.get("NOTES_MODEL", "claude-sonnet-5-5") if PROVIDER == "anthropic" else GEMINI_MODELS[0]
+MODEL = os.environ.get("NOTES_MODEL", "claude-sonnet-5") if PROVIDER == "anthropic" else GEMINI_MODELS[0]
 MAX_PER_RUN = int(os.environ.get("NOTES_MAX_PER_RUN", "6"))
 DAILY_CAP = int(os.environ.get("NOTES_DAILY_CAP", "60"))
 MIN_SCORE = int(os.environ.get("NOTES_MIN_SCORE", "4"))
