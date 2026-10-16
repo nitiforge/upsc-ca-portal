@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T17:00:12.709417+05:30",
+ "updated": "2026-10-16T17:05:35.845346+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,42 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324391",
+   "h": "खादी और ग्रामोद्योग आयोग के अध्यक्ष श्री मनोज गोयल ने प्रधानमंत्री श्री नरेन्‍द्र मोदी के 'हर घर स्वदेशी, घर-घर स्वदेशी' के आह्वान को 'बात खादी की' पॉडकास्ट के माध्यम से जेन-जी तक ले जाने के उद्देश्य से मुंबई में 'खादी महोत्सव-2026' का उद्घाटन किया",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324391",
+   "src": "PIB",
+   "t": "2026-10-16T17:05:08.657114+05:30",
+   "date": "2026-10-16",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324392",
+   "h": "भारत खनन सप्ताह का आयोजन अब 24-26 फरवरी 2027 को होगा",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324392",
+   "src": "PIB",
+   "t": "2026-10-16T17:05:08.655598+05:30",
+   "date": "2026-10-16",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/business/federal-bank-q2-profit-jumps-45-to-record-1386-crore/article71592134.ece",
+   "h": "Federal Bank Q2 profit jumps 45% to record ₹1,386 crore",
+   "link": "https://www.thehindu.com/business/federal-bank-q2-profit-jumps-45-to-record-1386-crore/article71592134.ece",
+   "src": "The Hindu - Business",
+   "t": "2026-10-16T17:00:40+05:30",
+   "date": "2026-10-16",
+   "snip": "Tthe agricultural segment warranted close monitoring amid the threat of El Niño, though the bank had not yet recorded any significant impact on slippages.",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324295",
    "h": "पोलैंड के युवा प्रतिनिधिमंडल का जामसाहेब स्मारक युवा विनिमय कार्यक्रम का दूसरा संस्करण सफलतापूर्वक संपन्न",
@@ -4516,6 +4552,18 @@
    "score": 2
   },
   {
+   "id": "https://www.thehindu.com/sci-tech/science/top-ai-researchers-demand-action-to-prevent-models-going-rogue/article71578942.ece",
+   "h": "Top AI researchers demand action to prevent models going ‘rogue’",
+   "link": "https://www.thehindu.com/sci-tech/science/top-ai-researchers-demand-action-to-prevent-models-going-rogue/article71578942.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-10-13T17:56:36+05:30",
+   "date": "2026-10-13",
+   "snip": "Leading U.S.-based AI firms have disclosed over recent months a series of incidents where models under development have escaped containment measures to access the internet and have gone on to hack websites",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322680",
    "h": "राष्ट्रीय सुशासन केंद्र, मसूरी में सीमाओं से परे भाषिनी का वॉयस–फर्स्ट बहुभाषी एआई",
    "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2322680",
@@ -4765,54 +4813,6 @@
    "snip": "Houthi rebels said on Tuesday that multiple airstrikes targeted areas under their control in Yemen, with blasts struck the Red Sea island of Kamaran and the Qanawis district near Hodeida, as well as sites in Jawf governorate, according to al-Masirah.",
    "cat": "Polity",
    "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-upholds-tamil-nadu-assembly-speakers-decision-to-accept-resignations-of-six-aiadmk-mlas/article71577841.ece",
-   "h": "Madras High Court upholds Tamil Nadu Assembly Speaker’s decision to accept resignations of six AIADMK MLAs",
-   "link": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-upholds-tamil-nadu-assembly-speakers-decision-to-accept-resignations-of-six-aiadmk-mlas/article71577841.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-13T16:42:49+05:30",
-   "date": "2026-10-13",
-   "snip": "Chief Justice Sushrut Arvind Dharmadhikari and Justice G. Arul Murugan, however, direct him to conclude the disqualification proceedings pending against four out of the six MLAs within two months",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/jharkhand/three-member-panel-set-up-to-examine-death-of-student-at-iiit-ranchi-ministry-of-education/article71578780.ece",
-   "h": "Three-member panel set up to examine death of student at IIIT Ranchi: Ministry of Education",
-   "link": "https://www.thehindu.com/news/national/jharkhand/three-member-panel-set-up-to-examine-death-of-student-at-iiit-ranchi-ministry-of-education/article71578780.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-13T16:42:01+05:30",
-   "date": "2026-10-13",
-   "snip": "The Committee has been mandated to examine the circumstances surrounding the incident",
-   "cat": "Society",
-   "gs": "GS1",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/karnataka/karnataka-home-minister-says-police-directed-not-to-disrupt-peaceful-demonstration/article71578224.ece",
-   "h": "Report sought on police action against SIR protest in Bengaluru, there will be no double standards: Karnataka CM D.K. Shivakumar",
-   "link": "https://www.thehindu.com/news/national/karnataka/karnataka-home-minister-says-police-directed-not-to-disrupt-peaceful-demonstration/article71578224.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-13T16:30:18+05:30",
-   "date": "2026-10-13",
-   "snip": "Disagreement with the Election Commission, disagreement with my government, or disagreement with me personally does not diminish anyone’s right to peacefully express it, the CM said.",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 4
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/telangana/committee-recommends-replacing-telanganas-three-tier-tax-slab-for-contract-carriages-with-single-tax-system/article71578691.ece",
-   "h": "Committee recommends replacing Telangana’s three-tier tax slab for contract carriages with single tax system",
-   "link": "https://www.thehindu.com/news/national/telangana/committee-recommends-replacing-telanganas-three-tier-tax-slab-for-contract-carriages-with-single-tax-system/article71578691.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-13T16:20:04+05:30",
-   "date": "2026-10-13",
-   "snip": "The report ‘Rationalisation of Tax on Contract Carriage Buses Plying within Telangana’, flags alleged misuse of temporary permits by operators",
-   "cat": "Economy",
-   "gs": "GS3",
    "score": 2
   }
  ]
