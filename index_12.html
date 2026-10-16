@@ -1,0 +1,760 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>UPSC Current Affairs – Niti Pathshala × NitiForge</title>
+<style>
+:root{box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);
+--bg:#f6f4ef;--card:#fff;--ink:#1d2330;--mut:#6b7280;--line:#e4e0d6;--acc:#b45309;--acc2:#1e3a5f;--chip:#efe9dc}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#12151c;--card:#1b2029;--ink:#e8e6e1;--mut:#9aa1ad;--line:#2a313d;--acc:#f59e0b;--acc2:#7fb0e8;--chip:#262d39}}
+:root[data-theme="dark"]{--bg:#12151c;--card:#1b2029;--ink:#e8e6e1;--mut:#9aa1ad;--line:#2a313d;--acc:#f59e0b;--acc2:#7fb0e8;--chip:#262d39}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 Georgia,"Times New Roman",serif}
+.wrap{max-width:860px;margin:0 auto;padding:16px}
+h1{font-size:22px;margin:0}
+.sub{color:var(--mut);font:13px system-ui,sans-serif}
+header{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;flex-wrap:wrap;margin-bottom:12px}
+button,input,select,textarea{font:14px system-ui,sans-serif;color:var(--ink)}
+.btn{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:7px 12px;cursor:pointer}
+.btn.p{background:var(--acc2);color:#fff;border-color:var(--acc2)}
+.btn:hover{border-color:var(--acc)}
+.bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:10px}
+input[type=text],input[type=date],select,textarea{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:7px 10px;width:100%}
+.bar input[type=text]{flex:1;min-width:160px;width:auto}
+.bar input[type=date]{width:auto}
+.tabs{display:flex;gap:2px;margin-bottom:12px;border-bottom:1px solid var(--line);overflow-x:auto;white-space:nowrap;-webkit-overflow-scrolling:touch}
+.tab{flex:0 0 auto;background:none;border:0;border-bottom:3px solid transparent;padding:8px 11px;cursor:pointer;font:600 14px system-ui,sans-serif;color:var(--mut)}
+.tab.on{color:var(--acc2);border-color:var(--acc)}
+.chips{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px}
+.chip{background:var(--chip);border:1px solid transparent;border-radius:999px;padding:4px 11px;font:13px system-ui,sans-serif;cursor:pointer;color:var(--ink)}
+.chip.on{background:var(--acc);color:#fff}
+.stats{display:flex;gap:16px;font:13px system-ui,sans-serif;color:var(--mut);margin-bottom:10px;flex-wrap:wrap}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin-bottom:12px}
+.card h3{margin:6px 0 6px;font-size:17px;line-height:1.35}
+.card h3 a{color:var(--ink);text-decoration:none}.card h3 a:hover{color:var(--acc2);text-decoration:underline}
+.tags{display:flex;gap:6px;flex-wrap:wrap;font:11.5px system-ui,sans-serif}
+.tag{background:var(--chip);padding:2px 8px;border-radius:6px}
+.tag.gs{color:var(--acc2);font-weight:600}
+.tag.sample{background:#fde68a;color:#78350f}
+.sec{margin-top:8px}
+.sec b{font:600 12px system-ui,sans-serif;text-transform:uppercase;letter-spacing:.05em;color:var(--acc)}
+.sec ul{margin:3px 0 0;padding-left:18px}
+.row{display:flex;justify-content:space-between;align-items:center;gap:8px}
+.ic{background:none;border:0;cursor:pointer;font-size:19px;padding:2px 6px;color:var(--mut)}
+.ic.on{color:var(--acc)}
+.empty{text-align:center;color:var(--mut);padding:36px 12px;font:14px system-ui,sans-serif}
+.live{display:inline-block;width:8px;height:8px;border-radius:50%;background:#16a34a;margin-right:6px;animation:p 2s infinite}
+.live.off{background:#dc2626;animation:none}
+@keyframes p{50%{opacity:.3}}
+a.btn{text-decoration:none;display:inline-block;color:var(--ink)}
+dialog{border:1px solid var(--line);border-radius:14px;background:var(--bg);color:var(--ink);width:min(560px,94vw);padding:16px}
+dialog::backdrop{background:rgba(0,0,0,.45)}
+label{display:block;font:600 12px system-ui,sans-serif;margin:10px 0 3px;color:var(--mut)}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+textarea{min-height:70px;resize:vertical}
+.callout{background:rgba(245,158,11,.13);border:1px solid #f59e0b;border-radius:8px;padding:8px 10px;font:13px system-ui,sans-serif;margin-top:10px}
+.brand{font:700 11px system-ui,sans-serif;letter-spacing:.12em;color:var(--acc);text-transform:uppercase}
+.nbody p{margin:4px 0}.nbody ul{margin:4px 0;padding-left:20px}
+.dgm{overflow-x:auto;margin-top:6px;border:1px solid var(--line);border-radius:10px;padding:8px;background:var(--card)}
+.dgm svg{max-width:100%;height:auto;display:block;margin:0 auto}
+.dn{fill:var(--chip);stroke:var(--acc2);stroke-width:1.2}.dt{fill:var(--ink);font:12px system-ui,sans-serif}
+.de{stroke:var(--mut);stroke-width:1.4;fill:none}.da{fill:var(--mut)}
+.imgs{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:10px;margin-top:6px}
+.imgs figure{margin:0}.imgs img{width:100%;border-radius:8px;border:1px solid var(--line)}.imgs figcaption{font:12px system-ui,sans-serif;color:var(--mut)}
+dialog.wide{width:min(780px,96vw);max-height:92vh;overflow:auto}
+.opt{display:block;width:100%;text-align:left;margin:6px 0;white-space:normal}
+.opt.ok{border-color:#16a34a;background:rgba(22,163,74,.13)}.opt.bad{border-color:#dc2626;background:rgba(220,38,38,.1)}
+.pbar{height:8px;background:var(--chip);border-radius:6px;overflow:hidden}.pbar i{display:block;height:100%;background:var(--acc)}
+.mini{break-inside:avoid;margin:0 0 14px;padding-bottom:10px;border-bottom:1px solid var(--line)}
+.qrow{break-inside:avoid;margin:0 0 10px}.pb{break-before:page}
+#printArea{display:none}
+@media print{
+ body.printing .wrap,body.printing dialog{display:none!important}
+ body.printing #printArea{display:block;--bg:#fff;--card:#fff;--ink:#111;--mut:#555;--line:#ccc;--acc:#b45309;--acc2:#1e3a5f;--chip:#f1ece0;color:#111;background:#fff;padding:0 4px}
+ body.printing{background:#fff}
+}
+.foot{color:var(--mut);font:12px system-ui,sans-serif;text-align:center;margin:20px 0 8px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <h1>UPSC Current Affairs · Niti Pathshala × NitiForge</h1>
+      <div class="sub" id="dateLabel"></div>
+    </div>
+    <div class="bar" style="margin:0">
+      <button class="btn" id="themeBtn" title="Toggle theme">◐</button>
+      <button class="btn" id="digestBtn">Copy digest</button>
+      <button class="btn p" id="addBtn">+ Add item</button>
+    </div>
+  </header>
+
+  <div class="tabs">
+    <button class="tab on" id="tOur">Our Notes</button>
+    <button class="tab" id="tAI">AI Notes</button>
+    <button class="tab" id="tEd">Editorials</button>
+    <button class="tab" id="tQz">Quiz</button>
+    <button class="tab" id="tMn">Mains</button>
+    <button class="tab" id="tFc">Cards</button>
+    <button class="tab" id="tTr">Tracker</button>
+    <button class="tab" id="tPr">Compile</button>
+    <button class="tab" id="tFeed">Live Feed</button>
+    <button class="tab" id="tTop">Top 10</button>
+    <button class="tab" id="tNotes">My Notes</button>
+  </div>
+  <div class="sub" id="liveBar" style="margin-bottom:10px"></div>
+
+  <div class="bar">
+    <button class="btn" id="prev">←</button>
+    <input type="date" id="date">
+    <button class="btn" id="next">→</button>
+    <button class="btn" id="today">Today</button>
+    <input type="text" id="q" placeholder="Search…">
+  </div>
+  <div class="chips" id="cats"></div>
+  <div class="chips" id="gs"></div>
+  <div class="chips" id="langs"></div>
+  <div class="chips" id="srcs"></div>
+  <div class="bar" id="optBar">
+    <label style="margin:0;display:flex;gap:6px;align-items:center"><input type="checkbox" id="allDays"> All dates</label>
+    <label style="margin:0;display:flex;gap:6px;align-items:center"><input type="checkbox" id="byTime"> Newest first</label>
+    <label style="margin:0;display:flex;gap:6px;align-items:center"><input type="checkbox" id="onlyBm"> Bookmarked only</label>
+    <button class="btn" id="refresh">Refresh now</button>
+  </div>
+  <div class="stats" id="stats"></div>
+  <div id="list"></div>
+
+  <div class="bar" style="margin-top:14px">
+    <button class="btn" id="exp">Export notes JSON</button>
+    <button class="btn" id="impBtn">Import notes JSON</button>
+    <input type="file" id="imp" accept=".json" hidden>
+  </div>
+  <div class="foot">Our Notes are written by Niti Pathshala × NitiForge from official and press sources; verify against the source before quoting. Live Feed lists headlines and links only; open the source for the full story. Notes are stored in this browser.</div>
+</div>
+
+<dialog id="dlg">
+  <div class="row"><b style="font:600 16px system-ui,sans-serif" id="dlgT">Add item</b><button class="ic" id="x">✕</button></div>
+  <label>Headline</label><input type="text" id="fH">
+  <div class="two">
+    <div><label>Date</label><input type="date" id="fD"></div>
+    <div><label>Topic</label><select id="fC"></select></div>
+  </div>
+  <div class="two">
+    <div><label>GS Paper</label><select id="fG"><option>GS1</option><option>GS2</option><option selected>GS3</option><option>GS4</option><option>Prelims</option><option>Essay</option></select></div>
+    <div><label>Source</label><input type="text" id="fS" placeholder="The Hindu, PIB…"></div>
+  </div>
+  <label>Why in news</label><textarea id="fW"></textarea>
+  <label>Key points (one per line)</label><textarea id="fK"></textarea>
+  <label>Prelims facts (one per line)</label><textarea id="fP"></textarea>
+  <label>Mains angle</label><textarea id="fM"></textarea>
+  <div class="bar" style="margin-top:12px;justify-content:flex-end">
+    <button class="btn" id="cancel">Cancel</button>
+    <button class="btn p" id="save">Save</button>
+  </div>
+</dialog>
+
+<dialog id="dlgD">
+  <div class="row"><div class="tags" id="dTags"></div><button class="ic" id="dx">✕</button></div>
+  <h2 id="dH" style="font-size:19px;line-height:1.35;margin:10px 0 4px"></h2>
+  <div class="sub" id="dMeta"></div>
+  <div id="dSnip" style="margin:12px 0"></div>
+  <a class="btn" id="dLink" target="_blank" rel="noopener noreferrer">Read original ↗</a>
+  <span id="dNote"></span>
+  <hr style="border:0;border-top:1px solid var(--line);margin:14px 0 4px">
+  <b style="font:600 13px system-ui,sans-serif;color:var(--acc)">MY NOTES FOR THIS ITEM</b>
+  <div class="two"><div><label>Topic</label><select id="dC"></select></div><div><label>GS Paper</label><select id="dG"></select></div></div>
+  <label>Key points (one per line)</label><textarea id="dK"></textarea>
+  <label>Prelims facts (one per line)</label><textarea id="dP"></textarea>
+  <label>Mains angle</label><textarea id="dM"></textarea>
+  <div class="bar" style="margin-top:12px;justify-content:flex-end"><button class="btn" id="dCancel">Close</button><button class="btn p" id="dSave">Save notes</button></div>
+</dialog>
+
+<dialog id="dlgN" class="wide">
+  <div class="row noprint" style="margin-bottom:6px"><span class="sub">Our note</span>
+    <div><button class="btn" id="nShare">Share</button> <button class="btn" id="nPrint">Print / Save PDF</button> <button class="btn" id="nCopy">Copy text</button> <button class="ic" id="nx">✕</button></div></div>
+  <div id="nBody" class="nbody"></div>
+  <div class="bar noprint" style="margin-top:12px"><label class="btn" style="display:inline-block;margin:0;font:14px system-ui,sans-serif;color:var(--ink)">+ Add image<input type="file" id="nImg" accept="image/*" hidden></label><span class="sub">Your images are stored in this browser only.</span></div>
+</dialog>
+<div id="printArea" class="nbody"></div>
+
+<script>
+const CATS=["Polity","Economy","International Relations","Environment","Science & Tech","Society","History & Culture","Security","Geography"];
+const GSS=["GS1","GS2","GS3","GS4","Prelims","Essay"];
+const KEY="upsc-ca-portal-v2",REFRESH_MS=15*60*1000;
+const iso=d=>new Date(d.getTime()-d.getTimezoneOffset()*60000).toISOString().slice(0,10);
+const todayS=iso(new Date());
+let mem={entries:[],bm:[],theme:null,imgs:{},read:{},fc:{},quiz:[],mains:[],topics:{}};
+function load(){try{const r=localStorage.getItem(KEY);if(r)mem=Object.assign(mem,JSON.parse(r))}catch(e){}}
+function save(){try{localStorage.setItem(KEY,JSON.stringify(mem));return true}catch(e){return false}}
+const $=id=>document.getElementById(id);
+const esc=s=>String(s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+let view="our",sel=todayS,fc=null,fg=null,fs=null,fl="en";
+const isHi=e=>/[\u0900-\u097F]/.test(e.h||"");
+const langOk=e=>fl==="all"||(isHi(e)?"hi":"en")===fl;
+let feed={items:[],updated:null},feedErr=null,nextAt=Date.now()+REFRESH_MS,lastOk=null;
+
+let ours=[],ourErr=null,curNote=null,auto={},nf="all";
+let autoUpd=null;
+async function pullAuto(){try{const r=await fetch("auto_notes.json?t="+Date.now(),{cache:"no-store"});if(r.ok){const d=await r.json();auto=d.notes||{};autoUpd=d.updated||null}}catch(e){}}
+function aiList(q){
+  const sc={};(feed.items||[]).forEach(i=>sc[i.id]=i.score||0);
+  return Object.keys(auto).map(id=>Object.assign({_s:sc[id]||0},autoNote(id))).filter(n=>(!fc||n.cat===fc)&&(!fg||n.gs===fg)&&(!q||JSON.stringify(n).toLowerCase().includes(q)))
+    .sort((a,b)=>(b.created||"").localeCompare(a.created||"")||b._s-a._s);
+}
+const autoNote=id=>auto[id]?Object.assign({id:"a:"+id,ai:true},auto[id]):null;
+async function pullNotes(){
+  try{const r=await fetch("notes.json?t="+Date.now(),{cache:"no-store"});if(!r.ok)throw new Error(r.status);ours=await r.json();ourErr=null}
+  catch(e){ourErr="notes.json not found. Upload notes.json next to index.html in your repo."}
+  await pullAuto();render();
+}
+function keyHit(t,k){k=String(k||"").trim();if(!k)return false;
+  if(k.length<=4)return new RegExp("\\b"+k.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")+"\\b","i").test(t);
+  return t.includes(k.toLowerCase())}
+function noteFor(it){const t=((it.h||"")+" "+(it.snip||"")).toLowerCase();return ours.find(n=>(n.keys||[]).some(k=>keyHit(t,k)))}
+const anyNote=it=>noteFor(it)||autoNote(it.id);
+function wrapText(s,n){const w=String(s).split(/\s+/),out=[];let c="";for(const x of w){if((c+" "+x).trim().length>n&&c){out.push(c);c=x}else c=(c+" "+x).trim()}if(c)out.push(c);return out.slice(0,4)}
+function flowSvg(text){
+  const names=[],edges=[],idx=n=>{let i=names.indexOf(n);if(i<0){names.push(n);i=names.length-1}return i};
+  String(text).split("\n").forEach(l=>{const p=l.split("->").map(x=>x.trim()).filter(Boolean);for(let i=0;i<p.length;i++){idx(p[i]);if(i>0)edges.push([idx(p[i-1]),idx(p[i])])}});
+  if(!names.length)return"";
+  const depth=names.map(()=>0);
+  for(let k=0;k<names.length;k++){let ch=false;edges.forEach(([a,b])=>{if(a!==b&&depth[b]<depth[a]+1&&depth[a]+1<names.length){depth[b]=depth[a]+1;ch=true}});if(!ch)break}
+  const ds=[...new Set(depth)].sort((a,b)=>a-b),row=depth.map(d=>ds.indexOf(d)),rows=ds.map(()=>[]);
+  names.forEach((n,i)=>rows[row[i]].push(i));
+  const W=176,GX=16,GY=44,lines=names.map(n=>wrapText(n,24)),Hh=lines.map(l=>l.length*14+16);
+  const rowW=rows.map(r=>r.length*W+(r.length-1)*GX),total=Math.max(...rowW)+20;
+  const pos={};let y=10;
+  rows.forEach(r=>{const rh=Math.max(...r.map(i=>Hh[i]));let x=(total-(r.length*W+(r.length-1)*GX))/2;r.forEach(i=>{pos[i]={x,y,h:Hh[i]};x+=W+GX});y+=rh+GY});
+  const H=y-GY+10;
+  let s=`<svg viewBox="0 0 ${total} ${H}" width="${total}" role="img" aria-label="Flow diagram"><defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path class="da" d="M0 0L10 5L0 10z"/></marker></defs>`;
+  edges.forEach(([a,b])=>{if(row[b]<=row[a])return;const A=pos[a],B=pos[b],x1=A.x+W/2,y1=A.y+A.h,x2=B.x+W/2,y2=B.y,m=(y2-y1)/2;
+    s+=`<path class="de" marker-end="url(#ah)" d="M${x1} ${y1}C${x1} ${y1+m} ${x2} ${y2-m} ${x2} ${y2-1}"/>`});
+  names.forEach((n,i)=>{const P=pos[i];s+=`<rect class="dn" x="${P.x}" y="${P.y}" width="${W}" height="${P.h}" rx="8"/>`;
+    lines[i].forEach((ln,k)=>{s+=`<text class="dt" text-anchor="middle" x="${P.x+W/2}" y="${P.y+20+k*14}">${esc(ln)}</text>`})});
+  return s+"</svg>";
+}
+function treeSvg(text){
+  const rows=String(text).split("\n").filter(l=>l.trim()).map(l=>({lv:Math.floor(l.match(/^ */)[0].length/2),t:l.trim()}));
+  if(!rows.length)return"";
+  const RH=30,IND=26;let W=0;
+  rows.forEach((r,i)=>{r.w=r.t.length*6.6+22;r.x=8+r.lv*IND;r.y=4+i*RH;W=Math.max(W,r.x+r.w+8)});
+  const H=rows.length*RH+8;
+  let s=`<svg viewBox="0 0 ${W} ${H}" width="${W}" role="img" aria-label="Concept tree">`;
+  rows.forEach((r,i)=>{if(!r.lv)return;let p=i-1;while(p>=0&&rows[p].lv>=r.lv)p--;if(p<0)return;
+    s+=`<path class="de" d="M${rows[p].x+10} ${rows[p].y+24}V${r.y+12}H${r.x}"/>`});
+  rows.forEach(r=>{s+=`<rect class="dn" x="${r.x}" y="${r.y}" width="${r.w}" height="24" rx="6"/><text class="dt" x="${r.x+9}" y="${r.y+16}">${esc(r.t)}</text>`});
+  return s+"</svg>";
+}
+const para=t=>String(t||"").split("\n").filter(Boolean).map(x=>`<p>${esc(x)}</p>`).join("");
+function noteHtml(n){
+  const own=((mem.imgs||{})[n.id]||[]).map((d,k)=>({src:d.d,cap:d.cap,k})),all=(n.images||[]).map(i=>({src:i.src,cap:i.cap,k:-1})).concat(own);
+  const S=(t,b)=>b?`<div class="sec"><b>${t}</b>${b}</div>`:"";
+  const dg=n.diagram&&n.diagram.text?(n.diagram.type==="tree"?treeSvg(n.diagram.text):flowSvg(n.diagram.text)):"";
+  return `<div class="brand">Niti Pathshala × NitiForge · UPSC Current Affairs Notes</div>
+  <h2 style="font-size:21px;line-height:1.3;margin:6px 0">${esc(n.title)}</h2>
+  <div class="tags"><span class="tag gs">${esc(n.gs)}</span><span class="tag">${esc(n.cat)}</span><span class="tag">${esc(n.date)}</span><span class="tag">${esc(n.src)}</span></div>
+  ${n.ai?`<div class="callout"><b>AI draft.</b> Written automatically from ${n.basis==="summary"?"the headline and RSS summary only (the full article could not be read)":"the article text"}. Check facts against the source before quoting.</div>`:""}
+  ${n.check?`<div class="callout"><b>Verify:</b> ${esc(n.check)}</div>`:""}
+  ${S("Why in news",para(n.why))}${S("Background",para(n.background))}${S("Key points",ul(n.key))}
+  ${dg?S("Concept diagram",`<div class="dgm">${dg}</div>`):""}
+  ${S("Prelims facts",ul(n.pre))}${S("Mains angle",para(n.mains))}${S("Way forward",para(n.way))}
+  ${all.length?S("Images",`<div class="imgs">${all.map(i=>`<figure><img src="${esc(i.src)}" alt="${esc(i.cap||"note image")}">${i.cap?`<figcaption>${esc(i.cap)}</figcaption>`:""}${i.k>=0?`<button class="ic noprint" data-di="${esc(n.id)}|${i.k}" title="Remove image">🗑</button>`:""}</figure>`).join("")}</div>`):""}
+  ${n.link?`<div class="sub noprint" style="margin-top:10px">Source: <a href="${esc(n.link)}" target="_blank" rel="noopener noreferrer">${esc(n.src)} ↗</a></div>`:""}
+  <div class="sub" style="margin-top:10px">Prepared by Niti Pathshala × NitiForge${n.ai?" (AI draft)":""}. Verify facts against the original source before quoting.</div>`;
+}
+function openNote(id){
+  const n=id.startsWith("a:")?autoNote(id.slice(2)):ours.find(x=>x.id===id);if(!n)return;curNote=n;mem.read[n.id]=todayS;save();
+  if($("dlgD").open)$("dlgD").close();
+  $("nBody").innerHTML=noteHtml(n);$("nCopy").textContent="Copy text";
+  if(!$("dlgN").open)$("dlgN").showModal();
+}
+function noteText(n){
+  const L=a=>(a||[]).map(x=>"• "+x).join("\n");
+  return [`Niti Pathshala × NitiForge · ${n.title}${n.ai?" (AI draft, verify)":""}`,`${n.gs} | ${n.cat} | ${n.date}`,n.check?"VERIFY: "+n.check:"","WHY IN NEWS\n"+n.why,"BACKGROUND\n"+n.background,"KEY POINTS\n"+L(n.key),"PRELIMS FACTS\n"+L(n.pre),"MAINS ANGLE\n"+n.mains,n.way?"WAY FORWARD\n"+n.way:""].filter(Boolean).join("\n\n");
+}
+function allNotes(){return ours.map(n=>Object.assign({ai:false},n)).concat(Object.keys(auto).map(autoNote).filter(Boolean))}
+function ourList(q){
+  return allNotes().filter(n=>(nf==="all"||(nf==="ai")===!!n.ai)&&(!fc||n.cat===fc)&&(!fg||n.gs===fg)&&(!q||JSON.stringify(n).toLowerCase().includes(q))).sort((a,b)=>(b.date||"").localeCompare(a.date||"")||(a.ai?1:0)-(b.ai?1:0));
+}
+async function pullFeed(){
+  try{
+    const r=await fetch("feed.json?t="+Date.now(),{cache:"no-store"});
+    if(!r.ok)throw new Error(r.status);
+    feed=await r.json();feedErr=null;lastOk=new Date();await pullAuto();
+  }catch(e){feedErr="feed.json not reachable. Run the GitHub Action once, and open this page from the same site (not as a local file)."}
+  nextAt=Date.now()+REFRESH_MS;render();
+}
+function tick(){
+  const s=Math.max(0,Math.round((nextAt-Date.now())/1000)),m=String(Math.floor(s/60)).padStart(2,"0"),ss=String(s%60).padStart(2,"0");
+  const latest=feed.items&&feed.items[0]?new Date(feed.items[0].t).toLocaleString("en-IN",{day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"}):"–";
+  if(typeof mnTick==="function"&&view==="mains")mnTick();
+  $("liveBar").innerHTML=(view==="feed"||view==="top")?`<span class="live ${feedErr?"off":""}"></span>${feedErr?esc(feedErr):`Auto-refresh in ${m}:${ss} · Latest item: ${latest} IST · Checked ${lastOk?lastOk.toLocaleTimeString("en-IN"):"–"}`}`:"";
+}
+function chips(){
+  $("langs").innerHTML=view==="our"?[["all","All notes"],["hand","Hand-written"],["ai","AI drafts"]].map(([k,l])=>`<button class="chip ${nf===k?"on":""}" data-nf="${k}">${l}</button>`).join(""):(view==="notes"||view==="ai")?"":[["en","English"],["hi","हिन्दी"],["all","Both"]].map(([k,l])=>`<button class="chip ${fl===k?"on":""}" data-l="${k}">${l}</button>`).join("");
+  $("cats").innerHTML=["All",...CATS].map(c=>`<button class="chip ${(fc||"All")===c?"on":""}" data-c="${c}">${c}</button>`).join("");
+  $("gs").innerHTML=["All papers",...GSS].map(c=>`<button class="chip ${(fg||"All papers")===c?"on":""}" data-g="${c}">${c}</button>`).join("");
+  const srcs=view==="feed"?[...new Set((feed.items||[]).map(i=>i.src))]:[];
+  $("srcs").innerHTML=srcs.length?["All sources",...srcs].map(c=>`<button class="chip ${(fs||"All sources")===c?"on":""}" data-s="${esc(c)}">${esc(c)}</button>`).join(""):"";
+}
+const SRC_W={"PIB":3,"The Hindu - Editorial":3,"Indian Express - Editorials":3,"Indian Express - Explained":2.5,"PRS India":2.5,"The Hindu - Science":1.5,"The Hindu - Environment":1.5};
+function top10(day){
+  const pool=(feed.items||[]).filter(e=>e.date===day&&langOk(e)).map(e=>({e,s:(e.score!=null?e.score:(SRC_W[e.src]||1))+(e.snip&&e.snip.length>80?.5:0)})).sort((a,b)=>b.s-a.s);
+  const out=[],cnt={};
+  for(const x of pool){if(out.length>=10)break;if((cnt[x.e.cat]||0)<2){out.push(x.e);cnt[x.e.cat]=(cnt[x.e.cat]||0)+1}}
+  for(const x of pool){if(out.length>=10)break;if(!out.includes(x.e))out.push(x.e)}
+  return out;
+}
+function matches(e,q,all,bm){
+  return (all||e.date===sel)&&(!fc||e.cat===fc)&&(!fg||e.gs===fg)&&(!bm||mem.bm.includes(e.id))&&
+    (!q||[e.h,e.why,e.snip,e.src,(e.key||[]).join(" "),(e.pre||[]).join(" "),e.mains].join(" ").toLowerCase().includes(q));
+}
+const ul=a=>a&&a.length?`<ul>${a.map(x=>`<li>${esc(x)}</li>`).join("")}</ul>`:"";
+function render(){
+  $("date").value=sel;
+  $("dateLabel").textContent=VLABEL[view]||(view==="our"?"Our own study notes, written from official and press sources":new Date(sel+"T00:00:00").toLocaleDateString("en-IN",{weekday:"long",day:"numeric",month:"long",year:"numeric"}));
+  Object.entries(TABS).forEach(([id,v])=>$(id).classList.toggle("on",view===v));
+  $("refresh").style.display=(view==="feed"||view==="top")?"":"none";
+  $("addBtn").style.display=view==="notes"?"":"none";
+  const study=SV.includes(view),nd=view==="our"||view==="ai"||study;
+  ["prev","date","next","today"].forEach(i=>$(i).style.display=nd?"none":"");$("optBar").style.display=nd?"none":"";
+  $("refresh").style.display=(view==="feed"||view==="top"||view==="ai"||view==="edit")?"":"none";
+  chips();tick();
+  if(study){["cats","gs","langs","srcs"].forEach(i=>$(i).innerHTML="");$("q").style.display="none";studyRender();return}
+  $("q").style.display="";
+  const q=$("q").value.trim().toLowerCase(),all=$("allDays").checked||!!q,bm=$("onlyBm").checked;
+  if(view==="ai"){
+    const L=aiList(q),upd=autoUpd?new Date(autoUpd).toLocaleString("en-IN",{day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"})+" IST":null;
+    $("stats").innerHTML=`<span>${L.length} shown</span><span>${Object.keys(auto).length} AI notes</span><span>${upd?"Last written "+upd:"Not generated yet"}</span>`;
+    const banner=`<div class="empty" style="text-align:left;margin-bottom:10px;border-style:solid">AI notes are written automatically for new UPSC-relevant headlines (highest priority first), a few every 15 minutes, with a diagram where useful. They are drafts built from the article text: check any “Verify” point before quoting.</div>`;
+    const setup=`<div class="empty" style="text-align:left">No AI notes yet. One-time setup: add a free <b>GEMINI_API_KEY</b> in the repo (Settings → Secrets and variables → Actions), then run the “Update CA feed” workflow once. Notes appear here after it finishes.</div>`;
+    $("list").innerHTML=banner+(L.length?L.map(n=>`<article class="card">
+      <div class="tags"><span class="tag gs">${esc(n.gs)}</span><span class="tag">${esc(n.cat)}</span><span class="tag">${esc(n.date)}</span>${n.diagram?'<span class="tag">Diagram</span>':""}<span class="tag">AI draft</span>${n.check?'<span class="tag sample">Verify one point</span>':""}</div>
+      <h3><a href="#" data-n="${esc(n.id)}">${esc(n.title)}</a></h3>
+      <div class="sub" style="font-family:Georgia,serif;font-size:14px">${esc((n.why||"").length>260?n.why.slice(0,260)+"…":(n.why||""))}</div>
+      <div style="margin-top:8px"><button class="btn p" data-n="${esc(n.id)}">Open full note</button></div></article>`).join(""):(Object.keys(auto).length?`<div class="empty">No AI notes match this filter.</div>`:setup));
+    return;
+  }
+  if(view==="our"){
+    const L=ourList(q);
+    $("stats").innerHTML=`<span>${L.length} shown</span><span>${ours.length} hand-written</span><span>${Object.keys(auto).length} AI drafts</span>`;
+    $("list").innerHTML=L.length?L.map(n=>`<article class="card">
+      <div class="tags"><span class="tag gs">${esc(n.gs)}</span><span class="tag">${esc(n.cat)}</span><span class="tag">${esc(n.date)}</span>${n.diagram?'<span class="tag">Diagram</span>':""}${n.ai?'<span class="tag">AI draft</span>':""}${n.check?'<span class="tag sample">Verify one point</span>':""}</div>
+      <h3><a href="#" data-n="${esc(n.id)}">${esc(n.title)}</a></h3>
+      <div class="sub" style="font-family:Georgia,serif;font-size:14px">${esc((n.why||"").length>260?n.why.slice(0,260)+"…":(n.why||""))}</div>
+      <div style="margin-top:8px"><button class="btn p" data-n="${esc(n.id)}">Open full note</button></div></article>`).join(""):`<div class="empty">${ourErr?esc(ourErr):"No notes match this filter."}</div>`;
+    return;
+  }
+  if(view==="feed"||view==="top"){
+    const L=view==="top"?top10(sel):(feed.items||[]).filter(e=>matches(e,q,all,bm)&&(!fs||e.src===fs)&&langOk(e));
+    if(view==="feed"&&!$("byTime").checked)L.sort((a,b)=>(b.score||0)-(a.score||0)||b.t.localeCompare(a.t));
+    $("stats").innerHTML=`<span>${L.length} shown</span><span>${view==="top"?"Top 10 for "+sel:(feed.items||[]).length+" in feed"}</span><span>${mem.bm.length} bookmarked</span>`;
+    $("list").innerHTML=L.length?L.map(e=>`<article class="card">
+      <div class="row"><div class="tags"><span class="tag gs">${esc(e.gs)}</span>${e.score>=5?'<span class="tag sample">High priority</span>':""}<span class="tag">${esc(e.cat)}</span><span class="tag">${esc(e.src)}</span><span class="tag">${new Date(e.t).toLocaleTimeString("en-IN",{hour:"2-digit",minute:"2-digit"})} · ${e.date}</span></div>
+      <div><button class="ic ${mem.bm.includes(e.id)?"on":""}" data-b="${esc(e.id)}" title="Bookmark">${mem.bm.includes(e.id)?"★":"☆"}</button></div></div>
+      <h3><a href="#" data-o="${esc(e.id)}">${esc(e.h)}</a></h3>
+      ${e.snip?`<div class="sub" style="font-family:Georgia,serif;font-size:14px">${esc(e.snip.length>220?e.snip.slice(0,220)+"…":e.snip)}</div>`:""}
+      <div style="margin-top:8px">${(()=>{const n=anyNote(e);return n?`<button class="btn ${n.ai?"":"p"}" data-n="${esc(n.id)}">${n.ai?"Note (AI draft)":"★ Our note"}</button> `:""})()}<button class="btn" data-o="${esc(e.id)}">Open details &amp; notes</button> <a class="sub" href="${esc(e.link)}" target="_blank" rel="noopener noreferrer" style="margin-left:8px">Original ↗</a></div>
+    </article>`).join(""):`<div class="empty">${feedErr?"Feed not loaded yet.":view==="top"?"No feed items for this date yet.":"Nothing for this date/filter. Try “All dates” or another day."}</div>`;
+  }else{
+    const L=mem.entries.filter(e=>matches(e,q,all,bm)).sort((a,b)=>b.date.localeCompare(a.date));
+    $("stats").innerHTML=`<span>${L.length} shown</span><span>${mem.entries.length} notes</span><span>${mem.bm.length} bookmarked</span>`;
+    $("list").innerHTML=L.length?L.map(e=>`<article class="card">
+      <div class="row"><div class="tags"><span class="tag gs">${esc(e.gs)}</span><span class="tag">${esc(e.cat)}</span><span class="tag">${e.date}</span></div>
+      <div><button class="ic ${mem.bm.includes(e.id)?"on":""}" data-b="${esc(e.id)}">${mem.bm.includes(e.id)?"★":"☆"}</button><button class="ic" data-e="${esc(e.id)}" title="Edit">✎</button><button class="ic" data-d="${esc(e.id)}" title="Delete">🗑</button></div></div>
+      <h3><a href="#" data-e="${esc(e.id)}">${esc(e.h)}</a></h3>
+      ${e.why?`<div class="sec"><b>Why in news</b><div>${esc(e.why)}</div></div>`:""}
+      ${e.key&&e.key.length?`<div class="sec"><b>Key points</b>${ul(e.key)}</div>`:""}
+      ${e.pre&&e.pre.length?`<div class="sec"><b>Prelims facts</b>${ul(e.pre)}</div>`:""}
+      ${e.mains?`<div class="sec"><b>Mains angle</b><div>${esc(e.mains)}</div></div>`:""}
+      ${e.src?`<div class="sub" style="margin-top:8px">Source: ${esc(e.src)}</div>`:""}
+    </article>`).join(""):`<div class="empty">No notes yet. Save items from the Live Feed or tap “+ Add item”.</div>`;
+  }
+}
+let editId=null,pendLink="";
+function openDlg(e,pre){
+  const s=e||pre||null;editId=e?e.id:null;pendLink=(s&&s.link)||"";$("dlgT").textContent=e?"Edit item":"Add item";
+  $("fH").value=s?s.h:"";$("fD").value=s?s.date:sel;$("fC").value=s?s.cat:CATS[0];$("fG").value=s?s.gs:"GS3";
+  $("fS").value=s?(s.src||""):"";$("fW").value=s?(s.why||""):"";$("fK").value=s?(s.key||[]).join("\n"):"";$("fP").value=s?(s.pre||[]).join("\n"):"";$("fM").value=s?(s.mains||""):"";
+  $("dlg").showModal();
+}
+const lines=s=>s.split("\n").map(x=>x.trim()).filter(Boolean);
+$("save").onclick=()=>{
+  const h=$("fH").value.trim();if(!h){$("fH").focus();return}
+  const o={id:editId||("e"+Date.now()),date:$("fD").value||sel,cat:$("fC").value,gs:$("fG").value,h,src:$("fS").value.trim(),why:$("fW").value.trim(),key:lines($("fK").value),pre:lines($("fP").value),mains:$("fM").value.trim(),link:pendLink};
+  if(editId){const old=mem.entries.find(e=>e.id===editId);if(old&&old.link&&!o.link)o.link=old.link;mem.entries=mem.entries.map(e=>e.id===editId?o:e)}else{mem.entries.push(o)}
+  save();sel=o.date;view="notes";$("dlg").close();render();
+};
+$("fC").innerHTML=CATS.map(c=>`<option>${c}</option>`).join("");
+$("addBtn").onclick=()=>openDlg();$("cancel").onclick=$("x").onclick=()=>$("dlg").close();
+document.addEventListener("click",ev=>{
+  const t=ev.target;
+  if(t.closest&&t.closest("a[data-o],a[data-e],a[data-n]"))ev.preventDefault();
+  if(t.dataset.n)openNote(t.dataset.n);
+  if(t.dataset.di){const[id,k]=t.dataset.di.split("|");if(confirm("Remove this image?")){(mem.imgs[id]||[]).splice(+k,1);save();if(curNote)$("nBody").innerHTML=noteHtml(curNote)}}
+  if(t.dataset.l){fl=t.dataset.l;render()}
+  if(t.dataset.nf){nf=t.dataset.nf;render()}
+  if(t.dataset.o)openDetail(t.dataset.o);
+  if(t.dataset.c){fc=t.dataset.c==="All"?null:t.dataset.c;render()}
+  if(t.dataset.g){fg=t.dataset.g==="All papers"?null:t.dataset.g;render()}
+  if(t.dataset.s){fs=t.dataset.s==="All sources"?null:t.dataset.s;render()}
+  if(t.dataset.b){const i=mem.bm.indexOf(t.dataset.b);i>=0?mem.bm.splice(i,1):mem.bm.push(t.dataset.b);save();render()}
+  if(t.dataset.e){openDlg(mem.entries.find(e=>e.id===t.dataset.e))}
+  if(t.dataset.d&&confirm("Delete this note?")){mem.entries=mem.entries.filter(e=>e.id!==t.dataset.d);mem.bm=mem.bm.filter(b=>b!==t.dataset.d);save();render()}
+});
+let dItem=null;
+$("dC").innerHTML=CATS.map(c=>`<option>${c}</option>`).join("");$("dG").innerHTML=GSS.map(c=>`<option>${c}</option>`).join("");
+function openDetail(id){
+  const f=(feed.items||[]).find(x=>x.id===id);if(!f)return;dItem=f;
+  const n=mem.entries.find(x=>x.id==="f:"+id);
+  $("dTags").innerHTML=`<span class="tag gs">${esc(f.gs)}</span><span class="tag">${esc(f.cat)}</span><span class="tag">${esc(f.src)}</span>`;
+  $("dH").textContent=f.h;
+  $("dMeta").textContent=new Date(f.t).toLocaleString("en-IN",{dateStyle:"medium",timeStyle:"short"})+" IST";
+  $("dSnip").textContent=f.snip||"The source did not provide a summary for this item. Use “Read original” if you need the full text.";
+  $("dLink").href=f.link;{const rn=anyNote(f);$("dNote").innerHTML=rn?` <button class="btn ${rn.ai?"":"p"}" data-n="${esc(rn.id)}">${rn.ai?"Note (AI draft)":"★ Our note"}</button>`:""}
+  $("dC").value=n?n.cat:f.cat;$("dG").value=n?n.gs:f.gs;
+  $("dK").value=n?(n.key||[]).join("\n"):"";$("dP").value=n?(n.pre||[]).join("\n"):"";$("dM").value=n?(n.mains||""):"";
+  $("dSave").textContent="Save notes";$("dlgD").showModal();
+}
+$("dSave").onclick=()=>{
+  const f=dItem;if(!f)return;
+  const o={id:"f:"+f.id,date:f.date,cat:$("dC").value,gs:$("dG").value,h:f.h,src:f.src,link:f.link,why:f.snip||"",key:lines($("dK").value),pre:lines($("dP").value),mains:$("dM").value.trim()};
+  const i=mem.entries.findIndex(x=>x.id===o.id);i>=0?mem.entries[i]=o:mem.entries.push(o);
+  save();$("dSave").textContent="Saved ✓";render();
+};
+$("dCancel").onclick=$("dx").onclick=()=>$("dlgD").close();
+$("nx").onclick=()=>$("dlgN").close();
+$("nCopy").onclick=async()=>{if(!curNote)return;const t=noteText(curNote);try{await navigator.clipboard.writeText(t);$("nCopy").textContent="Copied ✓"}catch(e){prompt("Copy note:",t)}};
+$("nPrint").onclick=()=>{const pa=$("printArea");pa.innerHTML=$("nBody").innerHTML;pa.querySelectorAll(".noprint").forEach(x=>x.remove());document.body.classList.add("printing");setTimeout(()=>window.print(),60)};
+window.addEventListener("afterprint",()=>{document.body.classList.remove("printing");$("printArea").innerHTML=""});
+$("nImg").onchange=e=>{
+  const f=e.target.files[0];e.target.value="";if(!f||!curNote)return;
+  const r=new FileReader();r.onload=()=>{const im=new Image();im.onload=()=>{
+    const s=Math.min(1,900/im.width),c=document.createElement("canvas");c.width=Math.round(im.width*s);c.height=Math.round(im.height*s);
+    c.getContext("2d").drawImage(im,0,0,c.width,c.height);
+    const d=c.toDataURL("image/jpeg",.8),cap=prompt("Caption for this image (optional)")||"";
+    mem.imgs=mem.imgs||{};const a=(mem.imgs[curNote.id]=mem.imgs[curNote.id]||[]);a.push({d,cap});
+    if(!save()){a.pop();alert("Browser storage is full. Remove an image or export your notes first.");return}
+    $("nBody").innerHTML=noteHtml(curNote)};im.onerror=()=>alert("That file could not be read as an image.");im.src=r.result};r.readAsDataURL(f)};
+const shift=n=>{const d=new Date(sel+"T00:00:00");d.setDate(d.getDate()+n);sel=iso(d);render()};
+$("prev").onclick=()=>shift(-1);$("next").onclick=()=>shift(1);$("today").onclick=()=>{sel=todayS;render()};
+$("date").onchange=e=>{if(e.target.value){sel=e.target.value;render()}};
+["q","allDays","onlyBm","byTime"].forEach(i=>$(i).addEventListener("input",render));
+$("refresh").onclick=pullFeed;
+$("digestBtn").onclick=async()=>{
+  const L=view==="top"?top10(sel):(view==="feed"?feed.items:mem.entries).filter(e=>e.date===sel);
+  const t=`UPSC Current Affairs – ${sel}\n\n`+L.map((e,i)=>`${i+1}. [${e.gs} | ${e.cat}] ${e.h}${e.link?"\n"+e.link:""}`).join("\n\n");
+  try{await navigator.clipboard.writeText(t);$("digestBtn").textContent="Copied ✓"}catch(e){prompt("Copy digest:",t)}
+  setTimeout(()=>$("digestBtn").textContent="Copy digest",1500);
+};
+$("exp").onclick=()=>{const b=new Blob([JSON.stringify({entries:mem.entries,bm:mem.bm,imgs:mem.imgs||{},read:mem.read,fc:mem.fc,quiz:mem.quiz,mains:mem.mains,topics:mem.topics},null,2)],{type:"application/json"});const a=document.createElement("a");a.href=URL.createObjectURL(b);a.download="upsc-notes-"+todayS+".json";a.click()};
+$("impBtn").onclick=()=>$("imp").click();
+$("imp").onchange=e=>{const f=e.target.files[0];if(!f)return;const r=new FileReader();r.onload=()=>{try{const d=JSON.parse(r.result);const ids=new Set(mem.entries.map(x=>x.id));(d.entries||[]).forEach(x=>{if(!ids.has(x.id))mem.entries.push(x)});(d.bm||[]).forEach(b=>{if(!mem.bm.includes(b))mem.bm.push(b)});mem.imgs=mem.imgs||{};Object.entries(d.imgs||{}).forEach(([k,v])=>{if(!mem.imgs[k])mem.imgs[k]=v});Object.entries(d.read||{}).forEach(([k,v])=>{if(!mem.read[k])mem.read[k]=v});Object.entries(d.fc||{}).forEach(([k,v])=>{if(!mem.fc[k])mem.fc[k]=v});Object.entries(d.topics||{}).forEach(([k,v])=>{if(mem.topics[k]==null)mem.topics[k]=v});[["quiz",d.quiz],["mains",d.mains]].forEach(([k,a])=>(a||[]).forEach(x=>{if(!mem[k].some(y=>JSON.stringify(y)===JSON.stringify(x)))mem[k].push(x)}));save();render()}catch(err){alert("Invalid file")}};r.readAsText(f)};
+$("themeBtn").onclick=()=>{const dark=document.documentElement.dataset.theme==="dark"||(!document.documentElement.dataset.theme&&matchMedia("(prefers-color-scheme:dark)").matches);
+  document.documentElement.dataset.theme=dark?"light":"dark";mem.theme=document.documentElement.dataset.theme;save()};
+/* ===== Study features: Editorials, Quiz, Mains practice, Cards, Tracker, Compile/Share ===== */
+const TABS={tOur:"our",tAI:"ai",tEd:"edit",tQz:"quiz",tMn:"mains",tFc:"cards",tTr:"track",tPr:"print",tFeed:"feed",tTop:"top",tNotes:"notes"};
+const SV=["quiz","mains","cards","track","edit","print"];
+const VLABEL={quiz:"Daily MCQ quiz from our notes",mains:"Mains answer practice",cards:"Flashcards with spaced revision",track:"Syllabus and progress tracker",edit:"Editorial of the day, in 5 points",print:"Print sheets and sharing"};
+const addDays=(s,n)=>{const d=new Date(s+"T00:00:00");d.setDate(d.getDate()+n);return iso(d)};
+const shuf=a=>{a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a};
+const LET="ABCD";
+const siteUrl=()=>location.protocol==="file:"?"":location.origin+location.pathname;
+function doPrint(h){const pa=$("printArea");pa.innerHTML=h;document.body.classList.add("printing");setTimeout(()=>window.print(),60)}
+function wa(text){window.open("https://wa.me/?text="+encodeURIComponent(text),"_blank","noopener")}
+function mainsQ(n){const m=String(n.mains||"");let q=m.match(/^\s*Q:\s*(.+)/m);if(q)return q[1].trim();const i=m.search(/\?/);if(i>0)return m.slice(0,i+1).replace(/^\s*(Q\d*[.:]\s*)/i,"").trim();return m.split("\n")[0].slice(0,220).trim()}
+function mainsPts(n){if(n.mains_pts&&n.mains_pts.length)return n.mains_pts;const a=String(n.mains||"").match(/Angle:\s*(.+)/);return a?a[1].split(/[,;]\s*/).filter(Boolean).slice(0,6):[]}
+const wc=t=>{t=String(t||"").trim();return t?t.split(/\s+/).length:0};
+
+/* ---- MCQ pool ---- */
+function mcqPool(range,cat){
+  const from=range==="today"?todayS:range==="week"?addDays(todayS,-6):"0000-00-00",out=[];
+  allNotes().forEach(n=>{if(!n.mcq||!n.mcq.length||(n.date||"")<from||(cat&&n.cat!==cat))return;
+    n.mcq.forEach((m,i)=>{if(m&&m.q&&Array.isArray(m.o)&&m.o.length===4&&Number.isInteger(m.a)&&m.a>=0&&m.a<4)out.push({id:"q:"+n.id+"#"+i,nid:n.id,title:n.title,date:n.date,cat:n.cat,q:m.q,o:m.o,a:m.a,e:m.e||""})})});
+  return out;
+}
+const mixOpts=m=>shuf(m.o.map((t,i)=>({t,ok:i===m.a})));
+
+/* ---- Quiz ---- */
+let qz={ph:"setup",range:"all",cat:"",n:5,qs:[],i:0,sel:null,score:0,wrong:[],saved:false};
+function streak(){const ds=new Set(mem.quiz.map(x=>x.d));let d=ds.has(todayS)?todayS:addDays(todayS,-1),c=0;while(ds.has(d)){c++;d=addDays(d,-1)}return c}
+function rQuiz(){
+  const pool=mcqPool(qz.range,qz.cat);
+  if(qz.ph==="setup"){
+    const tot=mem.quiz.reduce((a,x)=>({s:a.s+x.s,t:a.t+x.t}),{s:0,t:0}),last=mem.quiz.slice(-5).reverse();
+    $("list").innerHTML=`<div class="card"><h3>Start a quiz</h3>
+      <div class="two"><div><label>Questions from</label><select data-chg="qz-range"><option value="all" ${qz.range==="all"?"selected":""}>All notes</option><option value="week" ${qz.range==="week"?"selected":""}>Last 7 days</option><option value="today" ${qz.range==="today"?"selected":""}>Today only</option></select></div>
+      <div><label>Topic</label><select data-chg="qz-cat"><option value="">All topics</option>${CATS.map(c=>`<option ${qz.cat===c?"selected":""}>${esc(c)}</option>`).join("")}</select></div></div>
+      <div class="two"><div><label>Number of questions</label><select data-chg="qz-n">${[5,10,15,20].map(n=>`<option ${qz.n===n?"selected":""}>${n}</option>`).join("")}</select></div><div></div></div>
+      <div class="sub" style="margin:10px 0">${pool.length} question${pool.length===1?"":"s"} available with this filter.</div>
+      <button class="btn p" data-act="qz-start" ${pool.length?"":"disabled"}>Start quiz</button></div>
+      <div class="card"><div class="stats" style="margin:0"><span>Streak: <b>${streak()} day${streak()===1?"":"s"}</b></span><span>Quizzes taken: <b>${mem.quiz.length}</b></span><span>Overall accuracy: <b>${tot.t?Math.round(100*tot.s/tot.t)+"%":"–"}</b></span></div>
+      ${last.length?`<div class="sub" style="margin-top:8px">Recent: ${last.map(x=>`${esc(x.d)} · ${x.s}/${x.t}`).join(" &nbsp;|&nbsp; ")}</div>`:`<div class="sub" style="margin-top:8px">No quizzes yet. Questions you get wrong are added to your Cards for revision.</div>`}</div>`;
+    return;
+  }
+  if(qz.ph==="run"){
+    const q=qz.qs[qz.i],ans=qz.sel!==null;
+    $("list").innerHTML=`<div class="card"><div class="row"><span class="sub">Question ${qz.i+1} of ${qz.qs.length} · Score ${qz.score}</span><span class="tag">${esc(q.cat||"")}</span></div>
+      <div class="pbar" style="margin:8px 0"><i style="width:${Math.round(100*qz.i/qz.qs.length)}%"></i></div>
+      <h3 style="margin:8px 0 10px">${esc(q.q)}</h3>
+      ${q.opts.map((o,i)=>`<button class="btn opt ${ans?(o.ok?"ok":(i===qz.sel?"bad":"")):""}" data-act="qz-pick" data-i="${i}" ${ans?"disabled":""}>${LET[i]}. ${esc(o.t)}</button>`).join("")}
+      ${ans?`<div class="callout" style="margin-top:10px"><b>${q.opts[qz.sel].ok?"Correct.":"Not quite."}</b> ${esc(q.e||"")}<div class="sub" style="margin-top:4px">From: ${esc(q.title)}</div></div>
+      <div style="margin-top:10px"><button class="btn p" data-act="qz-next">${qz.i+1<qz.qs.length?"Next question":"Finish"}</button></div>`:""}
+      <div style="margin-top:10px"><button class="btn" data-act="qz-quit">Quit</button></div></div>`;
+    return;
+  }
+  const pct=Math.round(100*qz.score/qz.qs.length);
+  $("list").innerHTML=`<div class="card"><h3>Finished: ${qz.score} / ${qz.qs.length} (${pct}%)</h3>
+    <div class="sub">${qz.wrong.length?qz.wrong.length+" question"+(qz.wrong.length===1?"":"s")+" added to your Cards for revision.":"All correct. Well done."} Streak: ${streak()} day${streak()===1?"":"s"}.</div>
+    ${qz.wrong.map(q=>`<div class="sec"><b>Review</b><p>${esc(q.q)}</p><p class="sub">Answer: ${esc(q.o[q.a])}. ${esc(q.e||"")}</p></div>`).join("")}
+    <div style="margin-top:10px"><button class="btn p" data-act="qz-start">Another quiz</button> <button class="btn" data-act="qz-quit">Back</button></div></div>`;
+}
+function qzStart(){
+  const pool=shuf(mcqPool(qz.range,qz.cat)).slice(0,qz.n);if(!pool.length)return;
+  qz=Object.assign(qz,{ph:"run",qs:pool.map(m=>Object.assign({},m,{opts:mixOpts(m)})),i:0,sel:null,score:0,wrong:[],saved:false});rQuiz();
+}
+function qzPick(i){
+  if(qz.sel!==null)return;const q=qz.qs[qz.i];qz.sel=i;
+  if(q.opts[i].ok)qz.score++;else{qz.wrong.push(q);mem.fc[q.id]={box:-1,due:todayS}}
+  save();rQuiz();
+}
+function qzNext(){
+  if(qz.i+1<qz.qs.length){qz.i++;qz.sel=null;rQuiz();return}
+  qz.ph="done";if(!qz.saved){mem.quiz.push({d:todayS,s:qz.score,t:qz.qs.length});qz.saved=true;save()}rQuiz();
+}
+
+/* ---- Flashcards (Leitner boxes: 1, 7, 30 days) ---- */
+const FINT=[1,7,30];
+function allCards(){
+  const out=[];
+  allNotes().forEach(n=>{
+    out.push({id:"n:"+n.id,t:n.title,f:`<b>${esc(n.title)}</b><div class="sub" style="margin-top:6px">What happened, and why does it matter for UPSC?</div>`,
+      b:`${para(n.why)}${ul((n.key||[]).slice(0,5))}${(n.pre||[]).length?`<div class="sec"><b>Prelims facts</b>${ul(n.pre.slice(0,5))}</div>`:""}`});
+  });
+  mcqPool("all","").forEach(m=>out.push({id:m.id,t:m.title,f:`<b>${esc(m.q)}</b><div class="sub" style="margin-top:6px">From: ${esc(m.title)}</div>`,b:`<p><b>${LET[m.a]}. ${esc(m.o[m.a])}</b></p><p class="sub">${esc(m.e||"")}</p>`}));
+  return out;
+}
+let fcS={ph:"setup",q:[],i:0,show:false,done:0,rq:{}};
+function fcCounts(){
+  const cs=allCards();let due=0,nw=0,mast=0;
+  cs.forEach(c=>{const s=mem.fc[c.id];if(!s)nw++;else{if(s.due<=todayS)due++;if(s.box>=2)mast++}});
+  return {cs,due,nw,mast};
+}
+function rCards(){
+  if(fcS.ph==="setup"){
+    const {cs,due,nw,mast}=fcCounts();
+    $("list").innerHTML=`<div class="card"><h3>Revision cards</h3>
+      <div class="stats" style="margin:6px 0"><span>Due today: <b>${due}</b></span><span>New: <b>${nw}</b></span><span>Mastered: <b>${mast}</b></span><span>Total: <b>${cs.length}</b></span></div>
+      <div class="sub">Cards come from every note (one overview card each) and every quiz question. Answer “Good” and a card returns after 1, then 7, then 30 days. “Again” brings it back today. Wrong quiz answers are added automatically.</div>
+      <div style="margin-top:10px"><button class="btn p" data-act="fc-start" ${due+nw?"":"disabled"}>${due+nw?"Start session ("+Math.min(25,due+Math.min(nw,15))+" cards)":"Nothing due"}</button></div></div>`;
+    return;
+  }
+  if(fcS.ph==="run"){
+    const c=fcS.q[fcS.i];
+    $("list").innerHTML=`<div class="card"><div class="row"><span class="sub">Card ${fcS.i+1} of ${fcS.q.length}</span><button class="btn" data-act="fc-quit">End</button></div>
+      <div class="pbar" style="margin:8px 0"><i style="width:${Math.round(100*fcS.i/fcS.q.length)}%"></i></div>
+      <div style="min-height:90px;margin:10px 0">${c.f}</div>
+      ${fcS.show?`<hr style="border:0;border-top:1px solid var(--line)"><div class="nbody">${c.b}</div>
+        <div style="margin-top:10px"><button class="btn" data-act="fc-again">Again (today)</button> <button class="btn p" data-act="fc-good">Good</button></div>`
+        :`<button class="btn p" data-act="fc-show">Show answer</button>`}</div>`;
+    return;
+  }
+  $("list").innerHTML=`<div class="card"><h3>Session complete</h3><div class="sub">${fcS.done} card${fcS.done===1?"":"s"} reviewed.</div><div style="margin-top:10px"><button class="btn p" data-act="fc-quit">Back</button></div></div>`;
+}
+function fcStart(){
+  const {cs}=fcCounts(),due=cs.filter(c=>mem.fc[c.id]&&mem.fc[c.id].due<=todayS).sort((a,b)=>mem.fc[a.id].due.localeCompare(mem.fc[b.id].due)),nw=shuf(cs.filter(c=>!mem.fc[c.id])).slice(0,15);
+  const q=due.concat(nw).slice(0,25);if(!q.length)return;
+  fcS={ph:"run",q,i:0,show:false,done:0,rq:{}};rCards();
+}
+function fcGrade(good){
+  const c=fcS.q[fcS.i],s=mem.fc[c.id];
+  if(good){const nb=Math.min((s&&s.box!=null?s.box:-1)+1,2);mem.fc[c.id]={box:nb,due:addDays(todayS,FINT[nb])}}
+  else{mem.fc[c.id]={box:-1,due:todayS};if(!fcS.rq[c.id]){fcS.rq[c.id]=1;fcS.q.push(c)}}
+  fcS.done++;save();fcS.i++;fcS.show=false;if(fcS.i>=fcS.q.length)fcS.ph="done";rCards();
+}
+
+/* ---- Mains practice ---- */
+let mn={id:null,limit:150,text:"",start:null,rev:false,chk:{}};
+const mainsNotes=()=>allNotes().filter(n=>mainsQ(n)).sort((a,b)=>(b.date||"").localeCompare(a.date||""));
+function rMains(){
+  const L=mainsNotes();
+  if(!L.length){$("list").innerHTML=`<div class="empty">No notes with a Mains question yet.</div>`;return}
+  if(!mn.id||!L.find(n=>n.id===mn.id))mn.id=L[0].id;
+  const n=L.find(x=>x.id===mn.id),pts=mainsPts(n),cov=pts.length?Math.round(100*pts.filter((_,i)=>mn.chk[i]).length/pts.length):0;
+  const hist=mem.mains.slice(-8).reverse();
+  $("list").innerHTML=`<div class="card"><label style="margin-top:0">Pick a question</label>
+    <select data-chg="mn-note">${L.map(x=>`<option value="${esc(x.id)}" ${x.id===mn.id?"selected":""}>${esc(x.date)} · ${esc(x.title.slice(0,70))}</option>`).join("")}</select>
+    <div style="margin:10px 0"><button class="btn" data-act="mn-rand">Random question</button></div>
+    <h3 style="margin:6px 0">${esc(mainsQ(n))}</h3>
+    <div class="tags"><span class="tag gs">${esc(n.gs)}</span><span class="tag">${esc(n.cat)}</span></div>
+    <div class="bar" style="margin-top:10px"><label style="margin:0">Limit</label>
+      <select data-chg="mn-limit" style="width:auto"><option value="150" ${mn.limit===150?"selected":""}>150 words · 7 min</option><option value="250" ${mn.limit===250?"selected":""}>250 words · 11 min</option></select>
+      <span class="sub">Time: <b id="mnTimer">${mn.start?"":"not started"}</b></span> <span class="sub">Words: <b id="mnWc">${wc(mn.text)}</b> / ${mn.limit}</span></div>
+    <textarea id="mnTxt" style="min-height:220px" placeholder="Write your answer here: introduction, body in 3-4 headed points, way forward, conclusion.">${esc(mn.text)}</textarea>
+    <div class="bar" style="margin-top:8px"><button class="btn" data-act="mn-start">Start timer</button><button class="btn p" data-act="mn-rev">Compare with model points</button><button class="btn" data-act="mn-copy" id="mnCopy">Copy for AI feedback</button><button class="btn" data-act="mn-clear">Clear</button></div>
+    ${mn.rev?`<div class="sec"><b>Model points: tick what your answer covered</b>${pts.length?`<div style="margin-top:6px">${pts.map((p,i)=>`<label style="display:flex;gap:8px;align-items:flex-start;margin:4px 0;font:14px system-ui,sans-serif;color:var(--ink)"><input type="checkbox" data-chg="mn-chk" data-i="${i}" ${mn.chk[i]?"checked":""}> ${esc(p)}</label>`).join("")}</div>
+      <div class="stats" style="margin-top:8px"><span>Coverage: <b>${cov}%</b></span><span>${wc(mn.text)} words</span></div>
+      <button class="btn p" data-act="mn-save">Save attempt</button>`:`<p class="sub">No model points for this question.</p>`}
+      ${n.mains?`<div class="sec"><b>Our answer angle</b>${para(n.mains)}</div>`:""}</div>`:""}
+    <div class="sub" style="margin-top:10px">This page cannot grade writing by itself: the model points are a checklist you mark honestly. “Copy for AI feedback” copies your answer with a ready prompt to paste into ChatGPT, Gemini or Claude.</div></div>
+    ${hist.length?`<div class="card"><b style="font:600 12px system-ui,sans-serif;text-transform:uppercase;color:var(--acc)">Your recent attempts</b>${hist.map(h=>`<div class="sub" style="margin-top:4px">${esc(h.d)} · ${esc((h.title||"").slice(0,60))} · ${h.w} words · coverage ${h.cov}%</div>`).join("")}</div>`:""}`;
+  mnTick();
+}
+function mnTick(){
+  const el=$("mnTimer");if(!el||!mn.start)return;
+  const tot=(mn.limit===250?11:7)*60,left=tot-Math.round((Date.now()-mn.start)/1000),a=Math.abs(left),s=String(Math.floor(a/60)).padStart(2,"0")+":"+String(a%60).padStart(2,"0");
+  el.textContent=left>=0?s+" left":"+"+s+" over";el.style.color=left<0?"#dc2626":"";
+}
+function mnCopy(){
+  const n=mainsNotes().find(x=>x.id===mn.id);if(!n)return;
+  const t=`Evaluate my UPSC Mains answer. Give marks out of ${mn.limit===250?15:10}, then comment on introduction, content/coverage, structure, analysis, way forward and conclusion, and list 3 specific improvements. Be strict and do not add facts that are not in my answer.\n\nQuestion: ${mainsQ(n)}\nWord limit: ${mn.limit}\n\nMy answer (${wc(mn.text)} words):\n${mn.text}`;
+  navigator.clipboard.writeText(t).then(()=>{$("mnCopy").textContent="Copied ✓"},()=>prompt("Copy:",t));
+}
+
+/* ---- Syllabus tracker ---- */
+const SYL=[
+ ["GS1","Art, culture and heritage","heritage|temple|unesco|monument|archaeolog|festival|inscription|museum|culture| art "],
+ ["GS1","Modern history and freedom struggle","freedom struggle|colonial|british rule|gandhi|1857|independence|swadeshi|partition"],
+ ["GS1","Indian society and social issues","women|education|tribal|poverty|caste|nutrition|migration|census|children|population|urbani|minorit"],
+ ["GS1","Physical geography and disasters","earthquake|cyclone|flood|river|volcano|monsoon|glacier|himalaya|landslide|drought"],
+ ["GS1","World history and resources geography","world war|cold war|decoloni|mineral|industr|irrigation|water resource|port "],
+ ["GS2","Constitution and polity","constitution|amendment|parliament|supreme court|high court|governor|bill|fundamental|federal|election commission|panchayat|judiciary|tribunal"],
+ ["GS2","Governance, policy and schemes","scheme|governance|e-governance|cabinet|commission|policy|ministry|authority|regulat|upsc|civil service"],
+ ["GS2","Social justice and welfare","poverty|hunger|health|vulnerable|women|children|minorit|tribal|welfare|ncm"],
+ ["GS2","International relations","bilateral|summit|treaty|brics|quad|g20|asean|united nations|diplomat|foreign|efta|tepa|trade agreement| un |wto|imf"],
+ ["GS3","Indian economy and banking","gdp|inflation|rbi|repo|fiscal|budget|gst|monetary|bank|tax|growth|investment|sme|msme|mpc|equity"],
+ ["GS3","Agriculture and food security","agricultur|msp|crop|farmer|food security|irrigation|pds|fertili"],
+ ["GS3","Infrastructure, logistics and energy","infrastructure|logistics|railway|port|road|airport|transport|energy|power|renewable"],
+ ["GS3","Science and technology","isro|satellite| ai |artificial intelligence|quantum|space|drdo|semiconductor|vaccine|biotech|nobel|research|cyber|medicine"],
+ ["GS3","Environment and ecology","climate|wildlife|forest|pollution|biodiversity|tiger|emission|cop |ramsar|ecolog|carbon|conservation"],
+ ["GS3","Disaster management and internal security","disaster|ndma|terror|naxal|border|insurgen|extremis|defence|army|navy|air force|money laundering"],
+ ["GS4","Ethics, values and aptitude","ethic|moral|values|attitude|aptitude|emotional intelligence"],
+ ["GS4","Civil service values and public administration","civil service|public service|upsc|integrity|accountab|neutrality|code of conduct"],
+ ["GS4","Probity and governance","probity|corruption|transparen|conflict of interest|whistle|citizen"]
+];
+function topicText(n){return(" "+[n.title,n.why,n.cat,(n.tags||[]).join(" "),(n.key||[]).join(" ")].join(" ").toLowerCase()+" ")}
+function trackData(){
+  const notes=allNotes().map(n=>({n,t:topicText(n)}));
+  return SYL.map(([gs,name,re],i)=>{
+    const rx=new RegExp(re.replace(/\s+/g," "),"i"),m=notes.filter(x=>rx.test(x.t)).map(x=>x.n),read=m.filter(n=>mem.read[n.id]).length,key=gs+"|"+name;
+    return {gs,name,key,total:m.length,read,done:!!mem.topics[key]||read>0};
+  });
+}
+function rTrack(){
+  const T=trackData(),gsL=["GS1","GS2","GS3","GS4"],from=addDays(todayS,-6);
+  const wk=Object.values(mem.read).filter(d=>d>=from).length,qk=mem.quiz.filter(x=>x.d>=from),qs=qk.reduce((a,x)=>a+x.s,0),qt=qk.reduce((a,x)=>a+x.t,0),mk=mem.mains.filter(x=>x.d>=from).length,{due}=fcCounts();
+  const covered=T.filter(t=>t.done).length;
+  $("list").innerHTML=`<div class="card"><h3 style="margin-top:0">Overall: ${covered} of ${T.length} syllabus topics touched</h3>
+    <div class="pbar" style="margin:8px 0"><i style="width:${Math.round(100*covered/T.length)}%"></i></div>
+    <div class="stats" style="margin:0"><span>Notes read this week: <b>${wk}</b></span><span>Quiz accuracy this week: <b>${qt?Math.round(100*qs/qt)+"%":"–"}</b></span><span>Mains attempts: <b>${mk}</b></span><span>Cards due: <b>${due}</b></span><span>Quiz streak: <b>${streak()}</b></span></div></div>
+    ${gsL.map(g=>{const L=T.filter(t=>t.gs===g),d=L.filter(t=>t.done).length;return `<div class="card"><div class="row"><b>${g}</b><span class="sub">${d} / ${L.length}</span></div>
+      <div class="pbar" style="margin:6px 0 8px"><i style="width:${Math.round(100*d/L.length)}%"></i></div>
+      ${L.map(t=>`<label style="display:flex;gap:8px;align-items:center;margin:5px 0;font:14px system-ui,sans-serif;color:var(--ink)"><input type="checkbox" data-chg="tp" data-k="${esc(t.key)}" ${t.done?"checked":""} ${t.read>0?"disabled":""}> <span style="flex:1">${esc(t.name)}</span><span class="sub">${t.total} note${t.total===1?"":"s"} · ${t.read} read</span></label>`).join("")}</div>`}).join("")}
+    <div class="sub">A topic counts as touched when you open a matching note (matched by keywords), or when you tick it yourself. This tracks the current-affairs side of the syllabus only.</div>`;
+}
+
+/* ---- Editorials ---- */
+const isEdSrc=e=>/editorial/i.test(e.src||"");
+function rEdit(){
+  const seen=new Set(),L=[];
+  (feed.items||[]).filter(e=>isEdSrc(e)&&!isHi(e)).forEach(e=>{seen.add(e.id);L.push({id:e.id,h:e.h,src:e.src,date:e.date,t:e.t,snip:e.snip,link:e.link})});
+  Object.keys(auto).forEach(id=>{const a=auto[id];if(!seen.has(id)&&a.ed)L.push({id,h:a.title,src:a.src,date:a.date,t:a.created||a.date,snip:"",link:a.link})});
+  L.sort((a,b)=>String(b.t).localeCompare(String(a.t)));
+  $("stats").innerHTML=`<span>${L.length} editorials</span><span>${L.filter(x=>auto[x.id]&&auto[x.id].ed).length} summarised</span>`;
+  $("list").innerHTML=L.length?L.map(e=>{const a=auto[e.id],ed=a&&a.ed;
+    return `<article class="card"><div class="tags"><span class="tag gs">Editorial</span><span class="tag">${esc(e.src)}</span><span class="tag">${esc(e.date)}</span></div>
+    <h3>${esc(e.h)}</h3>
+    ${ed?`<div class="sec"><b>The argument in 5 points</b><ol style="margin:3px 0;padding-left:20px">${ed.points.map(p=>`<li>${esc(p)}</li>`).join("")}</ol></div>${ed.stance?`<div class="sec"><b>Writer's stance</b><p style="margin:3px 0">${esc(ed.stance)}</p></div>`:""}`
+      :`<div class="sub" style="font-family:Georgia,serif;font-size:14px">${esc((e.snip||"").slice(0,260))}${e.snip&&e.snip.length>260?"…":""}</div><div class="sub" style="margin-top:6px">The 5-point summary appears here once the AI notes have processed this editorial.</div>`}
+    <div style="margin-top:8px">${a?`<button class="btn p" data-n="a:${esc(e.id)}">Open full note</button> `:""}${e.link?`<a class="sub" href="${esc(e.link)}" target="_blank" rel="noopener noreferrer" style="margin-left:6px">Original ↗</a>`:""}</div></article>`}).join(""):`<div class="empty">No editorials in the feed yet. They come from The Hindu and Indian Express editorial feeds.</div>`;
+}
+
+/* ---- Compile (print) and share ---- */
+function miniNote(n,dg){
+  const S=(t,b)=>b?`<div class="sec"><b>${t}</b>${b}</div>`:"",d=dg&&n.diagram&&n.diagram.text?(n.diagram.type==="tree"?treeSvg(n.diagram.text):flowSvg(n.diagram.text)):"";
+  return `<section class="mini"><h3 style="margin:0 0 3px;font-size:16px">${esc(n.title)}</h3>
+   <div class="tags"><span class="tag gs">${esc(n.gs)}</span><span class="tag">${esc(n.cat)}</span><span class="tag">${esc(n.date)}</span>${n.ai?'<span class="tag">AI draft</span>':""}</div>
+   ${n.check?`<div class="callout"><b>Verify:</b> ${esc(n.check)}</div>`:""}
+   ${S("Why in news",para(n.why))}${S("Key points",ul(n.key))}${d?S("Diagram",`<div class="dgm">${d}</div>`):""}${S("Prelims facts",ul(n.pre))}${S("Mains question",para(mainsQ(n)))}</section>`;
+}
+const sheetHead=(t,sub)=>`<div class="brand">Niti Pathshala × NitiForge · UPSC Current Affairs</div><h2 style="margin:4px 0">${esc(t)}</h2><div class="sub" style="margin-bottom:10px">${esc(sub)}</div>`;
+const sheetFoot=()=>`<div class="sub" style="margin-top:12px">Prepared by Niti Pathshala × NitiForge. AI-drafted notes are marked; verify facts against the original source before quoting.</div>`;
+const gsOrd=n=>{const i=GSS.indexOf(n.gs);return i<0?9:i};
+function dailySheet(day){
+  const L=allNotes().filter(n=>n.date===day).sort((a,b)=>gsOrd(a)-gsOrd(b));
+  if(!L.length){alert("No notes dated "+day+". Pick a date that has notes.");return}
+  doPrint(sheetHead("Daily Current Affairs Sheet · "+new Date(day+"T00:00:00").toLocaleDateString("en-IN",{day:"numeric",month:"long",year:"numeric"}),L.length+" notes")+L.map(n=>miniNote(n,true)).join("")+sheetFoot());
+}
+function monthly(m){
+  const L=allNotes().filter(n=>(n.date||"").startsWith(m));
+  if(!L.length){alert("No notes found for "+m+".");return}
+  const by={};L.forEach(n=>(by[n.gs]=by[n.gs]||[]).push(n));
+  const gl=Object.keys(by).sort((a,b)=>(GSS.indexOf(a)<0?9:GSS.indexOf(a))-(GSS.indexOf(b)<0?9:GSS.indexOf(b)));
+  const label=new Date(m+"-01T00:00:00").toLocaleDateString("en-IN",{month:"long",year:"numeric"});
+  doPrint(sheetHead("Monthly Compilation · "+label,L.length+" notes · "+gl.map(g=>g+": "+by[g].length).join(" · "))+
+    gl.map((g,gi)=>`<h2 class="${gi?"pb":""}" style="margin:14px 0 8px;color:var(--acc2)">${esc(g)}</h2>`+Object.entries(by[g].reduce((o,n)=>{(o[n.cat]=o[n.cat]||[]).push(n);return o},{})).map(([c,ns])=>`<h4 style="margin:10px 0 6px;color:var(--acc)">${esc(c)}</h4>`+ns.sort((a,b)=>a.date.localeCompare(b.date)).map(n=>miniNote(n,false)).join("")).join("")).join("")+sheetFoot());
+}
+function weekTest(){
+  const pool=shuf(mcqPool("week","")),wk=pool.length>=5,Q=(wk?pool:shuf(mcqPool("all",""))).slice(0,20);
+  if(!Q.length){alert("No MCQs yet. Notes need quiz questions first.");return}
+  const qs=Q.map(m=>Object.assign({},m,{opts:mixOpts(m)})),to=todayS,fr=addDays(todayS,-6);
+  doPrint(sheetHead("Weekly Test · "+(wk?fr+" to "+to:"all notes"),qs.length+" questions · Time "+Math.round(qs.length*1.2)+" min · +2 for each correct, −0.66 for each wrong (Prelims pattern)")+
+    qs.map((q,i)=>`<div class="qrow"><b>${i+1}. ${esc(q.q)}</b>${q.opts.map((o,k)=>`<div style="margin-left:16px">(${"abcd"[k]}) ${esc(o.t)}</div>`).join("")}</div>`).join("")+
+    `<div class="pb"></div>`+sheetHead("Answer key and explanations","Weekly Test")+
+    qs.map((q,i)=>`<div class="qrow"><b>${i+1}. (${"abcd"[q.opts.findIndex(o=>o.ok)]})</b> ${esc(q.opts.find(o=>o.ok).t)}<div class="sub">${esc(q.e||"")} · ${esc(q.title)}</div></div>`).join("")+sheetFoot());
+}
+function topShare(){
+  const L=allNotes().sort((a,b)=>(b.date||"").localeCompare(a.date||"")).slice(0,5);
+  if(!L.length)return;
+  wa("*UPSC Current Affairs · Niti Pathshala × NitiForge*\n\n"+L.map((n,i)=>`${i+1}. *${n.title}*\n${n.gs} | ${n.cat}\n${(n.why||"").slice(0,180)}`).join("\n\n")+(siteUrl()?"\n\nFull notes: "+siteUrl():""));
+}
+function noteShare(n){
+  wa(`*${n.title}*\n${n.gs} | ${n.cat} | ${n.date}\n\n*Why in news:* ${n.why||""}\n\n${(n.key||[]).slice(0,4).map(k=>"• "+k).join("\n")}${(n.pre||[])[0]?"\n\n*Prelims:* "+n.pre[0]:""}${n.ai?"\n\n_AI draft: verify before quoting._":""}\n\nNiti Pathshala × NitiForge${siteUrl()?"\n"+siteUrl():""}`);
+}
+function rPrint(){
+  const mo=todayS.slice(0,7);
+  $("list").innerHTML=`<div class="card"><h3 style="margin-top:0">Daily sheet</h3><div class="sub">All notes for one date, with diagrams, as a printable PDF.</div>
+    <div class="bar" style="margin-top:8px"><input type="date" id="prD" value="${esc((allNotes().map(n=>n.date).sort().pop())||todayS)}"><button class="btn p" data-act="pr-day">Print / Save PDF</button></div></div>
+   <div class="card"><h3 style="margin-top:0">Monthly compilation</h3><div class="sub">Every note of a month grouped by GS paper and topic, for revision.</div>
+    <div class="bar" style="margin-top:8px"><input type="month" id="prM" value="${esc(((allNotes().map(n=>n.date).sort().pop())||todayS).slice(0,7))}"><button class="btn p" data-act="pr-mon">Print / Save PDF</button></div></div>
+   <div class="card"><h3 style="margin-top:0">Weekly test sheet</h3><div class="sub">Up to 20 questions from the last 7 days (or all notes if fewer than 5), with answer key on the last page. Press again for a new set.</div>
+    <div class="bar" style="margin-top:8px"><button class="btn p" data-act="pr-test">Make test (PDF)</button></div></div>
+   <div class="card"><h3 style="margin-top:0">Share</h3><div class="sub">Send the latest 5 notes to students on WhatsApp. Each note also has a Share button. Telegram posts are automatic once the bot secrets are set (see setup notes).</div>
+    <div class="bar" style="margin-top:8px"><button class="btn p" data-act="pr-wa">Share latest 5 on WhatsApp</button></div></div>`;
+}
+
+/* ---- wiring ---- */
+function studyRender(){
+  $("stats").innerHTML="";
+  ({quiz:rQuiz,mains:rMains,cards:rCards,track:rTrack,edit:rEdit,print:rPrint})[view]();
+}
+function act(a,el){
+  if(a==="qz-start")qzStart();else if(a==="qz-pick")qzPick(+el.dataset.i);else if(a==="qz-next")qzNext();else if(a==="qz-quit"){qz.ph="setup";rQuiz()}
+  else if(a==="fc-start")fcStart();else if(a==="fc-show"){fcS.show=true;rCards()}else if(a==="fc-good")fcGrade(true);else if(a==="fc-again")fcGrade(false);else if(a==="fc-quit"){fcS.ph="setup";rCards()}
+  else if(a==="mn-rand"){const L=mainsNotes();mn=Object.assign(mn,{id:L[Math.floor(Math.random()*L.length)].id,text:"",start:null,rev:false,chk:{}});rMains()}
+  else if(a==="mn-start"){mn.start=Date.now();mnTick()}else if(a==="mn-rev"){mn.rev=true;rMains()}else if(a==="mn-copy")mnCopy();
+  else if(a==="mn-clear"){mn=Object.assign(mn,{text:"",start:null,rev:false,chk:{}});rMains()}
+  else if(a==="mn-save"){const n=mainsNotes().find(x=>x.id===mn.id),pts=mainsPts(n);mem.mains.push({d:todayS,id:mn.id,title:n.title,w:wc(mn.text),cov:pts.length?Math.round(100*pts.filter((_,i)=>mn.chk[i]).length/pts.length):0});save();el.textContent="Saved ✓";setTimeout(rMains,600)}
+  else if(a==="pr-day")dailySheet($("prD").value||todayS);else if(a==="pr-mon")monthly($("prM").value||todayS.slice(0,7));else if(a==="pr-test")weekTest();else if(a==="pr-wa")topShare();
+}
+function chg(k,el){
+  if(k==="qz-range"){qz.range=el.value;rQuiz()}else if(k==="qz-cat"){qz.cat=el.value;rQuiz()}else if(k==="qz-n"){qz.n=+el.value;rQuiz()}
+  else if(k==="mn-note"){mn=Object.assign(mn,{id:el.value,text:"",start:null,rev:false,chk:{}});rMains()}
+  else if(k==="mn-limit"){mn.limit=+el.value;rMains()}else if(k==="mn-chk"){mn.chk[el.dataset.i]=el.checked;rMains()}
+  else if(k==="tp"){mem.topics[el.dataset.k]=el.checked;save();rTrack()}
+}
+document.addEventListener("click",ev=>{const a=ev.target.closest&&ev.target.closest("[data-act]");if(a)act(a.dataset.act,a)});
+document.addEventListener("change",ev=>{const a=ev.target.closest&&ev.target.closest("[data-chg]");if(a)chg(a.dataset.chg,a)});
+document.addEventListener("input",ev=>{if(ev.target.id==="mnTxt"){mn.text=ev.target.value;if(!mn.start)mn.start=Date.now();$("mnWc").textContent=wc(mn.text)}});
+Object.entries(TABS).forEach(([id,v])=>{$(id).onclick=()=>{view=v;render()}});
+$("nShare").onclick=()=>{if(curNote)noteShare(curNote)};
+
+load();if(mem.theme)document.documentElement.dataset.theme=mem.theme;
+render();pullNotes();pullFeed();setInterval(pullFeed,REFRESH_MS);setInterval(tick,1000);
+document.addEventListener("visibilitychange",()=>{if(!document.hidden&&Date.now()>nextAt)pullFeed()});
+</script>
+</body>
+</html>
