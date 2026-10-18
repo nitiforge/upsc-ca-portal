@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T01:39:31.597631+05:30",
+ "updated": "2026-10-19T03:56:34.949444+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,42 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/amend-constitution-to-ensure-quota-for-religious-converts-anbumani-ramadoss/article71597654.ece",
+   "h": "Amend Constitution to ensure quota for religious converts: Anbumani Ramadoss",
+   "link": "https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/amend-constitution-to-ensure-quota-for-religious-converts-anbumani-ramadoss/article71597654.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-19T02:07:26+05:30",
+   "date": "2026-10-19",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/karnataka/union-minister-pralhad-joshi-urges-protesting-farmers-to-return-home-for-festival/article71596219.ece",
+   "h": "Union Minister Pralhad Joshi urges protesting farmers to return home for festival",
+   "link": "https://www.thehindu.com/news/national/karnataka/union-minister-pralhad-joshi-urges-protesting-farmers-to-return-home-for-festival/article71596219.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-19T01:56:46+05:30",
+   "date": "2026-10-19",
+   "snip": "Committee to visit sugarcane farmers in four to five days, says Union Minister",
+   "cat": "History & Culture",
+   "gs": "GS1",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/children-have-a-fundamental-right-to-access-and-use-internet-supreme-court/article71595615.ece",
+   "h": "Children have fundamental right to access and use internet: Supreme Court",
+   "link": "https://www.thehindu.com/news/national/children-have-a-fundamental-right-to-access-and-use-internet-supreme-court/article71595615.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-19T01:07:57+05:30",
+   "date": "2026-10-19",
+   "snip": "Court says blanket bans are nothing more than unproven measures of proven disproportionality; favours parental oversight, age-appropriate safeguards and dedicated child mode",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 4
+  },
   {
    "id": "https://www.thehindu.com/news/international/us-designated-terrorist-muhammad-sarwar-dies-in-lahore/article71601119.ece",
    "h": "U.S.-designated terrorist Muhammad Sarwar dies in Lahore",
@@ -875,6 +911,18 @@
    "t": "2026-10-18T09:34:22+05:30",
    "date": "2026-10-18",
    "snip": "Member of Parliament Midhun Reddy, along with around 100 followers and party workers, reached the Punganur Municipality, breaching the security barricades and gates, he says",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/business/federal-bank-q2-profit-jumps-45-to-record-1386-crore/article71592134.ece",
+   "h": "Federal Bank Q2 profit jumps 45% to record ₹1,386 crore",
+   "link": "https://www.thehindu.com/business/federal-bank-q2-profit-jumps-45-to-record-1386-crore/article71592134.ece",
+   "src": "The Hindu - Business",
+   "t": "2026-10-18T09:09:00+05:30",
+   "date": "2026-10-18",
+   "snip": "The agricultural segment warranted close monitoring amid the threat of El Niño, though the bank had not yet recorded any significant impact on slippages.",
    "cat": "Polity",
    "gs": "GS2",
    "score": 2
@@ -4765,54 +4813,6 @@
    "snip": "Facility soon to cater to the needs of children suffering from thalassemia, says the managing trustee of NMT",
    "cat": "Economy",
    "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/keralam-govt-forms-four-member-panel-to-look-into-private-bus-owners-demands/article71592443.ece",
-   "h": "Keralam govt. forms four-member panel to look into private bus owners’ demands",
-   "link": "https://www.thehindu.com/news/national/kerala/keralam-govt-forms-four-member-panel-to-look-into-private-bus-owners-demands/article71592443.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-16T18:48:12+05:30",
-   "date": "2026-10-16",
-   "snip": "The committee has been directed to submit a report to the government within a maximum of six weeks, after direct consultations with relevant stakeholders",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/tamil-nadu/dvac-launches-probe-into-the-alleged-sand-mining-scam-during-the-dmk-government/article71548113.ece",
-   "h": "DVAC launches probe into the alleged sand mining scam during the DMK government",
-   "link": "https://www.thehindu.com/news/national/tamil-nadu/dvac-launches-probe-into-the-alleged-sand-mining-scam-during-the-dmk-government/article71548113.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-16T18:36:14+05:30",
-   "date": "2026-10-16",
-   "snip": "A detailed inquiry was ordered on the basis of a complaint filed by the Directorate of Enforcement (ED) which alleged serious irregularities in the mining of river sand across Tamil Nadu",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/pretty-in-pink-but-malarikkals-lilies-worry-ecologists/article71530158.ece",
-   "h": "Pretty in pink, but Malarikkal’s lilies worry ecologists",
-   "link": "https://www.thehindu.com/news/national/kerala/pretty-in-pink-but-malarikkals-lilies-worry-ecologists/article71530158.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-16T18:34:48+05:30",
-   "date": "2026-10-16",
-   "snip": "A two-year study for the Kerala State Biodiversity Board finds the water lily, which appeared in Malarikkal after the 2018 floods, has shown unprecedented and uncontrolled growth; ecologists flag its impact on local aquatic plants, water flow and sunlight penetration, besides concerns over methane emissions from decaying plant biomass; the seasonal bloom has transformed Malarikkal into a tourism hotspot, bringing additional income to farmers, boat operators and local residents",
-   "cat": "Environment",
-   "gs": "GS3",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-mp-seeks-probe-into-attempt-on-life-of-party-floor-leader-midhun-reddy/article71592048.ece",
-   "h": "YSRCP MP seeks probe into ‘attempt on life’ of party floor leader Midhun Reddy",
-   "link": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-mp-seeks-probe-into-attempt-on-life-of-party-floor-leader-midhun-reddy/article71592048.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-16T18:32:02+05:30",
-   "date": "2026-10-16",
-   "snip": "In his representations to the President, the Prime Minister, the Union Home Minister, the Lok Sabha Speaker, and heads of various national institutions, Gurumoorthy seeks adequate protection for Midhun Reddy, his security personnel, and candidates participating in the local body elections",
-   "cat": "Polity",
-   "gs": "GS2",
    "score": 2
   }
  ]
