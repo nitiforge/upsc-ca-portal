@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T23:21:46.207260+05:30",
+ "updated": "2026-10-19T01:39:31.597631+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,90 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/international/us-designated-terrorist-muhammad-sarwar-dies-in-lahore/article71601119.ece",
+   "h": "U.S.-designated terrorist Muhammad Sarwar dies in Lahore",
+   "link": "https://www.thehindu.com/news/international/us-designated-terrorist-muhammad-sarwar-dies-in-lahore/article71601119.ece",
+   "src": "The Hindu - International",
+   "t": "2026-10-19T00:59:46+05:30",
+   "date": "2026-10-19",
+   "snip": "The exact cause of his death has not been specified by PMML. However, 24NewsHD TV Channel reported that Sarwar died \"due to a head injury sustained after falling down the stairs\"",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/nagenthran-criticises-tvk-led-government-over-lack-of-monsoon-preparedness/article71599923.ece",
+   "h": "Nagenthran criticises TVK-led government over lack of monsoon preparedness",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/nagenthran-criticises-tvk-led-government-over-lack-of-monsoon-preparedness/article71599923.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-19T00:13:18+05:30",
+   "date": "2026-10-19",
+   "snip": "He says rainwater stagnation in many parts of Chennai is due to the alleged lack of precautionary measures",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/telangana/dsc-2008-telangana-high-court-upholds-30-reservation-for-ded-candidates/article71596831.ece",
+   "h": "DSC 2008: Telangana High Court upholds 30% reservation for D.Ed. candidates",
+   "link": "https://www.thehindu.com/news/national/telangana/dsc-2008-telangana-high-court-upholds-30-reservation-for-ded-candidates/article71596831.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-19T00:00:49+05:30",
+   "date": "2026-10-19",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/release-recommendations-of-thiruppugazh-committee-anbumani-urges-tn-government/article71600009.ece",
+   "h": "Release recommendations of Thiruppugazh Committee, Anbumani urges T.N. government",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/release-recommendations-of-thiruppugazh-committee-anbumani-urges-tn-government/article71600009.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-18T23:56:08+05:30",
+   "date": "2026-10-18",
+   "snip": "He says several parts of Chennai received rainfall of an intensity comparable to a cloudburst, and if such incidents are to become frequent, it will necessitate the urgent implementation of flood mitigation measures",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 4
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/sma-flays-waqf-board-reconstitution-in-keralam/article71596747.ece",
+   "h": "SMA flays Waqf Board reconstitution in Keralam",
+   "link": "https://www.thehindu.com/news/national/kerala/sma-flays-waqf-board-reconstitution-in-keralam/article71596747.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-18T23:45:21+05:30",
+   "date": "2026-10-18",
+   "snip": "District president K.V. Siddique Faizy said the exclusion two Samastha Kerala Jamiyyathul Ulama groups was unfair, given the role of the two organisations in protecting Waqf properties and running religious and educational institutions in Keralam",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/opinion/editorial/beyond-religiosity-on-the-kolkata-pandal-tragedy/article71600037.ece",
+   "h": "Beyond religiosity: on the Kolkata pandal tragedy",
+   "link": "https://www.thehindu.com/opinion/editorial/beyond-religiosity-on-the-kolkata-pandal-tragedy/article71600037.ece",
+   "src": "The Hindu - Editorial",
+   "t": "2026-10-18T23:31:27+05:30",
+   "date": "2026-10-18",
+   "snip": "Better crowd regulation could have prevented the Kolkata pandal tragedy",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 4
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/fssai-proposes-ban-on-added-sucrose-fructose-in-foods-for-infants-up-to-six-months/article71596380.ece",
+   "h": "FSSAI proposes ban on added sucrose, fructose in foods for infants up to six months",
+   "link": "https://www.thehindu.com/news/national/fssai-proposes-ban-on-added-sucrose-fructose-in-foods-for-infants-up-to-six-months/article71596380.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-18T23:26:14+05:30",
+   "date": "2026-10-18",
+   "snip": "Later, govt issues release stating that an infant getting early exposure to added sugars is a public health concern because of its potential implications for the development of dietary preferences and long-term dietary habits",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324957",
    "h": "विशेष अभियान 6.0: डाक विभाग ने शिकायत निवारण, स्वच्छता, ई-अपशिष्ट निपटान और अंतरिक्ष प्रबंधन में महत्वपूर्ण प्रगति हासिल की",
@@ -50,6 +134,18 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/opinion/editorial/treacherous-waters-on-the-bihar-boat-tragedy/article71599919.ece",
+   "h": "Treacherous waters: on the Bihar boat tragedy",
+   "link": "https://www.thehindu.com/opinion/editorial/treacherous-waters-on-the-bihar-boat-tragedy/article71599919.ece",
+   "src": "The Hindu - Editorial",
+   "t": "2026-10-18T23:16:18+05:30",
+   "date": "2026-10-18",
+   "snip": "Access to safe transport is of utmost importance in remote villages",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 4
   },
   {
    "id": "https://www.thehindu.com/news/cities/Vijayawada/mba-student-smuggled-mdma-on-train-to-vijayawada-or-50000-commision-say-police/article71599574.ece",
@@ -830,6 +926,18 @@
    "cat": "International Relations",
    "gs": "GS2",
    "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/business/markets/rupee-rises-7-paise-to-close-at-9492-against-us-dollar-on-rbi-intervention/article71592196.ece",
+   "h": "Rupee rises 7 paise to close at 94.92 against U.S. dollar on RBI intervention",
+   "link": "https://www.thehindu.com/business/markets/rupee-rises-7-paise-to-close-at-9492-against-us-dollar-on-rbi-intervention/article71592196.ece",
+   "src": "The Hindu - Business",
+   "t": "2026-10-18T07:11:01+05:30",
+   "date": "2026-10-18",
+   "snip": "Elevated crude oil prices and foreign fund outflows capped the rupee's gains, according to forex traders",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
   },
   {
    "id": "https://www.thehindu.com/news/international/earthquake-near-ozernovskiy-russia/article71591222.ece",
@@ -2162,6 +2270,18 @@
    "cat": "International Relations",
    "gs": "GS2",
    "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/opinion/editorial/privacy-and-transparency-on-the-rti-act-amendment-petitions/article70652568.ece",
+   "h": "Privacy and transparency: On the RTI Act amendment, petitions",
+   "link": "https://www.thehindu.com/opinion/editorial/privacy-and-transparency-on-the-rti-act-amendment-petitions/article70652568.ece",
+   "src": "The Hindu - Editorial",
+   "t": "2026-10-17T20:32:26+05:30",
+   "date": "2026-10-17",
+   "snip": "There must be no information asymmetry between state and citizens",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 5
   },
   {
    "id": "https://www.thehindu.com/news/cities/Delhi/restrictions-on-firecrackers-supreme-court-urges-balance-between-religious-sentiments-and-public-health/article71576501.ece",
@@ -4694,126 +4814,6 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/andhra-pradesh/progress-quality-of-polavaram-project-works-satisfactory-says-expert-panel/article71547807.ece",
-   "h": "Progress, quality of Polavaram project works satisfactory, says expert panel",
-   "link": "https://www.thehindu.com/news/national/andhra-pradesh/progress-quality-of-polavaram-project-works-satisfactory-says-expert-panel/article71547807.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-16T18:22:02+05:30",
-   "date": "2026-10-16",
-   "snip": "Recommendations made during the previous site visit have been addressed satisfactorily, and quality assurance and quality control results presented to them indicated that the specified material performance requirements were generally achieved, the panel states in its 7th site visit report",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/karnataka/prisons-dig-allegedly-sexually-exploited-convicts-wife/article71548549.ece",
-   "h": "Prisons DIG allegedly sexually exploited wife of convict to release him on parole",
-   "link": "https://www.thehindu.com/news/national/karnataka/prisons-dig-allegedly-sexually-exploited-convicts-wife/article71548549.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-16T18:17:40+05:30",
-   "date": "2026-10-16",
-   "snip": "Police have also alleged that Somasekhar failed to properly verify the authenticity of the purported Supreme Court order used to release the convict",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324391",
-   "h": "खादी और ग्रामोद्योग आयोग के अध्यक्ष श्री मनोज गोयल ने प्रधानमंत्री श्री नरेन्‍द्र मोदी के 'हर घर स्वदेशी, घर-घर स्वदेशी' के आह्वान को 'बात खादी की' पॉडकास्ट के माध्यम से जेन-जी तक ले जाने के उद्देश्य से मुंबई में 'खादी महोत्सव-2026' का उद्घाटन किया",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324391",
-   "src": "PIB",
-   "t": "2026-10-16T17:05:08.657114+05:30",
-   "date": "2026-10-16",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324392",
-   "h": "भारत खनन सप्ताह का आयोजन अब 24-26 फरवरी 2027 को होगा",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324392",
-   "src": "PIB",
-   "t": "2026-10-16T17:05:08.655598+05:30",
-   "date": "2026-10-16",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/business/federal-bank-q2-profit-jumps-45-to-record-1386-crore/article71592134.ece",
-   "h": "Federal Bank Q2 profit jumps 45% to record ₹1,386 crore",
-   "link": "https://www.thehindu.com/business/federal-bank-q2-profit-jumps-45-to-record-1386-crore/article71592134.ece",
-   "src": "The Hindu - Business",
-   "t": "2026-10-16T17:00:40+05:30",
-   "date": "2026-10-16",
-   "snip": "Tthe agricultural segment warranted close monitoring amid the threat of El Niño, though the bank had not yet recorded any significant impact on slippages.",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324295",
-   "h": "पोलैंड के युवा प्रतिनिधिमंडल का जामसाहेब स्मारक युवा विनिमय कार्यक्रम का दूसरा संस्करण सफलतापूर्वक संपन्न",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324295",
-   "src": "PIB",
-   "t": "2026-10-16T16:59:45.111267+05:30",
-   "date": "2026-10-16",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324299",
-   "h": "पूर्वोत्तर क्षेत्र में प्याज की उपलब्धता बढ़ाने के लिए पहली बार कांदा एक्सप्रेस अगरतला पहुंचेगी",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324299",
-   "src": "PIB",
-   "t": "2026-10-16T16:59:45.111239+05:30",
-   "date": "2026-10-16",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324323",
-   "h": "एनएफएससी फेलोशिप ने अजय कुमार को पीएचडी करने में सक्षम बनाया",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324323",
-   "src": "PIB",
-   "t": "2026-10-16T16:59:45.111213+05:30",
-   "date": "2026-10-16",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324358",
-   "h": "भाषिनी और आईआईएससी बेंगलुरु: सौराष्ट्र भाषा के लिए टेक्स्ट-टू-स्पीच मॉडल",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324358",
-   "src": "PIB",
-   "t": "2026-10-16T16:59:45.111187+05:30",
-   "date": "2026-10-16",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324332",
-   "h": "आयुष नवाचार के पेटेंट आवेदनों में आठ गुना वृद्धि",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324332",
-   "src": "PIB",
-   "t": "2026-10-16T16:59:45.111160+05:30",
-   "date": "2026-10-16",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
   }
  ]
 }
