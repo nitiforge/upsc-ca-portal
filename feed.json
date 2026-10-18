@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T20:21:12.859242+05:30",
+ "updated": "2026-10-18T23:21:46.207260+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,114 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324957",
+   "h": "विशेष अभियान 6.0: डाक विभाग ने शिकायत निवारण, स्वच्छता, ई-अपशिष्ट निपटान और अंतरिक्ष प्रबंधन में महत्वपूर्ण प्रगति हासिल की",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324957",
+   "src": "PIB",
+   "t": "2026-10-18T23:21:19.496167+05:30",
+   "date": "2026-10-18",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324966",
+   "h": "केन्द्रीय गृह मंत्री श्री अमित शाह, मंगलवार (20 अक्टूबर, 2026) को पंजाब में चिट्टा कारोबारियों के खिलाफ आवाज उठाने के कारण अपनी जान खोने वाले लोगों के परिवारों से मानसा, संगरूर व गुरदासपुर में मिलेंगे",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324966",
+   "src": "PIB",
+   "t": "2026-10-18T23:21:19.496106+05:30",
+   "date": "2026-10-18",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324976",
+   "h": "भारत की राष्ट्रपति की दुर्गा पूजा पर शुभकामनाएं",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324976",
+   "src": "PIB",
+   "t": "2026-10-18T23:21:19.494594+05:30",
+   "date": "2026-10-18",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/cities/Vijayawada/mba-student-smuggled-mdma-on-train-to-vijayawada-or-50000-commision-say-police/article71599574.ece",
+   "h": "MBA student smuggled MDMA on train to Vijayawada or ₹50,000 commission, say police",
+   "link": "https://www.thehindu.com/news/cities/Vijayawada/mba-student-smuggled-mdma-on-train-to-vijayawada-or-50000-commision-say-police/article71599574.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-18T22:54:41+05:30",
+   "date": "2026-10-18",
+   "snip": "The accused, who was caught with MDMA worth 11 lakh at Vijayawada railway station on October 14, procured the contraband from a Nigerian national in Bengaluru, say police",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/fssai-asks-food-operators-to-maintain-cold-chain-for-perishables/article71600265.ece",
+   "h": "FSSAI asks food operators to maintain cold chain for perishables",
+   "link": "https://www.thehindu.com/news/national/fssai-asks-food-operators-to-maintain-cold-chain-for-perishables/article71600265.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-18T22:43:30+05:30",
+   "date": "2026-10-18",
+   "snip": "Food businesses told to maintain prescribed temperatures across supply chain; states asked to act against violations",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/karnataka/upset-with-non-inclusion-of-woman-in-karnataka-cabinet-sowmya-reddy-quits-as-state-mahila-congress-chief/article71596504.ece",
+   "h": "Upset with non-inclusion of woman in Karnataka Cabinet, Sowmya Reddy quits as State Mahila Congress chief",
+   "link": "https://www.thehindu.com/news/national/karnataka/upset-with-non-inclusion-of-woman-in-karnataka-cabinet-sowmya-reddy-quits-as-state-mahila-congress-chief/article71596504.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-18T22:38:53+05:30",
+   "date": "2026-10-18",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/youth-organisations-attempt-march-to-jantar-mantar-seeking-cecs-resignation-several-detained/article71600610.ece",
+   "h": "Youth organisations attempt march to Jantar Mantar seeking CEC’s resignation; several detained",
+   "link": "https://www.thehindu.com/news/national/youth-organisations-attempt-march-to-jantar-mantar-seeking-cecs-resignation-several-detained/article71600610.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-18T22:03:58+05:30",
+   "date": "2026-10-18",
+   "snip": "We will continue our democratic struggle against the politicisation of the Election Commission, says NSUI national president Vinod Jakhar",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/argentina-team-visit-row-keralam-govt-seeks-governors-approval-to-file-case-against-v-abdurahiman/article71596274.ece",
+   "h": "Argentina team visit row: Keralam govt. seeks Governor’s approval to file case against V. Abdurahiman",
+   "link": "https://www.thehindu.com/news/national/kerala/argentina-team-visit-row-keralam-govt-seeks-governors-approval-to-file-case-against-v-abdurahiman/article71596274.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-18T21:52:59+05:30",
+   "date": "2026-10-18",
+   "snip": "The special investigation team tasked with probing the allegations over the proposed visit had reportedly detected serious procedural violations and recommended action against the former Sports Minister under the Prevention of Corruption Act",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/international/why-the-debate-between-keynesian-and-orthodox-economics-matters/article71583919.ece",
+   "h": "Why the debate between Keynesian and orthodox economics matters",
+   "link": "https://www.thehindu.com/news/international/why-the-debate-between-keynesian-and-orthodox-economics-matters/article71583919.ece",
+   "src": "The Hindu - International",
+   "t": "2026-10-18T21:47:21+05:30",
+   "date": "2026-10-18",
+   "snip": "Keynes-Kalecki framework holds that demand, in particular private investment, shapes short-term fluctuations as well as long-term growth, unlike orthodox approaches that see supply as determining long-term growth; shift towards inflation targeting coincided with falling wage shares and greater burden on workers",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324942",
    "h": "एनसीआरटीसी ने नमो भारत परिचालन के तीन सफल वर्षों का जश्न",
@@ -4706,114 +4814,6 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324378",
-   "h": "भारत की क्वांटम प्रौद्योगिकी और सुरक्षित संचार क्षमता सुदृढ़ बनाने की दिशा में प्रौद्योगिकी विकास बोर्ड ने अनुसंधान, विकास एवं नवाचार सहायता के लिए क्यूएनयू लैब्स के साथ 150 करोड़ रूपए का समझौता किया",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324378",
-   "src": "PIB",
-   "t": "2026-10-16T16:59:45.111119+05:30",
-   "date": "2026-10-16",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324356",
-   "h": "उपराष्ट्रपति श्री सीपी राधाकृष्णन ने कारवार में भारतीय नौसेना के पहले स्वदेशी बहुउद्देशीय पोत आईएनएस “समर्थक” का शुभारंभ किया",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324356",
-   "src": "PIB",
-   "t": "2026-10-16T16:59:45.109573+05:30",
-   "date": "2026-10-16",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/business/markets/rupee-rises-7-paise-to-close-at-9492-against-us-dollar-on-rbi-intervention/article71592196.ece",
-   "h": "Rupee rises 7 paise to close at 94.92 against U.S. dollar on RBI intervention",
-   "link": "https://www.thehindu.com/business/markets/rupee-rises-7-paise-to-close-at-9492-against-us-dollar-on-rbi-intervention/article71592196.ece",
-   "src": "The Hindu - Business",
-   "t": "2026-10-16T16:54:59+05:30",
-   "date": "2026-10-16",
-   "snip": "Elevated crude oil prices and foreign fund outflows capped the rupee's gains, according to forex traders",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/dont-try-to-bulldoze-bill-again-call-all-party-meet-to-discuss-delimitation-proposals-kharge-to-modi/article71592086.ece",
-   "h": "Don't try to bulldoze Bill again, call all-party meet to discuss delimitation proposals: Kharge to Modi",
-   "link": "https://www.thehindu.com/news/national/dont-try-to-bulldoze-bill-again-call-all-party-meet-to-discuss-delimitation-proposals-kharge-to-modi/article71592086.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-16T16:52:54+05:30",
-   "date": "2026-10-16",
-   "snip": "Leader of Opposition in the Rajya Sabha said he had first written to the Prime Minister on April 11 to convene an all-party meeting before bringing any Constitutional Amendment Bill on delimitation",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/private-bus-operators-to-strike-in-keralam-from-november-3/article71592105.ece",
-   "h": "Private bus operators to strike in Keralam from November 3",
-   "link": "https://www.thehindu.com/news/national/kerala/private-bus-operators-to-strike-in-keralam-from-november-3/article71592105.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-16T16:46:32+05:30",
-   "date": "2026-10-16",
-   "snip": "They demand that free travel scheme for women be extended to private buses as well, and that the government reimburse bus operators for their ticket fares.",
-   "cat": "Society",
-   "gs": "GS1",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/cities/mumbai/fire-breaks-out-in-mumbais-film-city/article71547363.ece",
-   "h": "Fire breaks out on reality show set at Goregaon Film City; no injuries reported",
-   "link": "https://www.thehindu.com/news/cities/mumbai/fire-breaks-out-in-mumbais-film-city/article71547363.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-16T16:38:29+05:30",
-   "date": "2026-10-16",
-   "snip": "The Mumbai Fire Brigade, local police, BMC Ward Control and a 108 Ambulance team were mobilised, and the blaze was brought under control",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/international/new-york-declares-disaster-emergency-over-measles-outbreak/article71548898.ece",
-   "h": "New York declares disaster emergency over measles outbreak",
-   "link": "https://www.thehindu.com/news/international/new-york-declares-disaster-emergency-over-measles-outbreak/article71548898.ece",
-   "src": "The Hindu - International",
-   "t": "2026-10-16T16:38:21+05:30",
-   "date": "2026-10-16",
-   "snip": "Since July 15, ​92 cases ‌have been reported in 18 New York counties, ‌while Pennsylvania has ​reported 977 cases, many ⁠in rural counties along the New ‌York border, the Governor said",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/maharashtra/shinde-meets-pm-modi-over-maharashtra-drought-says-centre-assures-support-for-farmers/article71548465.ece",
-   "h": "Shinde meets PM Modi over Maharashtra drought, says Centre assures support for farmers",
-   "link": "https://www.thehindu.com/news/national/maharashtra/shinde-meets-pm-modi-over-maharashtra-drought-says-centre-assures-support-for-farmers/article71548465.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-16T16:37:40+05:30",
-   "date": "2026-10-16",
-   "snip": "The hour-long meeting focused on the situation facing farmers, including water availability, agricultural conditions and the availability of fodder for livestock",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/cmrl-money-laundering-case-ed-summons-ex-kerala-cm-pinarayi-vijayan-for-questioning-on-october-23/article71591648.ece",
-   "h": "CMRL money-laundering case: ED summons ex-Keralam CM Pinarayi Vijayan for questioning on October 23",
-   "link": "https://www.thehindu.com/news/national/kerala/cmrl-money-laundering-case-ed-summons-ex-kerala-cm-pinarayi-vijayan-for-questioning-on-october-23/article71591648.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-16T16:35:53+05:30",
-   "date": "2026-10-16",
-   "snip": "ED earlier registered two Enforcement Case Information Reports under Prevention of Money Laundering Act against Pinarayi, his daughter T. Veena and son-in-law and former Minister Mohamed Riyas",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
   }
  ]
 }
