@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T17:04:01.392338+05:30",
+ "updated": "2026-10-18T20:21:12.859242+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,138 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324942",
+   "h": "एनसीआरटीसी ने नमो भारत परिचालन के तीन सफल वर्षों का जश्न",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324942",
+   "src": "PIB",
+   "t": "2026-10-18T20:20:40.811193+05:30",
+   "date": "2026-10-18",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324945",
+   "h": "प्रधानमंत्री ने एशियाई पैरा खेल 2026 के लिए भारतीय दल को शुभकामनाएँ दीं",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324945",
+   "src": "PIB",
+   "t": "2026-10-18T20:20:40.811157+05:30",
+   "date": "2026-10-18",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324948",
+   "h": "लोकायन 2026 – भारतीय नौसेना का जहाज सुदर्शिनी ओमान के सलालाह से रवाना हुआ",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324948",
+   "src": "PIB",
+   "t": "2026-10-18T20:20:40.809458+05:30",
+   "date": "2026-10-18",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/supreme-court-bars-mid-term-fee-hikes-in-professional-courses-except-in-extraordinary-circumstances/article71600054.ece",
+   "h": "Supreme Court bars mid-term fee hikes in professional courses except in extraordinary circumstances",
+   "link": "https://www.thehindu.com/news/national/supreme-court-bars-mid-term-fee-hikes-in-professional-courses-except-in-extraordinary-circumstances/article71600054.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-18T20:08:03+05:30",
+   "date": "2026-10-18",
+   "snip": "For the overwhelming majority of households, the fee payable for a professional course constitutes a substantial part of the family’s income and savings, the court observes",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/international/irans-parliament-approves-mehrdad-akhlaqi-as-minister-of-defence/article71600323.ece",
+   "h": "Iran's Parliament approves Mehrdad Akhlaqi as Minister of Defence",
+   "link": "https://www.thehindu.com/news/international/irans-parliament-approves-mehrdad-akhlaqi-as-minister-of-defence/article71600323.ece",
+   "src": "The Hindu - International",
+   "t": "2026-10-18T20:04:13+05:30",
+   "date": "2026-10-18",
+   "snip": "Mehrdad Akhlaqi Ketabchi replaces Majid Ebn al-Reza, who took over in an interim capacity after then Defence ‌Minister Aziz Nasirzadeh was killed by U.S.-Israeli strikes in February",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/andhra-pradesh/elaborate-arrangements-made-for-teppotsavam-in-vijayawada-on-october-20/article71599670.ece",
+   "h": "Elaborate arrangements made for Teppotsavam in Vijayawada on October 20",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/elaborate-arrangements-made-for-teppotsavam-in-vijayawada-on-october-20/article71599670.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-18T19:58:38+05:30",
+   "date": "2026-10-18",
+   "snip": "Police personnel and expert swimmers deployed at bathing ghats along the Krishna River; the float festival was cancelled in 2025 and 2024 due to floods",
+   "cat": "History & Culture",
+   "gs": "GS1",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/agristack-initiative-keralam-government-constitutes-agristack-commissionerate/article71599994.ece",
+   "h": "AgriStack initiative: Keralam government constitutes ‘AgriStack Commissionerate’",
+   "link": "https://www.thehindu.com/news/national/kerala/agristack-initiative-keralam-government-constitutes-agristack-commissionerate/article71599994.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-18T19:48:43+05:30",
+   "date": "2026-10-18",
+   "snip": "The Director, Agriculture, will serve as the AgriStack Commissioner in the four-level AgriStack Commissionerate.",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/dhinakaran-criticises-tvk-led-government-over-monsoon-preparedness/article71599527.ece",
+   "h": "Dhinakaran criticises TVK-led government over monsoon preparedness",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/dhinakaran-criticises-tvk-led-government-over-monsoon-preparedness/article71599527.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-18T19:42:28+05:30",
+   "date": "2026-10-18",
+   "snip": "The AMMK founder charged that precautionary measures were not undertaken even after a weather advisory about heavy rain in Chennai was received in advance",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/ed-trying-to-malign-pinarayi-through-publicity-stunts-alleges-keralam-ldf-convener/article71600085.ece",
+   "h": "ED trying to malign Pinarayi through publicity stunts, alleges Keralam LDF convener",
+   "link": "https://www.thehindu.com/news/national/kerala/ed-trying-to-malign-pinarayi-through-publicity-stunts-alleges-keralam-ldf-convener/article71600085.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-18T19:38:37+05:30",
+   "date": "2026-10-18",
+   "snip": "T.P. Ramakrishnan questions agency’s urgency in a case before Supreme Court; also targets government over KIIFB projects and private wine sales",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/water-safety-mathilakams-swim-mission-enters-11th-year/article71600048.ece",
+   "h": "Water safety: Mathilakam’s swim mission enters 11th year",
+   "link": "https://www.thehindu.com/news/national/kerala/water-safety-mathilakams-swim-mission-enters-11th-year/article71600048.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-18T19:13:43+05:30",
+   "date": "2026-10-18",
+   "snip": "Panchayat’s drive for complete water literacy has equipped nearly 1,500 people with swimming skills and confidence over a decade",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/maharashtra/maharashtra-drought-farmer-sends-money-order-of-5000-to-cm-over-paltry-interim-aid-by-govt/article71595791.ece",
+   "h": "Maharashtra drought: Farmer sends money order of ₹5,000 to CM over ‘paltry’ interim aid by govt.",
+   "link": "https://www.thehindu.com/news/national/maharashtra/maharashtra-drought-farmer-sends-money-order-of-5000-to-cm-over-paltry-interim-aid-by-govt/article71595791.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-18T19:03:12+05:30",
+   "date": "2026-10-18",
+   "snip": "“I cultivated a soybean crop on 1.5 acres of my farm. I spent ₹25,000 and received a 60-kg yield. I could earn just ₹3,900. I borrowed ₹1,100 from my friend to send the money order,” Mr. Shaikh told reporters outside Surdi post office.",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324871",
    "h": "एसटीपीआई टेक कॉन्क्लेव में स्वास्थ्य सेवा और सहायक प्रौद्योगिकियों में एआई की क्षमता को रेखांकित किया गया",
@@ -568,6 +700,18 @@
    "score": 4
   },
   {
+   "id": "https://www.thehindu.com/news/national/what-changes-under-indias-proposed-bs-vii-vehicle-emission-rules-explained/article71591595.ece",
+   "h": "What changes under India’s proposed BS-VII vehicle emission rules | Explained",
+   "link": "https://www.thehindu.com/news/national/what-changes-under-indias-proposed-bs-vii-vehicle-emission-rules-explained/article71591595.ece",
+   "src": "The Hindu - Business",
+   "t": "2026-10-18T07:28:59+05:30",
+   "date": "2026-10-18",
+   "snip": "The draft standards propose on-road emissions testing and new checks on pollution from brakes and tyres, with cars first in line for a phased rollout from April 2029",
+   "cat": "Environment",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
    "id": "https://www.thehindu.com/sci-tech/science/cern-and-mistral-partner-to-build-ai-foundation-models-for-physics/article71591196.ece",
    "h": "CERN and Mistral partner to build AI foundation models for physics",
    "link": "https://www.thehindu.com/sci-tech/science/cern-and-mistral-partner-to-build-ai-foundation-models-for-physics/article71591196.ece",
@@ -650,6 +794,18 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/business/Industry/air-india-sets-up-multi-disciplinary-panel-to-identify-cost-saving-opportunities/article71591329.ece",
+   "h": "Air India sets up multi-disciplinary panel to identify cost-saving opportunities",
+   "link": "https://www.thehindu.com/business/Industry/air-india-sets-up-multi-disciplinary-panel-to-identify-cost-saving-opportunities/article71591329.ece",
+   "src": "The Hindu - Business",
+   "t": "2026-10-18T05:55:47+05:30",
+   "date": "2026-10-18",
+   "snip": "The airline will also be launching 'PRABHAV - The Value Creator Award', an initiative to gather cost-reduction ideas from the staff, and those providing ideas that can be implemented will be rewarded.",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
   },
   {
    "id": "https://www.thehindu.com/business/india-raises-windfall-tax-on-petrol-cuts-duty-on-diesel/article71590967.ece",
@@ -4657,162 +4813,6 @@
    "snip": "ED earlier registered two Enforcement Case Information Reports under Prevention of Money Laundering Act against Pinarayi, his daughter T. Veena and son-in-law and former Minister Mohamed Riyas",
    "cat": "Economy",
    "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/energy-and-environment/supreme-court-refuses-to-stay-calcutta-hc-order-in-great-nicobar-island-project-terms-preservation-of-culture-a-fundamental-right/article71546355.ece",
-   "h": "Supreme Court refuses to stay proceedings against Nicobar project",
-   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/supreme-court-refuses-to-stay-calcutta-hc-order-in-great-nicobar-island-project-terms-preservation-of-culture-a-fundamental-right/article71546355.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-16T16:33:52+05:30",
-   "date": "2026-10-16",
-   "snip": "The petitions in the Calcutta High Court say that the diversion of over 130 sq. km of pristine tropical forest violated the Forest Rights Act and threatened the Shompen and Nicobarese way of life and culture",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/rahul-gandhi-congress-form-6-election-commission-of-india-cec-gyanesh-kumar/article71547253.ece",
-   "h": "Gyanesh Kumar changed Form 6 ‘illegally’ during SIR, says Rahul Gandhi",
-   "link": "https://www.thehindu.com/news/national/rahul-gandhi-congress-form-6-election-commission-of-india-cec-gyanesh-kumar/article71547253.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-16T16:33:49+05:30",
-   "date": "2026-10-16",
-   "snip": "The Opposition party also alleged that the CEC “betrayed” the Constitution in letter and spirit at the behest of Prime Minister Narendra Modi and Union Home Minister Amit Shah",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/supreme-court-agrees-to-hear-plea-alleging-rahul-gandhi-pushed-pregnant-journalist-during-october-12-march/article71591611.ece",
-   "h": "Supreme Court agrees to list plea alleging Rahul Gandhi ‘pushed’ pregnant journalist during Oct. 12 march",
-   "link": "https://www.thehindu.com/news/national/supreme-court-agrees-to-hear-plea-alleging-rahul-gandhi-pushed-pregnant-journalist-during-october-12-march/article71591611.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-16T16:33:01+05:30",
-   "date": "2026-10-16",
-   "snip": "Orally mentioning the application before Chief Justice of India Surya Kant, senior advocate Gaurav Bhatia said the woman journalist was manhandled on the court premises",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/energy-and-environment/two-captive-bred-great-indian-bustards-released-into-wild-in-rajasthan-under-conservation-efforts/article71544023.ece",
-   "h": "Two captive-bred Great Indian Bustards released into wild in Rajasthan under conservation efforts",
-   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/two-captive-bred-great-indian-bustards-released-into-wild-in-rajasthan-under-conservation-efforts/article71544023.ece",
-   "src": "The Hindu - Environment",
-   "t": "2026-10-16T16:31:57+05:30",
-   "date": "2026-10-16",
-   "snip": "Bhupender Yadav said the milestone was the outcome of nearly a decade of unwavering dedication by our scientists, researchers, and ground staff to help the Great Indian Bustard, a critically endangered bird, reclaim the deserts of Rajasthan",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/local-bodies-not-obliged-to-fund-ksrtc-depots-transport-minister/article71591973.ece",
-   "h": "Local bodies not obliged to fund KSRTC depots: Transport Minister",
-   "link": "https://www.thehindu.com/news/national/kerala/local-bodies-not-obliged-to-fund-ksrtc-depots-transport-minister/article71591973.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-16T16:25:55+05:30",
-   "date": "2026-10-16",
-   "snip": "C.P. John allays concerns raised by the Leader of the Opposition Pinarayi Vijayan, says Corporations and municipalities with robust revenue bases than grama panchayats can contribute voluntarily to improve local KSRTC depots if they considered it necessary.",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/jammu-and-kashmir/national-conference-raises-concern-over-skewedreservation-policy-in-jk/article71548005.ece",
-   "h": "National Conference raises concern over ‘skewed reservation policy’ in J&K",
-   "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/national-conference-raises-concern-over-skewedreservation-policy-in-jk/article71548005.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-16T16:17:29+05:30",
-   "date": "2026-10-16",
-   "snip": "General category candidates, if we keep increasing reservation, will be pushed to the status of the Scheduled Castes as was in 1947, says Farooq Abdullah",
-   "cat": "Society",
-   "gs": "GS1",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/bjp-says-supreme-court-notice-to-ec-centre-shows-independence-of-institutions/article71547151.ece",
-   "h": "After SC notice, BJP accuses Rahul Gandhi of ‘spreading lies and confusion’ over Form 6",
-   "link": "https://www.thehindu.com/news/national/bjp-says-supreme-court-notice-to-ec-centre-shows-independence-of-institutions/article71547151.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-16T16:14:40+05:30",
-   "date": "2026-10-16",
-   "snip": "At press conference, BJP spokesperson Sambit Patra argues that the Supreme Court had neither called Form 6 illegal nor rejected it; the court’s decision to issue notices to the government and the Election Commission demonstrated a functioning democratic process, he argues",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/can-states-change-ward-boundaries-during-census-freeze-sc-to-hear-plea/article71548314.ece",
-   "h": "Can States change ward boundaries during Census freeze? SC to hear plea",
-   "link": "https://www.thehindu.com/news/national/can-states-change-ward-boundaries-during-census-freeze-sc-to-hear-plea/article71548314.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-16T16:14:01+05:30",
-   "date": "2026-10-16",
-   "snip": "Rule 8(iv) of the Census Rules 1990 requires State governments to “freeze the administrative boundaries of districts, tehsils, towns, etc.” from the date intimated by the Census Commissioner",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/maharashtra/bombay-high-court-declines-to-stay-deletion-of-names-from-voters-list-in-maharashtra/article71548031.ece",
-   "h": "Bombay High Court declines to stay deletion of names from voters’ list in Maharashtra",
-   "link": "https://www.thehindu.com/news/national/maharashtra/bombay-high-court-declines-to-stay-deletion-of-names-from-voters-list-in-maharashtra/article71548031.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-16T16:13:53+05:30",
-   "date": "2026-10-16",
-   "snip": "The court was hearing a petition that sought safeguards against the exclusion of eligible voters and transparency in the methodology used for the SIR",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/business/sebi-to-partly-reverse-derivative-settlement-rules-after-pushback-sources-say/article71548742.ece",
-   "h": "SEBI to partly reverse derivative settlement rules after pushback, sources say",
-   "link": "https://www.thehindu.com/business/sebi-to-partly-reverse-derivative-settlement-rules-after-pushback-sources-say/article71548742.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-16T16:13:50+05:30",
-   "date": "2026-10-16",
-   "snip": "SEBI told it had received 20,000 suggestions to tweak the rules in response to a consultation paper issued last month",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/ed-searches-16-places-linked-to-smuggling-of-foreign-origin-betel-nut-via-the-indo-myanmar-border/article71548436.ece",
-   "h": "ED searches 16 places linked to smuggling of foreign-origin betel nut via the Indo-Myanmar border",
-   "link": "https://www.thehindu.com/news/national/ed-searches-16-places-linked-to-smuggling-of-foreign-origin-betel-nut-via-the-indo-myanmar-border/article71548436.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-16T16:12:16+05:30",
-   "date": "2026-10-16",
-   "snip": "Dried areca nut consignments were brought overland to the Indo-Myanmar border opposite Champhai in Mizoram, and ferried across the Tiau river at Zokhawthar in small lots, bypassing the Land Customs Station, in a well-organised racket, the ED alleges",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/dmk-mp-defends-the-simultaneous-polls-panels-plan-to-meet-cji/article71548610.ece",
-   "h": "DMK MP defends the simultaneous polls panel’s plan to meet CJI",
-   "link": "https://www.thehindu.com/news/national/dmk-mp-defends-the-simultaneous-polls-panels-plan-to-meet-cji/article71548610.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-16T16:11:27+05:30",
-   "date": "2026-10-16",
-   "snip": "Separation of powers does not mean the three organs operate in watertight compartments, says Rajya Sabha P. Wilson",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/business/am-intelligence-orders-20000-more-nvidia-rubin-gpus-for-india-malaysia-ai-factories/article71547979.ece",
-   "h": "AM Intelligence orders 20,000 more NVIDIA Rubin GPUs for India, Malaysia AI factories",
-   "link": "https://www.thehindu.com/business/am-intelligence-orders-20000-more-nvidia-rubin-gpus-for-india-malaysia-ai-factories/article71547979.ece",
-   "src": "The Hindu - Business",
-   "t": "2026-10-16T15:38:27+05:30",
-   "date": "2026-10-16",
-   "snip": "AMI plans to bring additional 300 MWs of capacity to market in the next 15 months, involving capital expenditure of more than $20 billion in addition to the $6 billion already committed for the initial $100 MW.",
-   "cat": "Polity",
-   "gs": "GS2",
    "score": 2
   }
  ]
