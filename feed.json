@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T04:50:34.016384+05:30",
+ "updated": "2026-10-18T06:53:24.142420+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,102 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/national/supreme-court-seeks-replies-from-centre-ncpcr-on-pil-for-framework-to-protect-children-from-social-media-risks/article71591871.ece",
+   "h": "Supreme Court seeks replies from Centre, NCPCR on PIL for framework to protect children from social media risks",
+   "link": "https://www.thehindu.com/news/national/supreme-court-seeks-replies-from-centre-ncpcr-on-pil-for-framework-to-protect-children-from-social-media-risks/article71591871.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-18T06:36:36+05:30",
+   "date": "2026-10-18",
+   "snip": "The plea called for mandatory age verification, age-appropriate access, verifiable parental consent and stronger safeguards against cyberbullying, sexual exploitation, harmful content and excessive platform use.",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 4
+  },
+  {
+   "id": "https://www.thehindu.com/society/applications-open-for-kanavu-aerial-workshop-for-women-photographers-in-tamil-nadu/article71586637.ece",
+   "h": "Applications open for Kanavu Aerial Workshop for women photographers in Tamil Nadu",
+   "link": "https://www.thehindu.com/society/applications-open-for-kanavu-aerial-workshop-for-women-photographers-in-tamil-nadu/article71586637.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-18T06:27:22+05:30",
+   "date": "2026-10-18",
+   "snip": "The 10-day residential programme in Chennai combines drone pilot training with aerial photography and videography",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/cities/mumbai/two-men-arrested-in-navi-mumbai-for-duping-investors-through-fake-iridium-scheme/article71588332.ece",
+   "h": "Two men arrested in Navi Mumbai for duping investors through fake iridium scheme",
+   "link": "https://www.thehindu.com/news/cities/mumbai/two-men-arrested-in-navi-mumbai-for-duping-investors-through-fake-iridium-scheme/article71588332.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-18T06:18:10+05:30",
+   "date": "2026-10-18",
+   "snip": "The accused claimed iridium reserves were available along the West Bengal-Bangladesh border and that the Centre had agreed to purchase it for ₹3.34 lakh crore; they promised to distribute 50% of proceeds among the investors",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 4
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/keralam-govt-declares-public-holiday-on-october-19-for-durgashtami/article71591606.ece",
+   "h": "Keralam govt declares public holiday on October 19 for Durgashtami",
+   "link": "https://www.thehindu.com/news/national/kerala/keralam-govt-declares-public-holiday-on-october-19-for-durgashtami/article71591606.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-18T06:07:09+05:30",
+   "date": "2026-10-18",
+   "snip": "Holiday will apply to all government and quasi-government offices, public sector undertakings, institutions covered under the Negotiable Instruments Act and all educational institutions",
+   "cat": "Society",
+   "gs": "GS1",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/43-journalists-detained-several-assaulted-while-covering-protests-against-cec-cpj/article71591212.ece",
+   "h": "43 journalists detained, several assaulted, while covering protests against CEC: CPJ",
+   "link": "https://www.thehindu.com/news/national/43-journalists-detained-several-assaulted-while-covering-protests-against-cec-cpj/article71591212.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-18T06:01:26+05:30",
+   "date": "2026-10-18",
+   "snip": "The Committee to Protect Journalists said police detained journalists even after the Supreme Court secured assurances from the Solicitor-General that the press would not be impeded, with several reporting being struck or hit",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/andhra-pradesh/aspirants-question-15-year-delay-in-job-notification-for-women-and-child-welfare-department-in-andhra-pradesh/article71587709.ece",
+   "h": "Aspirants question 15-year delay in job notification for Women and Child Welfare Department in Andhra Pradesh",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/aspirants-question-15-year-delay-in-job-notification-for-women-and-child-welfare-department-in-andhra-pradesh/article71587709.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-18T05:43:03+05:30",
+   "date": "2026-10-18",
+   "snip": "Despite 243 vacancies cleared in 2023, the decision to sanction only 29 posts under G.O. Ms. No. 81 triggers concerns; job seekers question decision of changing the recruitment agency",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/anthrax-infection-kills-female-elephant-in-coimbatore-forest-carcass-burnt/article71589720.ece",
+   "h": "Anthrax infection kills female elephant in Coimbatore forest; carcass burnt",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/anthrax-infection-kills-female-elephant-in-coimbatore-forest-carcass-burnt/article71589720.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-18T05:39:19+05:30",
+   "date": "2026-10-18",
+   "snip": "Forest staff came across the carcass during a routine patrol within the Gopanari reserve forest on October 13; after a blood smear sample tested positive for anthrax, the carcass was burnt",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/cities/bangalore/heavy-rain-snarls-traffic-ride-hailing-fares-surge-in-bengaluru/article71589436.ece",
+   "h": "Heavy rain snarls traffic, ride-hailing fares surge in Bengaluru",
+   "link": "https://www.thehindu.com/news/cities/bangalore/heavy-rain-snarls-traffic-ride-hailing-fares-surge-in-bengaluru/article71589436.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-18T05:25:59+05:30",
+   "date": "2026-10-18",
+   "snip": "Slow-moving traffic due to waterlogging was also reported on M.G. Road, Commissionerate Road, Acharya Layout Road, Anand Rao Circle, R.P. Road towards P.G. Halli, Mehkri Circle, and Jayamahal, among other locations",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
   {
    "id": "https://www.thehindu.com/news/national/ladakh/centre-committed-to-meeting-demands-of-the-region-says-ladakh-chief-secretary/article71597337.ece",
    "h": "Centre committed to meeting demands of the region, says Ladakh Chief Secretary",
@@ -136,6 +232,18 @@
    "score": 2
   },
   {
+   "id": "https://www.thehindu.com/business/income-tax-tribunal-orders-13000-crore-tax-relief-to-maruti-suzuki/article71589498.ece",
+   "h": "Income Tax tribunal orders ₹13,000-crore tax relief to Maruti Suzuki",
+   "link": "https://www.thehindu.com/business/income-tax-tribunal-orders-13000-crore-tax-relief-to-maruti-suzuki/article71589498.ece",
+   "src": "The Hindu - Business",
+   "t": "2026-10-18T02:42:16+05:30",
+   "date": "2026-10-18",
+   "snip": "",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
    "id": "https://www.thehindu.com/news/national/karnataka/health-minister-rules-out-withdrawal-of-hospital-billing-transparency-order/article71588477.ece",
    "h": "Health Minister rules out withdrawal of hospital billing transparency order",
    "link": "https://www.thehindu.com/news/national/karnataka/health-minister-rules-out-withdrawal-of-hospital-billing-transparency-order/article71588477.ece",
@@ -158,6 +266,42 @@
    "cat": "Economy",
    "gs": "GS3",
    "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/business/Industry/wipro-q2-profit-slips-14-large-deals-plunge-59/article71588933.ece",
+   "h": "Wipro Q2 profit slips 1.4%; large deals plunge 59%",
+   "link": "https://www.thehindu.com/business/Industry/wipro-q2-profit-slips-14-large-deals-plunge-59/article71588933.ece",
+   "src": "The Hindu - Business",
+   "t": "2026-10-18T02:26:40+05:30",
+   "date": "2026-10-18",
+   "snip": "We see AI as a long-term growth driver that will expand the addressable market for technology and business transformation, says Srini Pallia",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/business/Economy/indias-exports-jump-23-in-september-trade-deficit-narrows-to-3021-billion/article71588471.ece",
+   "h": "India’s exports jump 23% in September; trade deficit narrows to $30.21 billion",
+   "link": "https://www.thehindu.com/business/Economy/indias-exports-jump-23-in-september-trade-deficit-narrows-to-3021-billion/article71588471.ece",
+   "src": "The Hindu - Business",
+   "t": "2026-10-18T02:22:18+05:30",
+   "date": "2026-10-18",
+   "snip": "High crude oil prices amid the West Asia crisis have helped India earn better realisations from petroleum product exports",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/business/Industry/heritage-foods-q2-net-slips-39-to-31-cr-amid-higher-revenue/article71588412.ece",
+   "h": "Heritage Foods Q2 net slips 39% to ₹31 cr amid higher revenue",
+   "link": "https://www.thehindu.com/business/Industry/heritage-foods-q2-net-slips-39-to-31-cr-amid-higher-revenue/article71588412.ece",
+   "src": "The Hindu - Business",
+   "t": "2026-10-18T02:18:10+05:30",
+   "date": "2026-10-18",
+   "snip": "Milk procurement volumes increased 7% YoY in Q2 FY27 and 4% in H1 FY27 despite monsoon-related supply constraints.",
+   "cat": "Environment",
+   "gs": "GS3",
+   "score": 2
   },
   {
    "id": "https://www.thehindu.com/news/international/north-korea-says-it-tested-cruise-missiles-designed-to-be-fired-from-submarines/article71586524.ece",
@@ -220,6 +364,18 @@
    "score": 2
   },
   {
+   "id": "https://www.thehindu.com/business/Industry/what-are-the-details-of-the-governments-sale-of-idbi-explained/article71586803.ece",
+   "h": "What are the details of the government’s sale of IDBI | Explained",
+   "link": "https://www.thehindu.com/business/Industry/what-are-the-details-of-the-governments-sale-of-idbi-explained/article71586803.ece",
+   "src": "The Hindu - Business",
+   "t": "2026-10-18T01:31:50+05:30",
+   "date": "2026-10-18",
+   "snip": "According to sources in the Ministry of Finance, the strategic restructuring does not change anything for the regulation of IDBI Bank or its customer-facing duties. IDBI will continue to provide government financial inclusion, social security and pension schemes",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 3
+  },
+  {
    "id": "https://www.thehindu.com/news/cities/Hyderabad/us-startup-reflect-orbital-books-two-launches-of-skyroot-aerospace/article71586855.ece",
    "h": "US startup Reflect Orbital books two launches on Hyderabad-based Skyroot Aerospace’s Vikram rockets",
    "link": "https://www.thehindu.com/news/cities/Hyderabad/us-startup-reflect-orbital-books-two-launches-of-skyroot-aerospace/article71586855.ece",
@@ -254,6 +410,18 @@
    "cat": "Economy",
    "gs": "GS3",
    "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/business/markets/rupee-rises-31-paise-to-9486-against-us-dollar-in-early-trade/article71586838.ece",
+   "h": "Rupee rises 31 paise to 94.86 against U.S. dollar in early trade",
+   "link": "https://www.thehindu.com/business/markets/rupee-rises-31-paise-to-9486-against-us-dollar-in-early-trade/article71586838.ece",
+   "src": "The Hindu - Business",
+   "t": "2026-10-18T01:23:16+05:30",
+   "date": "2026-10-18",
+   "snip": "Meanwhile, India's WPI inflation accelerated to 11.39% from 9.92%, with food inflation reaching 8.66%. Combined with CPI inflation of 5.54%, dual inflation pressure makes it very difficult for the RBI to turn dovish",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 3
   },
   {
    "id": "https://www.thehindu.com/news/national/delhi-police-accused-of-beating-assaulting-detainees-denying-them-basic-rights/article71576271.ece",
@@ -4644,174 +4812,6 @@
    "date": "2026-10-16",
    "snip": "Another search operation is underway at Chigli Keya village in Udhampur, the officials said",
    "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/science/the-wargames-problem-computer-science-has-long-understood-what-it-takes-to-keep-ai-under-control/article71539805.ece",
-   "h": "The ‘WarGames’ problem: Computer science has long understood what it takes to keep AI under control",
-   "link": "https://www.thehindu.com/sci-tech/science/the-wargames-problem-computer-science-has-long-understood-what-it-takes-to-keep-ai-under-control/article71539805.ece",
-   "src": "The Hindu - Science",
-   "t": "2026-10-16T02:35:38+05:30",
-   "date": "2026-10-16",
-   "snip": "The problem with headlines proclaiming that AI agents have gone rogue goes beyond anthropomorphising the technology. It creates the impression that the agents were beyond the control of the AI companies that made them and there was little the companies could do about it.",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/tamil-nadu/vijay-launches-tamil-nadu-semiconductor-ecosystem-scheme-2026/article71588384.ece",
-   "h": "Vijay launches Tamil Nadu Semiconductor Ecosystem Scheme 2026",
-   "link": "https://www.thehindu.com/news/national/tamil-nadu/vijay-launches-tamil-nadu-semiconductor-ecosystem-scheme-2026/article71588384.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-16T02:30:31+05:30",
-   "date": "2026-10-16",
-   "snip": "",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/tamil-nadu/man-killed-in-suspected-leopard-attack-near-hasanur/article71543001.ece",
-   "h": "Man killed in suspected leopard attack near Hasanur",
-   "link": "https://www.thehindu.com/news/national/tamil-nadu/man-killed-in-suspected-leopard-attack-near-hasanur/article71543001.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-16T02:29:48+05:30",
-   "date": "2026-10-16",
-   "snip": "After Periasamy was reported missing, villagers searched for him and found his body near the forest fringe close to the spot where the incident had occurred",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/andhra-pradesh/child-rights-commission-seeks-report-on-alleged-abuse-of-hostel-girl-in-ongole/article71541091.ece",
-   "h": "Child rights commission seeks report on alleged abuse of hostel girl in Ongole",
-   "link": "https://www.thehindu.com/news/national/andhra-pradesh/child-rights-commission-seeks-report-on-alleged-abuse-of-hostel-girl-in-ongole/article71541091.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-16T02:28:58+05:30",
-   "date": "2026-10-16",
-   "snip": "The State Commission for Protection of Child Rights will visit the welfare hostel and speak to its staff and students; the accused, a retired employee, has been arrested",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 4
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/punjab/punjabi-influencer-makeup-artist-shot-dead-in-amritsar/article71542972.ece",
-   "h": "Punjabi influencer, makeup artist shot dead in Amritsar",
-   "link": "https://www.thehindu.com/news/national/punjab/punjabi-influencer-makeup-artist-shot-dead-in-amritsar/article71542972.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-16T02:28:34+05:30",
-   "date": "2026-10-16",
-   "snip": "Two unidentified persons, who were on a motorbike, opened fire at Mad Sandhu and fled the spot, says Additional Deputy Commissioner of Police Sirivennela",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/international/yemen-houthis-say-they-attacked-aramco-facility-in-riyadh-with-missiles-drones/article71541954.ece",
-   "h": "Yemen’s Houthis say they attacked Aramco facility in Riyadh with missiles, drones",
-   "link": "https://www.thehindu.com/news/international/yemen-houthis-say-they-attacked-aramco-facility-in-riyadh-with-missiles-drones/article71541954.ece",
-   "src": "The Hindu - International",
-   "t": "2026-10-16T02:17:46+05:30",
-   "date": "2026-10-16",
-   "snip": "The ⁠reported attack comes amid escalating hostilities between Saudi Arabia and ‌the Houthis, who have stepped up attacks on Saudi cities and energy infrastructure",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/andhra-pradesh/el-nino-draws-kasai-pitta-out-in-rayalaseema-scrub-lands/article71540589.ece",
-   "h": "El Niño draws ‘Kasai Pitta' out in Rayalaseema scrub lands",
-   "link": "https://www.thehindu.com/news/national/andhra-pradesh/el-nino-draws-kasai-pitta-out-in-rayalaseema-scrub-lands/article71540589.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-16T02:14:41+05:30",
-   "date": "2026-10-16",
-   "snip": "The long-tailed shrike, Lanius schach, is sighted along the Penna River belt and fringes of the Erramala and Palakonda ranges in Nandyal and Kadapa",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/international/nolo-becomes-category-3-hurricane-in-remote-pacific-ocean/article71542838.ece",
-   "h": "Nolo becomes Category 3 Hurricane in remote Pacific Ocean",
-   "link": "https://www.thehindu.com/news/international/nolo-becomes-category-3-hurricane-in-remote-pacific-ocean/article71542838.ece",
-   "src": "The Hindu - International",
-   "t": "2026-10-16T02:12:10+05:30",
-   "date": "2026-10-16",
-   "snip": "The storm’s maximum sustained winds rapidly intensified to 115 mph (185 kph), the Miami-based National Hurricane Center reported, meaning it was a Category 3 hurricane",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/tamil-nadu/probe-into-tvk-mla-driving-government-bus-without-valid-licence-during-launch-of-scheme/article71540822.ece",
-   "h": "Probe into TVK MLA driving government bus without valid licence during launch of scheme",
-   "link": "https://www.thehindu.com/news/national/tamil-nadu/probe-into-tvk-mla-driving-government-bus-without-valid-licence-during-launch-of-scheme/article71540822.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-16T02:10:28+05:30",
-   "date": "2026-10-16",
-   "snip": "A video that went viral on social media showed Mr. Kumar driving a government bus with around 30 commuters",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/cpim-asks-leaders-in-keralams-kottayam-to-clear-cooperative-bank-loan-dues/article71540916.ece",
-   "h": "CPI(M) asks leaders in Keralam’s Kottayam to clear cooperative bank loan dues",
-   "link": "https://www.thehindu.com/news/national/kerala/cpim-asks-leaders-in-keralams-kottayam-to-clear-cooperative-bank-loan-dues/article71540916.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-16T02:10:23+05:30",
-   "date": "2026-10-16",
-   "snip": "Party’s extended district committee meeting warns of strict disciplinary action against those who default on repayments",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/anti-cec-protest-why-is-pm-modi-shutting-down-delhi-to-protect-one-man-asks-cjps-dipke-with-central-park-shut-ahead-of-tiranga-march/article71589731.ece",
-   "h": "Anti-CEC protest: ‘Why is PM Modi shutting down Delhi to protect one man?’ asks CJP’s Dipke with Central Park shut ahead of ‘Tiranga’ march",
-   "link": "https://www.thehindu.com/news/national/anti-cec-protest-why-is-pm-modi-shutting-down-delhi-to-protect-one-man-asks-cjps-dipke-with-central-park-shut-ahead-of-tiranga-march/article71589731.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-16T02:07:43+05:30",
-   "date": "2026-10-16",
-   "snip": "New Delhi Municipal Council cites 'administrative reasons' for closure; CJP founder Abhijeet Dipke questions Prime Minister’s support for Chief Election Commissioner",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/tamil-nadu/tvk-ministers-slam-dmk-chief-stalin-over-alleged-body-shaming-of-dharapuram-bypoll-candidate/article71539648.ece",
-   "h": "T.N. CM Vijay, Ministers condemn Stalin over remarks against TVK’s Dharapuram candidate Sathyabama",
-   "link": "https://www.thehindu.com/news/national/tamil-nadu/tvk-ministers-slam-dmk-chief-stalin-over-alleged-body-shaming-of-dharapuram-bypoll-candidate/article71539648.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-16T02:05:44+05:30",
-   "date": "2026-10-16",
-   "snip": "The TVK also lodged a complaint against DMK chief Stalin with the Election Commission",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/tamil-nadu/two-more-judges-sworn-in-at-madras-high-court-increasing-its-working-strength-to-67/article71589566.ece",
-   "h": "Two more judges sworn in at Madras High Court increasing its working strength to 67",
-   "link": "https://www.thehindu.com/news/national/tamil-nadu/two-more-judges-sworn-in-at-madras-high-court-increasing-its-working-strength-to-67/article71589566.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-16T01:12:59+05:30",
-   "date": "2026-10-16",
-   "snip": "Chief Justice Sushrut Arvind Dharmadhikari administered the oath of office to Justices D. Lingeswaran and B. Karthikeyan on Thursday",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/energy-and-environment/land-shortage-cripples-agriculture-ministry-weather-network/article71588890.ece",
-   "h": "Land shortage cripples Agriculture Ministry’s weather network rollout",
-   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/land-shortage-cripples-agriculture-ministry-weather-network/article71588890.ece",
-   "src": "The Hindu - Environment",
-   "t": "2026-10-16T01:00:37+05:30",
-   "date": "2026-10-16",
-   "snip": "Project is a year behind deadline, with over 96% of planned rain gauges and weather stations yet to be installed; private partners say IMD is retrospectively insisting that sensors be installed on the ground, not on rooftops",
-   "cat": "Economy",
    "gs": "GS3",
    "score": 2
   }
