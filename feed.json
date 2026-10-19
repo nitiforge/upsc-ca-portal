@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T03:56:34.949444+05:30",
+ "updated": "2026-10-19T05:52:52.404825+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,114 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/left-student-outfits-to-take-out-march-to-lok-bhavan-in-keralam-on-october-23/article71596053.ece",
+   "h": "Left student outfits to take out march to Lok Bhavan in Keralam on October 23",
+   "link": "https://www.thehindu.com/news/national/kerala/left-student-outfits-to-take-out-march-to-lok-bhavan-in-keralam-on-october-23/article71596053.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-19T05:29:26+05:30",
+   "date": "2026-10-19",
+   "snip": "The march, demanding the removal of Chief Election Commissioner Gyanesh Kumar, will be inaugurated by Leader of the Opposition Pinarayi Vijayan; leaders of the Communist Party of India and the Socialist Unity Centre of India (Communist) will also participate in the protest",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/karnataka/cabinet-decision-on-bangalore-turf-club-land-for-high-court-this-month/article71596557.ece",
+   "h": "‘Cabinet decision on Bangalore Turf Club land for High Court this month’",
+   "link": "https://www.thehindu.com/news/national/karnataka/cabinet-decision-on-bangalore-turf-club-land-for-high-court-this-month/article71596557.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-19T05:12:49+05:30",
+   "date": "2026-10-19",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/over-50-lakh-devotees-expected-to-attend-karthigai-deepam-festival-in-tiruvannamalai-minister-aadhav-arjuna/article71596673.ece",
+   "h": "Over 50 lakh devotees expected to attend Karthigai Deepam festival in Tiruvannamalai: Minister Aadhav Arjuna",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/over-50-lakh-devotees-expected-to-attend-karthigai-deepam-festival-in-tiruvannamalai-minister-aadhav-arjuna/article71596673.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-19T05:11:19+05:30",
+   "date": "2026-10-19",
+   "snip": "Shuttle services between the bus termini and town should also be operated for devotees, as no vehicle will be allowed to enter town, especially during Maha Deepam, to avoid traffic congestion, he said",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/india-bangladesh-need-to-cooperate-on-grey-areas-in-bay-of-bengal-maritime-boundaries/article70339222.ece",
+   "h": "India, Bangladesh need to cooperate on ‘grey areas’ in Bay of Bengal maritime boundaries",
+   "link": "https://www.thehindu.com/news/national/india-bangladesh-need-to-cooperate-on-grey-areas-in-bay-of-bengal-maritime-boundaries/article70339222.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-19T05:09:20+05:30",
+   "date": "2026-10-19",
+   "snip": "A UN Tribunal on the India-Bangladesh maritime boundary dispute in 2014 awarded Bangladesh 19,467 sq. km of the 25,602 sq km sea area of Bay of Bengal",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/census-2027-the-pressures-of-counting-india/article71123306.ece",
+   "h": "Census 2027: The pressures of counting India",
+   "link": "https://www.thehindu.com/news/national/census-2027-the-pressures-of-counting-india/article71123306.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-19T05:06:21+05:30",
+   "date": "2026-10-19",
+   "snip": "Enumerators working on the Census are facing several challenges in the field, including heat, connectivity issues, and safety concerns. Though the exercise is being conducted through a digital system designed for real-time monitoring, field workers say conditions on the ground and supervisory instructions are affecting data collection. Vijaita Singh reports on the challenges",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/congress-alleges-rss-employment-scheme-as-centre-opens-census-enumerator-posts-to-private-individuals/article71597081.ece",
+   "h": "Congress alleges ‘RSS employment scheme’ as Centre opens Census enumerator posts to private individuals",
+   "link": "https://www.thehindu.com/news/national/congress-alleges-rss-employment-scheme-as-centre-opens-census-enumerator-posts-to-private-individuals/article71597081.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-19T04:58:55+05:30",
+   "date": "2026-10-19",
+   "snip": "Party questions Centre’s decision to widen pool of enumerators; former Census official cites shortage of government teachers",
+   "cat": "Society",
+   "gs": "GS1",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/36-new-wildlife-records-put-keralams-peechis-biodiversity-in-the-spotlight/article71596359.ece",
+   "h": "36 new wildlife records put Keralam’s Peechi’s biodiversity in the spotlight",
+   "link": "https://www.thehindu.com/news/national/kerala/36-new-wildlife-records-put-keralams-peechis-biodiversity-in-the-spotlight/article71596359.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-19T04:57:20+05:30",
+   "date": "2026-10-19",
+   "snip": "Survey across three sanctuaries documents 395 bird, butterfly and odonates species, including 24 endemics of the Western Ghats",
+   "cat": "Environment",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/keralam-forest-department-removes-fences-iron-bars-blocking-movement-of-wild-elephants-in-chinnakkanal/article71597020.ece",
+   "h": "Keralam Forest department removes fences, iron bars blocking movement of wild elephants in Chinnakkanal",
+   "link": "https://www.thehindu.com/news/national/kerala/keralam-forest-department-removes-fences-iron-bars-blocking-movement-of-wild-elephants-in-chinnakkanal/article71597020.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-19T04:54:20+05:30",
+   "date": "2026-10-19",
+   "snip": "The decision came out of talks held between forest officials, tribal residents, and people’s representatives at the Panthadikkalam tribal settlement under the Devikulam forest range, following the death of a tribal farmer",
+   "cat": "Environment",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/cities/chennai/chennai-mayor-accuses-govt-of-delaying-monsoon-preparedness-works/article71597583.ece",
+   "h": "Chennai Mayor accuses govt. of delaying monsoon preparedness works",
+   "link": "https://www.thehindu.com/news/cities/chennai/chennai-mayor-accuses-govt-of-delaying-monsoon-preparedness-works/article71597583.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-19T03:54:23+05:30",
+   "date": "2026-10-19",
+   "snip": "She says that government should have held meetings in July or August; she also flags inadequate allocation of funds for civic infra maintenance",
+   "cat": "Environment",
+   "gs": "GS3",
+   "score": 2
+  },
   {
    "id": "https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/amend-constitution-to-ensure-quota-for-religious-converts-anbumani-ramadoss/article71597654.ece",
    "h": "Amend Constitution to ensure quota for religious converts: Anbumani Ramadoss",
@@ -4706,114 +4814,6 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324498",
-   "h": "ईसीएल ने ‘विशेष अभियान 6’ के तहत कबाड़ के निपटान से 2.21 करोड़ रुपये अर्जित किए",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324498",
-   "src": "PIB",
-   "t": "2026-10-16T19:15:49.679299+05:30",
-   "date": "2026-10-16",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324467",
-   "h": "महिला किसान दिवस पर सांची में श्री शिवराज सिंह चौहान का संवाद, 46 ग्रामीण सड़कों का भी किया भूमिपूजन",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324467",
-   "src": "PIB",
-   "t": "2026-10-16T19:15:49.678505+05:30",
-   "date": "2026-10-16",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/telangana/ed-completes-registering-nine-auctioned-assets-worth-10326-crore-in-nowhera-shaik-heera-group-case/article71592258.ece",
-   "h": "ED completes registering nine auctioned assets worth ₹103.26 crore in Nowhera Shaik-Heera Group case",
-   "link": "https://www.thehindu.com/news/national/telangana/ed-completes-registering-nine-auctioned-assets-worth-10326-crore-in-nowhera-shaik-heera-group-case/article71592258.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-16T19:08:54+05:30",
-   "date": "2026-10-16",
-   "snip": "Proceeds from the auction will be transferred to the Serious Fraud Investigation Office for disbursement among victims and claimants, in accordance with Supreme Court directions",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/international/trump-approves-firing-squad-execution-for-fort-hood-shooter-nidal-hasan/article71549975.ece",
-   "h": "Trump approves firing squad execution for Fort Hood shooter Nidal Hasan",
-   "link": "https://www.thehindu.com/news/international/trump-approves-firing-squad-execution-for-fort-hood-shooter-nidal-hasan/article71549975.ece",
-   "src": "The Hindu - International",
-   "t": "2026-10-16T19:05:22+05:30",
-   "date": "2026-10-16",
-   "snip": "The Army psychiatrist walked into a medical building where soldiers were getting medical checkups, shouted “Allahu akbar” — Arabic for “God is great!” — and opened fire with a laser-sighted handgun. Thirteen people were killed and more than 30 injured",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/videos/shows/watch-the-fight-for-a-place-to-bury-the-dead-focus-tamil-nadu/article71588881.ece",
-   "h": "Watch: The fight for a place to bury the dead | Focus Tamil Nadu",
-   "link": "https://www.thehindu.com/videos/shows/watch-the-fight-for-a-place-to-bury-the-dead-focus-tamil-nadu/article71588881.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-16T19:04:05+05:30",
-   "date": "2026-10-16",
-   "snip": "The Perumbali burial dispute in Erode has raised serious questions about caste discrimination in Tamil Nadu. A Scheduled Caste family faced opposition while trying to bury a 90-year-old relative in the village cemetery. This episode of The Hindu Focus Tamil Nadu examines Dalit burial rights, untouchability, constitutional protections and the continuing struggle for social justice.",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/tamil-nadu/gem-granites-veeramani-pocso-case-in-tamil-nadu-a-compilation/article71507647.ece",
-   "h": "‘Gem Granites’ Veeramani POCSO cases in Tamil Nadu: a compilation",
-   "link": "https://www.thehindu.com/news/national/tamil-nadu/gem-granites-veeramani-pocso-case-in-tamil-nadu-a-compilation/article71507647.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-16T18:58:48+05:30",
-   "date": "2026-10-16",
-   "snip": "This is a collection of stories reported by The Hindu on ‘Gem Granites’ Veeramani POCSO Act cases in 2026",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/supreme-court-quashes-bombay-hc-order-directing-maharashtra-fda-to-pay-5-lakh-compensation/article71548545.ece",
-   "h": "Supreme Court quashes Bombay HC order directing Maharashtra FDA to pay ₹5 lakh compensation",
-   "link": "https://www.thehindu.com/news/national/supreme-court-quashes-bombay-hc-order-directing-maharashtra-fda-to-pay-5-lakh-compensation/article71548545.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-16T18:55:25+05:30",
-   "date": "2026-10-16",
-   "snip": "The case dates back to June 12, when FDA food safety officers in Pune inspected the establishment following a complaint of food poisonining",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/odisha/odisha-to-create-additional-storage-for-rice-to-accommodate-paddy-glut/article71546336.ece",
-   "h": "Odisha to create additional storage for rice to accommodate paddy glut",
-   "link": "https://www.thehindu.com/news/national/odisha/odisha-to-create-additional-storage-for-rice-to-accommodate-paddy-glut/article71546336.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-16T18:50:25+05:30",
-   "date": "2026-10-16",
-   "snip": "The Odisha government proposes to develop 10 lakh metric tonnes of additional storage capacity under the Odisha State Private Entrepreneur Scheme (OSPEG) framework",
-   "cat": "Society",
-   "gs": "GS1",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/andhra-pradesh/nara-bhuvaneswari-inaugurates-ntr-memorial-trust-blood-bank-in-vijayawada/article71592372.ece",
-   "h": "Nara Bhuvaneswari inaugurates NTR Memorial Trust Blood Bank in Vijayawada",
-   "link": "https://www.thehindu.com/news/national/andhra-pradesh/nara-bhuvaneswari-inaugurates-ntr-memorial-trust-blood-bank-in-vijayawada/article71592372.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-16T18:49:16+05:30",
-   "date": "2026-10-16",
-   "snip": "Facility soon to cater to the needs of children suffering from thalassemia, says the managing trustee of NMT",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
   }
  ]
 }
