@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T03:10:28.148144+05:30",
+ "updated": "2026-10-20T06:11:10.521509+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,18 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/international/japan-successfully-launches-probe-in-historic-mars-moon-mission/article71603095.ece",
+   "h": "Japan successfully launches probe in historic Mars moon mission",
+   "link": "https://www.thehindu.com/news/international/japan-successfully-launches-probe-in-historic-mars-moon-mission/article71603095.ece",
+   "src": "The Hindu - International",
+   "t": "2026-10-20T04:25:01+05:30",
+   "date": "2026-10-20",
+   "snip": "The flagship H3 rocket carrying the unmanned Martian Moons eXploration (MMX) probe blasted off into a pitch black sky from the Tanegashima Space Center at 4:41 a.m. (1941 GMT Monday), according to a live stream broadcast by the Japan Aerospace Exploration Agency",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325343",
    "h": "भारत और ऑस्ट्रेलिया के बीच संयुक्त सैन्य अभ्यास ‘ऑस्ट्राहिंद’ के पांचवें संस्करण की शुरुआत तिरुवनंतपुरम में हुई",
@@ -4802,18 +4814,6 @@
    "cat": "Science & Tech",
    "gs": "GS3",
    "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/cities/Mangalore/students-should-be-encouraged-to-develop-scientific-temperament-says-deputy-director-of-u-r-rao-satellite-centre/article71555841.ece",
-   "h": "Students should be encouraged to develop scientific temperament, says Deputy Director of U. R. Rao Satellite Centre",
-   "link": "https://www.thehindu.com/news/cities/Mangalore/students-should-be-encouraged-to-develop-scientific-temperament-says-deputy-director-of-u-r-rao-satellite-centre/article71555841.ece",
-   "src": "The Hindu - Science",
-   "t": "2026-10-17T03:25:27+05:30",
-   "date": "2026-10-17",
-   "snip": "Pilikula Development Authority organises two-day World Space Week - 2026 programme at Pilikula on October 7",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 3
   }
  ]
 }
