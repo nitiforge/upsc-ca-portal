@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-20T20:47:08.439761+05:30",
+ "updated": "2026-10-21T01:00:06.872652+05:30",
  "status": {
-  "PIB": "ok (20)",
+  "PIB": "failed: URLError",
   "The Hindu - National": "ok (60)",
   "The Hindu - Editorial": "ok (60)",
   "The Hindu - International": "ok (60)",
@@ -15,6 +15,102 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/guest-lecturers-yet-to-get-hike-in-honorarium-announced-in-the-budget/article71604876.ece",
+   "h": "Guest lecturers yet to get hike in honorarium announced in the budget",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/guest-lecturers-yet-to-get-hike-in-honorarium-announced-in-the-budget/article71604876.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-21T00:46:30+05:30",
+   "date": "2026-10-21",
+   "snip": "Higher Education Minister had announced in Assembly that the honorarium for guest lecturers would be hiked by ₹5,000 to ₹35,000",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/opinion/op-ed/on-paddy-field-conservation-in-keralam/article71605301.ece",
+   "h": "On paddy field conservation in Keralam",
+   "link": "https://www.thehindu.com/opinion/op-ed/on-paddy-field-conservation-in-keralam/article71605301.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-21T00:13:33+05:30",
+   "date": "2026-10-21",
+   "snip": "Neglecting paddy fields as a socio-ecological system that regulates local biodiversity, the hydrological cycle, and microclimate constitutes a grave failure, amid rising food insecurity and floods",
+   "cat": "Environment",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/cities/Delhi/30-foot-high-cockroach-effigy-triggers-aap-bjp-war-of-words/article71605225.ece",
+   "h": "30-foot-high cockroach effigy triggers AAP-BJP war of words",
+   "link": "https://www.thehindu.com/news/cities/Delhi/30-foot-high-cockroach-effigy-triggers-aap-bjp-war-of-words/article71605225.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-21T00:00:12+05:30",
+   "date": "2026-10-21",
+   "snip": "“Deliberate alteration of Sanatan customs and hurting of religious sentiments: The festival of Dussehra, or Vijayadashami, is a highly sacred event governed by ancient Hindu rituals, scriptures and longstanding traditions",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/keralam-seeks-fssai-clarity-on-high-fat-sugar-salt-food/article71604523.ece",
+   "h": "Keralam seeks FSSAI clarity on high fat, sugar, salt food",
+   "link": "https://www.thehindu.com/news/national/kerala/keralam-seeks-fssai-clarity-on-high-fat-sugar-salt-food/article71604523.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-20T22:49:57+05:30",
+   "date": "2026-10-20",
+   "snip": "The State will strengthen all legal measures to curb unhealthy eating habits among children and prevent excessive consumption of junk food, says Health Minister K. Muraleedharan",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/opinion/editorial/fall-of-the-centre-on-the-public-discontent-in-france/article71604809.ece",
+   "h": "Fall of the centre: on the public discontent in France",
+   "link": "https://www.thehindu.com/opinion/editorial/fall-of-the-centre-on-the-public-discontent-in-france/article71604809.ece",
+   "src": "The Hindu - Editorial",
+   "t": "2026-10-20T22:47:25+05:30",
+   "date": "2026-10-20",
+   "snip": "Economic woes have fuelled public discontent in France under Macron",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/opinion/editorial/unknown-vulnerabilities-on-the-cybersecurity-advisory-by-cert-in/article71604650.ece",
+   "h": "Unknown vulnerabilities: on the cybersecurity advisory by CERT-In",
+   "link": "https://www.thehindu.com/opinion/editorial/unknown-vulnerabilities-on-the-cybersecurity-advisory-by-cert-in/article71604650.ece",
+   "src": "The Hindu - Editorial",
+   "t": "2026-10-20T22:42:31+05:30",
+   "date": "2026-10-20",
+   "snip": "India must do better at detecting and preventing data breaches",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 4
+  },
+  {
+   "id": "https://www.thehindu.com/news/international/sudan-army-strike-in-disputed-territory-kills-53-local-authorities/article71605311.ece",
+   "h": "Sudan army strike in disputed territory kills 53: local authorities",
+   "link": "https://www.thehindu.com/news/international/sudan-army-strike-in-disputed-territory-kills-53-local-authorities/article71605311.ece",
+   "src": "The Hindu - International",
+   "t": "2026-10-20T22:04:46+05:30",
+   "date": "2026-10-20",
+   "snip": "Authorities in Abyei district said the strike hit Amiet market and accused the army of launching 22 munitions during the attack, which also wounded at least 27 people",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/on-ecinet-platform-access-for-states-can-be-switched-off-and-on-centrally-report/article71605004.ece",
+   "h": "On ECINet platform, access for States can be switched off and on centrally: report",
+   "link": "https://www.thehindu.com/news/national/on-ecinet-platform-access-for-states-can-be-switched-off-and-on-centrally-report/article71605004.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-20T21:56:02+05:30",
+   "date": "2026-10-20",
+   "snip": "The report assumes significance in view of objections raised by Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi over the centralisation of ECINet and the electoral roll database",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 4
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325457",
    "h": "एससीओ शासनाध्यक्ष परिषद की 25वीं बैठक: रक्षा मंत्री ने आतंकवाद के पूरे तंत्र को समाप्त करने के लिए सामूहिक कार्रवाई का आह्वान किया",
@@ -253,6 +349,18 @@
    "snip": "AICC President Mallikarjun Kharge said he would apprise Prime Minister Narendra Modi of his concerns over the Special Intensive Revision (SIR) of electoral rolls, the proposed delimitation exercise and the implementation of women’s reservation during their interaction on Wednesday (October 21).",
    "cat": "International Relations",
    "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/international/ecosystem-of-terrorism-must-be-firmly-and-collectively-dismantled-rajnath-singh-at-sco-meet/article71604143.ece",
+   "h": "At SCO meet, Rajnath calls for dismantling the entire ecosystem of terrorism",
+   "link": "https://www.thehindu.com/news/international/ecosystem-of-terrorism-must-be-firmly-and-collectively-dismantled-rajnath-singh-at-sco-meet/article71604143.ece",
+   "src": "The Hindu - International",
+   "t": "2026-10-20T19:05:39+05:30",
+   "date": "2026-10-20",
+   "snip": "There is no place for those who finance, support, or provide safe havens to terrorists, says Defence Minister; India supports adoption of action plan for trade and economic cooperation among SCO members",
+   "cat": "Economy",
+   "gs": "GS3",
    "score": 2
   },
   {
@@ -2020,6 +2128,18 @@
    "score": 3
   },
   {
+   "id": "https://www.thehindu.com/business/Economy/indias-trade-caught-in-the-middle/article71555534.ece",
+   "h": "India’s trade caught in the middle",
+   "link": "https://www.thehindu.com/business/Economy/indias-trade-caught-in-the-middle/article71555534.ece",
+   "src": "The Hindu - Business",
+   "t": "2026-10-18T21:47:59+05:30",
+   "date": "2026-10-18",
+   "snip": "India’s trade surplus with the U.S. is critical as it offsets a structural trade deficit with China, but a heavy U.S. tariff and the potential impact of AI on exports could put this surplus at risk and intensify pressure on the rupee; India should treat the tariff threat as a wake-up call to diversify its export markets and products",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
    "id": "https://www.thehindu.com/news/international/why-the-debate-between-keynesian-and-orthodox-economics-matters/article71583919.ece",
    "h": "Why the debate between Keynesian and orthodox economics matters",
    "link": "https://www.thehindu.com/news/international/why-the-debate-between-keynesian-and-orthodox-economics-matters/article71583919.ece",
@@ -2234,6 +2354,18 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/sci-tech/energy-and-environment/new-study-proposes-simple-test-to-spot-mammals-most-vulnerable-to-climate/article71587719.ece",
+   "h": "New study proposes simple test to spot mammals most vulnerable to climate change",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/new-study-proposes-simple-test-to-spot-mammals-most-vulnerable-to-climate/article71587719.ece",
+   "src": "The Hindu - Environment",
+   "t": "2026-10-18T16:40:25+05:30",
+   "date": "2026-10-18",
+   "snip": "A team of scientists in Argentina and Brazil scored the adaptability of nine rodent species on three parameters, suggesting the method can be used for other animals in other parts of the world.",
+   "cat": "Environment",
+   "gs": "GS3",
+   "score": 2
   },
   {
    "id": "https://www.thehindu.com/news/cities/chennai/no-fatalities-reported-as-heavy-rain-leaves-parts-of-chennai-waterlogged-says-gcc/article71599352.ece",
@@ -2976,6 +3108,18 @@
    "date": "2026-10-18",
    "snip": "The U.S. Coast Guard and Navy are searching the waters using multiple aircraft and boats, with assistance from the Mexican Navy. An additional helicopter will be deployed later today, according to the Coast Guard",
    "cat": "Environment",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/sci-tech/energy-and-environment/land-shortage-cripples-agriculture-ministry-weather-network/article71588890.ece",
+   "h": "Land shortage cripples Agriculture Ministry’s weather network rollout",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/land-shortage-cripples-agriculture-ministry-weather-network/article71588890.ece",
+   "src": "The Hindu - Environment",
+   "t": "2026-10-18T03:41:50+05:30",
+   "date": "2026-10-18",
+   "snip": "Project is a year behind deadline, with over 96% of planned rain gauges and weather stations yet to be installed; private partners say IMD is retrospectively insisting that sensors be installed on the ground, not on rooftops",
+   "cat": "Economy",
    "gs": "GS3",
    "score": 2
   },
@@ -4670,150 +4814,6 @@
    "cat": "Science & Tech",
    "gs": "GS3",
    "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/business/as-oil-prices-rise-rbi-opens-special-window-for-psu-oil-firms-tomeet-their-daily-dollar-need/article71567121.ece",
-   "h": "As oil prices increase, RBI opens special window for PSU oil firms to meet their daily dollar needs",
-   "link": "https://www.thehindu.com/business/as-oil-prices-rise-rbi-opens-special-window-for-psu-oil-firms-tomeet-their-daily-dollar-need/article71567121.ece",
-   "src": "The Hindu - Business",
-   "t": "2026-10-17T14:37:36+05:30",
-   "date": "2026-10-17",
-   "snip": "The facility will come in effect from October 12, 2026 and will remain in place until further notice, the central bank added",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/bjp-discrediting-opposition-for-raising-questions-over-election-commission-ashok-gehlot/article71569089.ece",
-   "h": "BJP discrediting opposition for raising questions over Election Commission: Ashok Gehlot",
-   "link": "https://www.thehindu.com/news/national/bjp-discrediting-opposition-for-raising-questions-over-election-commission-ashok-gehlot/article71569089.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-17T14:35:24+05:30",
-   "date": "2026-10-17",
-   "snip": "Ashok Gehlot alleged that instead of answering questions raised by the opposition over the Special Intensive Revision (SIR) of electoral rolls, Nitin Nabin was acting as a lawyer of the Election Commission.",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/future-military-power-will-depend-on-speed-precision-information-and-integration-rajnath-singh/article71568703.ece",
-   "h": "Future military power will depend on speed, precision, information, and integration: Rajnath Singh",
-   "link": "https://www.thehindu.com/news/national/future-military-power-will-depend-on-speed-precision-information-and-integration-rajnath-singh/article71568703.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-17T14:33:13+05:30",
-   "date": "2026-10-17",
-   "snip": "Modern warfare is expanding beyond the traditional domains of land, sea and air to encompass space, cyber, the electromagnetic spectrum and the information domain, Defence Minister says",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/business/Economy/indias-russian-crude-binge-to-continue-after-trump-waives-new-sanctions-law/article71595889.ece",
-   "h": "India’s Russian crude binge to continue after Trump waives new sanctions law",
-   "link": "https://www.thehindu.com/business/Economy/indias-russian-crude-binge-to-continue-after-trump-waives-new-sanctions-law/article71595889.ece",
-   "src": "The Hindu - Business",
-   "t": "2026-10-17T14:29:54+05:30",
-   "date": "2026-10-17",
-   "snip": "The law authorised tariffs of up to 100% on goods from the five largest importers of Russian crude and gas, and sanctions on Russia's shadow fleet of tankers",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/international/sri-lankas-human-rights-commission-flags-enduring-militarisation-in-tamil-majority-areas/article71595758.ece",
-   "h": "Sri Lanka’s Human Rights Commission flags enduring militarisation in Tamil-majority areas",
-   "link": "https://www.thehindu.com/news/international/sri-lankas-human-rights-commission-flags-enduring-militarisation-in-tamil-majority-areas/article71595758.ece",
-   "src": "The Hindu - International",
-   "t": "2026-10-17T14:04:11+05:30",
-   "date": "2026-10-17",
-   "snip": "Seventeen years after civil war ended, militarisation remains a persistent feature of governance and land use in the north and east, its latest report notes",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 4
-  },
-  {
-   "id": "https://www.thehindu.com/business/Economy/indias-share-of-global-greenfield-investments-more-than-double-chinas-in-2020-25/article71564075.ece",
-   "h": "India’s share of global greenfield investments more than double China’s in 2020-25",
-   "link": "https://www.thehindu.com/business/Economy/indias-share-of-global-greenfield-investments-more-than-double-chinas-in-2020-25/article71564075.ece",
-   "src": "The Hindu - Business",
-   "t": "2026-10-17T13:24:20+05:30",
-   "date": "2026-10-17",
-   "snip": "A report by the UN Conference on Trade and Development said that greenfield investments are increasingly taking place in strategic sectors. It added that India remains the fastest-growing major economy, even though domestic consumption is starting to show signs of strain due to higher prices",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/international/earthquake-of-magnitude-57-jolts-pakistans-balochistan/article71595718.ece",
-   "h": "Earthquake of magnitude 5.7 jolts Pakistan's Balochistan",
-   "link": "https://www.thehindu.com/news/international/earthquake-of-magnitude-57-jolts-pakistans-balochistan/article71595718.ece",
-   "src": "The Hindu - International",
-   "t": "2026-10-17T13:08:29+05:30",
-   "date": "2026-10-17",
-   "snip": "The quake was reported 48 km west-northwest of Khuzdar, it said. In February, a 5.6-magnitude earthquake also struck Balochistan province.",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/international/lulas-government-in-brazil-lowers-fuel-prices-ahead-of-runoff-vote-against-flavio-bolsonaro/article71567143.ece",
-   "h": "Lula’s government in Brazil lowers fuel prices ahead of runoff vote against Flavio Bolsonaro",
-   "link": "https://www.thehindu.com/news/international/lulas-government-in-brazil-lowers-fuel-prices-ahead-of-runoff-vote-against-flavio-bolsonaro/article71567143.ece",
-   "src": "The Hindu - International",
-   "t": "2026-10-17T12:44:29+05:30",
-   "date": "2026-10-17",
-   "snip": "A new decree eliminates federal taxes on the import and sale of gasoline for 30 days, with the possibility of an extension",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/international/trump-takes-suit-against-hillary-clinton-over-2016-election-to-supreme-court/article71566999.ece",
-   "h": "Trump takes suit against Hillary Clinton over 2016 election to Supreme Court",
-   "link": "https://www.thehindu.com/news/international/trump-takes-suit-against-hillary-clinton-over-2016-election-to-supreme-court/article71566999.ece",
-   "src": "The Hindu - International",
-   "t": "2026-10-17T12:23:55+05:30",
-   "date": "2026-10-17",
-   "snip": "Trump's lawyers wrote in the appeal that Supreme Court review of the case is needed in order to protect the Presidency.",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/international/panama-earthquake-toll-injuries-damage-update-october-10-2026/article71565816.ece",
-   "h": "Magnitude 7.6 earthquake shakes Panama, USGS reports",
-   "link": "https://www.thehindu.com/news/international/panama-earthquake-toll-injuries-damage-update-october-10-2026/article71565816.ece",
-   "src": "The Hindu - International",
-   "t": "2026-10-17T12:22:03+05:30",
-   "date": "2026-10-17",
-   "snip": "Visibly shaken residents of Panama City gathered outside as they waited for news of the quake’s impact on Friday (October 9, 2026)",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324620",
-   "h": "भारतीय नौसेना ने अपने पहले स्वदेशी बहुउद्देशीय पोत आईएनएस समर्थक को बेड़े में शामिल किया",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324620",
-   "src": "PIB",
-   "t": "2026-10-17T11:24:40.860084+05:30",
-   "date": "2026-10-17",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324617",
-   "h": "एमओएचयूए के शहरी विकास विभाग के सचिव ने पीएमएवाई-यू 2.0 के तहत सीएसएमसी की 10वीं बैठक की अध्यक्षता की",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324617",
-   "src": "PIB",
-   "t": "2026-10-17T11:24:40.860066+05:30",
-   "date": "2026-10-17",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
   }
  ]
 }
