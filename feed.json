@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T06:11:10.521509+05:30",
+ "updated": "2026-10-20T10:51:34.010966+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,90 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325361",
+   "h": "मिजोरम में डीआरआई ने कुल 8.64 करोड़ रुपये कीमत की 43 लाख से अधिक विदेशी मूल की तस्करी की सिगरेट जब्त की; एक शख्स गिरफ्तार",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325361",
+   "src": "PIB",
+   "t": "2026-10-20T10:51:05.870491+05:30",
+   "date": "2026-10-20",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325364",
+   "h": "डीआरआई ने गांजे की तस्करी के एक बड़े प्रयास को नाकाम किया; नेपाल से तस्करी करके लाया गया 591 किलोग्राम गांजा जब्त किया गया",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325364",
+   "src": "PIB",
+   "t": "2026-10-20T10:51:05.870462+05:30",
+   "date": "2026-10-20",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325362",
+   "h": "प्रधानमंत्री ने एशियाई पैरा गेम्स 2026 में महिलाओं के J2 -52 किलोग्राम जूडो इवेंट में रजत पदक जीतने पर कोकिला को बधाई दी",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325362",
+   "src": "PIB",
+   "t": "2026-10-20T10:51:05.870400+05:30",
+   "date": "2026-10-20",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325365",
+   "h": "प्रधानमंत्री ने एशियाई पैरा गेम्स 2026 में पुरुषों की लंबी कूद T47 स्पर्धा में स्वर्ण पदक जीतने पर निषाद कुमार को बधाई दी",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325365",
+   "src": "PIB",
+   "t": "2026-10-20T10:51:05.870353+05:30",
+   "date": "2026-10-20",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325363",
+   "h": "प्रधानमंत्री ने एशियन पैरा गेम्स 2026 में पुरुषों की 100 मीटर फ्रीस्टाइल S13 स्पर्धा में रजत पदक जीतने पर रवि के. बुडिगिना को बधाई दी",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325363",
+   "src": "PIB",
+   "t": "2026-10-20T10:51:05.870320+05:30",
+   "date": "2026-10-20",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/international/us-to-launch-8-billion-support-program-for-farmers-to-offset-diesel-costs-trump-says/article71603170.ece",
+   "h": "U.S. to launch $8 billion support program for farmers to offset diesel costs, Trump says",
+   "link": "https://www.thehindu.com/news/international/us-to-launch-8-billion-support-program-for-farmers-to-offset-diesel-costs-trump-says/article71603170.ece",
+   "src": "The Hindu - International",
+   "t": "2026-10-20T08:33:13+05:30",
+   "date": "2026-10-20",
+   "snip": "The $8 ​billion in payments would be administered by the department’s Farm Service Agency, the department said.",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/international/migrants-have-taken-over-france-they-must-close-the-borders-trump-on-france-riots/article71603124.ece",
+   "h": "Migrants have taken over France, they must close the borders: Trump on France riots",
+   "link": "https://www.thehindu.com/news/international/migrants-have-taken-over-france-they-must-close-the-borders-trump-on-france-riots/article71603124.ece",
+   "src": "The Hindu - International",
+   "t": "2026-10-20T07:35:25+05:30",
+   "date": "2026-10-20",
+   "snip": "At a rally in Kansas, the U.S. President launched into a lengthy tirade about France, which he said was being “conquered, looted, and burned to the ground by migrants, jihadists, and communists”",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
   {
    "id": "https://www.thehindu.com/news/international/japan-successfully-launches-probe-in-historic-mars-moon-mission/article71603095.ece",
    "h": "Japan successfully launches probe in historic Mars moon mission",
@@ -4730,90 +4814,6 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 4
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/karnataka/yaduveer-backs-grand-dasara-says-festival-vital-to-mysurus-tourism-economy/article71555415.ece",
-   "h": "Yaduveer backs ‘grand’ Dasara, says festival vital to Mysuru’s tourism economy",
-   "link": "https://www.thehindu.com/news/national/karnataka/yaduveer-backs-grand-dasara-says-festival-vital-to-mysurus-tourism-economy/article71555415.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-17T03:40:38+05:30",
-   "date": "2026-10-17",
-   "snip": "",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/andhra-pradesh/visakha-government-degree-college-for-women-holds-workshop-on-quantum-communication/article71556886.ece",
-   "h": "Visakha Government Degree College for Women holds workshop on quantum communication",
-   "link": "https://www.thehindu.com/news/national/andhra-pradesh/visakha-government-degree-college-for-women-holds-workshop-on-quantum-communication/article71556886.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-17T03:36:31+05:30",
-   "date": "2026-10-17",
-   "snip": "",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/karnataka/bengaluru-skill-summit-will-focus-on-workforce-transformation-says-minister/article71555616.ece",
-   "h": "Bengaluru Skill Summit will focus on workforce transformation, says Minister",
-   "link": "https://www.thehindu.com/news/national/karnataka/bengaluru-skill-summit-will-focus-on-workforce-transformation-says-minister/article71555616.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-17T03:35:25+05:30",
-   "date": "2026-10-17",
-   "snip": "",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/opinion/op-ed/property-taxation-needs-structural-reform/article71557030.ece",
-   "h": "Property taxation needs structural reform",
-   "link": "https://www.thehindu.com/opinion/op-ed/property-taxation-needs-structural-reform/article71557030.ece",
-   "src": "The Hindu - Business",
-   "t": "2026-10-17T03:33:28+05:30",
-   "date": "2026-10-17",
-   "snip": "The property tax performance of India’s municipal bodies has been poor — India’s cumulative property tax was 0.15-0.2% of its GDP",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/cjp-jantar-mantar-protests-permission-delhi-police/article71556047.ece",
-   "h": "Must seek Jantar Mantar protest permission 10 days before event: Delhi Police",
-   "link": "https://www.thehindu.com/news/national/cjp-jantar-mantar-protests-permission-delhi-police/article71556047.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-17T03:29:36+05:30",
-   "date": "2026-10-17",
-   "snip": "The clarification from Delhi police comes as security has been heightened in central Delhi, with the INDIA bloc holding a protest demanding the removal of CEC Gyanesh Kumar, and the CJP planning a protest at Jantar Mantar on October 10",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/west-bengal/left-parties-allege-attack-on-bookstalls-calcutta-high-court-stays-previous-order-allowing-stalls/article71592761.ece",
-   "h": "Left parties allege attack on bookstalls; Calcutta High Court stays previous order allowing stalls",
-   "link": "https://www.thehindu.com/news/national/west-bengal/left-parties-allege-attack-on-bookstalls-calcutta-high-court-stays-previous-order-allowing-stalls/article71592761.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-17T03:29:06+05:30",
-   "date": "2026-10-17",
-   "snip": "Party leaders have said that this is an attack on “free thinking” and have vowed to set up more stalls as a form of protest",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/business/Industry/gradiant-bets-big-on-india-secures-five-contracts-including-semiconductor-fab/article71555160.ece",
-   "h": "Gradiant bets big on India, secures five contracts, including semiconductor fab",
-   "link": "https://www.thehindu.com/business/Industry/gradiant-bets-big-on-india-secures-five-contracts-including-semiconductor-fab/article71555160.ece",
-   "src": "The Hindu - Science",
-   "t": "2026-10-17T03:25:38+05:30",
-   "date": "2026-10-17",
-   "snip": "Company appoints Hari Prasad as India MD as water-treatment firm wins five contracts across semiconductor, PCB and solar manufacturing",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 2
   }
  ]
 }
