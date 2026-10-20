@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-21T01:00:06.872652+05:30",
+ "updated": "2026-10-21T04:05:15.236295+05:30",
  "status": {
-  "PIB": "failed: URLError",
+  "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
   "The Hindu - Editorial": "ok (60)",
   "The Hindu - International": "ok (60)",
@@ -15,6 +15,54 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325598",
+   "h": "प्रधानमंत्री ने एशियाई पैरा खेलों में कांस्य पदक जीतने पर बेबी सहाना रवि को बधाई दी",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325598",
+   "src": "PIB",
+   "t": "2026-10-21T04:04:47.124585+05:30",
+   "date": "2026-10-21",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325597",
+   "h": "प्रधानमंत्री ने एशियाई पैरा खेलों में कांस्य पदक जीतने पर सृष्टि अरोड़ा को बधाई दी",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325597",
+   "src": "PIB",
+   "t": "2026-10-21T04:04:47.124571+05:30",
+   "date": "2026-10-21",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325613",
+   "h": "प्रधानमंत्री ने हिमांशु नांदल को एशियाई पैरा खेलों में कांस्य पदक जीतने पर बधाई दी",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325613",
+   "src": "PIB",
+   "t": "2026-10-21T04:04:47.124536+05:30",
+   "date": "2026-10-21",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325604",
+   "h": "गुवाहाटी में कल से शुरू होगा 8 दिवसीय 'शिल्प समागम मेला 2026'",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325604",
+   "src": "PIB",
+   "t": "2026-10-21T04:04:47.123701+05:30",
+   "date": "2026-10-21",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
   {
    "id": "https://www.thehindu.com/news/national/tamil-nadu/guest-lecturers-yet-to-get-hike-in-honorarium-announced-in-the-budget/article71604876.ece",
    "h": "Guest lecturers yet to get hike in honorarium announced in the budget",
@@ -4765,54 +4813,6 @@
    "snip": "The celebrations, in memory of the renowned physician’s extraordinary impact on medicine both in Chennai and beyond, will focus on restoring the art of listening to the patient, examining at the bedside, thinking before ordering a test, and finally, and dwelling on the fundamental question of what it means to be a good physician in an age of extraordinary technology",
    "cat": "International Relations",
    "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/international/anthropic-proposes-law-regulating-ai-to-us-lawmakers/article71595557.ece",
-   "h": "Anthropic proposes law regulating AI to US lawmakers",
-   "link": "https://www.thehindu.com/news/international/anthropic-proposes-law-regulating-ai-to-us-lawmakers/article71595557.ece",
-   "src": "The Hindu - International",
-   "t": "2026-10-17T14:49:17+05:30",
-   "date": "2026-10-17",
-   "snip": "The company’s draft bill would let Washington block a model’s release if there is an imminent risk of killing more than 50 people or causing more than $1 billion in damages, but only with a judge’s approval",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/business/sebi-to-issue-guidelines-on-cas-in-a-week-chairman-pandey/article71569322.ece",
-   "h": "SEBI to issue guidelines on CAS in a week: Chairman Pandey",
-   "link": "https://www.thehindu.com/business/sebi-to-issue-guidelines-on-cas-in-a-week-chairman-pandey/article71569322.ece",
-   "src": "The Hindu - Business",
-   "t": "2026-10-17T14:46:10+05:30",
-   "date": "2026-10-17",
-   "snip": "SEBI had sought public comments till October 3 on proposals to review certain aspects of the CAS mechanism, market timings and the settlement methodology for derivative contracts",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/cities/Delhi/delhi-protest-daily-wage-workers-prevented-from-reaching-workplace/article71567421.ece",
-   "h": "Delhi protest: Stopped at police barricades, daily-wage workers lose day’s earnings",
-   "link": "https://www.thehindu.com/news/cities/Delhi/delhi-protest-daily-wage-workers-prevented-from-reaching-workplace/article71567421.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-17T14:41:43+05:30",
-   "date": "2026-10-17",
-   "snip": "As Delhi turned into a fortress ahead of the protest demanding Chief Election Commissioner Gyanesh Kumar’s resignation, mostly only people with government ID cards were allowed to proceed towards Central Delhi",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/international/top-pakistan-commander-criticises-rajnath-singhs-remarks-on-future-terror-attacks/article71595904.ece",
-   "h": "Top Pakistan commander criticises Rajnath Singh’s remarks on future terror attacks",
-   "link": "https://www.thehindu.com/news/international/top-pakistan-commander-criticises-rajnath-singhs-remarks-on-future-terror-attacks/article71595904.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-17T14:41:09+05:30",
-   "date": "2026-10-17",
-   "snip": "To those who harbour hostile designs across our borders, our stance remains resolute and unambiguous. There is no space for conflict or war in a nuclearised environment, says General Aamer Raza",
-   "cat": "Science & Tech",
-   "gs": "GS3",
    "score": 2
   }
  ]
