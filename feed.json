@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T04:05:15.236295+05:30",
+ "updated": "2026-10-21T06:29:36.977101+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -73,6 +73,18 @@
    "snip": "Higher Education Minister had announced in Assembly that the honorarium for guest lecturers would be hiked by ₹5,000 to ₹35,000",
    "cat": "Economy",
    "gs": "GS3",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/cities/chennai/health-minister-directs-officials-to-ensure-hospital-preparedness-uninterrupted-health-services-during-monsoon/article71605153.ece",
+   "h": "Health Minister directs officials to ensure hospital preparedness, uninterrupted health services during monsoon",
+   "link": "https://www.thehindu.com/news/cities/chennai/health-minister-directs-officials-to-ensure-hospital-preparedness-uninterrupted-health-services-during-monsoon/article71605153.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-21T00:24:47+05:30",
+   "date": "2026-10-21",
+   "snip": "The Minister says that all districts are instructed to take up precautionary measures to achieve three objectives of preventing the spread of diseases during the monsoon, preventing deaths and ensuring uninterrupted medical services",
+   "cat": "International Relations",
+   "gs": "GS2",
    "score": 3
   },
   {
@@ -4801,18 +4813,6 @@
    "snip": "Residents of villages along the Kulsi River gather under the banner of Assam-Meghalaya Joint Protection Committee, saying the dam would affect 46 villages",
    "cat": "Geography",
    "gs": "GS1",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/health/slew-of-events-planned-in-memory-of-kv-thiruvengadam-in-centenary-year/article71555118.ece",
-   "h": "Slew of events planned in memory of K.V. Thiruvengadam in centenary year",
-   "link": "https://www.thehindu.com/sci-tech/health/slew-of-events-planned-in-memory-of-kv-thiruvengadam-in-centenary-year/article71555118.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-17T14:52:35+05:30",
-   "date": "2026-10-17",
-   "snip": "The celebrations, in memory of the renowned physician’s extraordinary impact on medicine both in Chennai and beyond, will focus on restoring the art of listening to the patient, examining at the bedside, thinking before ordering a test, and finally, and dwelling on the fundamental question of what it means to be a good physician in an age of extraordinary technology",
-   "cat": "International Relations",
-   "gs": "GS2",
    "score": 2
   }
  ]
