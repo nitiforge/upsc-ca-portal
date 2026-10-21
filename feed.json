@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T01:33:51.939973+05:30",
+ "updated": "2026-10-22T04:49:31.480299+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,30 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/international/north-koreas-kim-yo-jong-warns-south-korea-says-border-loudspeakers-to-be-ready-within-days/article71609150.ece",
+   "h": "North Korea's Kim Yo Jong warns South Korea, says border loudspeakers to be ready within days",
+   "link": "https://www.thehindu.com/news/international/north-koreas-kim-yo-jong-warns-south-korea-says-border-loudspeakers-to-be-ready-within-days/article71609150.ece",
+   "src": "The Hindu - International",
+   "t": "2026-10-22T03:30:58+05:30",
+   "date": "2026-10-22",
+   "snip": "In a statement carried by state media KCNA, Ms. Kim ​said she was responding to ‌a special adviser to President Lee on defence policy, who accused North Korea of planting mines that wounded South Korean soldiers and told it not ‌to escalate tensions with loudspeaker broadcasts",
+   "cat": "Security",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/cities/kolkata/west-bengal-government-sets-up-sit-headed-by-retired-justice-to-probe-durga-puja-pandalstampede/article71607999.ece",
+   "h": "West Bengal government sets up SIT headed by retired justice to probe Durga Puja pandal stampede",
+   "link": "https://www.thehindu.com/news/cities/kolkata/west-bengal-government-sets-up-sit-headed-by-retired-justice-to-probe-durga-puja-pandalstampede/article71607999.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-22T02:22:43+05:30",
+   "date": "2026-10-22",
+   "snip": "After the incident, Chief Minister Suvendu Adhikari said that the SIT will be headed by a sitting judge of Calcutta High Court",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326264",
    "h": "भोपाल में कृत्रिम मादक पदार्थों की तस्करी के खिलाफ बड़ी कार्रवाई में डीआरआई ने 9 किलोग्राम से अधिक मेथंफेटामाइन जब्त किया; एक शख्स गिरफ्तार",
@@ -4790,30 +4814,6 @@
    "cat": "International Relations",
    "gs": "GS2",
    "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/pm-modi-meets-canadian-minister-anita-anand-discussions/article71584510.ece",
-   "h": "‘Enormous potential’ for India-Canada ties amidst global uncertainty: Canadian Foreign Minister",
-   "link": "https://www.thehindu.com/news/national/pm-modi-meets-canadian-minister-anita-anand-discussions/article71584510.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-18T01:13:07+05:30",
-   "date": "2026-10-18",
-   "snip": "Minister Anita Anand is in India along with Minister of International Trade Maninder Sidhu for engagements with External Affairs Minister S. Jaishankar and Commerce Minister Piyush Goyal; the Canadian Minister indicated that PM Modi would visit Canada later in December",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/directorate-of-revenue-intelligence-seizes-30-crore-worth-of-salt-smuggled-from-pakistan/article71585065.ece",
-   "h": "Directorate of Revenue Intelligence seizes ₹30 crore worth of salt smuggled from Pakistan",
-   "link": "https://www.thehindu.com/news/national/directorate-of-revenue-intelligence-seizes-30-crore-worth-of-salt-smuggled-from-pakistan/article71585065.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-18T01:12:24+05:30",
-   "date": "2026-10-18",
-   "snip": "Following the Pahalgam terror attack in April 2025, the Indian government had banned the direct or indirect import or transit of all goods originating in or exported from Pakistan, in the interest of national security and public policy",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 3
   }
  ]
 }
