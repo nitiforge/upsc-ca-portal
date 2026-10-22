@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T04:49:31.480299+05:30",
+ "updated": "2026-10-22T07:12:03.379833+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,66 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326353",
+   "h": "सीएक्यूएम ने वायु गुणवत्ता सूचकांक में तेज़ बढ़ोतरी के बीच दिल्ली-राष्ट्रीय राजधानी क्षेत्र में ग्रैप का चरण I तुरंत प्रभाव से लागू किया",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326353",
+   "src": "PIB",
+   "t": "2026-10-22T07:11:36.086740+05:30",
+   "date": "2026-10-22",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326351",
+   "h": "केंद्रीय युवा कार्यक्रम और खेल राज्य मंत्री रक्षा खडसे ने छत्तीसगढ़ हॉकी लीग के उद्घाटन समारोह में विशिष्ट अतिथि के रूप में भाग लिया, इसे जमीनी स्तर पर हॉकी को मजबूत करने की दिशा में एक बड़ा कदम बताया",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326351",
+   "src": "PIB",
+   "t": "2026-10-22T07:11:36.086520+05:30",
+   "date": "2026-10-22",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326352",
+   "h": "प्रधानमंत्री ने एशियन पैरा गेम्स में कांस्य पदक जीतने पर प्रणव देसाई को बधाई दी",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326352",
+   "src": "PIB",
+   "t": "2026-10-22T07:11:36.086497+05:30",
+   "date": "2026-10-22",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326350",
+   "h": "प्रधानमंत्री ने एशियन पैरा गेम्स में कांस्य पदक जीतने पर हिमांशु नंदल को बधाई दी",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326350",
+   "src": "PIB",
+   "t": "2026-10-22T07:11:36.086448+05:30",
+   "date": "2026-10-22",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326349",
+   "h": "प्रधानमंत्री ने एशियन पैरा गैम्स में रजत पदक जीतने पर रवि कार्तिक बुदिगीना को बधाई दी",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326349",
+   "src": "PIB",
+   "t": "2026-10-22T07:11:36.085384+05:30",
+   "date": "2026-10-22",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
   {
    "id": "https://www.thehindu.com/news/international/north-koreas-kim-yo-jong-warns-south-korea-says-border-loudspeakers-to-be-ready-within-days/article71609150.ece",
    "h": "North Korea's Kim Yo Jong warns South Korea, says border loudspeakers to be ready within days",
@@ -4753,66 +4813,6 @@
    "snip": "The firing was reported in the Taida sector, Upper Kurram and Ghuz Garhi areas, where the Afghan Taliban allegedly opened fire to facilitate the cross-border infiltration of militants, says security official",
    "cat": "Economy",
    "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/madhya-pradesh/weeks-after-judicial-panel-held-him-responsible-for-indore-water-tragedy-ias-officer-made-collector/article71584133.ece",
-   "h": "Weeks after judicial panel held him responsible for Indore water tragedy, IAS officer made Collector",
-   "link": "https://www.thehindu.com/news/national/madhya-pradesh/weeks-after-judicial-panel-held-him-responsible-for-indore-water-tragedy-ias-officer-made-collector/article71584133.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-18T01:25:21+05:30",
-   "date": "2026-10-18",
-   "snip": "Slamming the fresh appointment, Mr. Patwari questioned whether the action taken by the government was based on the panel’s report and whether facts were considered before appointing Mr. Sisonia as a District Collector",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/science/iiser-researchers-make-solid-material-that-releases-two-fuel-gases/article71574650.ece",
-   "h": "IISER researchers make solid material that releases two fuel gases",
-   "link": "https://www.thehindu.com/sci-tech/science/iiser-researchers-make-solid-material-that-releases-two-fuel-gases/article71574650.ece",
-   "src": "The Hindu - Science",
-   "t": "2026-10-18T01:23:54+05:30",
-   "date": "2026-10-18",
-   "snip": "The team developed a compound called magnesium hydridomethylzincate. When it was heated in solution to 100° C, it released hydrogen, and when its crystals were heated in the absence of a solvent at 80-110° C, it released both hydrogen and methane",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/business/markets/rupee-rises-31-paise-to-9486-against-us-dollar-in-early-trade/article71586838.ece",
-   "h": "Rupee rises 31 paise to 94.86 against U.S. dollar in early trade",
-   "link": "https://www.thehindu.com/business/markets/rupee-rises-31-paise-to-9486-against-us-dollar-in-early-trade/article71586838.ece",
-   "src": "The Hindu - Business",
-   "t": "2026-10-18T01:23:16+05:30",
-   "date": "2026-10-18",
-   "snip": "Meanwhile, India's WPI inflation accelerated to 11.39% from 9.92%, with food inflation reaching 8.66%. Combined with CPI inflation of 5.54%, dual inflation pressure makes it very difficult for the RBI to turn dovish",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/delhi-police-accused-of-beating-assaulting-detainees-denying-them-basic-rights/article71576271.ece",
-   "h": "Delhi police accused of beating, assaulting detainees, denying them basic rights",
-   "link": "https://www.thehindu.com/news/national/delhi-police-accused-of-beating-assaulting-detainees-denying-them-basic-rights/article71576271.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-18T01:19:54+05:30",
-   "date": "2026-10-18",
-   "snip": "Detainees report being transported in ‘prison vans’, verbally and physically abused, denied water; one group taken to isolated police camp, seated in rows, and systematically beaten by police after their phones were confiscated",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/161-confirmed-measles-cases-one-death-reported-in-kozhikode/article71584496.ece",
-   "h": "161 confirmed measles cases, one death reported in Kozhikode",
-   "link": "https://www.thehindu.com/news/national/kerala/161-confirmed-measles-cases-one-death-reported-in-kozhikode/article71584496.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-18T01:15:04+05:30",
-   "date": "2026-10-18",
-   "snip": "Officials say preventive measures will be strengthened and vaccination coverage expanded with the help of other government departments in the coming days",
-   "cat": "International Relations",
-   "gs": "GS2",
    "score": 2
   }
  ]
