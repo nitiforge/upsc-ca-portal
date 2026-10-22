@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T02:20:14.234207+05:30",
+ "updated": "2026-10-23T05:23:44.896138+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,30 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/international/russia-ready-for-talks-on-plans-for-final-ukraine-deal-not-truce-putin/article71613329.ece",
+   "h": "Russia ready for talks on plans for final Ukraine deal, not truce: Putin",
+   "link": "https://www.thehindu.com/news/international/russia-ready-for-talks-on-plans-for-final-ukraine-deal-not-truce-putin/article71613329.ece",
+   "src": "The Hindu - International",
+   "t": "2026-10-23T03:14:51+05:30",
+   "date": "2026-10-23",
+   "snip": "\"The goal of these discussions will be to address the issue of ensuring security for both Ukraine and Russia... within the framework of a final agreement, not after some kind of short pause in fighting,\" President Putin told a reporter from state TV",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/uttar-pradesh/legal-action-ordered-against-officials-over-irregularities-in-voter-list-in-pilibhit/article71613043.ece",
+   "h": "Legal action ordered against officials over irregularities in voter list in Pilibhit",
+   "link": "https://www.thehindu.com/news/national/uttar-pradesh/legal-action-ordered-against-officials-over-irregularities-in-voter-list-in-pilibhit/article71613043.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-23T02:17:44+05:30",
+   "date": "2026-10-23",
+   "snip": "Legal action will be taken against both the current and former election officials responsible for the discrepancies found in the voter list for constituency 127 – Pilibhit, reads an official statement by the State election commission",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
   {
    "id": "https://www.thehindu.com/news/national/tamil-nadu/use-of-chief-minister-c-joseph-vijays-deep-fake-videos-to-collect-money-rajasthan-youth-moves-madras-high-court-seeking-bail/article71611607.ece",
    "h": "Use of Chief Minister C. Joseph Vijay’s deep fake videos to collect money: Rajasthan youth moves Madras High Court seeking bail",
@@ -4790,30 +4814,6 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/business/Economy/what-drives-corporate-investment/article71360385.ece",
-   "h": "What drives corporate investment?",
-   "link": "https://www.thehindu.com/business/Economy/what-drives-corporate-investment/article71360385.ece",
-   "src": "The Hindu - Business",
-   "t": "2026-10-18T21:48:38+05:30",
-   "date": "2026-10-18",
-   "snip": "Corporate investment as a share of GDP in India has declined sharply since demonetisation, with the fall persisting despite tax cuts and a low-interest-rate regime; smaller firms face higher interest costs, while larger firms are more constrained by demand; reviving investment requires government expenditure to push profitability up",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/business/Economy/does-inflation-targeting-work-in-india/article71435164.ece",
-   "h": "Does ‘inflation targeting’ work in India?",
-   "link": "https://www.thehindu.com/business/Economy/does-inflation-targeting-work-in-india/article71435164.ece",
-   "src": "The Hindu - Business",
-   "t": "2026-10-18T21:48:26+05:30",
-   "date": "2026-10-18",
-   "snip": "India’s Phillips curve is found to be flat, while households’ inflation expectations remain consistently higher than the RBI’s projections; this suggests that inflation targeting can lower output and employment without a commensurate reduction in inflation",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
   }
  ]
 }
