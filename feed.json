@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T05:23:44.896138+05:30",
+ "updated": "2026-10-23T09:03:05.239102+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,90 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327072",
+   "h": "प्रधानमंत्री ने एशियन पैरा गेम्स में स्वर्ण पदक जीतने पर दिलीप को बधाई दी",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327072",
+   "src": "PIB",
+   "t": "2026-10-23T09:02:37.704457+05:30",
+   "date": "2026-10-23",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327073",
+   "h": "प्रधानमंत्री ने एशियन पैरा गेम्स में कांस्य पदक जीतने पर तेजस नंदकुमार को बधाई दी",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327073",
+   "src": "PIB",
+   "t": "2026-10-23T09:02:37.704432+05:30",
+   "date": "2026-10-23",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327071",
+   "h": "प्रधानमंत्री श्री नरेन्द्र मोदी ने नई दिल्ली में एनडीटीवी वर्ल्ड समिट 2026 को संबोधित किया",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327071",
+   "src": "PIB",
+   "t": "2026-10-23T09:02:37.704398+05:30",
+   "date": "2026-10-23",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327067",
+   "h": "उत्तराखंड के राज्यपाल ने प्रधानमंत्री से मुलाकात की",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327067",
+   "src": "PIB",
+   "t": "2026-10-23T09:02:37.703111+05:30",
+   "date": "2026-10-23",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/telangana/a-greying-population-a-strained-care-system/article71613250.ece",
+   "h": "A greying population, a strained care system",
+   "link": "https://www.thehindu.com/news/national/telangana/a-greying-population-a-strained-care-system/article71613250.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-23T07:04:34+05:30",
+   "date": "2026-10-23",
+   "snip": "Gaps in geriatric healthcare and support systems leave many older people struggling to access medical care, find reliable caregivers, and cope with mental health concerns and social isolation. These challenges threaten their independence and quality of life, particularly among those from economically weaker backgrounds. With Telangana’s population aged 60 and above projected to grow over the next decade, the shortcomings in healthcare, mental health support and community services need urgent attention, finds K. Shiva Shanker",
+   "cat": "Environment",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/karnataka//article71606292.ece",
+   "h": "Karnataka SIR: Teaching on the back burner",
+   "link": "https://www.thehindu.com/news/national/karnataka//article71606292.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-23T07:00:36+05:30",
+   "date": "2026-10-23",
+   "snip": "Children in government and aided schools across Karnataka have not seen several of their teachers for months, for most of them have been assigned as Booth Level Officers for the Special Intensive Revision of electoral rolls. Students tell Rishita Khanna that what initially seemed like fun with many free hours, is now making them anxious...",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/business/sebi-cautions-investors-against-fraudulent-stock-tip-whatsapp-groups/article71613503.ece",
+   "h": "SEBI cautions investors against fraudulent stock-tip WhatsApp groups",
+   "link": "https://www.thehindu.com/business/sebi-cautions-investors-against-fraudulent-stock-tip-whatsapp-groups/article71613503.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-23T04:44:38+05:30",
+   "date": "2026-10-23",
+   "snip": "“To make these calls look credible, certain members, acting in concert with the operators, post false claims of profit and praise the 'expert'. This practice, known as astroturfing, creates a false impression of genuine support and induces unsuspecting investors to act on the call,” says SEBI",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
   {
    "id": "https://www.thehindu.com/news/international/russia-ready-for-talks-on-plans-for-final-ukraine-deal-not-truce-putin/article71613329.ece",
    "h": "Russia ready for talks on plans for final Ukraine deal, not truce: Putin",
@@ -47,6 +131,18 @@
    "t": "2026-10-23T01:55:44+05:30",
    "date": "2026-10-23",
    "snip": "Justice N. Ramesh will hear on Friday the bail plea made by J. Shyabu Khan of Boontoli village in Alwar district",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/udf-govt-shielding-pinarayi-vijayan-in-cmrl-exalogic-payoff-hawala-cases-pk-krishnadas/article71612233.ece",
+   "h": "UDF govt. shielding Pinarayi Vijayan in CMRL-Exalogic payoff, hawala cases: P.K. Krishnadas",
+   "link": "https://www.thehindu.com/news/national/kerala/udf-govt-shielding-pinarayi-vijayan-in-cmrl-exalogic-payoff-hawala-cases-pk-krishnadas/article71612233.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-23T01:40:12+05:30",
+   "date": "2026-10-23",
+   "snip": "The recent Supreme Court verdict has exposed the alleged understanding between the Congress and the CPI(M) in corruption cases, alleges BJP leader",
    "cat": "Polity",
    "gs": "GS2",
    "score": 2
@@ -146,6 +242,18 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/international/estonia-on-the-edge-as-russia-nato-tensions-rise/article71612139.ece",
+   "h": "Estonia on the edge as Russia-NATO tensions rise",
+   "link": "https://www.thehindu.com/news/international/estonia-on-the-edge-as-russia-nato-tensions-rise/article71612139.ece",
+   "src": "The Hindu - International",
+   "t": "2026-10-22T23:19:58+05:30",
+   "date": "2026-10-22",
+   "snip": "The NATO member is overhauling its military strategy, moving troops closer to the border and investing in long-range arms as Russia is carrying out grey-zone tactics in NATO’s eastern flank; the country’s defence spending is set to rise by 42% in 2026, reaching €2.4 billion, or around 5.4% of its GDP; the U.K. has maintained some 1,200 troops in Estonia as part of NATO’s forward defence",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 4
   },
   {
    "id": "https://www.thehindu.com/sci-tech/energy-and-environment/un-climate-damages-fund-earmarks-20-million-to-nepal-for-august-disaster/article71612344.ece",
@@ -4706,114 +4814,6 @@
    "cat": "Science & Tech",
    "gs": "GS3",
    "score": 2
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324957",
-   "h": "विशेष अभियान 6.0: डाक विभाग ने शिकायत निवारण, स्वच्छता, ई-अपशिष्ट निपटान और अंतरिक्ष प्रबंधन में महत्वपूर्ण प्रगति हासिल की",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324957",
-   "src": "PIB",
-   "t": "2026-10-18T23:21:19.496167+05:30",
-   "date": "2026-10-18",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324966",
-   "h": "केन्द्रीय गृह मंत्री श्री अमित शाह, मंगलवार (20 अक्टूबर, 2026) को पंजाब में चिट्टा कारोबारियों के खिलाफ आवाज उठाने के कारण अपनी जान खोने वाले लोगों के परिवारों से मानसा, संगरूर व गुरदासपुर में मिलेंगे",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324966",
-   "src": "PIB",
-   "t": "2026-10-18T23:21:19.496106+05:30",
-   "date": "2026-10-18",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324976",
-   "h": "भारत की राष्ट्रपति की दुर्गा पूजा पर शुभकामनाएं",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324976",
-   "src": "PIB",
-   "t": "2026-10-18T23:21:19.494594+05:30",
-   "date": "2026-10-18",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/opinion/editorial/treacherous-waters-on-the-bihar-boat-tragedy/article71599919.ece",
-   "h": "Treacherous waters: on the Bihar boat tragedy",
-   "link": "https://www.thehindu.com/opinion/editorial/treacherous-waters-on-the-bihar-boat-tragedy/article71599919.ece",
-   "src": "The Hindu - Editorial",
-   "t": "2026-10-18T23:16:18+05:30",
-   "date": "2026-10-18",
-   "snip": "Access to safe transport is of utmost importance in remote villages",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 4
-  },
-  {
-   "id": "https://www.thehindu.com/news/cities/Vijayawada/mba-student-smuggled-mdma-on-train-to-vijayawada-or-50000-commision-say-police/article71599574.ece",
-   "h": "MBA student smuggled MDMA on train to Vijayawada or ₹50,000 commission, say police",
-   "link": "https://www.thehindu.com/news/cities/Vijayawada/mba-student-smuggled-mdma-on-train-to-vijayawada-or-50000-commision-say-police/article71599574.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-18T22:54:41+05:30",
-   "date": "2026-10-18",
-   "snip": "The accused, who was caught with MDMA worth 11 lakh at Vijayawada railway station on October 14, procured the contraband from a Nigerian national in Bengaluru, say police",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/fssai-asks-food-operators-to-maintain-cold-chain-for-perishables/article71600265.ece",
-   "h": "FSSAI asks food operators to maintain cold chain for perishables",
-   "link": "https://www.thehindu.com/news/national/fssai-asks-food-operators-to-maintain-cold-chain-for-perishables/article71600265.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-18T22:43:30+05:30",
-   "date": "2026-10-18",
-   "snip": "Food businesses told to maintain prescribed temperatures across supply chain; states asked to act against violations",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/karnataka/upset-with-non-inclusion-of-woman-in-karnataka-cabinet-sowmya-reddy-quits-as-state-mahila-congress-chief/article71596504.ece",
-   "h": "Upset with non-inclusion of woman in Karnataka Cabinet, Sowmya Reddy quits as State Mahila Congress chief",
-   "link": "https://www.thehindu.com/news/national/karnataka/upset-with-non-inclusion-of-woman-in-karnataka-cabinet-sowmya-reddy-quits-as-state-mahila-congress-chief/article71596504.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-18T22:38:53+05:30",
-   "date": "2026-10-18",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/youth-organisations-attempt-march-to-jantar-mantar-seeking-cecs-resignation-several-detained/article71600610.ece",
-   "h": "Youth organisations attempt march to Jantar Mantar seeking CEC’s resignation; several detained",
-   "link": "https://www.thehindu.com/news/national/youth-organisations-attempt-march-to-jantar-mantar-seeking-cecs-resignation-several-detained/article71600610.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-18T22:03:58+05:30",
-   "date": "2026-10-18",
-   "snip": "We will continue our democratic struggle against the politicisation of the Election Commission, says NSUI national president Vinod Jakhar",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/argentina-team-visit-row-keralam-govt-seeks-governors-approval-to-file-case-against-v-abdurahiman/article71596274.ece",
-   "h": "Argentina team visit row: Keralam govt. seeks Governor’s approval to file case against V. Abdurahiman",
-   "link": "https://www.thehindu.com/news/national/kerala/argentina-team-visit-row-keralam-govt-seeks-governors-approval-to-file-case-against-v-abdurahiman/article71596274.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-18T21:52:59+05:30",
-   "date": "2026-10-18",
-   "snip": "The special investigation team tasked with probing the allegations over the proposed visit had reportedly detected serious procedural violations and recommended action against the former Sports Minister under the Prevention of Corruption Act",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
   }
  ]
 }
