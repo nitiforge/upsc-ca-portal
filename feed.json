@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T00:46:00.612740+05:30",
+ "updated": "2026-10-25T03:15:08.350191+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,30 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/life-convicts-can-avail-40-days-of-annual-leave-in-two-instalments-rules-madras-high-court/article71619647.ece",
+   "h": "Life convicts can avail 40 days of annual leave in two instalments, rules Madras High Court",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/life-convicts-can-avail-40-days-of-annual-leave-in-two-instalments-rules-madras-high-court/article71619647.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-25T02:36:25+05:30",
+   "date": "2026-10-25",
+   "snip": "Justices Anita Sumanth and Sunder Mohan hold that prison authorities cannot compel the convicts to avail the leave only once a year",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/social-security-welfare-fund-board-pensions-in-keralam-to-be-distributed-from-october-26/article71620933.ece",
+   "h": "Social security, welfare fund board pensions in Keralam to be distributed from October 26",
+   "link": "https://www.thehindu.com/news/national/kerala/social-security-welfare-fund-board-pensions-in-keralam-to-be-distributed-from-october-26/article71620933.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-25T01:10:34+05:30",
+   "date": "2026-10-25",
+   "snip": "The Keralam government has sanctioned ₹1,081 crore for the distribution of the social security pensions and the welfare fund board pensions",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 2
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328119",
    "h": "लगभग 1,500 प्रतिनिधियों और विशेषज्ञों की भागीदारी के साथ भुवनेश्वर में 19वें अर्बन मोबिलिटी इंडिया सम्मेलन और प्रदर्शनी का समापन हुआ",
@@ -4790,30 +4814,6 @@
    "cat": "Environment",
    "gs": "GS3",
    "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/children-in-kochi-begin-formal-learning-on-vijayadashami-as-cm-satheesan-leads-event/article71606576.ece",
-   "h": "Children in Kochi begin formal learning on Vijayadashami as CM Satheesan leads event",
-   "link": "https://www.thehindu.com/news/national/kerala/children-in-kochi-begin-formal-learning-on-vijayadashami-as-cm-satheesan-leads-event/article71606576.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-21T13:30:55+05:30",
-   "date": "2026-10-21",
-   "snip": "Holding the hands of around 25 children at the ceremony in Kochi, the CM guided them to write ‘Harishree’ in Malayalam with their index finger on rice-filled platters",
-   "cat": "Society",
-   "gs": "GS1",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/tamil-nadu/northeast-monsoon-2026-gathers-momentum-in-tamil-nadu-unleashes-another-round-of-downpours-over-chennai/article71606476.ece",
-   "h": "Northeast monsoon gathers momentum in Tamil Nadu; unleashes another round of downpours over Chennai",
-   "link": "https://www.thehindu.com/news/national/tamil-nadu/northeast-monsoon-2026-gathers-momentum-in-tamil-nadu-unleashes-another-round-of-downpours-over-chennai/article71606476.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-21T13:10:51+05:30",
-   "date": "2026-10-21",
-   "snip": "The spell of wet weather is expected to continue till October 26, 2026 with a low pressure area forming over southwest Bay of Bengal off Tamil Nadu during early hours of October 21",
-   "cat": "Environment",
-   "gs": "GS3",
-   "score": 2
   }
  ]
 }
