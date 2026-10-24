@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T22:18:33.831555+05:30",
+ "updated": "2026-10-25T00:46:00.612740+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,78 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328119",
+   "h": "लगभग 1,500 प्रतिनिधियों और विशेषज्ञों की भागीदारी के साथ भुवनेश्वर में 19वें अर्बन मोबिलिटी इंडिया सम्मेलन और प्रदर्शनी का समापन हुआ",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328119",
+   "src": "PIB",
+   "t": "2026-10-25T00:45:33.302830+05:30",
+   "date": "2026-10-25",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/students-mark-90th-anniversary-of-temple-entry-proclamation/article71620968.ece",
+   "h": "Students mark 90th anniversary of Temple Entry Proclamation",
+   "link": "https://www.thehindu.com/news/national/kerala/students-mark-90th-anniversary-of-temple-entry-proclamation/article71620968.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-25T00:02:54+05:30",
+   "date": "2026-10-25",
+   "snip": "They distributed copies of the proclamation in houses and public spaces on Saturday",
+   "cat": "Environment",
+   "gs": "GS3",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/sci-tech/health/nmc-withdraws-2023-rules-on-medical-education-standards-raising-accountability-concerns/article71620086.ece",
+   "h": "NMC withdraws 2023 rules on medical education standards, raising accountability concerns",
+   "link": "https://www.thehindu.com/sci-tech/health/nmc-withdraws-2023-rules-on-medical-education-standards-raising-accountability-concerns/article71620086.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-24T22:41:25+05:30",
+   "date": "2026-10-24",
+   "snip": "MSMER-2023 withdrawal removes overlapping procedures, eliminates duplication, says NMC; medical activists say the move dilutes regulatory oversight, will ultimately put patients at risk",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/telangana/telangana-to-unveil-new-aerospace-and-defence-policy-20-soon-says-revanth/article71621205.ece",
+   "h": "Telangana to unveil new Aerospace and Defence Policy 2.0 soon, says Revanth",
+   "link": "https://www.thehindu.com/news/national/telangana/telangana-to-unveil-new-aerospace-and-defence-policy-20-soon-says-revanth/article71621205.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-24T22:40:20+05:30",
+   "date": "2026-10-24",
+   "snip": "The Chief Minister said political and ideological differences would not come in the way of investment and development and the government had a clear approach and strong determination to advance economic growth",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/ladakh/mha-employing-tools-of-fear-intimidation-and-threats-in-ladakh-kargil-democratic-alliance/article71620954.ece",
+   "h": "MHA employing tools of fear, intimidation and threats in Ladakh: Kargil Democratic Alliance",
+   "link": "https://www.thehindu.com/news/national/ladakh/mha-employing-tools-of-fear-intimidation-and-threats-in-ladakh-kargil-democratic-alliance/article71620954.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-24T22:39:04+05:30",
+   "date": "2026-10-24",
+   "snip": "If the MHA does not return to the May 22 agenda, we will be forced to hit the streets, agitate and prepare to go to jail for our legitimate demands within the Constitution, says co-chairperson Asgar Karbalai",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/jammu-and-kashmir/kashmir-igp-calls-for-action-against-overground-workers-hybrid-terrorists/article71620998.ece",
+   "h": "Kashmir IGP calls for action against overground workers, hybrid terrorists",
+   "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/kashmir-igp-calls-for-action-against-overground-workers-hybrid-terrorists/article71620998.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-24T22:30:37+05:30",
+   "date": "2026-10-24",
+   "snip": "Reviews security preparedness and policing measures; pushes for stronger intelligence gathering and close monitoring of emerging security challenges",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 2
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328043",
    "h": "मुंबई में तीन दिन का कार्यक्रम ‘इंडिया केम-2026’ आज संपन्न",
@@ -4742,78 +4814,6 @@
    "cat": "Environment",
    "gs": "GS3",
    "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/international/first-nation-community-in-canada-uses-data-centre-to-preserve-its-heritage/article71606571.ece",
-   "h": "First Nation community in Canada uses data centre to preserve its heritage",
-   "link": "https://www.thehindu.com/news/international/first-nation-community-in-canada-uses-data-centre-to-preserve-its-heritage/article71606571.ece",
-   "src": "The Hindu - Science",
-   "t": "2026-10-21T13:07:08+05:30",
-   "date": "2026-10-21",
-   "snip": "Wiikwemkoong community stores Indigenous language recordings and other information locally to safeguard its cultural legacy and control its data",
-   "cat": "History & Culture",
-   "gs": "GS1",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/tamil-nadu/anbil-mahesh-poyyamozhi-gave-reassurance-to-family-members-of-absconding-accused-ccb-tells-madras-high-court/article71606197.ece",
-   "h": "Anbil Mahesh Poyyamozhi gave reassurance to family members of absconding accused, CCB tells Madras High Court",
-   "link": "https://www.thehindu.com/news/national/tamil-nadu/anbil-mahesh-poyyamozhi-gave-reassurance-to-family-members-of-absconding-accused-ccb-tells-madras-high-court/article71606197.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-21T13:02:58+05:30",
-   "date": "2026-10-21",
-   "snip": "It also states that materials have surfaced during the investigation disclosing that monies collected as ‘party fund’ were handed over to the Minister",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/health/being-a-good-doctor-is-risky-in-india/article71599608.ece",
-   "h": "Being a good doctor is risky in India",
-   "link": "https://www.thehindu.com/sci-tech/health/being-a-good-doctor-is-risky-in-india/article71599608.ece",
-   "src": "The Hindu - Science",
-   "t": "2026-10-21T12:49:56+05:30",
-   "date": "2026-10-21",
-   "snip": "When people cannot access adequate food, clean water, or timely healthcare, can the solution to their illness really end with a prescription?",
-   "cat": "Society",
-   "gs": "GS1",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/business/Economy/sebis-sme-ipo-reforms-offer-a-financing-choice-as-rates-rise/article71606331.ece",
-   "h": "SEBI’s SME IPO reforms offer a financing choice as rates rise",
-   "link": "https://www.thehindu.com/business/Economy/sebis-sme-ipo-reforms-offer-a-financing-choice-as-rates-rise/article71606331.ece",
-   "src": "The Hindu - Business",
-   "t": "2026-10-21T12:15:23+05:30",
-   "date": "2026-10-21",
-   "snip": "Looser listing norms and tougher profitability tests could help established small firms tap equity at a time when the RBI is turning hawkish",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325661",
-   "h": "प्रधानमंत्री श्री नरेन्द्र मोदी दिल्ली में विजयादशमी समारोह में सम्मिलित हुए",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325661",
-   "src": "PIB",
-   "t": "2026-10-21T11:24:37.167668+05:30",
-   "date": "2026-10-21",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325667",
-   "h": "प्रधानमंत्री श्री नरेन्द्र मोदी के नेतृत्व में सरकार भारत को एक ऐसा राष्ट्र बनाने के लिए प्रतिबद्ध है, जो समृद्धि, ज्ञान एवं शक्ति के साथ-साथ वैश्विक शांति और मानवता के कल्याण के प्रति भी समर्पित हो: रक्षा मंत्री",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325667",
-   "src": "PIB",
-   "t": "2026-10-21T11:24:37.167637+05:30",
-   "date": "2026-10-21",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
   }
  ]
 }
