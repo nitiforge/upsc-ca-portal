@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T03:05:00.543277+05:30",
+ "updated": "2026-10-24T05:33:24.988460+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,18 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/cities/mumbai/students-protest-against-sir-at-mumbai-university-demand-arrest-of-cec-gyanesh-kumar/article71616990.ece",
+   "h": "Students protest against SIR at Mumbai University, demand arrest of CEC Gyanesh Kumar",
+   "link": "https://www.thehindu.com/news/cities/mumbai/students-protest-against-sir-at-mumbai-university-demand-arrest-of-cec-gyanesh-kumar/article71616990.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-24T04:19:21+05:30",
+   "date": "2026-10-24",
+   "snip": "Organised by the Disha Students’ Organisation and Bhagat Singh Jan Adhikar Yatra (BSJAY), the demonstration also called for the repeal of the 2023 law governing the appointment of Election Commissioners",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
   {
    "id": "https://www.thehindu.com/news/national/tamil-nadu/credai-chennai-sets-up-anti-corruption-panel-frames-sop-for-reporting-graft/article71617238.ece",
    "h": "CREDAI Chennai sets up anti-corruption panel, frames SOP for reporting graft",
@@ -4802,18 +4814,6 @@
    "cat": "Economy",
    "gs": "GS3",
    "score": 2
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325361",
-   "h": "मिजोरम में डीआरआई ने कुल 8.64 करोड़ रुपये कीमत की 43 लाख से अधिक विदेशी मूल की तस्करी की सिगरेट जब्त की; एक शख्स गिरफ्तार",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325361",
-   "src": "PIB",
-   "t": "2026-10-20T10:51:05.870491+05:30",
-   "date": "2026-10-20",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
   }
  ]
 }
