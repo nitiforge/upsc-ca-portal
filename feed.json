@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T03:15:08.350191+05:30",
+ "updated": "2026-10-25T08:52:58.565395+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -64,6 +64,18 @@
    "score": 3
   },
   {
+   "id": "https://www.thehindu.com/news/national/karnataka/over-17-lakh-applications-seeking-grant-of-land-remain-pending-or-rejected-in-karnataka/article71511944.ece",
+   "h": "Over 17 lakh applications seeking grant of land remain pending or rejected in Karnataka",
+   "link": "https://www.thehindu.com/news/national/karnataka/over-17-lakh-applications-seeking-grant-of-land-remain-pending-or-rejected-in-karnataka/article71511944.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-24T23:34:49+05:30",
+   "date": "2026-10-24",
+   "snip": "Most of the applications made under two separate legislations, Forest Rights Act and Land Revenue Act, have been rejected",
+   "cat": "Environment",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
    "id": "https://www.thehindu.com/sci-tech/health/nmc-withdraws-2023-rules-on-medical-education-standards-raising-accountability-concerns/article71620086.ece",
    "h": "NMC withdraws 2023 rules on medical education standards, raising accountability concerns",
    "link": "https://www.thehindu.com/sci-tech/health/nmc-withdraws-2023-rules-on-medical-education-standards-raising-accountability-concerns/article71620086.ece",
@@ -110,6 +122,18 @@
    "cat": "International Relations",
    "gs": "GS2",
    "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/cmfri-supplies-five-lakh-green-mussel-seeds-to-fisherfolk-and-tribal-communities-in-maharashtra/article71620289.ece",
+   "h": "CMFRI supplies five lakh green mussel seeds to fisherfolk and tribal communities in Maharashtra",
+   "link": "https://www.thehindu.com/news/national/kerala/cmfri-supplies-five-lakh-green-mussel-seeds-to-fisherfolk-and-tribal-communities-in-maharashtra/article71620289.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-24T22:19:36+05:30",
+   "date": "2026-10-24",
+   "snip": "The initiative was aimed at translating marine fisheries research into livelihood opportunities by promoting sustainable bivalve farming along the Maharashtra coast, says CMFRI Director Grinson George",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 3
   },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328043",
@@ -203,6 +227,30 @@
    "t": "2026-10-24T22:03:33+05:30",
    "date": "2026-10-24",
    "snip": "Farmer IDs are expected to enable ‘transparent, efficient and timely’ access for farmers to government schemes, bank credit, crop insurance, and disaster relief",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/cities/chennai/isro-will-not-be-privatised-says-chairperson-narayanan/article71620020.ece",
+   "h": "ISRO will not be privatised, says chairperson Narayanan",
+   "link": "https://www.thehindu.com/news/cities/chennai/isro-will-not-be-privatised-says-chairperson-narayanan/article71620020.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-10-24T22:00:18+05:30",
+   "date": "2026-10-24",
+   "snip": "Contributions from private companies should not be misinterpreted as privatisation of the space agency, says the chairperson",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/business/Industry/ultra-gas-to-invest-900-crore-in-100-lng-stations-by-fy29/article71612101.ece",
+   "h": "Ultra Gas targeting to add 15 LNG retail stations by end of fiscal: CEO",
+   "link": "https://www.thehindu.com/business/Industry/ultra-gas-to-invest-900-crore-in-100-lng-stations-by-fy29/article71612101.ece",
+   "src": "The Hindu - Business",
+   "t": "2026-10-24T21:53:32+05:30",
+   "date": "2026-10-24",
+   "snip": "Speaking to The Hindu, Maqsood Shaikh, CEO and Managing Director of Ultra Gas, emphasised that a dedicated policy for LNG-based transportation is an imperative for the fuel segment to grow.",
    "cat": "Economy",
    "gs": "GS3",
    "score": 2
@@ -4766,54 +4814,6 @@
    "cat": "International Relations",
    "gs": "GS2",
    "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/andhra-pradesh/supreme-court-finds-prima-facie-case-in-ysrcp-plea-for-more-time-to-file-nominations-in-andhra-civic-polls/article71606630.ece",
-   "h": "Supreme Court defers AP municipal poll final list to October 25 on YSRCP plea, directs SEC to decide on nominations",
-   "link": "https://www.thehindu.com/news/national/andhra-pradesh/supreme-court-finds-prima-facie-case-in-ysrcp-plea-for-more-time-to-file-nominations-in-andhra-civic-polls/article71606630.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-21T15:31:56+05:30",
-   "date": "2026-10-21",
-   "snip": "The court holds that the YSRCP has made out a prima facie case in its plea for more time to file nominations",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/sc-sets-aside-kerala-hc-order-in-cmrl-payoff-case-stays-fir-probe-for-7-days/article71606685.ece",
-   "h": "CMRL-Exalogic payoff case: Supreme Court stays probe on corruption FIR against former CM Pinarayi Vijayan",
-   "link": "https://www.thehindu.com/news/national/kerala/sc-sets-aside-kerala-hc-order-in-cmrl-payoff-case-stays-fir-probe-for-7-days/article71606685.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-21T14:48:13+05:30",
-   "date": "2026-10-21",
-   "snip": "‘We will not disturb the FIR, but we will stall the investigation. Further, we are sending this case back to the High Court for adjudication,’ the Bench said",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/telangana/four-indian-rollers-telanganas-state-bird-rescued-during-dasara-celebrations-in-hyderabad/article71606789.ece",
-   "h": "Four Indian Rollers, Telangana’s State bird, rescued during Dasara celebrations in Hyderabad",
-   "link": "https://www.thehindu.com/news/national/telangana/four-indian-rollers-telanganas-state-bird-rescued-during-dasara-celebrations-in-hyderabad/article71606789.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-21T14:29:06+05:30",
-   "date": "2026-10-21",
-   "snip": "People can report illegal confinement or mistreatment of wildlife by dialing toll-free numbers 18004255364 and 9803338666, or emergency response number 112",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/energy-and-environment/the-whales-never-stopped-coming-to-gujarat-beaches-the-watchers-did/article71606866.ece",
-   "h": "The whales never stopped coming to Gujarat’s beaches, the watchers did",
-   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/the-whales-never-stopped-coming-to-gujarat-beaches-the-watchers-did/article71606866.ece",
-   "src": "The Hindu - Science",
-   "t": "2026-10-21T14:15:30+05:30",
-   "date": "2026-10-21",
-   "snip": "Every cetacean in India is protected under Schedule I of the Wildlife (Protection) Act 1972, which is the same level of protection accorded to tigers and lions. Yet most of us may not recognise a Bryde’s whale on the beach, may not know whom to call, and may never think to ask what happened to it afterwards",
-   "cat": "Environment",
-   "gs": "GS3",
-   "score": 3
   }
  ]
 }
