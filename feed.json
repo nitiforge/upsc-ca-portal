@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T22:40:14.657632+05:30",
+ "updated": "2026-10-26T01:07:18.142691+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,66 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328306",
+   "h": "प्रधानमंत्री ने वाराणसी यात्रा की झलकियाँ साझा कीं",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328306",
+   "src": "PIB",
+   "t": "2026-10-26T01:06:50.382939+05:30",
+   "date": "2026-10-26",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/jharkhand/jharkhand-bjp-unanimously-passes-political-resolution-at-state-executive-committee-meeting/article71624016.ece",
+   "h": "Jharkhand BJP unanimously passes political resolution at State Executive Committee meeting",
+   "link": "https://www.thehindu.com/news/national/jharkhand/jharkhand-bjp-unanimously-passes-political-resolution-at-state-executive-committee-meeting/article71624016.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-26T00:31:23+05:30",
+   "date": "2026-10-26",
+   "snip": "In the political resolution, Babulal Marandi criticised the Hemant Soren-led government, addressing issues ranging from tribal identity to corruption and poor governance",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/opinion/editorial/wicked-surprise-on-the-northeast-monsoon/article71623526.ece",
+   "h": "Wicked surprise: on the northeast monsoon",
+   "link": "https://www.thehindu.com/opinion/editorial/wicked-surprise-on-the-northeast-monsoon/article71623526.ece",
+   "src": "The Hindu - Editorial",
+   "t": "2026-10-25T22:52:49+05:30",
+   "date": "2026-10-25",
+   "snip": "The northeast monsoon is more unpredictable, and the south must be wary",
+   "cat": "Environment",
+   "gs": "GS3",
+   "score": 4
+  },
+  {
+   "id": "https://www.thehindu.com/opinion/editorial/old-values-new-avenues-on-india-poland-ties/article71623770.ece",
+   "h": "Old values, new avenues: on India-Poland ties",
+   "link": "https://www.thehindu.com/opinion/editorial/old-values-new-avenues-on-india-poland-ties/article71623770.ece",
+   "src": "The Hindu - Editorial",
+   "t": "2026-10-25T22:48:17+05:30",
+   "date": "2026-10-25",
+   "snip": "India and Poland have no conflict, but are pulled apart by other nations",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/supreme-court-clarifies-scope-of-police-custody-under-bnss/article71338174.ece",
+   "h": "Supreme Court clarifies scope of police custody under BNSS",
+   "link": "https://www.thehindu.com/news/national/supreme-court-clarifies-scope-of-police-custody-under-bnss/article71338174.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-25T22:43:49+05:30",
+   "date": "2026-10-25",
+   "snip": "Court held that Section 187(2) of BNSS enlarges the window during which police custody may be sought",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328260",
    "h": "‘विकसित भारत 2047’ की दिशा में शहरी प्रशासन, योजना और सेवाओं की आपूर्ति को मजबूत करने संबंधी व्यावहारिक सुझावों के साथ ‘राष्ट्रीय शहरी सम्मेलन 2026’ संपन्न",
@@ -4751,66 +4811,6 @@
    "t": "2026-10-21T22:04:36+05:30",
    "date": "2026-10-21",
    "snip": "The replacement of MGNREGA with the VB-GRAM G Act has weakened the rural right-to-work framework; restoring a meaningful right to work through adequate funding, living wages and stronger local institutions would advance constitutional aims while also supporting rural demand and economic growth",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326193",
-   "h": "प्रधानमंत्री ने एशियाई पैरा खेलों में स्वर्ण पदक जीतने पर प्रवीण कुमार को बधाई दी",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326193",
-   "src": "PIB",
-   "t": "2026-10-21T21:29:08.535465+05:30",
-   "date": "2026-10-21",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326125",
-   "h": "प्रधानमंत्री ने एशियाई पैरा खेलों में रजत पदक जीतने पर बंटी को बधाई दी",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326125",
-   "src": "PIB",
-   "t": "2026-10-21T21:29:08.535447+05:30",
-   "date": "2026-10-21",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326144",
-   "h": "प्रधानमंत्री ने एशियाई पैरा खेलों में कांस्य पदक जीतने पर राकेशभाई भट्ट को बधाई दी",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326144",
-   "src": "PIB",
-   "t": "2026-10-21T21:29:08.535428+05:30",
-   "date": "2026-10-21",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326186",
-   "h": "प्रधानमंत्री ने एशियाई पैरा खेलों में स्वर्ण पदक जीतने पर सचिन खिलारी को बधाई दी",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326186",
-   "src": "PIB",
-   "t": "2026-10-21T21:29:08.535408+05:30",
-   "date": "2026-10-21",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326143",
-   "h": "प्रधानमंत्री ने एशियाई पैरा खेलों में रजत पदक जीतने पर मोहम्मद यासिर को बधाई दी",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326143",
-   "src": "PIB",
-   "t": "2026-10-21T21:29:08.535333+05:30",
-   "date": "2026-10-21",
-   "snip": "",
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
