@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T01:07:18.142691+05:30",
+ "updated": "2026-10-26T05:53:49.875020+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,18 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/international/serbias-student-movement-ousts-longtime-leader-in-parliament-poll/article71624845.ece",
+   "h": "Serbia's student movement ousts longtime leader in Parliament poll",
+   "link": "https://www.thehindu.com/news/international/serbias-student-movement-ousts-longtime-leader-in-parliament-poll/article71624845.ece",
+   "src": "The Hindu - International",
+   "t": "2026-10-26T05:11:25+05:30",
+   "date": "2026-10-26",
+   "snip": "The victory in the snap vote comes after nearly two years of anti-government protests sparked by the 2024 collapse of a canopy at Novi Sad railway station that killed 16 people",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328306",
    "h": "प्रधानमंत्री ने वाराणसी यात्रा की झलकियाँ साझा कीं",
@@ -4799,18 +4811,6 @@
    "t": "2026-10-21T22:09:18+05:30",
    "date": "2026-10-21",
    "snip": "How does Indian law define ‘untouchability’? How has the Supreme Court interpreted ‘purity and pollution’? What did the Rajasthan High Court rule on purification? What facts would determine whether the Haldwani ritual amounted to untouchability?",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/business/Economy/the-broken-promise-of-the-right-to-work/article71410754.ece",
-   "h": "The broken promise of the right to work",
-   "link": "https://www.thehindu.com/business/Economy/the-broken-promise-of-the-right-to-work/article71410754.ece",
-   "src": "The Hindu - Business",
-   "t": "2026-10-21T22:04:36+05:30",
-   "date": "2026-10-21",
-   "snip": "The replacement of MGNREGA with the VB-GRAM G Act has weakened the rural right-to-work framework; restoring a meaningful right to work through adequate funding, living wages and stronger local institutions would advance constitutional aims while also supporting rural demand and economic growth",
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
