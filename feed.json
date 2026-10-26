@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T22:53:36.183722+05:30",
+ "updated": "2026-10-27T03:16:23.353871+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,126 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/national/indian-publishers-contest-modi-governments-privacy-law/article71627054.ece",
+   "h": "Media association challenges privacy law in Supreme Court",
+   "link": "https://www.thehindu.com/news/national/indian-publishers-contest-modi-governments-privacy-law/article71627054.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-27T01:18:27+05:30",
+   "date": "2026-10-27",
+   "snip": "A three-judge Bench headed by Chief Justice of India Surya Kant is scheduled to hear a batch of petitions filed by activists on October 27",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/opinion/editorial/a-final-surge-on-luiz-inacio-lula-da-silvas-triumph-in-brazil/article71627840.ece",
+   "h": "A final surge: On Luiz Inácio Lula da Silva’s triumph in Brazil",
+   "link": "https://www.thehindu.com/opinion/editorial/a-final-surge-on-luiz-inacio-lula-da-silvas-triumph-in-brazil/article71627840.ece",
+   "src": "The Hindu - Editorial",
+   "t": "2026-10-27T01:15:15+05:30",
+   "date": "2026-10-27",
+   "snip": "Lula is the resistance to U.S. imperial ambitions in South America",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/shrc-calls-for-checks-on-private-clinics-after-boys-death-following-tonsil-surgery-in-kannur/article71628110.ece",
+   "h": "SHRC calls for checks on private clinics after boy’s death following tonsil surgery in Kannur",
+   "link": "https://www.thehindu.com/news/national/kerala/shrc-calls-for-checks-on-private-clinics-after-boys-death-following-tonsil-surgery-in-kannur/article71628110.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-27T01:12:55+05:30",
+   "date": "2026-10-27",
+   "snip": "The Commission issued the directive to the Additional Chief Secretary, Health department, asking the authorities to verify the qualifications and registration of doctors and other staff working at such clinics.",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/opinion/editorial/dubious-retreat-on-the-national-medical-commission-and-its-msmer/article71627812.ece",
+   "h": "Dubious retreat: On the National Medical Commission and its MSMER",
+   "link": "https://www.thehindu.com/opinion/editorial/dubious-retreat-on-the-national-medical-commission-and-its-msmer/article71627812.ece",
+   "src": "The Hindu - Editorial",
+   "t": "2026-10-27T01:11:22+05:30",
+   "date": "2026-10-27",
+   "snip": "The National Medical Commission must not be seen as lax on regulation",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 6
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/bjp-stages-protest-over-kharges-comments/article71627161.ece",
+   "h": "BJP stages protest over Kharge’s comments",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/bjp-stages-protest-over-kharges-comments/article71627161.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-27T00:50:47+05:30",
+   "date": "2026-10-27",
+   "snip": "Addressing the gathering, BJP leader and former Telangana Governor Tamilisai Soundararajan criticised Mr. Kharge for his comments",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/business/Industry/microsoft-is-offering-buyouts-to-around-60000-employees-reports-say/article71628658.ece",
+   "h": "Microsoft is offering buyouts to around 60,000 employees, reports say",
+   "link": "https://www.thehindu.com/business/Industry/microsoft-is-offering-buyouts-to-around-60000-employees-reports-say/article71628658.ece",
+   "src": "The Hindu - Business",
+   "t": "2026-10-27T00:24:57+05:30",
+   "date": "2026-10-27",
+   "snip": "The ‌voluntary exit offer ‌will ⁠impact key divisions, including ⁠AI experiences, Copilot, finance, human resources, Xbox and Windows + Devices, ​a source ‌familiar with the matter told Reuters",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/cities/mumbai/tiger-shroff-attack-police-custody-of-4-extended-till-october-28-voice-samples-needed-say-cops/article71627255.ece",
+   "h": "Tiger Shroff firing case: Custody of four accused extended till Oct 28; 11th accused remanded till Oct 31",
+   "link": "https://www.thehindu.com/news/cities/mumbai/tiger-shroff-attack-police-custody-of-4-extended-till-october-28-voice-samples-needed-say-cops/article71627255.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-27T00:00:57+05:30",
+   "date": "2026-10-27",
+   "snip": "Mumbai Crime Branch seeks to trace weapon supply, Signal communications and local support network; defence questions need for further custody",
+   "cat": "Environment",
+   "gs": "GS3",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/kuttiadi-eyes-river-circuit-to-tap-tourism-potential/article71627484.ece",
+   "h": "Kuttiadi eyes river circuit to tap tourism potential",
+   "link": "https://www.thehindu.com/news/national/kerala/kuttiadi-eyes-river-circuit-to-tap-tourism-potential/article71627484.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-26T23:42:57+05:30",
+   "date": "2026-10-26",
+   "snip": "The proposed projects include a heritage walking trail and a happiness park in Kuttiadi; birdwatching, farm tourism and a walkway at Cherandathur Chira",
+   "cat": "History & Culture",
+   "gs": "GS1",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/international/rubio-to-host-g20-foreign-ministers-meet-in-atlanta-on-oct-30-31/article71628615.ece",
+   "h": "Rubio to host G20 Foreign Ministers’ meet in Atlanta on Oct 30-31",
+   "link": "https://www.thehindu.com/news/international/rubio-to-host-g20-foreign-ministers-meet-in-atlanta-on-oct-30-31/article71628615.ece",
+   "src": "The Hindu - International",
+   "t": "2026-10-26T23:22:08+05:30",
+   "date": "2026-10-26",
+   "snip": "U.S. President Donald Trump is scheduled to host the G20 Leaders’ Summit in Miami on December 14-15",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/manipur/kuki-zo-insurgent-camp-taken-over-by-crpf-in-manipur-among-two-to-be-relocated-under-mha-deal/article71628390.ece",
+   "h": "Kuki-Zo insurgent camp taken over by CRPF in Manipur among two to be relocated under MHA deal",
+   "link": "https://www.thehindu.com/news/national/manipur/kuki-zo-insurgent-camp-taken-over-by-crpf-in-manipur-among-two-to-be-relocated-under-mha-deal/article71628390.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-26T23:03:18+05:30",
+   "date": "2026-10-26",
+   "snip": "Police say 17 people found in Sinai camp were “impersonating” registered cadres; Kuki-Zo insurgent group says they were long-term residents, calls for Central intervention; SoO camps no longer “untouchable”, says senior official",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328727",
    "h": "रक्षा मंत्री ने ‘स्वावलंबन 2026’ में रक्षा क्षेत्र में आत्मनिर्भरता के अगले चरण ‘आत्मनिर्भरता 2.0’ का आह्वान किया",
@@ -254,6 +374,18 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/andhra-pradesh/vice-president-calls-for-expansion-of-medical-research-in-universities/article71628367.ece",
+   "h": "Vice-President calls for expansion of medical research in Universities",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/vice-president-calls-for-expansion-of-medical-research-in-universities/article71628367.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-26T22:51:56+05:30",
+   "date": "2026-10-26",
+   "snip": "C. P. Radhakrishnan encourages students to dedicate their lives to finding solutions to health issues that plague society, and says the country has an adequate number of undergraduate and postgraduate medical students, and now focus must be on expanding research",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
   },
   {
    "id": "https://www.thehindu.com/business/ccpa-fines-britannia-1-lakh-over-100-whole-wheat-bread-claim-productcontains-only-62-wheat/article71628554.ece",
@@ -4682,138 +4814,6 @@
    "cat": "International Relations",
    "gs": "GS2",
    "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/business/Economy/the-fiscal-tightrope-for-state-governments/article71167296.ece",
-   "h": "Why managing fiscal is a tightrope for State governments",
-   "link": "https://www.thehindu.com/business/Economy/the-fiscal-tightrope-for-state-governments/article71167296.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-22T22:20:44+05:30",
-   "date": "2026-10-22",
-   "snip": "Most State government expenditure is on social sectors, such as health and education, and economic sectors, such as agriculture and irrigation. In Kerala, such spending has driven social progress since the 1960s. The gap between expenditure and receipts is usually financed through market borrowings.",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/cabinet-secretary-had-copied-acknowledgement-sent-to-letters-by-two-ecs-to-cec-for-information-rti-reply/article71612629.ece",
-   "h": "Cabinet Secretary had copied acknowledgement sent to letters by two ECs to CEC for ‘information’: RTI reply",
-   "link": "https://www.thehindu.com/news/national/cabinet-secretary-had-copied-acknowledgement-sent-to-letters-by-two-ecs-to-cec-for-information-rti-reply/article71612629.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-22T22:16:08+05:30",
-   "date": "2026-10-22",
-   "snip": "Election Commissioners S.S. Sandhu and Vivek Joshi wrote to Cabinet Secretary T.V. Somanathan on July 29 regarding the working of Senior Deputy Election Commissioner Maneesh Garg",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 4
-  },
-  {
-   "id": "https://www.thehindu.com/business/cpcl-net-profit-more-than-triples-to-2271-crore-in-q2/article71612767.ece",
-   "h": "CPCL net profit more than triples to ₹2,271 crore in Q2",
-   "link": "https://www.thehindu.com/business/cpcl-net-profit-more-than-triples-to-2271-crore-in-q2/article71612767.ece",
-   "src": "The Hindu - Business",
-   "t": "2026-10-22T22:11:20+05:30",
-   "date": "2026-10-22",
-   "snip": "Chennai Petroleum’s gross refining margin more than doubled to $20.41 a barrel in the September quarter, while profit before tax rose to ₹3,032 crore from ₹994 crore a year earlier",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/waqf-board-will-support-govts-efforts-to-resolve-munambam-dispute-says-chairperson/article71612192.ece",
-   "h": "Waqf Board will support govt.’s efforts to resolve Munambam dispute, says chairperson",
-   "link": "https://www.thehindu.com/news/national/kerala/waqf-board-will-support-govts-efforts-to-resolve-munambam-dispute-says-chairperson/article71612192.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-22T22:10:39+05:30",
-   "date": "2026-10-22",
-   "snip": "M.C. Mayin Haji says the issue is pending before the Kerala High Court and the Waqf Tribunal",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/business/Industry/adani-energy-solutions-profit-more-than-doubles-to-1364-crore/article71612676.ece",
-   "h": "Adani Energy Solutions’ profit more than doubles to ₹1,364 crore",
-   "link": "https://www.thehindu.com/business/Industry/adani-energy-solutions-profit-more-than-doubles-to-1364-crore/article71612676.ece",
-   "src": "The Hindu - Business",
-   "t": "2026-10-22T22:04:45+05:30",
-   "date": "2026-10-22",
-   "snip": "Profit before taxes of the transmission and distribution businesses increased 26.2% and 42.4% on a year-over-year basis during the reported quarter.",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/sat-hospital-in-keralam-rejects-charges-of-clinical-trial-drugs-given-to-sma-afflicted-children/article71612808.ece",
-   "h": "SAT Hospital in Keralam rejects charges of ‘clinical trial drugs’ given to SMA-afflicted children",
-   "link": "https://www.thehindu.com/news/national/kerala/sat-hospital-in-keralam-rejects-charges-of-clinical-trial-drugs-given-to-sma-afflicted-children/article71612808.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-22T22:03:01+05:30",
-   "date": "2026-10-22",
-   "snip": "Hospital Superintendent says decision to provide SMA patients with a less expensive, generic version of the original molecule against SMA, in place of the imported original drug costing several lakhs of rupees for a single vial, was taken by a technical committee comprising experts in the field",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/do-the-police-need-court-permission-for-further-investigation-after-filing-the-final-report/article71128669.ece",
-   "h": "Do the police need court permission for further investigation after filing the final report?",
-   "link": "https://www.thehindu.com/news/national/do-the-police-need-court-permission-for-further-investigation-after-filing-the-final-report/article71128669.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-22T22:01:28+05:30",
-   "date": "2026-10-22",
-   "snip": "Although an application seeking further investigation had been filed before the concerned magistrate for a third time, no order granting permission was placed on record, the Court said",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/business/Economy/the-rbi-and-its-growing-fiscal-role/article71113535.ece",
-   "h": "The RBI and its growing fiscal role",
-   "link": "https://www.thehindu.com/business/Economy/the-rbi-and-its-growing-fiscal-role/article71113535.ece",
-   "src": "The Hindu - Business",
-   "t": "2026-10-22T21:53:52+05:30",
-   "date": "2026-10-22",
-   "snip": "RBI’s record ₹2.87 lakh crore surplus transfer to the Centre shows its growing fiscal significance, as earnings from reserve management and foreign assets support govt. finances; the trend raises questions about central bank independence, fiscal centralisation, and exclusion of such transfers from fiscal devolution to States",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/telangana/alai-balai-brings-leaders-across-party-lines-together/article71612766.ece",
-   "h": "Alai Balai brings leaders across party lines together",
-   "link": "https://www.thehindu.com/news/national/telangana/alai-balai-brings-leaders-across-party-lines-together/article71612766.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-22T21:46:28+05:30",
-   "date": "2026-10-22",
-   "snip": "Governor flags drug menace; Venkaiah Naidu says programme promotes brotherhood beyond caste, religion and politics",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 4
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/government-had-warm-ties-with-outgoing-governor-arlekar-says-keralam-chief-minister-vd-satheesan/article71612756.ece",
-   "h": "Government had warm ties with outgoing Governor Arlekar, says Keralam Chief Minister V.D. Satheesan",
-   "link": "https://www.thehindu.com/news/national/kerala/government-had-warm-ties-with-outgoing-governor-arlekar-says-keralam-chief-minister-vd-satheesan/article71612756.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-22T21:43:23+05:30",
-   "date": "2026-10-22",
-   "snip": "Attending his official send-off, Arlekar says he only returned the affection shown by people of the State; he adds that he is happy that he could complete his tenure without much confrontation",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/kerala-high-court-upholds-10-year-jail-term-for-man-convicted-of-raping-73-year-old-woman/article71612594.ece",
-   "h": "Kerala High Court upholds 10-year jail term for man convicted of raping 73-year-old woman",
-   "link": "https://www.thehindu.com/news/national/kerala/kerala-high-court-upholds-10-year-jail-term-for-man-convicted-of-raping-73-year-old-woman/article71612594.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-22T21:33:24+05:30",
-   "date": "2026-10-22",
-   "snip": "The court also cancelled his bail and directed him to surrender before the trial court to serve the sentence",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
   }
  ]
 }
