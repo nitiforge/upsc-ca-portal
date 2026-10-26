@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T05:53:49.875020+05:30",
+ "updated": "2026-10-26T10:39:12.568888+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,54 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328316",
+   "h": "एनएलसी इंडिया ने विशेष अभियान 6 के तहत प्रमुख लक्ष्य पार किए, कबाड़ के निपटान से 3.12 करोड़ रुपये की आमदनी",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328316",
+   "src": "PIB",
+   "t": "2026-10-26T10:38:44.799580+05:30",
+   "date": "2026-10-26",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328308",
+   "h": "कोरिया दौरे के दौरान श्री सर्बानंद सोनोवाल कोरियाई उद्योग जगत के समक्ष भारत में जहाज निर्माण के अवसरों को प्रस्तुत करेंगे",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328308",
+   "src": "PIB",
+   "t": "2026-10-26T10:38:44.799223+05:30",
+   "date": "2026-10-26",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328309",
+   "h": "प्रधानमंत्री श्री नरेन्द्र मोदी ने अपने 'मन की बात' कार्यक्रम में खादी एवं ग्रामोद्योग क्षेत्र की उपलब्धियों को रेखांकित कर कारीगरों का मनोबल बढ़ाया",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328309",
+   "src": "PIB",
+   "t": "2026-10-26T10:38:44.799170+05:30",
+   "date": "2026-10-26",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/cities/Delhi/jamia-university-orders-student-union-polls-within-15-days-of-constitution-approval-two-students-continue-hunger-strike/article71625645.ece",
+   "h": "Jamia university orders student union polls within 15 days of constitution approval; two students continue hunger strike",
+   "link": "https://www.thehindu.com/news/cities/Delhi/jamia-university-orders-student-union-polls-within-15-days-of-constitution-approval-two-students-continue-hunger-strike/article71625645.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-26T10:12:55+05:30",
+   "date": "2026-10-26",
+   "snip": "With no assurances on resignation of the Vice-Chancellor and the Chief Proctor, two students are continuing their hunger strike",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
   {
    "id": "https://www.thehindu.com/news/international/serbias-student-movement-ousts-longtime-leader-in-parliament-poll/article71624845.ece",
    "h": "Serbia's student movement ousts longtime leader in Parliament poll",
@@ -158,6 +206,18 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/business/Economy/upi-and-the-cost-of-policy-reversal/article71328209.ece",
+   "h": "UPI and the cost of policy reversal",
+   "link": "https://www.thehindu.com/business/Economy/upi-and-the-cost-of-policy-reversal/article71328209.ece",
+   "src": "The Hindu - Business",
+   "t": "2026-10-25T22:39:42+05:30",
+   "date": "2026-10-25",
+   "snip": "The government’s proposal to allow an MDR of 0.25–0.5% on UPI transactions above ₹2,000 reverses a decade-long policy; taxing the payment rail could weaken incentives for banks and fintechs to invest in UPI while undermining its role in financial inclusion, formalisation and wider digital adoption",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
   },
   {
    "id": "https://www.thehindu.com/news/national/cyclone-andhra-pradesh-odisha-live-updates-october-25-2026/article71622459.ece",
@@ -424,6 +484,18 @@
    "score": 2
   },
   {
+   "id": "https://www.thehindu.com/education/specialised-institutes-funding-required-to-boost-indias-military-space-mission/article71622844.ece",
+   "h": "How poor education, training infra constrains India's military space plans",
+   "link": "https://www.thehindu.com/education/specialised-institutes-funding-required-to-boost-indias-military-space-mission/article71622844.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-10-25T18:02:35+05:30",
+   "date": "2026-10-25",
+   "snip": "Despite its proper structure, India’s only dedicated space university has just 1,356 students across all levels, a small base to feed a rapidly scaling space and defence-space programme",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 5
+  },
+  {
    "id": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-ministers-put-power-utilities-on-alert-ahead-of-cyclone-25000-poles-kept-ready/article71622989.ece",
    "h": "Andhra Ministers put power utilities on alert ahead of cyclone; 25,000 poles kept ready",
    "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-ministers-put-power-utilities-on-alert-ahead-of-cyclone-25000-poles-kept-ready/article71622989.ece",
@@ -496,6 +568,18 @@
    "score": 2
   },
   {
+   "id": "https://www.thehindu.com/sci-tech/science/dpdp-act-patient-data-protection-privacy-clinical-staff-training/article71623153.ece",
+   "h": "India needs to train its clinical staff before erecting data shields",
+   "link": "https://www.thehindu.com/sci-tech/science/dpdp-act-patient-data-protection-privacy-clinical-staff-training/article71623153.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-10-25T17:08:03+05:30",
+   "date": "2026-10-25",
+   "snip": "User data is routinely commoditised today, and passing a law assuming compliance and waiting for complaints or litigation will not suffice. As the DPDP Act comes into effect, the government must finance, build, and sustain an ecosystem that allows every health worker to comply and patients to be able to better access care",
+   "cat": "Society",
+   "gs": "GS1",
+   "score": 3
+  },
+  {
    "id": "https://www.thehindu.com/news/national/pm-modi-varanasi-uttar-pradesh-iaf-air-show/article71622977.ece",
    "h": "PM Modi witnesses IAF air show in Varanasi",
    "link": "https://www.thehindu.com/news/national/pm-modi-varanasi-uttar-pradesh-iaf-air-show/article71622977.ece",
@@ -517,6 +601,18 @@
    "snip": "Only elected ward panch members are eligible to vote in up-sarpanch elections, and ordinary voters do not participate in the process",
    "cat": "Polity",
    "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/business/swiping-in-dark-the-hidden-cost-of-plastic-money/article71623078.ece",
+   "h": "Swiping in dark: The hidden cost of plastic money",
+   "link": "https://www.thehindu.com/business/swiping-in-dark-the-hidden-cost-of-plastic-money/article71623078.ece",
+   "src": "The Hindu - Business",
+   "t": "2026-10-25T16:29:46+05:30",
+   "date": "2026-10-25",
+   "snip": "It’s easy to swipe a card to satisfy a desire and gratify an impulse. However, unmindful swipe scan accumulate into a mountain of debt, take a toll on monthly budget, and derail financial goals",
+   "cat": "Economy",
+   "gs": "GS3",
    "score": 2
   },
   {
@@ -4718,102 +4814,6 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-sec-stops-election-process-for-100-ulbsafter-supreme-court-order/article71608801.ece",
-   "h": "Andhra Pradesh SEC halts election process for 100 ULBs after Supreme Court order",
-   "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-sec-stops-election-process-for-100-ulbsafter-supreme-court-order/article71608801.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-21T23:28:49+05:30",
-   "date": "2026-10-21",
-   "snip": "SEC will issue an order on the ULB elections on October 22 after obtaining reports from Collectors, District Election and Police authorities",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/andhra-pradesh/local-body-polls-in-andhra-pradesh-ysrcp-welcomes-supreme-court-directions-urges-sec-to-ensure-free-and-fair-elections/article71607735.ece",
-   "h": "Local body polls in Andhra Pradesh: YSRCP welcomes Supreme Court directions, urges SEC to ensure free and fair elections",
-   "link": "https://www.thehindu.com/news/national/andhra-pradesh/local-body-polls-in-andhra-pradesh-ysrcp-welcomes-supreme-court-directions-urges-sec-to-ensure-free-and-fair-elections/article71607735.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-21T23:12:02+05:30",
-   "date": "2026-10-21",
-   "snip": "Sajjala urges the State Election Commissioner to ensure CCTV surveillance at the nomination centres",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/bihar/meira-kumar-entitled-to-compensation-for-land-acquired-by-government-says-patna-high-court/article71607445.ece",
-   "h": "Meira Kumar entitled to compensation for land acquired by government, says Patna High Court",
-   "link": "https://www.thehindu.com/news/national/bihar/meira-kumar-entitled-to-compensation-for-land-acquired-by-government-says-patna-high-court/article71607445.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-21T23:11:52+05:30",
-   "date": "2026-10-21",
-   "snip": "Justice Khatim Reza, in an order on October 6, quashed the District Collector’s order that had attempted to seize Patna land by unilaterally cancelling the family’s 60-year-old land records",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/andhra-pradesh/ulb-polls-in-andhra-pradesh-sec-orders-strict-implementation-of-supreme-courts-directions/article71608105.ece",
-   "h": "ULB polls in Andhra Pradesh: SEC orders strict implementation of Supreme Court’s directions",
-   "link": "https://www.thehindu.com/news/national/andhra-pradesh/ulb-polls-in-andhra-pradesh-sec-orders-strict-implementation-of-supreme-courts-directions/article71608105.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-21T23:09:19+05:30",
-   "date": "2026-10-21",
-   "snip": "Poll process in all Municipal Corporations and Municipalities will continue as per schedule, except 19 civic bodies which reported large-scale complaints of intimidation and physical attacks, says Punetha",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/opinion/editorial/bitter-and-sweet-on-fssai-draft-restrictions-added-sugars-in-infant-foods/article71604624.ece",
-   "h": "Bitter and sweet: on FSSAI draft restrictions, added sugars in infant foods",
-   "link": "https://www.thehindu.com/opinion/editorial/bitter-and-sweet-on-fssai-draft-restrictions-added-sugars-in-infant-foods/article71604624.ece",
-   "src": "The Hindu - Editorial",
-   "t": "2026-10-21T22:52:37+05:30",
-   "date": "2026-10-21",
-   "snip": "The FSSAI must expand restrictions to cover all added sugars in infant foods",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 4
-  },
-  {
-   "id": "https://www.thehindu.com/opinion/editorial/peace-for-progress-on-the-sco-regional-cooperation-the-fight-against-terror/article71607933.ece",
-   "h": "Peace for progress: on the SCO, regional cooperation, the fight against terror",
-   "link": "https://www.thehindu.com/opinion/editorial/peace-for-progress-on-the-sco-regional-cooperation-the-fight-against-terror/article71607933.ece",
-   "src": "The Hindu - Editorial",
-   "t": "2026-10-21T22:46:33+05:30",
-   "date": "2026-10-21",
-   "snip": "Economic objectives can be met only in a stable security environment",
-   "cat": "Security",
-   "gs": "GS3",
-   "score": 4
-  },
-  {
-   "id": "https://www.thehindu.com/news/international/pakistan-turkiye-qatar-and-indonesia-sign-pact-to-bolster-defence-cooperation/article71608728.ece",
-   "h": "Pakistan, Turkiye, Qatar and Indonesia sign pact to bolster defence cooperation",
-   "link": "https://www.thehindu.com/news/international/pakistan-turkiye-qatar-and-indonesia-sign-pact-to-bolster-defence-cooperation/article71608728.ece",
-   "src": "The Hindu - International",
-   "t": "2026-10-21T22:45:09+05:30",
-   "date": "2026-10-21",
-   "snip": "The development comes months after Pakistan, Saudi Arabia and Turkiye signed the Makkah Joint Defence Agreement in August",
-   "cat": "Security",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/untouchability-and-the-idea-of-purity/article71415040.ece",
-   "h": "Untouchability and the idea of ‘purity’",
-   "link": "https://www.thehindu.com/news/national/untouchability-and-the-idea-of-purity/article71415040.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-21T22:09:18+05:30",
-   "date": "2026-10-21",
-   "snip": "How does Indian law define ‘untouchability’? How has the Supreme Court interpreted ‘purity and pollution’? What did the Rajasthan High Court rule on purification? What facts would determine whether the Haldwani ritual amounted to untouchability?",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
   }
  ]
 }
