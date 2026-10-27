@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T23:49:04.354978+05:30",
+ "updated": "2026-10-28T03:59:49.087089+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,66 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/opinion/lead/indias-balancing-act-risks-eroding-russias-trust/article71632551.ece",
+   "h": "India’s ‘balancing act’ risks eroding Russia’s trust",
+   "link": "https://www.thehindu.com/opinion/lead/indias-balancing-act-risks-eroding-russias-trust/article71632551.ece",
+   "src": "The Hindu - International",
+   "t": "2026-10-28T01:32:07+05:30",
+   "date": "2026-10-28",
+   "snip": "New Delhi’s performative diplomacy could undermine its longstanding friendship with Moscow",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/opinion/editorial/small-fish-on-operation-trident/article71631754.ece",
+   "h": "Small fish: on Operation Trident",
+   "link": "https://www.thehindu.com/opinion/editorial/small-fish-on-operation-trident/article71631754.ece",
+   "src": "The Hindu - Editorial",
+   "t": "2026-10-28T01:18:54+05:30",
+   "date": "2026-10-28",
+   "snip": "While carriers of narcotics are caught in the net, big sharks operate freely",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/opinion/editorial/fouled-waters-on-rajasthans-river-pollution/article71631783.ece",
+   "h": "Fouled waters: On Rajasthan’s river pollution",
+   "link": "https://www.thehindu.com/opinion/editorial/fouled-waters-on-rajasthans-river-pollution/article71631783.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-28T01:15:12+05:30",
+   "date": "2026-10-28",
+   "snip": "River pollution from industrial effluents indicates state failure",
+   "cat": "Environment",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/tn-govt-revises-housing-loan-limits-for-urban-cooperative-banks-and-credit-societies/article71632544.ece",
+   "h": "T.N. govt. revises housing loan limits for urban cooperative banks and credit societies",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-govt-revises-housing-loan-limits-for-urban-cooperative-banks-and-credit-societies/article71632544.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-28T00:40:19+05:30",
+   "date": "2026-10-28",
+   "snip": "The maximum individual loan limit for UCCSs has been raised to ₹60 lakh for societies with deposits below ₹100 crore and ₹1 crore for those with deposits exceeding ₹100 crore",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/jammu-and-kashmir/neutralise-remnants-of-terrorist-ecosystem-jk-l-g-manoj-sinha-tells-security-agencies/article71632405.ece",
+   "h": "Neutralise remnants of terrorist ecosystem: J&K L-G Manoj Sinha tells security agencies",
+   "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/neutralise-remnants-of-terrorist-ecosystem-jk-l-g-manoj-sinha-tells-security-agencies/article71632405.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-28T00:25:29+05:30",
+   "date": "2026-10-28",
+   "snip": "J&K Lieutenant Governor Manoj Sinha directed the security agencies that operations must continue to neutralise the remnants of the terrorist ecosystem",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329111",
    "h": "भारतीय रेल देश भर में 1,265 स्टेशन मास्टरों की भर्ती करेगा",
@@ -256,6 +316,18 @@
    "score": 3
   },
   {
+   "id": "https://www.thehindu.com/news/national/supreme-court-needs-transparent-roster-system-says-former-judge-oka/article71629926.ece",
+   "h": "Supreme Court needs transparent roster system, says former Judge Oka",
+   "link": "https://www.thehindu.com/news/national/supreme-court-needs-transparent-roster-system-says-former-judge-oka/article71629926.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-27T23:39:45+05:30",
+   "date": "2026-10-27",
+   "snip": "Former Supreme Court Judge Abhay Oka was speaking at a discussion on judicial accountability organised by the Campaign for Judicial Accountability and Reforms at the India International Centre in New Delhi",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
    "id": "https://www.thehindu.com/news/national/andhra-pradesh/ap-teachers-body-demands-implementation-of-old-pension-scheme/article71632448.ece",
    "h": "A.P. teachers’ body demands implementation of Old Pension Scheme",
    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ap-teachers-body-demands-implementation-of-old-pension-scheme/article71632448.ece",
@@ -276,6 +348,18 @@
    "date": "2026-10-27",
    "snip": "Project estimated to generate more than 1 lakh jobs and add ₹2,000 crore annually to the State’s economy",
    "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/jammu-and-kashmir/kashmiripandit-rakesh-handoo-circulates-edited-terror-threat-online-faces-charges-under-it-act/article71632075.ece",
+   "h": "Kashmiri Pandit Rakesh Handoo circulates ‘edited terror threat’ online, faces charges under IT Act",
+   "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/kashmiripandit-rakesh-handoo-circulates-edited-terror-threat-online-faces-charges-under-it-act/article71632075.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-27T23:25:13+05:30",
+   "date": "2026-10-27",
+   "snip": "Officials said Mr. Handoo was zeroed in after a Kashmiri Pandit employee, Rohit Raina whose name figured in the “terror threat list”, registered a complaint with the police",
+   "cat": "Security",
    "gs": "GS3",
    "score": 2
   },
@@ -3040,6 +3124,18 @@
    "score": 2
   },
   {
+   "id": "https://www.thehindu.com/sci-tech/energy-and-environment/what-is-the-importance-of-the-un-loss-and-damage-funds-payout-to-nepal-explained/article71615253.ece",
+   "h": "What is the importance of the UN Loss and Damage Fund’s payout to Nepal? | Explained",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/what-is-the-importance-of-the-un-loss-and-damage-funds-payout-to-nepal-explained/article71615253.ece",
+   "src": "The Hindu - Environment",
+   "t": "2026-10-25T12:04:20+05:30",
+   "date": "2026-10-25",
+   "snip": "As of March 15, 2026, 27 countries had pledged $822.06 million (approx. ₹7,809.6 crore), with $629.70 million (₹5,982 crore) in grant contributions",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
    "id": "https://www.thehindu.com/news/international/israel-to-close-all-land-crossings-with-west-bank-on-election-day/article71622494.ece",
    "h": "Israel to close all land crossings with West Bank on election day",
    "link": "https://www.thehindu.com/news/international/israel-to-close-all-land-crossings-with-west-bank-on-election-day/article71622494.ece",
@@ -4713,102 +4809,6 @@
    "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327553",
    "src": "PIB",
    "t": "2026-10-23T19:34:56.139220+05:30",
-   "date": "2026-10-23",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327385",
-   "h": "भारत की राष्ट्रपति बस्तर दशहरा के अवसर पर जगदलपुर, छत्तीसगढ़ में एक सार्वजनिक कार्यक्रम में शामिल हुईं",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327385",
-   "src": "PIB",
-   "t": "2026-10-23T19:34:56.139191+05:30",
-   "date": "2026-10-23",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327529",
-   "h": "आईएनएस त्रिशूल ने लिस्बन, पुर्तगाल में विदेशी बंदरगाह की यात्रा पूरी की",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327529",
-   "src": "PIB",
-   "t": "2026-10-23T19:34:56.139166+05:30",
-   "date": "2026-10-23",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327482",
-   "h": "ब्लैक होल के चारों ओर पदार्थ से निकलने वाले प्रकाश की झिलमिलाहट पर ब्लैक होल स्पिन के प्रभाव की खोज",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327482",
-   "src": "PIB",
-   "t": "2026-10-23T19:34:56.139140+05:30",
-   "date": "2026-10-23",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327527",
-   "h": "स्वच्छता विशेष अभियान 6.0 के अंतर्गत अगरकर रिसर्च इंस्टीट्यूट ने वैज्ञानिक अपशिष्ट प्रबंधन और स्थायी बागवानी को बढ़ावा दिया",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327527",
-   "src": "PIB",
-   "t": "2026-10-23T19:34:56.139112+05:30",
-   "date": "2026-10-23",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327479",
-   "h": "केंद्रीय वाणिज्य एवं उद्योग मंत्री श्री पीयूष गोयल ने भारत-जर्मनी व्यापार एवं निवेश संबंधों को मजबूत करने के लिए बर्लिन में उच्च स्तरीय आर्थिक वार्ता आयोजित की",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327479",
-   "src": "PIB",
-   "t": "2026-10-23T19:34:56.139080+05:30",
-   "date": "2026-10-23",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327560",
-   "h": "प्रशासनिक सुधार और लोक शिकायत विभाग ने सार्वजनिक सुरक्षा एवं ग्रामीण विकास में प्रौद्योगिकी-सक्षम शासन पर 22वां राष्ट्रीय ई-गवर्नेंस वेबिनार आयोजित किया",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327560",
-   "src": "PIB",
-   "t": "2026-10-23T19:34:56.139046+05:30",
-   "date": "2026-10-23",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327540",
-   "h": "शेख तैयब बिन मोहम्मद बिन जायद अल नाहयान ने प्रधानमंत्री से मुलाकात की",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327540",
-   "src": "PIB",
-   "t": "2026-10-23T19:34:56.139018+05:30",
-   "date": "2026-10-23",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327555",
-   "h": "उपराष्ट्रपति ने कहा, नवाचार और उभरती प्रौद्योगिकियों का लाभ संपूर्ण मानवता को मिलना चाहिए, न कि वे किसी एक देश की विशिष्ट संपत्ति बनकर रह जाएं",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327555",
-   "src": "PIB",
-   "t": "2026-10-23T19:34:56.138988+05:30",
    "date": "2026-10-23",
    "snip": "",
    "cat": "Polity",
