@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T03:59:49.087089+05:30",
+ "updated": "2026-10-28T07:07:19.155116+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -16,6 +16,30 @@
  },
  "items": [
   {
+   "id": "https://www.thehindu.com/news/national/cyclone-arnab-landfall-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-28-2026/article71634111.ece",
+   "h": "Cyclone Arnab landfall continues along Andhra Pradesh coast | LIVE",
+   "link": "https://www.thehindu.com/news/national/cyclone-arnab-landfall-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-28-2026/article71634111.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-28T07:00:52+05:30",
+   "date": "2026-10-28",
+   "snip": "Traffic on Ennore Expressway and other coastal roads in north Chennai and Tiruvallur districts of Tamil Nadu witnessed high waves lashing onto the land as a result of the cyclone",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/karnataka/two-years-on-karnataka-beekeepers-continue-to-face-threat-from-small-hive-beetle/article71632177.ece",
+   "h": "Two years on, Karnataka beekeepers continue to face threat from small hive beetle",
+   "link": "https://www.thehindu.com/news/national/karnataka/two-years-on-karnataka-beekeepers-continue-to-face-threat-from-small-hive-beetle/article71632177.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-28T07:00:01+05:30",
+   "date": "2026-10-28",
+   "snip": "Researchers and professors at the University of Agricultural Sciences Bangalore have identified the small hive beetle as a destructive, invasive scavenger insect that attacks honey bee colonies, bees, honey and pollen",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
    "id": "https://www.thehindu.com/opinion/lead/indias-balancing-act-risks-eroding-russias-trust/article71632551.ece",
    "h": "India’s ‘balancing act’ risks eroding Russia’s trust",
    "link": "https://www.thehindu.com/opinion/lead/indias-balancing-act-risks-eroding-russias-trust/article71632551.ece",
@@ -26,6 +50,30 @@
    "cat": "Economy",
    "gs": "GS3",
    "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/child-rights-panels-new-order-raises-questions-over-hair-rules-bag-checks/article71632097.ece",
+   "h": "Child rights panel’s new order raises questions over hair rules, bag checks",
+   "link": "https://www.thehindu.com/news/national/kerala/child-rights-panels-new-order-raises-questions-over-hair-rules-bag-checks/article71632097.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-28T01:26:32+05:30",
+   "date": "2026-10-28",
+   "snip": "Latest order appears to differ from earlier ruling upholding children’s right to grow their hair as they wish; members question why a single member passed the order without a full bench",
+   "cat": "Society",
+   "gs": "GS1",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/opinion/op-ed/indias-next-investment-cycle-will-shape-its-carbon-future/article71632615.ece",
+   "h": "India’s next investment cycle will shape its carbon future",
+   "link": "https://www.thehindu.com/opinion/op-ed/indias-next-investment-cycle-will-shape-its-carbon-future/article71632615.ece",
+   "src": "The Hindu - Environment",
+   "t": "2026-10-28T01:23:43+05:30",
+   "date": "2026-10-28",
+   "snip": "Its future emissions will depend on what it chooses to build now and the technologies and standards incorporated into those investments",
+   "cat": "Environment",
+   "gs": "GS3",
+   "score": 3
   },
   {
    "id": "https://www.thehindu.com/opinion/editorial/small-fish-on-operation-trident/article71631754.ece",
@@ -360,6 +408,18 @@
    "date": "2026-10-27",
    "snip": "Officials said Mr. Handoo was zeroed in after a Kashmiri Pandit employee, Rohit Raina whose name figured in the “terror threat list”, registered a complaint with the police",
    "cat": "Security",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/on-the-question-of-kiifbs-future/article71633074.ece",
+   "h": "On the question of KIIFB’s future",
+   "link": "https://www.thehindu.com/news/national/kerala/on-the-question-of-kiifbs-future/article71633074.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-27T23:21:59+05:30",
+   "date": "2026-10-27",
+   "snip": "An expert panel constituted by Keralam’s UDF government to review the functioning of KIIFB has recommended winding it up and absorbing its functions into the State government, prompting a closer look at the merits of off-budget borrowings by States and the need to boost public investment in Keralam",
+   "cat": "Economy",
    "gs": "GS3",
    "score": 2
   },
@@ -4749,66 +4809,6 @@
    "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327379",
    "src": "PIB",
    "t": "2026-10-23T19:34:56.139358+05:30",
-   "date": "2026-10-23",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327549",
-   "h": "वित्त वर्ष 2026-27 की पहली छमाही में घरेलू मांग भारत के इस्पात क्षेत्र को गति प्रदान कर रही है",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327549",
-   "src": "PIB",
-   "t": "2026-10-23T19:34:56.139334+05:30",
-   "date": "2026-10-23",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327350",
-   "h": "भाकृअनुप-सिरकॉट ने कपास चुनने वाले श्रमिकों के लिए सुरक्षात्मक दस्तानों के प्रौद्योगिकी हस्तांतरण हेतु समझौता ज्ञापन पर हस्ताक्षर किए",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327350",
-   "src": "PIB",
-   "t": "2026-10-23T19:34:56.139300+05:30",
-   "date": "2026-10-23",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327375",
-   "h": "भारत-रूस द्विपक्षीय नौसैनिक अभ्यास (इंद्र 2026) का समापन",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327375",
-   "src": "PIB",
-   "t": "2026-10-23T19:34:56.139274+05:30",
-   "date": "2026-10-23",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327487",
-   "h": "भारत ने अंतर्देशीय लघु मत्स्य पालन के लिए राष्ट्रीय कार्य योजना के विकास चरण में प्रवेश किया",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327487",
-   "src": "PIB",
-   "t": "2026-10-23T19:34:56.139250+05:30",
-   "date": "2026-10-23",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327553",
-   "h": "एनएचएआई ने राष्ट्रीय राजमार्गों के टोल प्लाजा पर शौचालय सुविधाओं और पार्किंग स्थलों के उन्नयन, रखरखाव एवं स्मार्ट निगरानी के लिए दिशानिर्देश जारी किए",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327553",
-   "src": "PIB",
-   "t": "2026-10-23T19:34:56.139220+05:30",
    "date": "2026-10-23",
    "snip": "",
    "cat": "Polity",
