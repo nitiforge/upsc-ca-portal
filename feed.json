@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T01:15:37.645154+05:30",
+ "updated": "2026-10-29T05:24:13.197783+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,66 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/national/bihar/bihar-cabinet-approves-mou-between-wrd-nih-roorkee-for-flood-plain-zone-delineation-study/article71637295.ece",
+   "h": "Bihar Cabinet approves MOU between WRD & NIH, Roorkee for ‘Flood Plain Zone Delineation Study’",
+   "link": "https://www.thehindu.com/news/national/bihar/bihar-cabinet-approves-mou-between-wrd-nih-roorkee-for-flood-plain-zone-delineation-study/article71637295.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-29T05:12:45+05:30",
+   "date": "2026-10-29",
+   "snip": "Cabinet approves 115 acres of land for a sugar mill and 151.58 acres for other industries. ₹12 crore approved for “Bihar State Games 2026”. Nod for underground road corridor in Patna.",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/uttarakhand/forest-panel-rejects-uttarakhand-hc-relocation-plan-again-over-forest-land-concerns/article71636307.ece",
+   "h": "Forest panel rejects Uttarakhand HC relocation plan again over forest land concerns",
+   "link": "https://www.thehindu.com/news/national/uttarakhand/forest-panel-rejects-uttarakhand-hc-relocation-plan-again-over-forest-land-concerns/article71636307.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-29T03:05:29+05:30",
+   "date": "2026-10-29",
+   "snip": "The committee directed the State government to explore the possibility of locating the proposed project on suitable non-forest land before pursuing forest clearance",
+   "cat": "Environment",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/corporation-councillor-willing-to-express-regret-for-abusing-and-body-shaming-chief-minister-c-joseph-vijay-her-counsel-tells-madras-high-court/article71637016.ece",
+   "h": "Corporation councillor willing to express regret for abusing and body shaming Chief Minister C. Joseph Vijay, her counsel tells Madras High Court",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/corporation-councillor-willing-to-express-regret-for-abusing-and-body-shaming-chief-minister-c-joseph-vijay-her-counsel-tells-madras-high-court/article71637016.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-29T02:32:02+05:30",
+   "date": "2026-10-29",
+   "snip": "She has sought anticipatory bail in a case booked against her pursuant to a speech at DMK women’s wing meet held in Chennai on October 7, 2026",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 4
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/railways-to-strictly-enforce-overnight-mobile-charging-ban-on-trains/article71637074.ece",
+   "h": "Railways to turn off charging points in trains during night",
+   "link": "https://www.thehindu.com/news/national/railways-to-strictly-enforce-overnight-mobile-charging-ban-on-trains/article71637074.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-29T02:11:32+05:30",
+   "date": "2026-10-29",
+   "snip": "The Railway Board’s renewed insistence on implementing the measure follows a recent incident in the South Eastern Railway zone. Railway staff reportedly failed to switch off charging points during the prescribed hours, leading to a power bank explosion while a mobile was being charged.",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/ntks-saattai-duraimurugan-moves-madras-high-court-seeking-anticipatory-bail/article71637572.ece",
+   "h": "NTK’s ‘Saattai’ Duraimurugan moves Madras High Court seeking anticipatory bail",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/ntks-saattai-duraimurugan-moves-madras-high-court-seeking-anticipatory-bail/article71637572.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-29T01:21:59+05:30",
+   "date": "2026-10-29",
+   "snip": "An FIR had been registered against him for his alleged derogatory YouTube video against Chief Minister C. Joseph Vijay and Minister Aadhav Arjuna",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329766",
    "h": "भारत को वैश्विक कंटेनर विनिर्माण केंद्र बनाने के लिए मंत्रिमंडल ने 10,000 करोड़ रुपये की योजना को मंजूरी दी",
@@ -146,6 +206,18 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/odisha/cyclone-arnab-17-odisha-districts-affected-by-heavy-rain-gajapati-worst-hit/article71637117.ece",
+   "h": "Cyclone Arnab: 17 Odisha districts affected by heavy rain, Gajapati worst hit",
+   "link": "https://www.thehindu.com/news/national/odisha/cyclone-arnab-17-odisha-districts-affected-by-heavy-rain-gajapati-worst-hit/article71637117.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-29T00:46:18+05:30",
+   "date": "2026-10-29",
+   "snip": "As many as 2,245 pregnant women were shifted to nearby health centres, while 931 babies were born during the disaster",
+   "cat": "Society",
+   "gs": "GS1",
+   "score": 2
   },
   {
    "id": "https://www.thehindu.com/news/national/tamil-nadu/three-schoolgirls-from-tiruvannamalai-rescued-at-kilambakkam-bus-terminus/article71634937.ece",
@@ -3316,6 +3388,18 @@
    "score": 2
   },
   {
+   "id": "https://www.thehindu.com/books/excerpt-from-the-nitrogen-bombby-jacob-koshy/article71603863.ece",
+   "h": "The other face of air pollution | Excerpt from The Nitrogen Bomb by Jacob Koshy",
+   "link": "https://www.thehindu.com/books/excerpt-from-the-nitrogen-bombby-jacob-koshy/article71603863.ece",
+   "src": "The Hindu - Environment",
+   "t": "2026-10-26T13:37:32+05:30",
+   "date": "2026-10-26",
+   "snip": "The book explores how ammonia, largely emitted by agricultural activities, contributes to worsening air quality across the Indo-Gangetic Plain",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 3
+  },
+  {
    "id": "https://www.thehindu.com/news/national/kerala/keralam-assembly-heated-exchanges-as-speaker-disallows-pinarayis-submission-on-ex-governors-move-to-remove-psc-chairperson/article71625980.ece",
    "h": "Keralam Assembly: Heated exchanges as Speaker disallows Pinarayi’s submission on ex-Governor’s move to remove PSC chairperson",
    "link": "https://www.thehindu.com/news/national/kerala/keralam-assembly-heated-exchanges-as-speaker-disallows-pinarayis-submission-on-ex-governors-move-to-remove-psc-chairperson/article71625980.ece",
@@ -4730,90 +4814,6 @@
    "cat": "Economy",
    "gs": "GS3",
    "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/varanasi-air-show-rafale-chinook-thrill-spectators-with-aerial-manoeuvres-over-ganga/article71619689.ece",
-   "h": "Varanasi Air Show: Rafale, Chinook thrill spectators with aerial manoeuvres over Ganga",
-   "link": "https://www.thehindu.com/news/national/varanasi-air-show-rafale-chinook-thrill-spectators-with-aerial-manoeuvres-over-ganga/article71619689.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-24T16:16:28+05:30",
-   "date": "2026-10-24",
-   "snip": "Prime Minister Narendra Modi, Defence Minister Rajnath Singh, Uttar Pradesh Governor Anandiben Patel and Chief Minister Yogi Adityanath are scheduled to attend the final day's show on Sunday",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/kerala-hc-flags-slow-probe-into-kpsc-planning-board-exam-irregularities/article71619524.ece",
-   "h": "Prime accused are being spared without questioning, remarks Kerala HC on PSC exam irregularities case",
-   "link": "https://www.thehindu.com/news/national/kerala/kerala-hc-flags-slow-probe-into-kpsc-planning-board-exam-irregularities/article71619524.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-24T16:01:44+05:30",
-   "date": "2026-10-24",
-   "snip": "The PSC had approached the Court to quash the prosecution sanction granted by the government against the Commission’s employees, and the FIR registered in the case with the Crime Branch",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327894",
-   "h": "वन अधिकार अधिनियम के कार्यान्वयन पर तीसरा क्षेत्रीय समीक्षा सम्मेलन श्रीनगर में आयोजित हुआ",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327894",
-   "src": "PIB",
-   "t": "2026-10-24T14:38:02.504159+05:30",
-   "date": "2026-10-24",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327897",
-   "h": "प्रस्तावित ब्रॉडबैंड पब्लिक प्रोटेक्शन एंड डिजास्टर रिलीफ (बीबी-पीपीडीआर) सिस्टम के लिए नेटवर्क डिज़ाइन पर आम जनता की राय और हितधारकों के सुझाव आमंत्रित करना",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327897",
-   "src": "PIB",
-   "t": "2026-10-24T14:38:02.504101+05:30",
-   "date": "2026-10-24",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327833",
-   "h": "सीएसआईआर-सीआरआरआई ने नई दिल्ली में भारतीय हवाई अड्डा फुटपाथ संगोष्ठी (आईएपीएस 2026) का उद्घाटन किया",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327833",
-   "src": "PIB",
-   "t": "2026-10-24T14:38:02.504072+05:30",
-   "date": "2026-10-24",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327817",
-   "h": "प्रधानमंत्री ने एशियाई पैरा खेलों में स्वर्ण पदक जीतने और नया विश्व रिकॉर्ड बनाने पर मोना अग्रवाल को बधाई दी",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327817",
-   "src": "PIB",
-   "t": "2026-10-24T14:38:02.504045+05:30",
-   "date": "2026-10-24",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327821",
-   "h": "प्रधानमंत्री ने एशियाई पैरा खेलों में रजत पदक जीतने पर नितेश कुमार और तुलसीमति मुरुगेसन को बधाई दी",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327821",
-   "src": "PIB",
-   "t": "2026-10-24T14:38:02.504018+05:30",
-   "date": "2026-10-24",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
   }
  ]
 }
