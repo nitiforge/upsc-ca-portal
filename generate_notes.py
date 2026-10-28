@@ -11,10 +11,10 @@ page can't be read). The prompt forbids invented facts, but ALWAYS verify before
 Only the generated note is stored, never the article text.
 
 Cost controls (environment variables, all optional):
-  NOTES_MAX_PER_RUN  notes per run            (default 6)
-  NOTES_DAILY_CAP    notes per calendar day   (default 60)
-  NOTES_MIN_SCORE    minimum relevance score  (default 4)
-  NOTES_MODEL        API model name           (default claude-sonnet-5)
+  NOTES_MAX_PER_RUN  notes per run            (default 8)
+  NOTES_DAILY_CAP    notes per calendar day   (default 150)
+  NOTES_MIN_SCORE    minimum relevance score  (default 2)
+  NOTES_MODEL        API model name           (default claude-sonnet-5-5)
 """
 import json, os, re, sys, time, html, urllib.request, urllib.error
 from datetime import datetime, timezone, timedelta
@@ -30,11 +30,11 @@ KEY = GEMINI_KEY or ANTHROPIC_KEY
 # Gemini models tried in order; a model that is missing/unavailable (404) falls through to the next.
 GEMINI_MODELS = [m.strip() for m in os.environ.get(
     "NOTES_MODEL", "gemini-3.5-flash-lite,gemini-3.1-flash-lite,gemini-3.8-flash").split(",") if m.strip()]
-MODEL = os.environ.get("NOTES_MODEL", "claude-sonnet-5") if PROVIDER == "anthropic" else GEMINI_MODELS[0]
-MAX_PER_RUN = int(os.environ.get("NOTES_MAX_PER_RUN", "6"))
-DAILY_CAP = int(os.environ.get("NOTES_DAILY_CAP", "60"))
-MIN_SCORE = int(os.environ.get("NOTES_MIN_SCORE", "4"))
-MAX_AGE_DAYS, KEEP_DAYS, MAX_TRIES, TEXT_CAP = 2, 14, 2, 5000
+MODEL = os.environ.get("NOTES_MODEL", "claude-sonnet-5-5") if PROVIDER == "anthropic" else GEMINI_MODELS[0]
+MAX_PER_RUN = int(os.environ.get("NOTES_MAX_PER_RUN", "8"))
+DAILY_CAP = int(os.environ.get("NOTES_DAILY_CAP", "150"))
+MIN_SCORE = int(os.environ.get("NOTES_MIN_SCORE", "2"))
+MAX_AGE_DAYS, KEEP_DAYS, MAX_TRIES, TEXT_CAP = 3, 14, 2, 5000
 IST = timezone(timedelta(hours=5, minutes=30))
 UA = "Mozilla/5.0 (compatible; UPSC-CA-Portal/1.0)"
 
@@ -45,7 +45,8 @@ Rules:
 3. You may add well-established background (constitutional articles, definitions, earlier laws and schemes) only when you are confident it is correct, and keep it general.
 4. If the source is thin or you are unsure of something, say so in "check" instead of guessing. "check" must name the exact point to verify, or be an empty string if nothing needs it.
 5. Write plain, exam-oriented English. No marketing language.
-6. Output ONLY one JSON object, with no markdown fences and no commentary."""
+6. Write everything in your own words. Never copy sentences or distinctive phrasing from the SOURCE TEXT; restate facts in fresh, plain wording.
+7. Output ONLY one JSON object, with no markdown fences and no commentary."""
 
 SCHEMA = """Return a JSON object with exactly these keys:
 "why": string, 1-2 sentences on why this is in the news.
