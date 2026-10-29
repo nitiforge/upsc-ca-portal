@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-29T05:24:13.197783+05:30",
+ "updated": "2026-10-29T10:03:50.946412+05:30",
  "status": {
-  "PIB": "ok (20)",
+  "PIB": "failed: HTTPError",
   "The Hindu - National": "ok (60)",
   "The Hindu - Editorial": "ok (60)",
   "The Hindu - International": "ok (60)",
@@ -15,6 +15,90 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/national/karnataka/traders-seek-action-against-street-vendors-encroachments-in-dharwad/article71636398.ece",
+   "h": "Traders seek action against street vendors, encroachments in Dharwad",
+   "link": "https://www.thehindu.com/news/national/karnataka/traders-seek-action-against-street-vendors-encroachments-in-dharwad/article71636398.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-29T09:52:09+05:30",
+   "date": "2026-10-29",
+   "snip": "Traders’ association claims that unregulated street vending and encroachments on public spaces are affecting local businesses",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/cyclone-arnab-weakens-into-depression-imd-alert-odisha-andhra-pradesh-telangana-live-updates-october-29-2026/article71638778.ece",
+   "h": "Cyclone Arnab to weaken into depression on October 29, says IMD | LIVE updates",
+   "link": "https://www.thehindu.com/news/national/cyclone-arnab-weakens-into-depression-imd-alert-odisha-andhra-pradesh-telangana-live-updates-october-29-2026/article71638778.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-29T09:50:52+05:30",
+   "date": "2026-10-29",
+   "snip": "At least 17 districts of southern Odisha affected by heavy rainfall due to cyclonic storm Arnab; Andhra Pradesh records five deaths as CM Naidu announces relief measures",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/karnataka/revenue-authorities-told-to-examine-records-in-13-year-old-land-dispute-involving-70-acres-of-government-land-in-kalaburagi-district/article71636439.ece",
+   "h": "Revenue authorities told to examine records in 13-year-old land dispute involving 70 acres of government land in Kalaburagi district",
+   "link": "https://www.thehindu.com/news/national/karnataka/revenue-authorities-told-to-examine-records-in-13-year-old-land-dispute-involving-70-acres-of-government-land-in-kalaburagi-district/article71636439.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-29T09:17:46+05:30",
+   "date": "2026-10-29",
+   "snip": "The appeal had been heard 30 times by the Information Commission’s benches in Bengaluru and Kalaburagi",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/cities/bangalore/bengaluru-based-nature-classrooms-releases-new-butterfly-migration-game/article71635481.ece",
+   "h": "Bengaluru-based Nature Classrooms releases new butterfly migration game",
+   "link": "https://www.thehindu.com/news/cities/bangalore/bengaluru-based-nature-classrooms-releases-new-butterfly-migration-game/article71635481.ece",
+   "src": "The Hindu - Environment",
+   "t": "2026-10-29T08:04:22+05:30",
+   "date": "2026-10-29",
+   "snip": "Aswathi Asokan, who has conceptualised this new game, talks about its genesis, how it is played and how gamification can help drive conservation",
+   "cat": "Society",
+   "gs": "GS1",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/karnataka/karnataka-hcflags-irony-law-meant-to-curb-red-tapism-bogged-down-it/article71636393.ece",
+   "h": "Karnataka High Court flags irony: Law meant to curb red tapism bogged down it",
+   "link": "https://www.thehindu.com/news/national/karnataka/karnataka-hcflags-irony-law-meant-to-curb-red-tapism-bogged-down-it/article71636393.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-29T07:24:23+05:30",
+   "date": "2026-10-29",
+   "snip": "Karnataka Conduct of Government Litigation Act, 2023, prescribes that officers must stick to the period of limitation fixed to prefer appeals, review or revision against a court verdict, the Bench said, noting that none of the present appeals demonstrate adherence to the statutory discipline contemplated in the law",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/poland-pivots-towards-india-as-strategic-partnership-with-china-develops-cracks/article71636517.ece",
+   "h": "Poland pivots towards India as ‘strategic partnership’ with China develops cracks",
+   "link": "https://www.thehindu.com/news/national/poland-pivots-towards-india-as-strategic-partnership-with-china-develops-cracks/article71636517.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-29T07:19:39+05:30",
+   "date": "2026-10-29",
+   "snip": "Poland and India seek to raise bilateral trade from $6 bn to $10 bn; PM Modi visited Poland in 2024, during which ties were elevated to ‘strategic partnership’; Warsaw is also trying to diversify partnerships as trade imbalance and Beijing’s support for Russia deepen disillusionment with China",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/cabinet-approves-3-hike-in-dearness-allowance-for-central-government-employees/article71635503.ece",
+   "h": "Cabinet approves 3% hike in dearness allowance for central government employees",
+   "link": "https://www.thehindu.com/news/national/cabinet-approves-3-hike-in-dearness-allowance-for-central-government-employees/article71635503.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-29T06:46:24+05:30",
+   "date": "2026-10-29",
+   "snip": "The DA and DR increase will be effective from July 1, 2026 and will benefit 48.54 lakh employees and 68.71 lakh pensioners",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
   {
    "id": "https://www.thehindu.com/news/national/bihar/bihar-cabinet-approves-mou-between-wrd-nih-roorkee-for-flood-plain-zone-delineation-study/article71637295.ece",
    "h": "Bihar Cabinet approves MOU between WRD & NIH, Roorkee for ‘Flood Plain Zone Delineation Study’",
@@ -73,6 +157,18 @@
    "snip": "An FIR had been registered against him for his alleged derogatory YouTube video against Chief Minister C. Joseph Vijay and Minister Aadhav Arjuna",
    "cat": "Polity",
    "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/kochi-residents-flag-worsening-air-quality-especially-at-night/article71637668.ece",
+   "h": "Kochi residents flag worsening air quality, especially at night",
+   "link": "https://www.thehindu.com/news/national/kerala/kochi-residents-flag-worsening-air-quality-especially-at-night/article71637668.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-29T01:15:19+05:30",
+   "date": "2026-10-29",
+   "snip": "MLA seeks Chief Minister’s intervention, citing health risks from air pollution. Pollution control board unable to gather real-time AQI data as Vyttila, Kaloor stations remain non-functional",
+   "cat": "Environment",
+   "gs": "GS3",
    "score": 2
   },
   {
@@ -769,6 +865,18 @@
    "snip": "The Commission fined Google 42.9 billion won ($32 million) and Apple 20.8 billion won ($15.5 million) and ordered both companies to let South Korean developers use external payment links within their apps and to improve their app review procedures",
    "cat": "Polity",
    "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/sci-tech/science/genetic-tools-apomixis-breathing-fresh-life-india-staple-crops/article71635064.ece",
+   "h": "New genetic tools are breathing fresh life into India’s staple crops",
+   "link": "https://www.thehindu.com/sci-tech/science/genetic-tools-apomixis-breathing-fresh-life-india-staple-crops/article71635064.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-10-28T14:25:03+05:30",
+   "date": "2026-10-28",
+   "snip": "As new tools like apomixis become more widely available and private companies start investing more in Indian seeds, it is as important to think about how our system will adapt to these changes as it is to invest in fundamental research in plant genetics, physiology, development and host-pathogen interactions",
+   "cat": "Economy",
+   "gs": "GS3",
    "score": 3
   },
   {
@@ -4706,114 +4814,6 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327954",
-   "h": "लखनऊ में 26 अक्टूबर को श्रम संहिता, श्रम कल्याण और सामाजिक सुरक्षा पर दो दिवसीय राज्य स्तरीय 'श्रम संवाद' कार्यक्रम",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327954",
-   "src": "PIB",
-   "t": "2026-10-24T18:50:18.257615+05:30",
-   "date": "2026-10-24",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328027",
-   "h": "केंद्रीय मंत्री डॉ. जितेंद्र सिंह ने दिल्ली एनसीआर के लिए दुनिया की अपनी तरह की पहली 'एयर पॉल्यूशन एनालिसिस' सुविधा का उद्घाटन किया",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328027",
-   "src": "PIB",
-   "t": "2026-10-24T18:50:18.257589+05:30",
-   "date": "2026-10-24",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328023",
-   "h": "मेरा भारत-एनएसएस नशा मुक्त युवा अभियान के छठे सप्ताह में देशभर के गांवों में 'ग्राम सेवा एवं परंपरागत खेल दिवस' मना रहा है",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328023",
-   "src": "PIB",
-   "t": "2026-10-24T18:50:18.256641+05:30",
-   "date": "2026-10-24",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/karnataka/agrigold-bond-verification-in-karnataka-from-october-27-nine-centres-set-up/article71619754.ece",
-   "h": "AgriGold bond verification in Karnataka from October 27; nine centres set up",
-   "link": "https://www.thehindu.com/news/national/karnataka/agrigold-bond-verification-in-karnataka-from-october-27-nine-centres-set-up/article71619754.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-24T18:42:52+05:30",
-   "date": "2026-10-24",
-   "snip": "The verification exercise follows the Andhra Pradesh government’s constitution of a five-member Group of Ministers to review and address issues concerning AgriGold depositors.",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/cities/Vijayawada/guntur-to-host-world-telugu-childrens-festival-from-november-5-to-7/article71619344.ece",
-   "h": "Guntur to host World Telugu Children’s Festival from November 5 to 7",
-   "link": "https://www.thehindu.com/news/cities/Vijayawada/guntur-to-host-world-telugu-childrens-festival-from-november-5-to-7/article71619344.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-24T18:36:45+05:30",
-   "date": "2026-10-24",
-   "snip": "VVITU Balotsav-2026 offers a platform to childrfen to showcase then creative talent, say organisers",
-   "cat": "Society",
-   "gs": "GS1",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/international/five-italian-activists-held-in-west-bank-have-been-repatriated-italys-foreign-ministry-says/article71620023.ece",
-   "h": "Five Italian activists held in West Bank have been repatriated, Italy’s ⁠Foreign Ministry says",
-   "link": "https://www.thehindu.com/news/international/five-italian-activists-held-in-west-bank-have-been-repatriated-italys-foreign-ministry-says/article71620023.ece",
-   "src": "The Hindu - International",
-   "t": "2026-10-24T18:20:45+05:30",
-   "date": "2026-10-24",
-   "snip": "The women were detained on Thursday, October 22, by Israeli police in Kiryat ‌Arba along with other international activists, while seeking to protect ‌Palestinian farmers during the ‌olive ⁠harvest in the Israel-occupied territory.",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/congress-never-followed-the-constitution-ruled-country-as-per-its-wishes-nitin-nabin/article71620032.ece",
-   "h": "Congress never followed the Constitution, ruled country as per its wishes: Nitin Nabin",
-   "link": "https://www.thehindu.com/news/national/congress-never-followed-the-constitution-ruled-country-as-per-its-wishes-nitin-nabin/article71620032.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-24T18:17:07+05:30",
-   "date": "2026-10-24",
-   "snip": "Nitin Nabin accused the Congress of trying to create anarchy in the country.",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/irans-ghalibaf-will-not-attend-brics-parliamentary-forum-in-delhi-embassy/article71619999.ece",
-   "h": "Iran’s Ghalibaf will not attend BRICS Parliamentary Forum in Delhi: Embassy",
-   "link": "https://www.thehindu.com/news/national/irans-ghalibaf-will-not-attend-brics-parliamentary-forum-in-delhi-embassy/article71619999.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-24T18:11:40+05:30",
-   "date": "2026-10-24",
-   "snip": "The Iranian Embassy in India cites ‘certain unforeseen circumstances’; says a parliamentary delegation from the country would participate in the meeting on Oct. 26-27",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/international/saudi-forces-deadly-strikes-on-yemens-houthi-controlled-sanaa-city/article71619917.ece",
-   "h": "Saudi forces launch deadly strikes on Yemen’s Houthi-controlled Sanaa city",
-   "link": "https://www.thehindu.com/news/international/saudi-forces-deadly-strikes-on-yemens-houthi-controlled-sanaa-city/article71619917.ece",
-   "src": "The Hindu - International",
-   "t": "2026-10-24T17:46:16+05:30",
-   "date": "2026-10-24",
-   "snip": "The Houthis' Al-Masirah reported a series of \"Saudi enemy airstrikes\" targeting Sanaa, including one on a house that killed at least three people and wounded several others.",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
   }
  ]
 }
