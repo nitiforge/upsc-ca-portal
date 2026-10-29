@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T22:56:18.606170+05:30",
+ "updated": "2026-10-30T03:26:41.763384+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,114 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/any-plan-to-restrict-sale-of-liquor-in-hotel-bars-and-clubs-located-close-to-educational-institutions-madas-high-court-asks-commissioner-of-prohibition-and-excise/article71642073.ece",
+   "h": "Any plan to restrict sale of liquor in hotel bars and clubs located close to educational institutions? Madras High Court asks Commissioner of Prohibition and Excise",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/any-plan-to-restrict-sale-of-liquor-in-hotel-bars-and-clubs-located-close-to-educational-institutions-madas-high-court-asks-commissioner-of-prohibition-and-excise/article71642073.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-30T02:07:30+05:30",
+   "date": "2026-10-30",
+   "snip": "Justice N. Ramesh poses the question after expressing shock over a 19-year-old college student having consumed liquor at a bar attached to a hotel reportedly run by the college management",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 4
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/madhya-pradesh/mp-wildlife-officials-highlight-chambal-regions-gun-culture-as-probe-into-cheetah-shooting-goes-on/article71641808.ece",
+   "h": "M.P. wildlife officials highlight Chambal region’s gun culture as probe into cheetah shooting goes on",
+   "link": "https://www.thehindu.com/news/national/madhya-pradesh/mp-wildlife-officials-highlight-chambal-regions-gun-culture-as-probe-into-cheetah-shooting-goes-on/article71641808.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-30T01:49:37+05:30",
+   "date": "2026-10-30",
+   "snip": "Speaking to The Hindu, an official said that the gun culture has emerged as a “crucial segment” in the probe and that the matter had been brought up with senior police officers",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/west-bengal/nhrc-flags-human-rights-concerns-over-parading-of-three-persons-in-south-kolkata/article71641080.ece",
+   "h": "NHRC flags human rights concerns over parading of three persons in south Kolkata",
+   "link": "https://www.thehindu.com/news/national/west-bengal/nhrc-flags-human-rights-concerns-over-parading-of-three-persons-in-south-kolkata/article71641080.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-30T01:27:12+05:30",
+   "date": "2026-10-30",
+   "snip": "The Commission took suo motu cognisance of the incident based on media reports and observed that the contents of the news report, if true, “raise serious issues of violation of human rights”",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/opinion/editorial/deemed-ineligible-on-the-supreme-court-and-sir/article71641093.ece",
+   "h": "Deemed ineligible: On the Supreme Court and SIR",
+   "link": "https://www.thehindu.com/opinion/editorial/deemed-ineligible-on-the-supreme-court-and-sir/article71641093.ece",
+   "src": "The Hindu - Editorial",
+   "t": "2026-10-30T01:10:28+05:30",
+   "date": "2026-10-30",
+   "snip": "The Supreme Court has pointed to the SIR’s flaws by design",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 5
+  },
+  {
+   "id": "https://www.thehindu.com/opinion/editorial/open-to-investigation-on-the-challenge-to-the-digital-personal-data-protection-act-2023/article71641118.ece",
+   "h": "Open to investigation: On the challenge to the Digital Personal Data Protection Act, 2023",
+   "link": "https://www.thehindu.com/opinion/editorial/open-to-investigation-on-the-challenge-to-the-digital-personal-data-protection-act-2023/article71641118.ece",
+   "src": "The Hindu - Editorial",
+   "t": "2026-10-30T01:02:30+05:30",
+   "date": "2026-10-30",
+   "snip": "Public functionaries must not use privacy to seek exemption from scrutiny",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 4
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/jammu-and-kashmir/show-me-one-muslim-minister-at-centre-bjp-ruled-states-jk-deputy-cm/article71641468.ece",
+   "h": "‘Show me one Muslim minister at Centre, BJP-ruled States’: J&K Deputy CM",
+   "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/show-me-one-muslim-minister-at-centre-bjp-ruled-states-jk-deputy-cm/article71641468.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-30T01:01:11+05:30",
+   "date": "2026-10-30",
+   "snip": "J&K witnessed a Cabinet expansion on October 27, with four new faces joining the Omar Abdullah Cabinet",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/cities/chennai/ennore-residents-report-card-for-govt-flags-gaps-in-wetlandrestoration-pollution-control/article71640851.ece",
+   "h": "Ennore residents’ report card for govt. flags gaps in wetland restoration, pollution control",
+   "link": "https://www.thehindu.com/news/cities/chennai/ennore-residents-report-card-for-govt-flags-gaps-in-wetlandrestoration-pollution-control/article71640851.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-30T00:48:34+05:30",
+   "date": "2026-10-30",
+   "snip": "The report assesses 24 govt. bodies, five of which score ‘zero’ for failing to initiate their assessed commitments; it flags fly-ash leaks, illegal emissions, and hot-water discharge into Ennore Creek",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 4
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-high-court-declares-imposition-of-water-usage-charges-under-2010-act-in-ut-as-ultra-vires/article71641708.ece",
+   "h": "J&K High Court declares imposition of water usage charges under 2010 Act in UT as ‘ultra vires’",
+   "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-high-court-declares-imposition-of-water-usage-charges-under-2010-act-in-ut-as-ultra-vires/article71641708.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-30T00:22:25+05:30",
+   "date": "2026-10-30",
+   "snip": "The J&K government in 2010 passed the J&K Water Resources (Regulation and Management) Act “to generate revenue on water resources by charging for its usage from private and public units, which will include companies generating electricity in the State”",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/uttar-pradesh/up-mlc-poll-results-mark-a-defeat-of-bjps-anti-education-policies-opposition-leaders/article71641269.ece",
+   "h": "U.P. MLC poll results mark a defeat of BJP’s anti-education policies: Opposition leaders",
+   "link": "https://www.thehindu.com/news/national/uttar-pradesh/up-mlc-poll-results-mark-a-defeat-of-bjps-anti-education-policies-opposition-leaders/article71641269.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-29T23:05:10+05:30",
+   "date": "2026-10-29",
+   "snip": "INDIA bloc leaders say SP victory in five of 11 Legislative Council seats provides a boost to the Opposition ahead of U.P.’s 2027 Assembly election; ‘Double defeat of the double engine,’ says SP chief",
+   "cat": "Security",
+   "gs": "GS3",
+   "score": 2
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330139",
    "h": "आईएनएस त्रिशूल ने इटली के सिवितावेचिया में पोर्ट कॉल का समापन किया",
@@ -244,6 +352,18 @@
    "score": 3
   },
   {
+   "id": "https://www.thehindu.com/news/national/our-orders-breached-left-and-right-deepavali-was-a-festival-of-lights-before-gunpowder-supreme-court-says-in-firecrackers-case/article71641952.ece",
+   "h": "Our orders breached ‘left and right’, Deepavali was a festival of lights before gunpowder, Supreme Court says in firecrackers case",
+   "link": "https://www.thehindu.com/news/national/our-orders-breached-left-and-right-deepavali-was-a-festival-of-lights-before-gunpowder-supreme-court-says-in-firecrackers-case/article71641952.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-29T22:53:16+05:30",
+   "date": "2026-10-29",
+   "snip": "A complete ban may have a ‘spiralling effect’, the court says, asks the Centre and the Delhi government to ensure enforcement against sellers of spurious and banned crackers",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
    "id": "https://www.thehindu.com/news/national/west-bengal/west-bengal-bars-new-teachers-from-contesting-elections/article71641671.ece",
    "h": "West Bengal bars new teachers from contesting elections",
    "link": "https://www.thehindu.com/news/national/west-bengal/west-bengal-bars-new-teachers-from-contesting-elections/article71641671.ece",
@@ -254,6 +374,18 @@
    "cat": "International Relations",
    "gs": "GS2",
    "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/business/Industry/pharma-h1-exports-up-5-to-1614-bn-as-europe-offsets-us-slowdown/article71641947.ece",
+   "h": "Pharma H1 exports up 5% to $16.14-bn. as Europe offsets U.S. slowdown",
+   "link": "https://www.thehindu.com/business/Industry/pharma-h1-exports-up-5-to-1614-bn-as-europe-offsets-us-slowdown/article71641947.ece",
+   "src": "The Hindu - Business",
+   "t": "2026-10-29T22:20:50+05:30",
+   "date": "2026-10-29",
+   "snip": "Market diversification strategy pays as exports to Europe, Africa, LAC and ASEAN gain momentum",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 3
   },
   {
    "id": "https://www.thehindu.com/news/national/uttar-pradesh/congress-questions-delay-in-framing-charges-in-ram-temple-donation-theft-case/article71640902.ece",
@@ -4468,6 +4600,18 @@
    "score": 3
   },
   {
+   "id": "https://www.thehindu.com/sci-tech/science/dpdp-act-patient-data-protection-privacy-clinical-staff-training/article71623153.ece",
+   "h": "India needs to train its clinical staff before erecting data shields",
+   "link": "https://www.thehindu.com/sci-tech/science/dpdp-act-patient-data-protection-privacy-clinical-staff-training/article71623153.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-10-26T11:12:13+05:30",
+   "date": "2026-10-26",
+   "snip": "User data is routinely commoditised today, and passing a law assuming compliance and waiting for complaints or litigation will not suffice. As the DPDP Act comes into effect, the government must finance, build, and sustain an ecosystem that allows every health worker to comply and patients to be able to better access care",
+   "cat": "Society",
+   "gs": "GS1",
+   "score": 3
+  },
+  {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328316",
    "h": "एनएलसी इंडिया ने विशेष अभियान 6 के तहत प्रमुख लक्ष्य पार किए, कबाड़ के निपटान से 3.12 करोड़ रुपये की आमदनी",
    "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328316",
@@ -4670,150 +4814,6 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/business/Economy/upi-and-the-cost-of-policy-reversal/article71328209.ece",
-   "h": "UPI and the cost of policy reversal",
-   "link": "https://www.thehindu.com/business/Economy/upi-and-the-cost-of-policy-reversal/article71328209.ece",
-   "src": "The Hindu - Business",
-   "t": "2026-10-25T22:39:42+05:30",
-   "date": "2026-10-25",
-   "snip": "The government’s proposal to allow an MDR of 0.25–0.5% on UPI transactions above ₹2,000 reverses a decade-long policy; taxing the payment rail could weaken incentives for banks and fintechs to invest in UPI while undermining its role in financial inclusion, formalisation and wider digital adoption",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/cyclone-andhra-pradesh-odisha-live-updates-october-25-2026/article71622459.ece",
-   "h": "Monsoon tracker LIVE: Depression over Bay of Bengal set to become ‘very severe cyclonic storm’, cross A.P. coast by October 28",
-   "link": "https://www.thehindu.com/news/national/cyclone-andhra-pradesh-odisha-live-updates-october-25-2026/article71622459.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-25T22:35:33+05:30",
-   "date": "2026-10-25",
-   "snip": "IMD says the cyclone is likely to cross the Andhra Pradesh and Yanam coasts on Wednesday morning, with winds of 115 kmph to 125 kmph, gusting to 140 kmph; set to have worse impact than last year’s Montha cyclone",
-   "cat": "Environment",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/international/uk-pm-burnham-says-he-is-open-to-discussing-eu-free-movement/article71624415.ece",
-   "h": "U.K. PM Burnham says he is open to discussing EU free movement",
-   "link": "https://www.thehindu.com/news/international/uk-pm-burnham-says-he-is-open-to-discussing-eu-free-movement/article71624415.ece",
-   "src": "The Hindu - International",
-   "t": "2026-10-25T22:33:58+05:30",
-   "date": "2026-10-25",
-   "snip": "Andy Burnham — who is trying to find ways to speed up Britain’s economy is due to meet top EU officials for a summit on November 20",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/why-has-west-bengal-cleared-land-for-the-bsf-now-explained/article71301118.ece",
-   "h": "Why has West Bengal cleared land for the BSF now? | Explained",
-   "link": "https://www.thehindu.com/news/national/why-has-west-bengal-cleared-land-for-the-bsf-now-explained/article71301118.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-25T22:30:42+05:30",
-   "date": "2026-10-25",
-   "snip": "Why is West Bengal central to India’s border fencing project? What are the policy challenges?",
-   "cat": "Security",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/bihar/kharges-remark-in-bihar-pm-modi-father-sparks-row-bjp-congress/article71623852.ece",
-   "h": "BJP slams Kharge over ‘indecent’ remarks on PM Modi",
-   "link": "https://www.thehindu.com/news/national/bihar/kharges-remark-in-bihar-pm-modi-father-sparks-row-bjp-congress/article71623852.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-25T22:20:52+05:30",
-   "date": "2026-10-25",
-   "snip": "BJP leaders said Mallikarjun Kharge’s language was ‘indecent and unparliamentary’ and showed the ‘desperation and frustration’ within the Congress party",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/international/israel-presses-ahead-with-west-bank-operation-as-election-approaches/article71624374.ece",
-   "h": "Israel presses ahead with West Bank operation as election approaches",
-   "link": "https://www.thehindu.com/news/international/israel-presses-ahead-with-west-bank-operation-as-election-approaches/article71624374.ece",
-   "src": "The Hindu - International",
-   "t": "2026-10-25T22:19:51+05:30",
-   "date": "2026-10-25",
-   "snip": "The Hebron municipality said the operation displaced more than 2,600 people; the Army declined to say how long the operation might last.",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/is-yashwant-varma-still-a-judge/article71249134.ece",
-   "h": "Is Yashwant Varma still a judge?",
-   "link": "https://www.thehindu.com/news/national/is-yashwant-varma-still-a-judge/article71249134.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-25T22:16:20+05:30",
-   "date": "2026-10-25",
-   "snip": "The power to resign at will protects judicial independence; when misused, it helps evade accountability; the report by the committee tasked with investigating charges of misbehaviour against former judge Varma is set to come up in Parliament; what will become of Varma now that he has resigned?",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/jammu-and-kashmir/ghulam-nabi-azad-altaf-thakur-flay-farooqabdullahs-remarks-on-pakistan-as-kashmirs-saviour/article71623853.ece",
-   "h": "DPAP and BJP flay Farooq Abdullah’s remarks on Pakistan as ‘Kashmir’s saviour’",
-   "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/ghulam-nabi-azad-altaf-thakur-flay-farooqabdullahs-remarks-on-pakistan-as-kashmirs-saviour/article71623853.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-25T22:07:00+05:30",
-   "date": "2026-10-25",
-   "snip": "‘A leader who has taken an oath under the Indian Constitution cannot be allowed to question the country’s intentions towards its own people while giving political legitimacy to Pakistan’s narrative,’ BJP spokesperson says",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/corwa-summit-to-discuss-nh-66-bypass-woes-delay-in-kochi-metros-kakkanad-extension/article71616711.ece",
-   "h": "CoRWA summit to discuss NH 66 bypass woes, delay in Kochi metro’s Kakkanad extension",
-   "link": "https://www.thehindu.com/news/national/kerala/corwa-summit-to-discuss-nh-66-bypass-woes-delay-in-kochi-metros-kakkanad-extension/article71616711.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-25T20:57:48+05:30",
-   "date": "2026-10-25",
-   "snip": "The 17-km-long Edappally-Aroor NH bypass is feared to become a bottleneck once the NHAI completes the six-laning of the rest of NH 66 in Keralam by 2028, with traffic from the 10-lane Thuravoor-Aroor stretch adding to the congestion",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/keralam-police-inspector-suspended-over-womans-allegation-of-promise-to-marry/article71623884.ece",
-   "h": "Keralam police inspector suspended over woman’s allegation of promise to marry",
-   "link": "https://www.thehindu.com/news/national/kerala/keralam-police-inspector-suspended-over-womans-allegation-of-promise-to-marry/article71623884.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-25T20:53:02+05:30",
-   "date": "2026-10-25",
-   "snip": "T.K. Vinod Krishna was suspended based on a report submitted by the Pathanamthitta District Police Chief to the Inspector General of Police, who issued the suspension order, they said",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/tamil-nadu/india-bloc-will-continue-protests-until-gyanesh-kumar-resigns-says-praveen-chakravarty/article71623557.ece",
-   "h": "INDIA bloc will continue protests until Gyanesh Kumar resigns, says Praveen Chakravarty",
-   "link": "https://www.thehindu.com/news/national/tamil-nadu/india-bloc-will-continue-protests-until-gyanesh-kumar-resigns-says-praveen-chakravarty/article71623557.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-25T20:36:33+05:30",
-   "date": "2026-10-25",
-   "snip": "The protest is not about the Special Intensive Revision, not about a State or a party, or who won or who lost. It is about the invaluable voting right of every Indian, which has been taken away, says the Congress Rajya Sabha Member",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/karnataka/cabinet-will-discuss-proposal-on-establishing-buddhist-university-chief-minister/article71623845.ece",
-   "h": "Cabinet will discuss proposal on establishing Buddhist university: Chief Minister",
-   "link": "https://www.thehindu.com/news/national/karnataka/cabinet-will-discuss-proposal-on-establishing-buddhist-university-chief-minister/article71623845.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-25T20:28:05+05:30",
-   "date": "2026-10-25",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
   }
  ]
 }
