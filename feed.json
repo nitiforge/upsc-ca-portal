@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:13:17.619573+05:30",
+ "updated": "2026-10-31T04:46:52.501208+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,54 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/international/police-secure-polands-constitutional-tribunal-as-protests-erupt-over-court-chiefs-suspension/article71646886.ece",
+   "h": "Police secure Poland's Constitutional Tribunal as protests erupt over court chief's suspension",
+   "link": "https://www.thehindu.com/news/international/police-secure-polands-constitutional-tribunal-as-protests-erupt-over-court-chiefs-suspension/article71646886.ece",
+   "src": "The Hindu - International",
+   "t": "2026-10-31T02:54:21+05:30",
+   "date": "2026-10-31",
+   "snip": "Police said they detained three people after some protesters breached the tribunal's fence and others threw objects at officers",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/jammu-and-kashmir/17-nc-mlas-issue-15-day-ultimatum-to-address-coterie-culture-other-issues-in-party/article71646586.ece",
+   "h": "17 NC MLAs issue 15-day ultimatum to address ‘coterie culture’, other issues in party",
+   "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/17-nc-mlas-issue-15-day-ultimatum-to-address-coterie-culture-other-issues-in-party/article71646586.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-31T02:18:34+05:30",
+   "date": "2026-10-31",
+   "snip": "Four-hour meeting of the 17 NC legislators in Srinagar comes three days after party vice-president and J&K CM Omar Abdullah expanded the Cabinet, leaving several leaders disgruntled at not being given a berth",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/sci-tech/science/nvs-03-satellite-launch-successful-isro/article71646807.ece",
+   "h": "GSLV places next-generation navigation satellite NVS-03 into orbit",
+   "link": "https://www.thehindu.com/sci-tech/science/nvs-03-satellite-launch-successful-isro/article71646807.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-31T02:08:44+05:30",
+   "date": "2026-10-31",
+   "snip": "The NVS-03, with a mission life of 12 years, is expected to restore the functioning of the NavIC constellation; satellite carries an indigenous atomic clock, along with procured atomic clocks",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/bihar/bihar-cm-samrat-choudhary-calls-for-adequate-ganga-water-share-to-boost-states-growth/article71645338.ece",
+   "h": "Bihar’s interests must be considered in the Ganga Water Treaty: Samrat Choudhary",
+   "link": "https://www.thehindu.com/news/national/bihar/bihar-cm-samrat-choudhary-calls-for-adequate-ganga-water-share-to-boost-states-growth/article71645338.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-31T01:19:30+05:30",
+   "date": "2026-10-31",
+   "snip": "The CM mentioned that Bihar’s rivers hold immense potential for the State, and through the proper management of their water and silt, new opportunities can be created in agriculture, industry, infrastructure, and employment",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 4
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330651",
    "h": "निफ्ट ने 'विशेष अभियान 6' के तहत स्वच्छता, सतत विकास और हरित परिसर को बढ़ावा देने की दिशा में महत्वपूर्ण उपलब्धियां हासिल कीं",
@@ -146,6 +194,30 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-to-nominate-new-head-for-sit-to-probe-kpsc-irregularities-on-monday/article71646107.ece",
+   "h": "Karnataka High Court to nominate new head for SIT to probe KPSC irregularities on Monday",
+   "link": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-to-nominate-new-head-for-sit-to-probe-kpsc-irregularities-on-monday/article71646107.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-31T01:10:37+05:30",
+   "date": "2026-10-31",
+   "snip": "State government issues notification declaring SIT as police station",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/japans-omron-healthcare-opens-first-india-manufacturing-facility-near-chennai/article71645749.ece",
+   "h": "Japan’s Omron Healthcare opens first India manufacturing facility near Chennai",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/japans-omron-healthcare-opens-first-india-manufacturing-facility-near-chennai/article71645749.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-31T01:09:53+05:30",
+   "date": "2026-10-31",
+   "snip": "",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
   },
   {
    "id": "https://www.thehindu.com/opinion/editorial/beyond-gullibility-on-digital-arrest-scams/article71646642.ece",
@@ -4742,78 +4814,6 @@
    "cat": "Economy",
    "gs": "GS3",
    "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/supreme-court-pulls-up-rajasthan-over-jojari-river-pollution-warns-of-cbi-probe/article71627878.ece",
-   "h": "SC pulls up Rajasthan over Jojari river pollution, warns of CBI probe",
-   "link": "https://www.thehindu.com/news/national/supreme-court-pulls-up-rajasthan-over-jojari-river-pollution-warns-of-cbi-probe/article71627878.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-27T04:57:44+05:30",
-   "date": "2026-10-27",
-   "snip": "Supreme Court had earlier directed the State government to “seal and dismantle” all illegal and unauthorised discharge points into the river, including bypass arrangements, manholes, chambers, pipelines and conduit",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 4
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/jammu-and-kashmir/ruling-nc-to-reshuffle-expand-jk-cabinet-on-october-27-ally-congress-to-stay-away/article71627856.ece",
-   "h": "Ruling NC to reshuffle, expand J&K Cabinet on October 27; ally Congress to stay away",
-   "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/ruling-nc-to-reshuffle-expand-jk-cabinet-on-october-27-ally-congress-to-stay-away/article71627856.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-27T04:22:58+05:30",
-   "date": "2026-10-27",
-   "snip": "J&K Lieutenant Governor Manoj Sinha will administer the oath of office and secrecy to legislators into the Council of Ministers at Lok Bhavan Auditorium in Srinagar",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/indian-publishers-contest-modi-governments-privacy-law/article71627054.ece",
-   "h": "Media association challenges privacy law in Supreme Court",
-   "link": "https://www.thehindu.com/news/national/indian-publishers-contest-modi-governments-privacy-law/article71627054.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-27T01:18:27+05:30",
-   "date": "2026-10-27",
-   "snip": "A three-judge Bench headed by Chief Justice of India Surya Kant is scheduled to hear a batch of petitions filed by activists on October 27",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/opinion/editorial/a-final-surge-on-luiz-inacio-lula-da-silvas-triumph-in-brazil/article71627840.ece",
-   "h": "A final surge: On Luiz Inácio Lula da Silva’s triumph in Brazil",
-   "link": "https://www.thehindu.com/opinion/editorial/a-final-surge-on-luiz-inacio-lula-da-silvas-triumph-in-brazil/article71627840.ece",
-   "src": "The Hindu - Editorial",
-   "t": "2026-10-27T01:15:15+05:30",
-   "date": "2026-10-27",
-   "snip": "Lula is the resistance to U.S. imperial ambitions in South America",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/shrc-calls-for-checks-on-private-clinics-after-boys-death-following-tonsil-surgery-in-kannur/article71628110.ece",
-   "h": "SHRC calls for checks on private clinics after boy’s death following tonsil surgery in Kannur",
-   "link": "https://www.thehindu.com/news/national/kerala/shrc-calls-for-checks-on-private-clinics-after-boys-death-following-tonsil-surgery-in-kannur/article71628110.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-27T01:12:55+05:30",
-   "date": "2026-10-27",
-   "snip": "The Commission issued the directive to the Additional Chief Secretary, Health department, asking the authorities to verify the qualifications and registration of doctors and other staff working at such clinics.",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/opinion/editorial/dubious-retreat-on-the-national-medical-commission-and-its-msmer/article71627812.ece",
-   "h": "Dubious retreat: On the National Medical Commission and its MSMER",
-   "link": "https://www.thehindu.com/opinion/editorial/dubious-retreat-on-the-national-medical-commission-and-its-msmer/article71627812.ece",
-   "src": "The Hindu - Editorial",
-   "t": "2026-10-27T01:11:22+05:30",
-   "date": "2026-10-27",
-   "snip": "The National Medical Commission must not be seen as lax on regulation",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 6
   }
  ]
 }
