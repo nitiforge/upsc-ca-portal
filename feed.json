@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T03:26:41.763384+05:30",
+ "updated": "2026-10-30T07:10:39.895967+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -23,6 +23,18 @@
    "t": "2026-10-30T02:07:30+05:30",
    "date": "2026-10-30",
    "snip": "Justice N. Ramesh poses the question after expressing shock over a 19-year-old college student having consumed liquor at a bar attached to a hotel reportedly run by the college management",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 4
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/witness-protection-scheme-kerala-high-court-seeks-state-governments-responseto-pil/article71637793.ece",
+   "h": "Witness protection scheme: Kerala High Court seeks State government’s response to PIL",
+   "link": "https://www.thehindu.com/news/national/kerala/witness-protection-scheme-kerala-high-court-seeks-state-governments-responseto-pil/article71637793.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-30T01:52:36+05:30",
+   "date": "2026-10-30",
+   "snip": "State government “lagging” in the implementation of the scheme, says High Court. The scheme provides for threat assessment, protection measures, constitution of competent authorities and witness protection cells, periodic review, and a witness protection fund",
    "cat": "Polity",
    "gs": "GS2",
    "score": 4
@@ -76,6 +88,18 @@
    "score": 4
   },
   {
+   "id": "https://www.thehindu.com/news/national/kerala/si-arrested-for-alleged-theft-of-seized-drug-from-police-station/article71641530.ece",
+   "h": "SI arrested for alleged theft of seized drug from police station",
+   "link": "https://www.thehindu.com/news/national/kerala/si-arrested-for-alleged-theft-of-seized-drug-from-police-station/article71641530.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-30T01:01:53+05:30",
+   "date": "2026-10-30",
+   "snip": "The Central police registered a case against him following his suspension based on a Special Branch report",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
    "id": "https://www.thehindu.com/news/national/jammu-and-kashmir/show-me-one-muslim-minister-at-centre-bjp-ruled-states-jk-deputy-cm/article71641468.ece",
    "h": "‘Show me one Muslim minister at Centre, BJP-ruled States’: J&K Deputy CM",
    "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/show-me-one-muslim-minister-at-centre-bjp-ruled-states-jk-deputy-cm/article71641468.ece",
@@ -98,6 +122,18 @@
    "cat": "Economy",
    "gs": "GS3",
    "score": 4
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/what-does-the-law-say-about-offences-caused-by-underage-drivers-explained/article71641863.ece",
+   "h": "What does the law say about offences caused by underage drivers | Explained",
+   "link": "https://www.thehindu.com/news/national/kerala/what-does-the-law-say-about-offences-caused-by-underage-drivers-explained/article71641863.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-30T00:22:38+05:30",
+   "date": "2026-10-30",
+   "snip": "Section 4 of the the Motor Vehicles Act, 1988 specifies that no person under the age of eighteen years shall drive a motor vehicle in any public place. However, a person can drive a motorcycle without gears and with an engine capacity not exceeding 50cc after attaining 16 years.",
+   "cat": "Geography",
+   "gs": "GS1",
+   "score": 2
   },
   {
    "id": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-high-court-declares-imposition-of-water-usage-charges-under-2010-act-in-ut-as-ultra-vires/article71641708.ece",
@@ -4773,42 +4809,6 @@
    "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328268",
    "src": "PIB",
    "t": "2026-10-25T22:39:46.618360+05:30",
-   "date": "2026-10-25",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328274",
-   "h": "प्रधानमंत्री श्री नरेन्द्र मोदी ने ओडिशा के भुवनेश्वर में आरबीआई के नवनिर्मित डेटा सेंटर और साइबर सुरक्षा प्रशिक्षण संस्थान का उद्घाटन किया",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328274",
-   "src": "PIB",
-   "t": "2026-10-25T22:39:46.618330+05:30",
-   "date": "2026-10-25",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328283",
-   "h": "एनआईएफटीईएम-के ने भारत के पहले ‘एआई × फूड टेक हैकाथॉन’, ‘हैक द फोर्क’ का आयोजन किया",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328283",
-   "src": "PIB",
-   "t": "2026-10-25T22:39:46.618292+05:30",
-   "date": "2026-10-25",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328284",
-   "h": "केंद्रीय मंत्री पीयूष गोयल ने नीदरलैंड में व्यापार और निवेश वार्ता की",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328284",
-   "src": "PIB",
-   "t": "2026-10-25T22:39:46.616824+05:30",
    "date": "2026-10-25",
    "snip": "",
    "cat": "Polity",
