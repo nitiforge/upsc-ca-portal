@@ -132,7 +132,7 @@ dialog.wide{width:min(780px,96vw);max-height:92vh;overflow:auto}
     <button class="btn" id="impBtn">Import notes JSON</button>
     <input type="file" id="imp" accept=".json" hidden>
   </div>
-  <div class="foot">Our Notes are written by Niti Pathshala × NitiForge from official and press sources; verify against the source before quoting. Live Feed lists headlines and links only; open the source for the full story. Notes are stored in this browser.</div>
+  <div class="foot">Our Notes are written by Niti Pathshala × NitiForge from official and press sources; verify against the source before quoting. Every item opens as our own brief, written in our words from public reporting; the source is named on each page. Your notes and progress are stored in this browser.</div>
 </div>
 
 <dialog id="dlg">
@@ -161,7 +161,7 @@ dialog.wide{width:min(780px,96vw);max-height:92vh;overflow:auto}
   <h2 id="dH" style="font-size:19px;line-height:1.35;margin:10px 0 4px"></h2>
   <div class="sub" id="dMeta"></div>
   <div id="dSnip" style="margin:12px 0"></div>
-  <a class="btn" id="dLink" target="_blank" rel="noopener noreferrer">Read original ↗</a>
+  <div class="sub" id="dCredit"></div>
   <span id="dNote"></span>
   <hr style="border:0;border-top:1px solid var(--line);margin:14px 0 4px">
   <b style="font:600 13px system-ui,sans-serif;color:var(--acc)">MY NOTES FOR THIS ITEM</b>
@@ -262,7 +262,7 @@ function noteHtml(n){
   ${dg?S("Concept diagram",`<div class="dgm">${dg}</div>`):""}
   ${S("Prelims facts",ul(n.pre))}${S("Mains angle",para(n.mains))}${S("Way forward",para(n.way))}
   ${all.length?S("Images",`<div class="imgs">${all.map(i=>`<figure><img src="${esc(i.src)}" alt="${esc(i.cap||"note image")}">${i.cap?`<figcaption>${esc(i.cap)}</figcaption>`:""}${i.k>=0?`<button class="ic noprint" data-di="${esc(n.id)}|${i.k}" title="Remove image">🗑</button>`:""}</figure>`).join("")}</div>`):""}
-  ${n.link?`<div class="sub noprint" style="margin-top:10px">Source: <a href="${esc(n.link)}" target="_blank" rel="noopener noreferrer">${esc(n.src)} ↗</a></div>`:""}
+  <div class="sub" style="margin-top:10px">Source: ${esc(n.src||"Source not provided")}. This brief is written by Niti Pathshala × NitiForge in our own words.</div>
   <div class="sub" style="margin-top:10px">Prepared by Niti Pathshala × NitiForge${n.ai?" (AI draft)":""}. Verify facts against the original source before quoting.</div>`;
 }
 function openNote(id){
@@ -330,7 +330,7 @@ function render(){
     const L=aiList(q),upd=autoUpd?new Date(autoUpd).toLocaleString("en-IN",{day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"})+" IST":null;
     $("stats").innerHTML=`<span>${L.length} shown</span><span>${Object.keys(auto).length} AI notes</span><span>${upd?"Last written "+upd:"Not generated yet"}</span>`;
     const banner=`<div class="empty" style="text-align:left;margin-bottom:10px;border-style:solid">AI notes are written automatically for new UPSC-relevant headlines (highest priority first), a few every 15 minutes, with a diagram where useful. They are drafts built from the article text: check any “Verify” point before quoting.</div>`;
-    const setup=`<div class="empty" style="text-align:left">No AI notes yet. AI drafts are generated for eligible recent headlines when an API key is configured. Check the latest Update CA feed workflow run if none appear.</div>`;
+    const setup=`<div class="empty" style="text-align:left">No AI notes yet. One-time setup: add a free <b>GEMINI_API_KEY</b> in the repo (Settings → Secrets and variables → Actions), then run the “Update CA feed” workflow once. Notes appear here after it finishes.</div>`;
     $("list").innerHTML=banner+(L.length?L.map(n=>`<article class="card">
       <div class="tags"><span class="tag gs">${esc(n.gs)}</span><span class="tag">${esc(n.cat)}</span><span class="tag">${esc(n.date)}</span>${n.diagram?'<span class="tag">Diagram</span>':""}<span class="tag">AI draft</span>${n.check?'<span class="tag sample">Verify one point</span>':""}</div>
       <h3><a href="#" data-n="${esc(n.id)}">${esc(n.title)}</a></h3>
@@ -356,8 +356,8 @@ function render(){
       <div class="row"><div class="tags"><span class="tag gs">${esc(e.gs)}</span>${e.score>=5?'<span class="tag sample">High priority</span>':""}<span class="tag">${esc(e.cat)}</span><span class="tag">${esc(e.src)}</span><span class="tag">${new Date(e.t).toLocaleTimeString("en-IN",{hour:"2-digit",minute:"2-digit"})} · ${e.date}</span></div>
       <div><button class="ic ${mem.bm.includes(e.id)?"on":""}" data-b="${esc(e.id)}" title="Bookmark">${mem.bm.includes(e.id)?"★":"☆"}</button></div></div>
       <h3><a href="#" data-o="${esc(e.id)}">${esc(e.h)}</a></h3>
-      ${e.snip?`<div class="sub" style="font-family:Georgia,serif;font-size:14px">${esc(e.snip.length>220?e.snip.slice(0,220)+"…":e.snip)}</div>`:""}
-      <div style="margin-top:8px">${(()=>{const n=anyNote(e);return n?`<button class="btn ${n.ai?"":"p"}" data-n="${esc(n.id)}">${n.ai?"Note (AI draft)":"★ Our note"}</button> `:""})()}<button class="btn" data-o="${esc(e.id)}">Open details &amp; notes</button> <a class="sub" href="${esc(e.link)}" target="_blank" rel="noopener noreferrer" style="margin-left:8px">Original ↗</a></div>
+      ${(()=>{const n=anyNote(e),t=n?(n.why||""):(e.snip||"");return t?`<div class="sub" style="font-family:Georgia,serif;font-size:14px">${esc(t.length>220?t.slice(0,220)+"…":t)}</div>`:""})()}
+      <div style="margin-top:8px">${(()=>{const n=anyNote(e);return n?`<button class="btn ${n.ai?"":"p"}" data-n="${esc(n.id)}">${n.ai?"Note (AI draft)":"★ Our note"}</button> `:""})()}${anyNote(e)?"":`<span class="tag" style="margin-right:6px">Our brief is being prepared</span>`}<button class="btn" data-o="${esc(e.id)}">${anyNote(e)?"Open details &amp; my notes":"Open &amp; add my notes"}</button></div>
     </article>`).join(""):`<div class="empty">${feedErr?"Feed not loaded yet.":view==="top"?"No feed items for this date yet.":"Nothing for this date/filter. Try “All dates” or another day."}</div>`;
   }else{
     const L=mem.entries.filter(e=>matches(e,q,all,bm)).sort((a,b)=>b.date.localeCompare(a.date));
@@ -397,7 +397,7 @@ document.addEventListener("click",ev=>{
   if(t.dataset.di){const[id,k]=t.dataset.di.split("|");if(confirm("Remove this image?")){(mem.imgs[id]||[]).splice(+k,1);save();if(curNote)$("nBody").innerHTML=noteHtml(curNote)}}
   if(t.dataset.l){fl=t.dataset.l;render()}
   if(t.dataset.nf){nf=t.dataset.nf;render()}
-  if(t.dataset.o)openDetail(t.dataset.o);
+  if(t.dataset.o){const f0=(feed.items||[]).find(x=>x.id===t.dataset.o),n0=f0&&anyNote(f0);if(n0&&t.tagName==="A")openNote(n0.id);else openDetail(t.dataset.o)}
   if(t.dataset.c){fc=t.dataset.c==="All"?null:t.dataset.c;render()}
   if(t.dataset.g){fg=t.dataset.g==="All papers"?null:t.dataset.g;render()}
   if(t.dataset.s){fs=t.dataset.s==="All sources"?null:t.dataset.s;render()}
@@ -413,8 +413,8 @@ function openDetail(id){
   $("dTags").innerHTML=`<span class="tag gs">${esc(f.gs)}</span><span class="tag">${esc(f.cat)}</span><span class="tag">${esc(f.src)}</span>`;
   $("dH").textContent=f.h;
   $("dMeta").textContent=new Date(f.t).toLocaleString("en-IN",{dateStyle:"medium",timeStyle:"short"})+" IST";
-  $("dSnip").textContent=f.snip||"The source did not provide a summary for this item. Use “Read original” if you need the full text.";
-  $("dLink").href=f.link;{const rn=anyNote(f);$("dNote").innerHTML=rn?` <button class="btn ${rn.ai?"":"p"}" data-n="${esc(rn.id)}">${rn.ai?"Note (AI draft)":"★ Our note"}</button>`:""}
+  {const rn0=anyNote(f);$("dSnip").textContent=rn0?(rn0.why||""):"Our own brief for this item is being prepared and will appear here within a few update cycles. You can add your own notes below meanwhile.";$("dCredit").textContent="Source: "+(f.src||"Source not provided")}
+  {const rn=anyNote(f);$("dNote").innerHTML=rn?` <button class="btn ${rn.ai?"":"p"}" data-n="${esc(rn.id)}">${rn.ai?"Note (AI draft)":"★ Our note"}</button>`:""}
   $("dC").value=n?n.cat:f.cat;$("dG").value=n?n.gs:f.gs;
   $("dK").value=n?(n.key||[]).join("\n"):"";$("dP").value=n?(n.pre||[]).join("\n"):"";$("dM").value=n?(n.mains||""):"";
   $("dSave").textContent="Save notes";$("dlgD").showModal();
@@ -446,7 +446,7 @@ $("date").onchange=e=>{if(e.target.value){sel=e.target.value;render()}};
 $("refresh").onclick=pullFeed;
 $("digestBtn").onclick=async()=>{
   const L=view==="top"?top10(sel):(view==="feed"?feed.items:mem.entries).filter(e=>e.date===sel);
-  const t=`UPSC Current Affairs – ${sel}\n\n`+L.map((e,i)=>`${i+1}. [${e.gs} | ${e.cat}] ${e.h}${e.link?"\n"+e.link:""}`).join("\n\n");
+  const t=`UPSC Current Affairs – ${sel}\n\n`+L.map((e,i)=>`${i+1}. [${e.gs} | ${e.cat}] ${e.h}`).join("\n\n")+(siteUrl()?"\n\n"+siteUrl():"");
   try{await navigator.clipboard.writeText(t);$("digestBtn").textContent="Copied ✓"}catch(e){prompt("Copy digest:",t)}
   setTimeout(()=>$("digestBtn").textContent="Copy digest",1500);
 };
@@ -669,7 +669,7 @@ function rEdit(){
     <h3>${esc(e.h)}</h3>
     ${ed?`<div class="sec"><b>The argument in 5 points</b><ol style="margin:3px 0;padding-left:20px">${ed.points.map(p=>`<li>${esc(p)}</li>`).join("")}</ol></div>${ed.stance?`<div class="sec"><b>Writer's stance</b><p style="margin:3px 0">${esc(ed.stance)}</p></div>`:""}`
       :`<div class="sub" style="font-family:Georgia,serif;font-size:14px">${esc((e.snip||"").slice(0,260))}${e.snip&&e.snip.length>260?"…":""}</div><div class="sub" style="margin-top:6px">The 5-point summary appears here once the AI notes have processed this editorial.</div>`}
-    <div style="margin-top:8px">${a?`<button class="btn p" data-n="a:${esc(e.id)}">Open full note</button> `:""}${e.link?`<a class="sub" href="${esc(e.link)}" target="_blank" rel="noopener noreferrer" style="margin-left:6px">Original ↗</a>`:""}</div></article>`}).join(""):`<div class="empty">No editorials in the feed yet. They come from The Hindu and Indian Express editorial feeds.</div>`;
+    <div style="margin-top:8px">${a?`<button class="btn p" data-n="a:${esc(e.id)}">Open full note</button> `:""}</div></article>`}).join(""):`<div class="empty">No editorials in the feed yet. They come from The Hindu and Indian Express editorial feeds.</div>`;
 }
 
 /* ---- Compile (print) and share ---- */
@@ -677,6 +677,7 @@ function miniNote(n,dg){
   const S=(t,b)=>b?`<div class="sec"><b>${t}</b>${b}</div>`:"",d=dg&&n.diagram&&n.diagram.text?(n.diagram.type==="tree"?treeSvg(n.diagram.text):flowSvg(n.diagram.text)):"";
   return `<section class="mini"><h3 style="margin:0 0 3px;font-size:16px">${esc(n.title)}</h3>
    <div class="tags"><span class="tag gs">${esc(n.gs)}</span><span class="tag">${esc(n.cat)}</span><span class="tag">${esc(n.date)}</span>${n.ai?'<span class="tag">AI draft</span>':""}</div>
+   <div class="sub">Source: ${esc(n.src||"Source not provided")}</div>
    ${n.check?`<div class="callout"><b>Verify:</b> ${esc(n.check)}</div>`:""}
    ${S("Why in news",para(n.why))}${S("Key points",ul(n.key))}${d?S("Diagram",`<div class="dgm">${d}</div>`):""}${S("Prelims facts",ul(n.pre))}${S("Mains question",para(mainsQ(n)))}</section>`;
 }
