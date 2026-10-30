@@ -2,9 +2,8 @@
 """Write UPSC study-note drafts for new feed items -> auto_notes.json.
 
 Runs after fetch_feeds.py in the GitHub Action. Needs ONE secret:
-  GEMINI_API_KEY     free key from Google AI Studio (preferred, no card), or
-  ANTHROPIC_API_KEY  paid Anthropic Console key.
-Without either the script exits quietly and the portal still works (hand-written notes only).
+  GEMINI_API_KEY     free-tier key from Google AI Studio.
+Without it the script exits quietly and the portal still works (hand-written notes only).
 
 Each note is an AI draft built from the article's own text (or its RSS summary when the
 page can't be read). The prompt forbids invented facts, but ALWAYS verify before quoting.
@@ -14,7 +13,8 @@ Cost controls (environment variables, all optional):
   NOTES_MAX_PER_RUN  notes per run            (default 8)
   NOTES_DAILY_CAP    notes per calendar day   (default 150)
   NOTES_MIN_SCORE    minimum relevance score  (default 2)
-  NOTES_MODEL        API model name           (default claude-sonnet-5-5)
+  NOTES_MODEL        optional free Gemini model from the built-in allowlist
+                      (default gemini-3.5-flash-lite)
 """
 import json, os, re, sys, time, html, urllib.request, urllib.error
 from datetime import datetime, timezone, timedelta
@@ -23,14 +23,13 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 FEED = os.path.join(HERE, "feed.json")
 OUT = os.path.join(HERE, "auto_notes.json")
 GEMINI_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
-ANTHROPIC_KEY = os.environ.get("ANTHROPIC_API_KEY", "").strip()
-# Free route first: GEMINI_API_KEY (Google AI Studio, no card). Else the paid Anthropic key.
-PROVIDER = "gemini" if GEMINI_KEY else ("anthropic" if ANTHROPIC_KEY else "")
-KEY = GEMINI_KEY or ANTHROPIC_KEY
-# Gemini models tried in order; a model that is missing/unavailable (404) falls through to the next.
-GEMINI_MODELS = [m.strip() for m in os.environ.get(
-    "NOTES_MODEL", "gemini-3.5-flash-lite,gemini-3.1-flash-lite,gemini-3.8-flash").split(",") if m.strip()]
-MODEL = os.environ.get("NOTES_MODEL", "claude-sonnet-5-5") if PROVIDER == "anthropic" else GEMINI_MODELS[0]
+KEY = GEMINI_KEY
+# These documented models have free-tier text input and output.
+FREE_GEMINI_MODELS = ("gemini-3.5-flash-lite", "gemini-3.1-flash-lite", "gemini-3.8-flash")
+requested_model = os.environ.get("NOTES_MODEL", "").strip()
+GEMINI_MODELS = ([requested_model] if requested_model in FREE_GEMINI_MODELS else []) + [
+    m for m in FREE_GEMINI_MODELS if m != requested_model]
+MODEL = GEMINI_MODELS[0]
 MAX_PER_RUN = int(os.environ.get("NOTES_MAX_PER_RUN", "8"))
 DAILY_CAP = int(os.environ.get("NOTES_DAILY_CAP", "150"))
 MIN_SCORE = int(os.environ.get("NOTES_MIN_SCORE", "2"))
@@ -134,30 +133,7 @@ def call_gemini(system, user):
 
 
 def call_llm(system, user):
-    if PROVIDER == "gemini":
-        return call_gemini(system, user)
-    body = json.dumps({"model": MODEL, "max_tokens": 2800, "system": system,
-                       "messages": [{"role": "user", "content": user}]}).encode()
-    for attempt in range(3):
-        req = urllib.request.Request("https://api.anthropic.com/v1/messages", data=body, headers={
-            "x-api-key": KEY, "anthropic-version": "2023-06-01", "content-type": "application/json"})
-        try:
-            with urllib.request.urlopen(req, timeout=90) as r:
-                d = json.load(r)
-            return "".join(b.get("text", "") for b in d.get("content", []) if b.get("type") == "text")
-        except urllib.error.HTTPError as e:
-            detail = e.read()[:300]
-            if e.code in (401, 403):
-                raise AuthError("API key rejected (HTTP %s). Create a new key in the Anthropic Console and replace the ANTHROPIC_API_KEY secret." % e.code)
-            if e.code == 400 and (b"credit balance" in detail.lower() or b"billing" in detail.lower()):
-                raise AuthError("No API credit on this account (HTTP 400). Add credits under Plans & Billing in the Anthropic Console.")
-            if e.code in (429, 500, 502, 503, 529) and attempt < 2:
-                time.sleep(5 * (attempt + 1))
-                continue
-            raise RuntimeError("API error %s: %s" % (e.code, detail))
-    raise RuntimeError("API retries exhausted")
-
-
+    return call_gemini(system, user)
 def extract_json(raw):
     a, b = raw.find("{"), raw.rfind("}")
     if a < 0 or b <= a:
@@ -237,8 +213,8 @@ def load_json(path, default):
 
 
 def main():
-    if not PROVIDER:
-        print("No GEMINI_API_KEY or ANTHROPIC_API_KEY set; skipping auto notes.")
+    if not GEMINI_KEY:
+        print("No GEMINI_API_KEY set; skipping auto notes.")
         return
     now = datetime.now(IST)
     today = now.strftime("%Y-%m-%d")
