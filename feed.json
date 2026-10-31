@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T04:46:52.501208+05:30",
+ "updated": "2026-10-31T08:08:50.407441+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -220,6 +220,18 @@
    "score": 2
   },
   {
+   "id": "https://www.thehindu.com/news/national/karnataka/karnatakas-milk-price-hike-draws-flak-for-impact-on-budget-and-nutrition/article71645653.ece",
+   "h": "Karnataka’s milk price hike draws flak for impact on budget and nutrition",
+   "link": "https://www.thehindu.com/news/national/karnataka/karnatakas-milk-price-hike-draws-flak-for-impact-on-budget-and-nutrition/article71645653.ece",
+   "src": "The Hindu - National",
+   "t": "2026-10-31T01:09:43+05:30",
+   "date": "2026-10-31",
+   "snip": "Experts warn of increased household expenses and reduced access to essential nutrition, particularly for low-income families",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 3
+  },
+  {
    "id": "https://www.thehindu.com/opinion/editorial/beyond-gullibility-on-digital-arrest-scams/article71646642.ece",
    "h": "Beyond gullibility: On digital arrest scams",
    "link": "https://www.thehindu.com/opinion/editorial/beyond-gullibility-on-digital-arrest-scams/article71646642.ece",
@@ -361,6 +373,18 @@
    "snip": "India’s drug quality standards have come under increased scrutiny at home and overseas in recent years after locally made cough syrups were linked to ‌the deaths of children in India and also in countries including Gambia and Uzbekistan",
    "cat": "International Relations",
    "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/madhya-pradesh/two-held-over-death-of-cheetah-firearm-as-yet-untraced/article71646344.ece",
+   "h": "Two held over death of cheetah; firearm as yet untraced",
+   "link": "https://www.thehindu.com/news/national/madhya-pradesh/two-held-over-death-of-cheetah-firearm-as-yet-untraced/article71646344.ece",
+   "src": "The Hindu - Environment",
+   "t": "2026-10-30T22:39:59+05:30",
+   "date": "2026-10-30",
+   "snip": "Officials suspect that the weapon used in the shooting is “a country-made bharmar gun”, a traditional single-shot, muzzle-loading smoothbore firearm that is popular is the rural and forest parts of the region.",
+   "cat": "Environment",
+   "gs": "GS3",
    "score": 2
   },
   {
@@ -4790,30 +4814,6 @@
    "cat": "Economy",
    "gs": "GS3",
    "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/science/plant-based-meat-yields-higher-share-of-absorbable-protein-than-traditional-meat-study/article71628261.ece",
-   "h": "Plant-based meat yields higher share of absorbable protein than traditional meat: study",
-   "link": "https://www.thehindu.com/sci-tech/science/plant-based-meat-yields-higher-share-of-absorbable-protein-than-traditional-meat-study/article71628261.ece",
-   "src": "The Hindu - Environment",
-   "t": "2026-10-27T08:18:27+05:30",
-   "date": "2026-10-27",
-   "snip": "Laboratory tests show higher protein bioavailability in five plant-based products than in their chicken counterparts; researchers caution further studies needed to assess health benefits",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 4
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/technology/microsoft-is-offering-buyouts-to-around-60000-employees-reports-say/article71628658.ece",
-   "h": "Microsoft is offering buyouts to around 60,000 employees, reports say",
-   "link": "https://www.thehindu.com/sci-tech/technology/microsoft-is-offering-buyouts-to-around-60000-employees-reports-say/article71628658.ece",
-   "src": "The Hindu - Business",
-   "t": "2026-10-27T08:06:50+05:30",
-   "date": "2026-10-27",
-   "snip": "The ‌voluntary exit offer ‌will ⁠impact key divisions, including ⁠AI experiences, Copilot, finance, human resources, Xbox and Windows + Devices, ​a source ‌familiar with the matter told Reuters",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 3
   }
  ]
 }
