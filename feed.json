@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T00:48:47.080363+05:30",
+ "updated": "2026-11-01T04:11:58.419888+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,42 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/sport/ioas-election-code-of-conduct-bars-criticism-of-private-life-of-candidates-publicity/article71650830.ece",
+   "h": "IOA’s election Code of Conduct bars criticism of ‘private life’ of candidates, publicity",
+   "link": "https://www.thehindu.com/sport/ioas-election-code-of-conduct-bars-criticism-of-private-life-of-candidates-publicity/article71650830.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-01T03:09:30+05:30",
+   "date": "2026-11-01",
+   "snip": "The election to pick 10 members of the Athletes' Commission of the Indian Olympic Association (IOA) will be held on November 3, while the polls to choose eight SOMs will be held on November 9",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-advocates-association-challenges-1965-union-cabinet-decision-to-continue-english-as-common-language-for-supreme-court-and-all-high-courts/article71648537.ece",
+   "h": "Madras High Court Advocates Association challenges 1965 Union Cabinet decision to continue English as common language for Supreme Court and all High Courts",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-advocates-association-challenges-1965-union-cabinet-decision-to-continue-english-as-common-language-for-supreme-court-and-all-high-courts/article71648537.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-01T02:27:53+05:30",
+   "date": "2026-11-01",
+   "snip": "Says, the 1965 decision came to its notice only in 2025 pursuant to details obtained by a lawyer under the Right to Information Act, 2005",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/rahul-gandhi-appeals-to-delhi-rally-goers-to-do-festival-shopping-from-local-traders/article71650790.ece",
+   "h": "Rahul Gandhi appeals to Delhi rally goers to do festival shopping from local traders",
+   "link": "https://www.thehindu.com/news/national/rahul-gandhi-appeals-to-delhi-rally-goers-to-do-festival-shopping-from-local-traders/article71650790.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-01T01:04:33+05:30",
+   "date": "2026-11-01",
+   "snip": "The Congress leader’s request comes after a traders body in central Delhi urged him to postpone the rally until Deepavali as they expressed concern over its impact on their business.",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331023",
    "h": "सर्बानंद सोनोवाल ने मंत्रालय के अधिकारियों, छात्र कैडेटों को राष्ट्रीय एकता की शपथ दिलाई",
@@ -4773,42 +4809,6 @@
    "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329211",
    "src": "PIB",
    "t": "2026-10-27T23:48:37.499498+05:30",
-   "date": "2026-10-27",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329207",
-   "h": "‘हमारे शहरों के भविष्य को बेहतर बनाने के लिए साझा प्रतिबद्धता का अवसर’: श्री तोखन साहू, माननीय राज्य मंत्री, आवास और शहरी कार्य मंत्रालय ने एराइज़ सिटीज़ फोरम 2026 का उद्घाटन किया",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329207",
-   "src": "PIB",
-   "t": "2026-10-27T23:48:37.499468+05:30",
-   "date": "2026-10-27",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329221",
-   "h": "सिंगापुर-भारत समुद्री द्विपक्षीय अभ्यास (सिम्बेक्स-2026) के 33वें संस्करण का समापन",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329221",
-   "src": "PIB",
-   "t": "2026-10-27T23:48:37.499440+05:30",
-   "date": "2026-10-27",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329209",
-   "h": "आईजीएनसीए और एएसआई द्वारा टाइम्लेस इंडिया: प्रोटेक्शन एंड रिवाइवल ऑफ इंडियन कल्चरल आइडेंटिटी पुस्तक का विमोचन समारोह आयोजित किया जाएगा",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329209",
-   "src": "PIB",
-   "t": "2026-10-27T23:48:37.499415+05:30",
    "date": "2026-10-27",
    "snip": "",
    "cat": "Polity",
