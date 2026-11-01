@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T04:11:58.419888+05:30",
+ "updated": "2026-11-01T06:59:47.938331+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,18 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/national/maharashtra/actor-ajay-devgn-moves-high-court-against-fda-notice-over-vimal-elaichi-ads/article71648172.ece",
+   "h": "Ajay Devgn moves Bombay High Court against FDA notice over Vimal Elaichi advertisements",
+   "link": "https://www.thehindu.com/news/national/maharashtra/actor-ajay-devgn-moves-high-court-against-fda-notice-over-vimal-elaichi-ads/article71648172.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-01T03:51:59+05:30",
+   "date": "2026-11-01",
+   "snip": "The FDA said on October 30 that its proceedings against three actors had ended and that the matter would go before the Joint Commissioner for adjudication",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
   {
    "id": "https://www.thehindu.com/sport/ioas-election-code-of-conduct-bars-criticism-of-private-life-of-candidates-publicity/article71650830.ece",
    "h": "IOA’s election Code of Conduct bars criticism of ‘private life’ of candidates, publicity",
@@ -37,6 +49,18 @@
    "snip": "Says, the 1965 decision came to its notice only in 2025 pursuant to details obtained by a lawyer under the Right to Information Act, 2005",
    "cat": "Polity",
    "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/karnataka/nearly-a-year-after-its-due-date-kannada-sahitya-sammelana-still-not-held/article71649182.ece",
+   "h": "Nearly a year after its due date, Kannada Sahitya Sammelana still not held",
+   "link": "https://www.thehindu.com/news/national/karnataka/nearly-a-year-after-its-due-date-kannada-sahitya-sammelana-still-not-held/article71649182.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-01T01:20:48+05:30",
+   "date": "2026-11-01",
+   "snip": "The last sammelana was held in December 2024 at Mandya; the then Chief Minister Siddaramaiah had also earmarked a grant of ₹10 crore in the 2025-26 Budget.",
+   "cat": "Economy",
+   "gs": "GS3",
    "score": 2
   },
   {
@@ -4785,30 +4809,6 @@
    "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329172",
    "src": "PIB",
    "t": "2026-10-27T23:48:37.499556+05:30",
-   "date": "2026-10-27",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329229",
-   "h": "आर्थिक तंगी से आत्मनिर्भरता तक: मोहन लाल का प्रेरणादायक सफर",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329229",
-   "src": "PIB",
-   "t": "2026-10-27T23:48:37.499535+05:30",
-   "date": "2026-10-27",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329211",
-   "h": "डीपीआईआईटी ने नवाचार और उद्यमिता को मान्यता देने के लिए राष्ट्रीय स्टार्टअप पुरस्कारों के छठे संस्करण का शुभारंभ किया",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329211",
-   "src": "PIB",
-   "t": "2026-10-27T23:48:37.499498+05:30",
    "date": "2026-10-27",
    "snip": "",
    "cat": "Polity",
