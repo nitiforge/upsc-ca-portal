@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T01:10:09.818662+05:30",
+ "updated": "2026-11-02T04:36:45.930603+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,30 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/international/canada-pm-carney-says-he-had-good-conversation-with-trump-on-trade/article71654266.ece",
+   "h": "Canada PM Carney says he had good conversation with Trump on trade",
+   "link": "https://www.thehindu.com/news/international/canada-pm-carney-says-he-had-good-conversation-with-trump-on-trade/article71654266.ece",
+   "src": "The Hindu - International",
+   "t": "2026-11-02T02:32:54+05:30",
+   "date": "2026-11-02",
+   "snip": "Canada and the United States have ⁠slapped billions of dollars in tariffs on each other in ‌recent months",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/international/trump-holds-call-with-netanyahu-over-state-of-iran-war-report/article71654260.ece",
+   "h": "Trump holds call with Netanyahu over state of Iran war: report",
+   "link": "https://www.thehindu.com/news/international/trump-holds-call-with-netanyahu-over-state-of-iran-war-report/article71654260.ece",
+   "src": "The Hindu - International",
+   "t": "2026-11-02T02:05:58+05:30",
+   "date": "2026-11-02",
+   "snip": "The Israeli source described the call as “tough,” while the American source said it was “direct,” according to Axios",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331353",
    "h": "केन्द्रीय रेल मंत्री ने बेंगलुरु-मुंबई वंदे भारत स्लीपर एक्सप्रेस ट्रेन को हरी झंडी दिखाकर रवाना किया",
@@ -4790,30 +4814,6 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/centre-clears-7396-crore-panchayat-capacity-building-scheme-for-2026-31/article71636149.ece",
-   "h": "Centre clears ₹7,396-crore panchayat capacity-building scheme for 2026-31",
-   "link": "https://www.thehindu.com/news/national/centre-clears-7396-crore-panchayat-capacity-building-scheme-for-2026-31/article71636149.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-28T19:46:52+05:30",
-   "date": "2026-10-28",
-   "snip": "PM Viksit Gram Swaraj Yojana aims to train 32 lakh elected representatives, prepare 2.55 lakh village development plans, and strengthen grassroots planning",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/karnataka/state-govt-will-roll-out-750-new-ambulances-by-dec-says-minister/article71636082.ece",
-   "h": "State govt. will roll out 750 new ambulances by Dec., says Minister",
-   "link": "https://www.thehindu.com/news/national/karnataka/state-govt-will-roll-out-750-new-ambulances-by-dec-says-minister/article71636082.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-28T19:39:38+05:30",
-   "date": "2026-10-28",
-   "snip": "This is meant to strengthen emergency healthcare, particularly in rural areas, according to U.T. Khader",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 2
   }
  ]
 }
