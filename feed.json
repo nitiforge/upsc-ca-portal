@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T04:36:45.930603+05:30",
+ "updated": "2026-11-02T08:01:51.518822+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,66 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/international/jet-crash-in-florida-all-nine-people-aboard-killed-says-transportation-secretary/article71655145.ece",
+   "h": "Jet crash in Florida: All nine people aboard killed, says Transportation Secretary",
+   "link": "https://www.thehindu.com/news/international/jet-crash-in-florida-all-nine-people-aboard-killed-says-transportation-secretary/article71655145.ece",
+   "src": "The Hindu - International",
+   "t": "2026-11-02T07:28:27+05:30",
+   "date": "2026-11-02",
+   "snip": "The aircraft had departed Austin-Bergstrom International Airport in Texas and was headed to the Bahamas, according to the Federal Aviation Administration",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece",
+   "h": "Cyclone Murasu LIVE updates: System intensifies into 'Severe Cyclonic Storm', moves towards south Andhra Pradesh",
+   "link": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-02T07:14:12+05:30",
+   "date": "2026-11-02",
+   "snip": "Chennai and Tiruvallur District Collectors have announced that schools and colleges will be closed on Monday",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/sci-tech/science/science-snapshots-november-1-2026/article71655133.ece",
+   "h": "Science Snapshots: November 1, 2026",
+   "link": "https://www.thehindu.com/sci-tech/science/science-snapshots-november-1-2026/article71655133.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-11-02T07:00:27+05:30",
+   "date": "2026-11-02",
+   "snip": "Three recent important research developments, all readable in one minute",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/cyclone-murasu-tamil-nadu-schools-colleges-holiday-chennai-november-2/article71655116.ece",
+   "h": "Cyclone Murasu: Holiday for schools and colleges in Chennai and Tiruvallur",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/cyclone-murasu-tamil-nadu-schools-colleges-holiday-chennai-november-2/article71655116.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-02T06:56:43+05:30",
+   "date": "2026-11-02",
+   "snip": "Chennai and Tiruvallur District Collectors have announced that schools and colleges in the districts will be closed on November 2 because of heavy rain",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/india-bloc-rally-congress-on-modi-sir-gyanesh-kumar/article71652720.ece",
+   "h": "‘Remove Modi to save democracy’: Congress chief Kharge attacks PM at INDIA bloc rally",
+   "link": "https://www.thehindu.com/news/national/india-bloc-rally-congress-on-modi-sir-gyanesh-kumar/article71652720.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-02T06:42:23+05:30",
+   "date": "2026-11-02",
+   "snip": "Addressing INDIA bloc's rally at Ramlila Maidan on the \"vote chori\" charge, Mr. Kharge also accused Prime Minister Modi and Home Minister Amit Shah of shielding Chief Election Commissioner (CEC) Gyanesh Kumar",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
   {
    "id": "https://www.thehindu.com/news/international/canada-pm-carney-says-he-had-good-conversation-with-trump-on-trade/article71654266.ece",
    "h": "Canada PM Carney says he had good conversation with Trump on trade",
@@ -700,6 +760,18 @@
    "score": 2
   },
   {
+   "id": "https://www.thehindu.com/sci-tech/science/why-even-a-strong-el-nino-does-not-guarantee-a-poor-indian-monsoon/article71652226.ece",
+   "h": "Why even a strong El Niño does not guarantee a poor Indian monsoon",
+   "link": "https://www.thehindu.com/sci-tech/science/why-even-a-strong-el-nino-does-not-guarantee-a-poor-indian-monsoon/article71652226.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-11-01T11:30:40+05:30",
+   "date": "2026-11-01",
+   "snip": "Seven Indian monsoons since 1950 have run into a moderate or strong El Niño. Of these, in five years, including 2026, monsoon rainfall levels were at least 10% lower than the long-term average. The IMD refers to this level as 'deficient’. The 2023 season was something of an exception with ‘below average’ rainfall. However, 1997 had ‘average’ rainfall",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
    "id": "https://www.thehindu.com/books/justice-sanjay-kishan-kaul-on-his-memoir-without-fear-or-favour-and-the-executives-growing-influence-over-the-collegium-system/article71643731.ece",
    "h": "Justice Sanjay Kishan Kaul on his memoir ‘Without Fear or Favour ‘and the executive’s growing influence over the collegium system",
    "link": "https://www.thehindu.com/books/justice-sanjay-kishan-kaul-on-his-memoir-without-fear-or-favour-and-the-executives-growing-influence-over-the-collegium-system/article71643731.ece",
@@ -709,6 +781,18 @@
    "snip": "The former Supreme Court judge on delays in clearing collegium recommendations and the need for reform",
    "cat": "Polity",
    "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/business/Economy/playbook-to-overcome-inflation/article71651980.ece",
+   "h": "Playbook to overcome inflation",
+   "link": "https://www.thehindu.com/business/Economy/playbook-to-overcome-inflation/article71651980.ece",
+   "src": "The Hindu - Business",
+   "t": "2026-11-01T07:34:03+05:30",
+   "date": "2026-11-01",
+   "snip": "Fuel, education, healthcare, and travel costs tend to surge in urban and semi urban areas and hence inflation can differ depending on what you consume",
+   "cat": "Economy",
+   "gs": "GS3",
    "score": 2
   },
   {
@@ -4725,90 +4809,6 @@
    "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329721",
    "src": "PIB",
    "t": "2026-10-28T19:52:06.614448+05:30",
-   "date": "2026-10-28",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329683",
-   "h": "वित्तीय बाधाओं से वैश्विक नवाचार तक : महत्वाकांक्षा और अवसर की एक यात्रा",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329683",
-   "src": "PIB",
-   "t": "2026-10-28T19:52:06.614420+05:30",
-   "date": "2026-10-28",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329707",
-   "h": "भारतीय पाक कला संस्थान ने बीबीए और एमबीए पाठ्यक्रमों की मान्यता के लिए जवाहरलाल नेहरू विश्वविद्यालय के साथ समझौता ज्ञापन पर हस्ताक्षर किये",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329707",
-   "src": "PIB",
-   "t": "2026-10-28T19:52:06.614391+05:30",
-   "date": "2026-10-28",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329703",
-   "h": "कार्पोरेट कार्य मंत्रालय के स्वच्छता अभियान 'विशेष अभियान 6.0' के तहत ई-कचरा प्रबंधन और रीसाइक्लिंग पहलों से 10,50,520 रुपये का महत्वपूर्ण राजस्व प्राप्त हुआ",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329703",
-   "src": "PIB",
-   "t": "2026-10-28T19:52:06.614358+05:30",
-   "date": "2026-10-28",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329715",
-   "h": "वस्त्र मंत्रालय 1 नवंबर 2026 से नए आवेदन स्वीकार करने के लिए पीएलआई योजना पोर्टल खोलेगा",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329715",
-   "src": "PIB",
-   "t": "2026-10-28T19:52:06.614325+05:30",
-   "date": "2026-10-28",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329734",
-   "h": "सड़क से स्वावलंबन तक",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329734",
-   "src": "PIB",
-   "t": "2026-10-28T19:52:06.614296+05:30",
-   "date": "2026-10-28",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329724",
-   "h": "पेट्रोलियम और प्राकृतिक गैस मंत्रालय ने विशेष अभियान 6 के तहत उल्लेखनीय प्रगति की है, 3.42 लाख वर्ग फुट से अधिक स्थान खाली कराया और स्क्रैप के निपटान से 49.46 करोड़ रुपए अर्जित किए",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329724",
-   "src": "PIB",
-   "t": "2026-10-28T19:52:06.614229+05:30",
-   "date": "2026-10-28",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329727",
-   "h": "लोकसभा अध्यक्ष ने लोकतंत्र में विचारों की भिन्नता के बावजूद आपसी सम्मान बनाए रखने की आवश्यकता पर जोर दिया",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329727",
-   "src": "PIB",
-   "t": "2026-10-28T19:52:06.612712+05:30",
    "date": "2026-10-28",
    "snip": "",
    "cat": "Polity",
