@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T01:43:15.880470+05:30",
+ "updated": "2026-11-03T07:53:24.296921+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,54 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/international/us-supreme-court-rejects-trump-administration-push-to-set-aside-thousands-of-california-ballots/article71659232.ece",
+   "h": "U.S. Supreme Court rejects Trump administration push to set aside thousands of California ballots",
+   "link": "https://www.thehindu.com/news/international/us-supreme-court-rejects-trump-administration-push-to-set-aside-thousands-of-california-ballots/article71659232.ece",
+   "src": "The Hindu - International",
+   "t": "2026-11-03T07:47:43+05:30",
+   "date": "2026-11-03",
+   "snip": "Another federal judge ruled against the administration's efforts to make last-minute demands of California election officials, finding they violated the Constitution",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/cities/Delhi/activists-raise-concern-over-supreme-court-order-on-green-firecrackers-raises-traders-lament-stock-availability/article71658218.ece",
+   "h": "Activists raise concern over Supreme Court order on green firecrackers, traders lament stock availability",
+   "link": "https://www.thehindu.com/news/cities/Delhi/activists-raise-concern-over-supreme-court-order-on-green-firecrackers-raises-traders-lament-stock-availability/article71658218.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-03T07:25:41+05:30",
+   "date": "2026-11-03",
+   "snip": "Over the years, both complete or partial bans on firecrackers have been openly flouted by people in the national capital",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/international/us-strikes-irans-qeshm-island-report/article71659212.ece",
+   "h": "U.S. strikes Iran's Qeshm Island: report",
+   "link": "https://www.thehindu.com/news/international/us-strikes-irans-qeshm-island-report/article71659212.ece",
+   "src": "The Hindu - International",
+   "t": "2026-11-03T07:16:35+05:30",
+   "date": "2026-11-03",
+   "snip": "The Wall Street Journal added that strikes have been carried out on ‌a smaller scale and purposefully ​kept secret so as not to signal any intent ⁠of resuming its major military campaign against Iran",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/maharashtra/maharashtra-sets-up-drought-mitigation-panel-approves-29191-crore-relief-for-flood-hit-farmers/article71657940.ece",
+   "h": "Maharashtra sets up drought mitigation panel, approves ₹291.91 crore relief for flood-hit farmers",
+   "link": "https://www.thehindu.com/news/national/maharashtra/maharashtra-sets-up-drought-mitigation-panel-approves-29191-crore-relief-for-flood-hit-farmers/article71657940.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-03T02:35:56+05:30",
+   "date": "2026-11-03",
+   "snip": "The measures follow deficient rainfall in parts of Maharashtra during 2026, prompting the government to declare drought in talukas identified under the Kharif season’s Trigger-1 assessment",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 2
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331741",
    "h": "डॉ. जितेंद्र सिंह ने उच्च भूकंपीय क्षेत्र किश्तवाड़ में नई भूकंपीय वेधशाला का उद्घाटन करते हुए आपदा तैयारियों और मौसम निगरानी संबंधी बुनियादी ढांचे के विस्तार पर प्रकाश डाला",
@@ -352,6 +400,18 @@
    "score": 2
   },
   {
+   "id": "https://www.thehindu.com/news/national/kerala/valapattanam-river-samples-reveal-alarminglevels-of-chemical-pollutants-bacteria/article71652680.ece",
+   "h": "Valapattanam river samples reveal alarminglevels of chemical pollutants, bacteria",
+   "link": "https://www.thehindu.com/news/national/kerala/valapattanam-river-samples-reveal-alarminglevels-of-chemical-pollutants-bacteria/article71652680.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-03T00:02:07+05:30",
+   "date": "2026-11-03",
+   "snip": "Test reports from the PCB have revealed severe pollution in the Valapattanam river, raising concerns about public health, aquatic life and the quality of drinking water in riverside areas",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 3
+  },
+  {
    "id": "https://www.thehindu.com/news/national/tamil-nadu/police-must-serve-the-state-which-endures-and-not-the-party-in-government-which-changes-madras-high-court/article71657148.ece",
    "h": "Police must serve the State, which endures, and not the party in government, which changes: Madras High Court",
    "link": "https://www.thehindu.com/news/national/tamil-nadu/police-must-serve-the-state-which-endures-and-not-the-party-in-government-which-changes-madras-high-court/article71657148.ece",
@@ -409,6 +469,18 @@
    "snip": "",
    "cat": "Polity",
    "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/sci-tech/science/how-smoking-sets-the-stage-for-lung-cancer-glimpsed-in-new-study/article71657077.ece",
+   "h": "How smoking sets the stage for lung cancer, glimpsed in new study",
+   "link": "https://www.thehindu.com/sci-tech/science/how-smoking-sets-the-stage-for-lung-cancer-glimpsed-in-new-study/article71657077.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-11-02T22:50:11+05:30",
+   "date": "2026-11-02",
+   "snip": "Chronic smoke exposure alters lung stem cells and weakens their safety mechanisms and local immune defences, creating a precancerous state; common KRAS and TP53 mutations triggered tumours only in smoke-conditioned tissue, showing how smoking primes cells for cancer",
+   "cat": "Security",
+   "gs": "GS3",
    "score": 2
   },
   {
@@ -748,6 +820,18 @@
    "score": 3
   },
   {
+   "id": "https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece",
+   "h": "The Milky Way grew by devouring galaxies, leaving a trail of ghost stars",
+   "link": "https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-11-02T14:39:24+05:30",
+   "date": "2026-11-02",
+   "snip": "Galactic archaeologists are using precise measures and larger sample sizes afforded by new missions to tease apart minute differences between groups of stars, revealing the history of the Milky Way going back almost 12 billion years",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 4
+  },
+  {
    "id": "https://www.thehindu.com/videos/why-isros-latest-success-matters-more-than-it-appears-the-hindu-editorial/article71655983.ece",
    "h": "Why ISRO’s latest success matters more than it appears | The Hindu Editorial",
    "link": "https://www.thehindu.com/videos/why-isros-latest-success-matters-more-than-it-appears-the-hindu-editorial/article71655983.ece",
@@ -829,6 +913,18 @@
    "snip": "The Bench however said the former Minister was entitled to raise all points in his defence and in accordance with law during future proceedings before the court",
    "cat": "Polity",
    "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/study-in-keralam-sheds-light-on-link-between-gut-bacteria-parkinsons-disease/article71638025.ece",
+   "h": "Study in Keralam sheds light on link between gut bacteria, Parkinson’s disease",
+   "link": "https://www.thehindu.com/news/national/kerala/study-in-keralam-sheds-light-on-link-between-gut-bacteria-parkinsons-disease/article71638025.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-11-02T12:15:52+05:30",
+   "date": "2026-11-02",
+   "snip": "Researchers from CUSAT and SCTIMST, Thiruvananthapuram, find significant differences between gut bacteria of Parkinson’s patients and those of healthy individuals",
+   "cat": "Science & Tech",
+   "gs": "GS3",
    "score": 3
   },
   {
@@ -4713,102 +4809,6 @@
    "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329912",
    "src": "PIB",
    "t": "2026-10-29T16:36:42.062730+05:30",
-   "date": "2026-10-29",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329905",
-   "h": "केंद्रीय वाणिज्य एवं उद्योग मंत्री श्री पीयूष गोयल ने निर्यात प्रोत्साहन परिषदों के साथ वार्ता की और निर्यात क्षेत्र में प्रतिस्पर्धात्मकता बढ़ाने तथा बाजार में विविधता का आह्वान किया",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329905",
-   "src": "PIB",
-   "t": "2026-10-29T16:36:42.062697+05:30",
-   "date": "2026-10-29",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329897",
-   "h": "माय भारत ने चुनाव संबंधी जागरूकता को बढ़ावा देने के लिए 14 राज्यों/केंद्रशासित प्रदेशों में 'विकसित भारत युवा संवाद: अपने मत को जानें' कार्यक्रम का आयोजन किया",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329897",
-   "src": "PIB",
-   "t": "2026-10-29T16:36:42.062663+05:30",
-   "date": "2026-10-29",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329889",
-   "h": "ईएसआईसी ने नई माफी योजना 2025 की समय-सीमा 31 दिसंबर 2026 तक बढ़ाई: नियोक्ताओं और बीमित व्यक्तियों को लंबित मामलों के निपटारे के लिए मिला और अधिक समय",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329889",
-   "src": "PIB",
-   "t": "2026-10-29T16:36:42.062630+05:30",
-   "date": "2026-10-29",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329884",
-   "h": "प्रधानमंत्री ने आस्था के महत्त्व को रेखांकित करने वाले संस्कृत सुभाषितम् को साझा किया",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329884",
-   "src": "PIB",
-   "t": "2026-10-29T16:36:42.062599+05:30",
-   "date": "2026-10-29",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329922",
-   "h": "भारत सामूहिक क्षेत्रीय सुरक्षा और आतंकवाद के उन्मूलन के लिए प्रतिबद्ध; संयुक्त क्षमताओं को सुदृढ़ करने के लिए एडीएमएम-प्लस साझेदारों के साथ धरातल पर परखे गए अनुभव साझा करने को तैयार: रक्षा मंत्री",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329922",
-   "src": "PIB",
-   "t": "2026-10-29T16:36:42.062567+05:30",
-   "date": "2026-10-29",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329932",
-   "h": "वस्त्र मंत्रालय ने विशेष अभियान 6.0 के अंतर्गत वस्त्र समिति की महत्वपूर्ण उपलब्धियों को रेखांकित किया",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329932",
-   "src": "PIB",
-   "t": "2026-10-29T16:36:42.062535+05:30",
-   "date": "2026-10-29",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329882",
-   "h": "केन्द्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह ने चक्रवात 'अर्नब' के मद्देनजर आंध्र प्रदेश, पुडुचेरी, ओडिशा और छत्तीसगढ़ के मुख्यमंत्रियों से बात की",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329882",
-   "src": "PIB",
-   "t": "2026-10-29T16:36:42.062504+05:30",
-   "date": "2026-10-29",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329980",
-   "h": "डीएसटी के ईएसटीआईसी सत्र में विज्ञान में परिवर्तन और स्वायत्त प्रणालियों, भौतिक एआई और रोबोटिक्स के साथ नवाचारों पर चर्चा की गई",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329980",
-   "src": "PIB",
-   "t": "2026-10-29T16:36:42.062473+05:30",
    "date": "2026-10-29",
    "snip": "",
    "cat": "Polity",
