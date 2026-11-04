@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T23:19:32.250239+05:30",
+ "updated": "2026-11-05T04:45:27.420074+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,126 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/national/haryana/schools-must-address-bullying-based-on-gender-identity-sexual-orientation-high-court/article71666482.ece",
+   "h": "Schools must address bullying based on gender identity, sexual orientation: High Court",
+   "link": "https://www.thehindu.com/news/national/haryana/schools-must-address-bullying-based-on-gender-identity-sexual-orientation-high-court/article71666482.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-05T03:33:44+05:30",
+   "date": "2026-11-05",
+   "snip": "The court gave directions after hearing a petition by the mother of a 16-year-old boy, a student of a prominent school in Faridabad, who died on February 24, 2022, accusing the school authorities and the headmistress of it",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/sci-tech/health/government-proposes-immediate-suspension-of-manufacturing-licences-of-substandard-drugs/article71666870.ece",
+   "h": "Government proposes immediate suspension of manufacturing licences of substandard drugs",
+   "link": "https://www.thehindu.com/sci-tech/health/government-proposes-immediate-suspension-of-manufacturing-licences-of-substandard-drugs/article71666870.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-05T01:26:53+05:30",
+   "date": "2026-11-05",
+   "snip": "Proposed amendment provides for mandatory corrective measures before revocation of the suspension; suspension shall continue until the manufacturer undertakes corrective action",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/direct-tn-dgp-to-frame-guidelines-regarding-registration-of-criminal-cases-for-social-media-posts-political-criticism-and-online-speech-insists-a-pil-plea-before-madras-high-court/article71666993.ece",
+   "h": "Direct T.N. DGP to frame guidelines regarding registration of criminal cases for social media posts, political criticism and online speech, insists a PIL plea before Madras High Court",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/direct-tn-dgp-to-frame-guidelines-regarding-registration-of-criminal-cases-for-social-media-posts-political-criticism-and-online-speech-insists-a-pil-plea-before-madras-high-court/article71666993.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-05T01:18:17+05:30",
+   "date": "2026-11-05",
+   "snip": "Litigant says the Telangana High Court had framed a set of guidelines last year for the police in the neighbouring State and that Tamil Nadu could take a cue from that judgment",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/expert-team-assesses-safety-of-sathanur-dam-in-tiruvannamalai-during-monsoon/article71665875.ece",
+   "h": "Expert team assesses safety of Sathanur Dam in Tiruvannamalai during monsoon",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/expert-team-assesses-safety-of-sathanur-dam-in-tiruvannamalai-during-monsoon/article71665875.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-05T00:55:11+05:30",
+   "date": "2026-11-05",
+   "snip": "WRD officials said that among 20 major dams in the State, Sathanur dam is the third largest after Mettur and Bhavani Sagar, in terms of storage capacity and height",
+   "cat": "Environment",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/opinion/editorial/damning-report-on-justice-muralidhars-report-on-israeli-atrocities/article71665929.ece",
+   "h": "Damning report: On Justice Muralidhar’s report on Israeli atrocities",
+   "link": "https://www.thehindu.com/opinion/editorial/damning-report-on-justice-muralidhars-report-on-israeli-atrocities/article71665929.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-05T00:54:47+05:30",
+   "date": "2026-11-05",
+   "snip": "The world must act on Justice Muralidhar’s report on Israeli atrocities",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/msme-training-programme-held-at-vit-in-vellore/article71665636.ece",
+   "h": "MSME training programme held at VIT in Vellore",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/msme-training-programme-held-at-vit-in-vellore/article71665636.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-05T00:50:56+05:30",
+   "date": "2026-11-05",
+   "snip": "In his presidential address, Mr. Viswanathan said that the MSME sector forms the backbone of the Indian economy",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/opinion/op-ed/what-the-brics-carbon-market-partnership-needs/article71666874.ece",
+   "h": "What the BRICS carbon market partnership needs",
+   "link": "https://www.thehindu.com/opinion/op-ed/what-the-brics-carbon-market-partnership-needs/article71666874.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-05T00:34:53+05:30",
+   "date": "2026-11-05",
+   "snip": "BRICS can turn fragmented carbon markets into a coordinated trading framework",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/opinion/op-ed/science-should-move-past-top-2-label/article71667264.ece",
+   "h": "Science should move past ‘top 2%’ label",
+   "link": "https://www.thehindu.com/opinion/op-ed/science-should-move-past-top-2-label/article71667264.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-11-05T00:28:48+05:30",
+   "date": "2026-11-05",
+   "snip": "India needs both fundamental research and practical solutions without making inclusion in the ‘top 2% scientists’ database’ the primary goal",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/governor-presents-unit-citations-to-air-force-station-avadi-27-special-composite-group-of-national-security-guard/article71664675.ece",
+   "h": "Governor presents Unit Citations to Air Force Station, Avadi, 27 Special Composite Group of National Security Guard",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/governor-presents-unit-citations-to-air-force-station-avadi-27-special-composite-group-of-national-security-guard/article71664675.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-05T00:17:57+05:30",
+   "date": "2026-11-05",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/how-the-supreme-court-shaped-due-process-in-death-penalty-cases/article71662673.ece",
+   "h": "How the Supreme Court shaped due process in death penalty cases",
+   "link": "https://www.thehindu.com/news/national/how-the-supreme-court-shaped-due-process-in-death-penalty-cases/article71662673.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-05T00:03:32+05:30",
+   "date": "2026-11-05",
+   "snip": "In Bachan Singh, the apex court upheld the death penalty but laid down guidelines for judicial discretion; in Manoj v. State of Madhya Pradesh, it prescribed ‘practical guidelines’, including the submission of mental health evaluations and custody conduct reports of the accused",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 4
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332618",
    "h": "भारतीय दूरसंचार नियामक प्राधिकरण (टीआरएआई) ने 'नेटवर्क अनुभव' प्लेटफॉर्म का शुभारंभ किया",
@@ -4684,136 +4804,16 @@
    "score": 3
   },
   {
-   "id": "https://www.thehindu.com/sci-tech/science/in-kashmir-traditional-rice-clues-to-a-journey-from-east-asia/article71626287.ece",
-   "h": "In Kashmir’s traditional rice, clues to a journey from East Asia",
-   "link": "https://www.thehindu.com/sci-tech/science/in-kashmir-traditional-rice-clues-to-a-journey-from-east-asia/article71626287.ece",
-   "src": "The Hindu - Science",
-   "t": "2026-10-31T10:29:52+05:30",
+   "id": "https://www.thehindu.com/opinion/editorial/beyond-gullibility-on-digital-arrest-scams/article71646642.ece",
+   "h": "Beyond gullibility: On digital arrest scams",
+   "link": "https://www.thehindu.com/opinion/editorial/beyond-gullibility-on-digital-arrest-scams/article71646642.ece",
+   "src": "The Hindu - Editorial",
+   "t": "2026-10-31T10:44:48+05:30",
    "date": "2026-10-31",
-   "snip": "Kashmir’s traditional varieties carry cold-tolerance and other locally adapted genes that modern varieties have partly lost, making them potentially valuable as climate change increases stress on crops, new research has found. The analysis also indicated the varieties are more closely related to those from the Korean Peninsula and Northeast China",
-   "cat": "Environment",
-   "gs": "GS3",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/science/your-dna-says-less-about-your-personality-than-a-short-online-quiz/article71630628.ece",
-   "h": "Your DNA says less about your personality than a short online quiz",
-   "link": "https://www.thehindu.com/sci-tech/science/your-dna-says-less-about-your-personality-than-a-short-online-quiz/article71630628.ece",
-   "src": "The Hindu - Science",
-   "t": "2026-10-31T10:29:03+05:30",
-   "date": "2026-10-31",
-   "snip": "The findings of new research reinforce a long-standing idea in genetics that there is no single ‘personality gene’; the dataset the researchers used also directly challenged older theories that attempted to link traits to particular brain chemicals",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/science/scientists-unearth-new-instance-of-contagious-cancer-in-animals/article71604404.ece",
-   "h": "Scientists unearth new instance of ‘contagious cancer’ in animals",
-   "link": "https://www.thehindu.com/sci-tech/science/scientists-unearth-new-instance-of-contagious-cancer-in-animals/article71604404.ece",
-   "src": "The Hindu - Science",
-   "t": "2026-10-31T10:28:23+05:30",
-   "date": "2026-10-31",
-   "snip": "Researchers studied melanoma in the brown bullhead catfish, a resident of Lake Memphremagog, between Quebec in Canada and Vermont in the U.S.; the finding is interesting because it could reveal clues to keeping a human’s body from rejecting a transplanted organ",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/cities/bangalore/two-friends-same-police-batch-karnataka-loses-second-officer-in-two-months/article71646165.ece",
-   "h": "Two friends, same police batch: Karnataka loses second officer in two months",
-   "link": "https://www.thehindu.com/news/cities/bangalore/two-friends-same-police-batch-karnataka-loses-second-officer-in-two-months/article71646165.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-31T09:19:23+05:30",
-   "date": "2026-10-31",
-   "snip": "Karnataka police inspector Arun Salunke was among the deceased in the helicopter crash in Uttarakhand",
+   "snip": "Bank measures can only limit damage from ‘digital arrest’ scams",
    "cat": "International Relations",
    "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/international/us-south-korea-japan-vow-complete-north-korea-denuclearisation/article71648121.ece",
-   "h": "U.S., South Korea, Japan vow ‘complete’ North Korea’s denuclearisation",
-   "link": "https://www.thehindu.com/news/international/us-south-korea-japan-vow-complete-north-korea-denuclearisation/article71648121.ece",
-   "src": "The Hindu - International",
-   "t": "2026-10-31T08:58:23+05:30",
-   "date": "2026-10-31",
-   "snip": "Speculation is mounting over a potential meeting between U.S. President Donald Trump and North Korean leader Kim Jong Un at next month’s APEC summit in China, with Mr. Trump making repeated overtures to Pyongyang for nuclear talks",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/science/why-is-isros-nvs-03-satellite-launch-crucial-explained/article71643798.ece",
-   "h": "Why is ISRO’s NVS-03 satellite launch crucial? | Explained",
-   "link": "https://www.thehindu.com/sci-tech/science/why-is-isros-nvs-03-satellite-launch-crucial-explained/article71643798.ece",
-   "src": "The Hindu - Science",
-   "t": "2026-10-31T08:19:09+05:30",
-   "date": "2026-10-31",
-   "snip": "The mission could help restore the functioning of India’s regional satellite navigation system NavIC; its development began following the 1999 Kargil War, when the U.S reportedly clamped down on GPS data access",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 4
-  },
-  {
-   "id": "https://www.thehindu.com/news/international/police-secure-polands-constitutional-tribunal-as-protests-erupt-over-court-chiefs-suspension/article71646886.ece",
-   "h": "Police secure Poland's Constitutional Tribunal as protests erupt over court chief's suspension",
-   "link": "https://www.thehindu.com/news/international/police-secure-polands-constitutional-tribunal-as-protests-erupt-over-court-chiefs-suspension/article71646886.ece",
-   "src": "The Hindu - International",
-   "t": "2026-10-31T02:54:21+05:30",
-   "date": "2026-10-31",
-   "snip": "Police said they detained three people after some protesters breached the tribunal's fence and others threw objects at officers",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/jammu-and-kashmir/17-nc-mlas-issue-15-day-ultimatum-to-address-coterie-culture-other-issues-in-party/article71646586.ece",
-   "h": "17 NC MLAs issue 15-day ultimatum to address ‘coterie culture’, other issues in party",
-   "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/17-nc-mlas-issue-15-day-ultimatum-to-address-coterie-culture-other-issues-in-party/article71646586.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-31T02:18:34+05:30",
-   "date": "2026-10-31",
-   "snip": "Four-hour meeting of the 17 NC legislators in Srinagar comes three days after party vice-president and J&K CM Omar Abdullah expanded the Cabinet, leaving several leaders disgruntled at not being given a berth",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/science/nvs-03-satellite-launch-successful-isro/article71646807.ece",
-   "h": "GSLV places next-generation navigation satellite NVS-03 into orbit",
-   "link": "https://www.thehindu.com/sci-tech/science/nvs-03-satellite-launch-successful-isro/article71646807.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-31T02:08:44+05:30",
-   "date": "2026-10-31",
-   "snip": "The NVS-03, with a mission life of 12 years, is expected to restore the functioning of the NavIC constellation; satellite carries an indigenous atomic clock, along with procured atomic clocks",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/bihar/bihar-cm-samrat-choudhary-calls-for-adequate-ganga-water-share-to-boost-states-growth/article71645338.ece",
-   "h": "Bihar’s interests must be considered in the Ganga Water Treaty: Samrat Choudhary",
-   "link": "https://www.thehindu.com/news/national/bihar/bihar-cm-samrat-choudhary-calls-for-adequate-ganga-water-share-to-boost-states-growth/article71645338.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-31T01:19:30+05:30",
-   "date": "2026-10-31",
-   "snip": "The CM mentioned that Bihar’s rivers hold immense potential for the State, and through the proper management of their water and silt, new opportunities can be created in agriculture, industry, infrastructure, and employment",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 4
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330651",
-   "h": "निफ्ट ने 'विशेष अभियान 6' के तहत स्वच्छता, सतत विकास और हरित परिसर को बढ़ावा देने की दिशा में महत्वपूर्ण उपलब्धियां हासिल कीं",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330651",
-   "src": "PIB",
-   "t": "2026-10-31T01:12:49.062546+05:30",
-   "date": "2026-10-31",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
+   "score": 5
   }
  ]
 }
