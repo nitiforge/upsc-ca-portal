@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T04:01:23.318190+05:30",
+ "updated": "2026-11-04T08:13:58.069834+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,30 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/national/following-situation-mea-on-protests-by-garment-workers-in-bangladesh/article71661783.ece",
+   "h": "‘Following situation’: MEA on protests by garment workers in Bangladesh",
+   "link": "https://www.thehindu.com/news/national/following-situation-mea-on-protests-by-garment-workers-in-bangladesh/article71661783.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-04T06:36:25+05:30",
+   "date": "2026-11-04",
+   "snip": "The garment workers are holding protests over their demand for higher pay, prompting authorities to deploy additional paramilitary forces after reports surfaced of vandalism and violence",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/chhattisgarh/amit-shah-compares-india-blocs-mock-parliament-to-maoists-jantana-sarkar/article71661569.ece",
+   "h": "Amit Shah compares INDIA bloc’s mock Parliament to Maoists’ Jantana Sarkar",
+   "link": "https://www.thehindu.com/news/national/chhattisgarh/amit-shah-compares-india-blocs-mock-parliament-to-maoists-jantana-sarkar/article71661569.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-04T03:18:34+05:30",
+   "date": "2026-11-04",
+   "snip": "The mock Parliament was held at Congress president Mallikarjun Kharge’s New Delhi residence on October 31 for a “public impeachment” of Chief Election Commissioner Gyanesh Kumar",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
   {
    "id": "https://www.thehindu.com/news/national/tamil-nadu/when-will-14-state-run-universities-get-vice-chancellors-and-syndicates-madras-high-court-asks-tn-government/article71661443.ece",
    "h": "When will 14 State-run universities get Vice-Chancellors and Syndicates, Madras High Court asks T.N. government",
@@ -76,6 +100,18 @@
    "score": 2
   },
   {
+   "id": "https://www.thehindu.com/news/national/kerala/lawyer-approaches-kerala-high-court-against-adverse-remarks-by-district-judge/article71662079.ece",
+   "h": "Lawyer approaches Kerala High Court against ‘adverse remarks’ by district judge",
+   "link": "https://www.thehindu.com/news/national/kerala/lawyer-approaches-kerala-high-court-against-adverse-remarks-by-district-judge/article71662079.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-04T01:46:54+05:30",
+   "date": "2026-11-04",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
    "id": "https://www.thehindu.com/news/national/kerala/kerala-sasthra-sahithya-parishad-seeks-reconstitution-of-governments-health-task-force/article71661037.ece",
    "h": "Kerala Sasthra Sahithya Parishad seeks reconstitution of government’s health task force",
    "link": "https://www.thehindu.com/news/national/kerala/kerala-sasthra-sahithya-parishad-seeks-reconstitution-of-governments-health-task-force/article71661037.ece",
@@ -100,6 +136,18 @@
    "score": 3
   },
   {
+   "id": "https://www.thehindu.com/news/national/kerala/excise-submits-report-on-case-against-premium-hotel-in-keralams-kochi/article71662006.ece",
+   "h": "Excise submits report on case against premium hotel in Keralam’s Kochi",
+   "link": "https://www.thehindu.com/news/national/kerala/excise-submits-report-on-case-against-premium-hotel-in-keralams-kochi/article71662006.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-04T01:08:00+05:30",
+   "date": "2026-11-04",
+   "snip": "Action will be taken if it is found that illegal activities were taking place in the cover of bar licence, says Excise Minister",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
    "id": "https://www.thehindu.com/opinion/editorial/business-unusual-on-engaging-with-the-myanmar-junta/article71662196.ece",
    "h": "Business, unusual: On engaging with the Myanmar junta",
    "link": "https://www.thehindu.com/opinion/editorial/business-unusual-on-engaging-with-the-myanmar-junta/article71662196.ece",
@@ -110,6 +158,18 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/over-50-of-startups-in-tamil-nadu-are-led-by-women-says-startuptn-chairman/article71662138.ece",
+   "h": "Over 50% of startups in Tamil Nadu are led by women, says StartupTN Chairman",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/over-50-of-startups-in-tamil-nadu-are-led-by-women-says-startuptn-chairman/article71662138.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-04T00:39:35+05:30",
+   "date": "2026-11-04",
+   "snip": "We are still in a mindset that certain roles are meant for a particular gender. This has to change, the Chairman says",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 2
   },
   {
    "id": "https://www.thehindu.com/opinion/editorial/coming-of-age-on-the-binance-hack/article71661713.ece",
@@ -817,6 +877,18 @@
    "snip": "",
    "cat": "Polity",
    "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/sci-tech/science/a-mothers-hidden-genes-decide-which-way-her-snail-baby-spirals/article71660357.ece",
+   "h": "A mother’s hidden genes decide which way her snail baby spirals",
+   "link": "https://www.thehindu.com/sci-tech/science/a-mothers-hidden-genes-decide-which-way-her-snail-baby-spirals/article71660357.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-11-03T15:12:00+05:30",
+   "date": "2026-11-03",
+   "snip": "In 2023, after poring through photos posted online by hikers, a researcher found a location in north Japan where there were both left- and right-handed snails of a single species. Their shells also looked similar, suggesting the snails had interbred. This new population provided important clues about how the myosin gene worked",
+   "cat": "Economy",
+   "gs": "GS3",
    "score": 3
   },
   {
@@ -4742,78 +4814,6 @@
    "cat": "International Relations",
    "gs": "GS2",
    "score": 4
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/india-cut-us-and-russian-oil-imports-in-september-2026-pivoting-to-the-uae-as-tariffs-and-sanctions-reshaped-the-market/article71644597.ece",
-   "h": "India slashed U.S. and Russian oil in September, coinciding with ‘Russia Sanctions Act’; import from UAE increases",
-   "link": "https://www.thehindu.com/news/national/india-cut-us-and-russian-oil-imports-in-september-2026-pivoting-to-the-uae-as-tariffs-and-sanctions-reshaped-the-market/article71644597.ece",
-   "src": "The Hindu - Business",
-   "t": "2026-10-30T17:13:48+05:30",
-   "date": "2026-10-30",
-   "snip": "Government data shows that India’s oil sourcing remains highly concentrated, with just Russia and the UAE accounting for 60% of oil imports",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/international/new-york-restricts-ai-chatbot-interactions-with-children-explained/article71644287.ece",
-   "h": "New York restricts AI chatbot interactions with children | Explained",
-   "link": "https://www.thehindu.com/news/international/new-york-restricts-ai-chatbot-interactions-with-children-explained/article71644287.ece",
-   "src": "The Hindu - International",
-   "t": "2026-10-30T15:45:30+05:30",
-   "date": "2026-10-30",
-   "snip": "Governor Kathy Hochul signed two laws on October 28 barring AI chatbots from harmful interactions with minors, including simulating romantic relationships and promoting self-harm, and requiring security safeguards in internet-connected baby monitors",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330293",
-   "h": "8-दिवसीय ‘शिल्प समागम मेला 2026’ असम के गुवाहाटी में सफलतापूर्वक संपन्न",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330293",
-   "src": "PIB",
-   "t": "2026-10-30T13:13:33.610650+05:30",
-   "date": "2026-10-30",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330292",
-   "h": "माय भारत(MY Bharat) ने 12 राज्यों/केंद्रशासित प्रदेशों में 23 ‘विकसित भारत युवा संवाद: अपना वोट जानें’ कार्यक्रम आयोजित किया",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330292",
-   "src": "PIB",
-   "t": "2026-10-30T13:13:33.610617+05:30",
-   "date": "2026-10-30",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330294",
-   "h": "राष्ट्रीय लघु उद्योग निगम लिमिटेड (एनएसआईसी) ने वित्त वर्ष 2025-26 के लिए भारत सरकार को लाभांश प्रदान किया",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330294",
-   "src": "PIB",
-   "t": "2026-10-30T13:13:33.610588+05:30",
-   "date": "2026-10-30",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330295",
-   "h": "केंद्रीय वाणिज्य एवं उद्योग मंत्री श्री पीयूष गोयल ने तेलंगाना से एफटीए का अधिक से अधिक उपयोग करने का आह्वान किया",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330295",
-   "src": "PIB",
-   "t": "2026-10-30T13:13:33.610558+05:30",
-   "date": "2026-10-30",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
   }
  ]
 }
