@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T04:45:27.420074+05:30",
+ "updated": "2026-11-05T09:03:13.109799+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -16,6 +16,102 @@
  },
  "items": [
   {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332834",
+   "h": "पीआईबी नागपुर के ‘नक्सल मुक्त भारत’ विषय पर आयोजित वार्तालाप में गढ़चिरौली में सुरक्षा, विकास और सामुदायिक भागीदारी पर जोर दिया गया",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332834",
+   "src": "PIB",
+   "t": "2026-11-05T09:02:45.024232+05:30",
+   "date": "2026-11-05",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332833",
+   "h": "न्याय विभाग ने सरकारी मंत्रालयों और विभागों के लिए “ई-फाइलिंग 3.0: प्रक्रिया से व्यवहार तक” विषय पर कार्यशाला का आयोजन किया",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332833",
+   "src": "PIB",
+   "t": "2026-11-05T09:02:45.024109+05:30",
+   "date": "2026-11-05",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332835",
+   "h": "‘विकसित भारत युवा संवाद: अपना वोट जानें’ अभियान के तहत एमवाई भारत ने एक ही दिन में 100 कार्यक्रमों का आयोजन किया",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332835",
+   "src": "PIB",
+   "t": "2026-11-05T09:02:45.024068+05:30",
+   "date": "2026-11-05",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332836",
+   "h": "पीएम सूर्य घर वास्तव में एक जन आंदोलन का रूप ले चुका है: श्री प्रह्लाद जोशी",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332836",
+   "src": "PIB",
+   "t": "2026-11-05T09:02:45.024046+05:30",
+   "date": "2026-11-05",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332837",
+   "h": "केंद्रीय स्वास्थ्य एवं परिवार कल्याण मंत्रालय ने उन दवाओं के विनिर्माण लाइसेंस तुरंत निलंबित करने का प्रस्ताव रखा है जो निर्धारित महत्वपूर्ण मानकों पर खड़ा नहीं उतरती हैं",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332837",
+   "src": "PIB",
+   "t": "2026-11-05T09:02:45.024017+05:30",
+   "date": "2026-11-05",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332838",
+   "h": "भारत और कनाडा ने अपना पहला रक्षा संवाद आयोजित किया",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332838",
+   "src": "PIB",
+   "t": "2026-11-05T09:02:45.022939+05:30",
+   "date": "2026-11-05",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/international/what-the-us-midterms-mean-for-ties-with-china/article71668454.ece",
+   "h": "What the U.S. midterms mean for ties with China",
+   "link": "https://www.thehindu.com/news/international/what-the-us-midterms-mean-for-ties-with-china/article71668454.ece",
+   "src": "The Hindu - International",
+   "t": "2026-11-05T08:58:12+05:30",
+   "date": "2026-11-05",
+   "snip": "Here is how the outcome of the vote, which offers the Democratic Party the power to stymie President Donald Trump’s maverick foreign policy, could impact the thorny relationship between Washington and Beijing",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/rolling-effect-of-decelerating-population-growth-very-hard-to-reverse-supreme-court/article71666136.ece",
+   "h": "Falling fertility rate makes two-child penalties outdated in India, says Supreme Court",
+   "link": "https://www.thehindu.com/news/national/rolling-effect-of-decelerating-population-growth-very-hard-to-reverse-supreme-court/article71666136.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-05T07:09:57+05:30",
+   "date": "2026-11-05",
+   "snip": "‘The foundation of such laws, that is, the fear of overpopulation, has crumbled due to demographic changes in the past few decades’, says Bench",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
    "id": "https://www.thehindu.com/news/national/haryana/schools-must-address-bullying-based-on-gender-identity-sexual-orientation-high-court/article71666482.ece",
    "h": "Schools must address bullying based on gender identity, sexual orientation: High Court",
    "link": "https://www.thehindu.com/news/national/haryana/schools-must-address-bullying-based-on-gender-identity-sexual-orientation-high-court/article71666482.ece",
@@ -23,6 +119,30 @@
    "t": "2026-11-05T03:33:44+05:30",
    "date": "2026-11-05",
    "snip": "The court gave directions after hearing a petition by the mother of a 16-year-old boy, a student of a prominent school in Faridabad, who died on February 24, 2022, accusing the school authorities and the headmistress of it",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/kerala-high-court-denies-bail-to-student-accused-of-circulating-morphed-images-of-fellow-students-and-teachers/article71667115.ece",
+   "h": "Kerala High Court denies bail to student accused of circulating morphed images of fellow students and teachers",
+   "link": "https://www.thehindu.com/news/national/kerala/kerala-high-court-denies-bail-to-student-accused-of-circulating-morphed-images-of-fellow-students-and-teachers/article71667115.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-05T01:58:46+05:30",
+   "date": "2026-11-05",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/kerala-high-court-reserves-order-on-lawyers-petition-against-alleged-adverse-remarks-by-district-judge/article71667266.ece",
+   "h": "Kerala High Court reserves order on lawyer’s petition against alleged adverse remarks by district judge",
+   "link": "https://www.thehindu.com/news/national/kerala/kerala-high-court-reserves-order-on-lawyers-petition-against-alleged-adverse-remarks-by-district-judge/article71667266.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-05T01:56:14+05:30",
+   "date": "2026-11-05",
+   "snip": "",
    "cat": "Polity",
    "gs": "GS2",
    "score": 2
@@ -86,6 +206,18 @@
    "cat": "Economy",
    "gs": "GS3",
    "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/opinion/lead/anaemia-burden-iron-alone-is-no-solution/article71666828.ece",
+   "h": "Anaemia burden — iron alone is no solution",
+   "link": "https://www.thehindu.com/opinion/lead/anaemia-burden-iron-alone-is-no-solution/article71666828.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-11-05T00:42:56+05:30",
+   "date": "2026-11-05",
+   "snip": "India must tackle its anaemia burden through targeted nutrition, better diagnostics and comprehensive public health measures, not salt fortification alone",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 3
   },
   {
    "id": "https://www.thehindu.com/opinion/op-ed/what-the-brics-carbon-market-partnership-needs/article71666874.ece",
@@ -604,6 +736,18 @@
    "score": 2
   },
   {
+   "id": "https://www.thehindu.com/sci-tech/science/at-bengaluru-exhibition-an-attempt-to-make-the-quantum-seem-human/article71664686.ece",
+   "h": "At Bengaluru exhibition, an attempt to make the quantum seem human",
+   "link": "https://www.thehindu.com/sci-tech/science/at-bengaluru-exhibition-an-attempt-to-make-the-quantum-seem-human/article71664686.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-11-04T15:43:58+05:30",
+   "date": "2026-11-04",
+   "snip": "The Science Gallery Bengaluru exhibit ‘QUANTUM’ showcases a meld of science and art to turn the counter-intuitive principles of quantum physics into a human experience",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332350",
    "h": "बीआरई शिखर सम्मेलन और एक्स्पो 2026 वैश्विक निवेशकों और उद्योग जगत के दिग्गजों को एक साथ एक मंच पर लाता है",
    "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332350",
@@ -936,6 +1080,18 @@
    "date": "2026-11-04",
    "snip": "Lance Bottoms defeated billionaire health care executive Rick Jackson, the Republican candidate. Outgoing Republican Governor Brian Kemp was term-limited and could not run again",
    "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/sci-tech/science/house-lizards-can-contaminate-a-meal-but-are-not-poisonous/article71663806.ece",
+   "h": "House lizards can contaminate a meal but are not poisonous",
+   "link": "https://www.thehindu.com/sci-tech/science/house-lizards-can-contaminate-a-meal-but-are-not-poisonous/article71663806.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-11-04T08:20:12+05:30",
+   "date": "2026-11-04",
+   "snip": "Media reports from around India have periodically fuelled the belief that lizards can poison food. But while such incidents raise legitimate food-safety concerns, they also risk giving an already misunderstood animal a worse reputation",
+   "cat": "International Relations",
    "gs": "GS2",
    "score": 3
   },
@@ -4658,162 +4814,6 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330758",
-   "h": "भारत की राष्ट्रपति ने सरदार वल्लभभाई पटेल की जयंती पर पुष्पांजलि अर्पित की",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330758",
-   "src": "PIB",
-   "t": "2026-10-31T14:24:07.248319+05:30",
-   "date": "2026-10-31",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330790",
-   "h": "लोकसभा अध्यक्ष ने भारत के आध्यात्मिक पुनर्जागरण, सामाजिक परिवर्तन और राष्ट्र निर्माण में गायत्री परिवार के योगदान की सराहना की",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330790",
-   "src": "PIB",
-   "t": "2026-10-31T14:24:07.248281+05:30",
-   "date": "2026-10-31",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330811",
-   "h": "केन्द्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह ने आज नई दिल्ली में सरदार वल्लभभाई पटेल की 151वीं जयंती के अवसर पर राष्ट्रीय एकता दिवस पर आयोजित 'एकता दौड़' का शुभारंभ किया",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330811",
-   "src": "PIB",
-   "t": "2026-10-31T14:24:07.246856+05:30",
-   "date": "2026-10-31",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/tamil-nadu/hungry-customers-wont-be-able-to-distinguish-between-sangeetha-and-sangetha-madras-high-court-in-trademark-case/article71648391.ece",
-   "h": "Hungry customers won’t be able to distinguish between ‘Sangeetha’ and ‘Sangetha’: Madras High Court in trademark case",
-   "link": "https://www.thehindu.com/news/national/tamil-nadu/hungry-customers-wont-be-able-to-distinguish-between-sangeetha-and-sangetha-madras-high-court-in-trademark-case/article71648391.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-31T13:47:23+05:30",
-   "date": "2026-10-31",
-   "snip": "Justice P.B. Balaji quotes Tamil poetess Avvaiyar’s statement, ‘Pasi Vandhal Pathum Paranthu Pogum’, and the Tamil idiom, ‘Pasi Kanna Kattuthu’",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/andhra-pradesh/violence-in-punganur-high-court-hears-midhun-reddys-plea-to-quash-firs/article71646412.ece",
-   "h": "Violence in Punganur: High Court hears Midhun Reddy’s plea to quash FIRs",
-   "link": "https://www.thehindu.com/news/national/andhra-pradesh/violence-in-punganur-high-court-hears-midhun-reddys-plea-to-quash-firs/article71646412.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-31T13:34:38+05:30",
-   "date": "2026-10-31",
-   "snip": "Midhun Reddy's counsel argued that the cases were foisted on frivolous grounds",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/international/nations-commit-to-get-nature-goals-back-on-track-at-un-nature-summit/article71648500.ece",
-   "h": "Nations commit to get nature goals back on track at UN nature summit",
-   "link": "https://www.thehindu.com/news/international/nations-commit-to-get-nature-goals-back-on-track-at-un-nature-summit/article71648500.ece",
-   "src": "The Hindu - International",
-   "t": "2026-10-31T13:08:05+05:30",
-   "date": "2026-10-31",
-   "snip": "The United Nations had warned that progress was insufficient to meet the goals of the 2030 target including protecting 30% of Earth’s land and oceans, tackling pollution and invasive species, and boosting money for conservation",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/imd-scouting-for-land-to-set-up-wind-profiler-radars-in-kozhikode-thiruvananthapuram-under-mission-mausam/article71648420.ece",
-   "h": "IMD scouting for land to set up wind profiler radars in Kozhikode, Thiruvananthapuram under ‘Mission Mausam’",
-   "link": "https://www.thehindu.com/news/national/kerala/imd-scouting-for-land-to-set-up-wind-profiler-radars-in-kozhikode-thiruvananthapuram-under-mission-mausam/article71648420.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-31T13:00:08+05:30",
-   "date": "2026-10-31",
-   "snip": "Radar systems proposed as part of Union govt’s initiative under Ministry of Earth Sciences",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/telangana/telangana-introduces-unified-village-development-planning-framework/article71648357.ece",
-   "h": "Telangana introduces unified village development planning framework",
-   "link": "https://www.thehindu.com/news/national/telangana/telangana-introduces-unified-village-development-planning-framework/article71648357.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-31T12:54:33+05:30",
-   "date": "2026-10-31",
-   "snip": "New rules mandate three-to-five-year perspective plans, monthly monitoring and integration of Central and State schemes",
-   "cat": "Society",
-   "gs": "GS1",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/technology/what-we-know-about-binances-multi-billion-dollar-crypto-hack-explained/article71648484.ece",
-   "h": "What we know about Binance’s multi-billion-dollar crypto hack | Explained",
-   "link": "https://www.thehindu.com/sci-tech/technology/what-we-know-about-binances-multi-billion-dollar-crypto-hack-explained/article71648484.ece",
-   "src": "The Hindu - International",
-   "t": "2026-10-31T12:53:33+05:30",
-   "date": "2026-10-31",
-   "snip": "While the facts are still emerging, the Binance cyberattack could go down as the largest cryptocurrency hack on record",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/keralam-psc-exam-fraud-crime-branch-indicts-chairperson-members-on-charges-of-corruption-political-favouritism/article71648404.ece",
-   "h": "Keralam PSC exam fraud: Crime Branch indicts chairperson, members on charges of corruption, political favouritism",
-   "link": "https://www.thehindu.com/news/national/kerala/keralam-psc-exam-fraud-crime-branch-indicts-chairperson-members-on-charges-of-corruption-political-favouritism/article71648404.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-31T12:45:57+05:30",
-   "date": "2026-10-31",
-   "snip": "FIR indicts chairperson, other members for criminal breach of trust and wrongful employment of their constitutionally sanctioned authority to tilt the playing field in favour of candidates owing allegiance to CPI(M) by tweaking rank list for post of Fisheries Extension Officer",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/science/to-overcome-technical-hurdles-isro-flew-nvs-03-satellite-with-pyro-valves-open-narayanan/article71648408.ece",
-   "h": "To overcome technical hurdles, ISRO flew NVS-03 satellite with pyro valves open: Narayanan",
-   "link": "https://www.thehindu.com/sci-tech/science/to-overcome-technical-hurdles-isro-flew-nvs-03-satellite-with-pyro-valves-open-narayanan/article71648408.ece",
-   "src": "The Hindu - Science",
-   "t": "2026-10-31T11:56:57+05:30",
-   "date": "2026-10-31",
-   "snip": "Pyro valves are crucial in spacecraft propulsion, and it may be recalled that the NVS-02 (launched in 2025), the second spacecraft in the NVS series, was a failure",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/what-are-the-new-questions-in-2027-census-and-how-are-enumerators-being-trained-explained/article71648192.ece",
-   "h": "Census 2027: What are the new questions, and how are enumerators being trained? | Explained",
-   "link": "https://www.thehindu.com/news/national/what-are-the-new-questions-in-2027-census-and-how-are-enumerators-being-trained-explained/article71648192.ece",
-   "src": "The Hindu - National",
-   "t": "2026-10-31T11:51:44+05:30",
-   "date": "2026-10-31",
-   "snip": "As Uttar Pradesh and three other poll-bound States — Uttarakhand, Goa and Punjab — prepare to launch the second phase of Census 2027 on December 1, field trainers are briefing about 34 lakh enumerators on 40 questions that will require longer, more sensitive interviews and digital data entry, including caste, religion, Aadhaar access and parents’ details",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/opinion/editorial/beyond-gullibility-on-digital-arrest-scams/article71646642.ece",
-   "h": "Beyond gullibility: On digital arrest scams",
-   "link": "https://www.thehindu.com/opinion/editorial/beyond-gullibility-on-digital-arrest-scams/article71646642.ece",
-   "src": "The Hindu - Editorial",
-   "t": "2026-10-31T10:44:48+05:30",
-   "date": "2026-10-31",
-   "snip": "Bank measures can only limit damage from ‘digital arrest’ scams",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 5
   }
  ]
 }
