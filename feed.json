@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T00:29:21.975325+05:30",
+ "updated": "2026-11-06T05:33:17.190298+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,54 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/national/west-bengal/west-bengal-govts-new-investment-policy-promotes-job-linked-growth-incentives-for-plant-and-machinery/article71670833.ece",
+   "h": "West Bengal govt’s new investment policy promotes job-linked growth, incentives for plant and machinery",
+   "link": "https://www.thehindu.com/news/national/west-bengal/west-bengal-govts-new-investment-policy-promotes-job-linked-growth-incentives-for-plant-and-machinery/article71670833.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-06T03:17:19+05:30",
+   "date": "2026-11-06",
+   "snip": "The announcement of incentives marks a policy shift for West Bengal as the previous Trinamool Congress government had scrapped industrial incentive schemes and subsidies",
+   "cat": "Society",
+   "gs": "GS1",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/maharashtra/maharashtra-govt-approves-one-year-age-relaxation-for-recruitment-exams-panel-proposes-over-16000-mpsc-group-c-vacancies/article71670508.ece",
+   "h": "Maharashtra govt approves one-year age relaxation for recruitment exams, panel proposes over 16,000 MPSC Group C vacancies",
+   "link": "https://www.thehindu.com/news/national/maharashtra/maharashtra-govt-approves-one-year-age-relaxation-for-recruitment-exams-panel-proposes-over-16000-mpsc-group-c-vacancies/article71670508.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-06T02:26:58+05:30",
+   "date": "2026-11-06",
+   "snip": "According to the report, around 12 lakh candidates have applied for the MPSC Group C Combined Preliminary Examination 2026, for which more than 5,000 vacancies have been advertised",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/maharashtra/maharashtra-fda-seizes-drugs-cosmetics-worth-3451-lakh-cancels-122-licences/article71671236.ece",
+   "h": "Maharashtra FDA seizes drugs, cosmetics worth ₹34.51 lakh, cancels 122 licences",
+   "link": "https://www.thehindu.com/news/national/maharashtra/maharashtra-fda-seizes-drugs-cosmetics-worth-3451-lakh-cancels-122-licences/article71671236.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-06T02:08:49+05:30",
+   "date": "2026-11-06",
+   "snip": "The FDA urged citizens to report instances of illegal drug manufacturing or sales, as well as suspected substandard drugs, medical devices and cosmetics, to its commissioner’s office or the nearest district office",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/telangana/telangana-climate-conclave-to-be-special-feature-of-global-summit/article71670587.ece",
+   "h": "Telangana climate conclave to be special feature of global summit",
+   "link": "https://www.thehindu.com/news/national/telangana/telangana-climate-conclave-to-be-special-feature-of-global-summit/article71670587.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-06T00:33:50+05:30",
+   "date": "2026-11-06",
+   "snip": "Scientists and experts to deliberate on tackling climate change and drought proofing agriculture",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 4
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333335",
    "h": "ट्राई ने महाराष्ट्र (लाइसेंस प्राप्त सेवा क्षेत्र) के रत्नागिरी जिले में मोबाइल नेटवर्क की गुणवत्ता का आकलन किया",
@@ -4763,54 +4811,6 @@
    "t": "2026-11-01T08:59:46+05:30",
    "date": "2026-11-01",
    "snip": "The former Supreme Court judge on delays in clearing collegium recommendations and the need for reform",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/business/Economy/playbook-to-overcome-inflation/article71651980.ece",
-   "h": "Playbook to overcome inflation",
-   "link": "https://www.thehindu.com/business/Economy/playbook-to-overcome-inflation/article71651980.ece",
-   "src": "The Hindu - Business",
-   "t": "2026-11-01T07:34:03+05:30",
-   "date": "2026-11-01",
-   "snip": "Fuel, education, healthcare, and travel costs tend to surge in urban and semi urban areas and hence inflation can differ depending on what you consume",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/maharashtra/actor-ajay-devgn-moves-high-court-against-fda-notice-over-vimal-elaichi-ads/article71648172.ece",
-   "h": "Ajay Devgn moves Bombay High Court against FDA notice over Vimal Elaichi advertisements",
-   "link": "https://www.thehindu.com/news/national/maharashtra/actor-ajay-devgn-moves-high-court-against-fda-notice-over-vimal-elaichi-ads/article71648172.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-01T03:51:59+05:30",
-   "date": "2026-11-01",
-   "snip": "The FDA said on October 30 that its proceedings against three actors had ended and that the matter would go before the Joint Commissioner for adjudication",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/sport/ioas-election-code-of-conduct-bars-criticism-of-private-life-of-candidates-publicity/article71650830.ece",
-   "h": "IOA’s election Code of Conduct bars criticism of ‘private life’ of candidates, publicity",
-   "link": "https://www.thehindu.com/sport/ioas-election-code-of-conduct-bars-criticism-of-private-life-of-candidates-publicity/article71650830.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-01T03:09:30+05:30",
-   "date": "2026-11-01",
-   "snip": "The election to pick 10 members of the Athletes' Commission of the Indian Olympic Association (IOA) will be held on November 3, while the polls to choose eight SOMs will be held on November 9",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-advocates-association-challenges-1965-union-cabinet-decision-to-continue-english-as-common-language-for-supreme-court-and-all-high-courts/article71648537.ece",
-   "h": "Madras High Court Advocates Association challenges 1965 Union Cabinet decision to continue English as common language for Supreme Court and all High Courts",
-   "link": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-advocates-association-challenges-1965-union-cabinet-decision-to-continue-english-as-common-language-for-supreme-court-and-all-high-courts/article71648537.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-01T02:27:53+05:30",
-   "date": "2026-11-01",
-   "snip": "Says, the 1965 decision came to its notice only in 2025 pursuant to details obtained by a lawyer under the Right to Information Act, 2005",
    "cat": "Polity",
    "gs": "GS2",
    "score": 2
