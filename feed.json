@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T02:06:53.526905+05:30",
+ "updated": "2026-11-07T05:52:19.314057+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,18 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/national/jammu-and-kashmir/disallowed-friday-prayers-under-house-detention-for-6thday-mirwaiz/article71675173.ece",
+   "h": "Disallowed Friday prayers, under house detention for 6th day: Mirwaiz",
+   "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/disallowed-friday-prayers-under-house-detention-for-6thday-mirwaiz/article71675173.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-07T03:33:59+05:30",
+   "date": "2026-11-07",
+   "snip": "On the previous Friday, the Mirwaiz mentioned in his sermon the findings of the International Crisis Group report on Jammu and Kashmir and highlighted the concerns over political prisoners, civil liberties and the need for meaningful political engagement and reconciliation",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 3
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333780",
    "h": "विधि और न्याय मंत्रालय के न्याय विभाग ने सरकारी कार्यालयों में स्वच्छता को बढ़ावा देने और लंबित मामलों को कम करने के लिए विशेष अभियान 6 सफलतापूर्वक पूरा किया",
@@ -950,6 +962,18 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece",
+   "h": "The Milky Way grew by devouring galaxies, leaving a trail of ghost stars",
+   "link": "https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-11-06T10:10:39+05:30",
+   "date": "2026-11-06",
+   "snip": "Galactic archaeologists are using precise measures and larger sample sizes afforded by new missions to tease apart minute differences between groups of stars, revealing the history of the Milky Way going back almost 12 billion years",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 4
   },
   {
    "id": "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-cabinet-approves-63296-crore-plan-for-five-greenfield-corridors/article71672808.ece",
@@ -4720,6 +4744,18 @@
    "score": 2
   },
   {
+   "id": "https://www.thehindu.com/opinion/editorial/the-hindu-editorial-dwindling-support-on-the-us-and-the-cuban-embargo/article71654007.ece",
+   "h": "Dwindling support: On the U.S. and the Cuban embargo",
+   "link": "https://www.thehindu.com/opinion/editorial/the-hindu-editorial-dwindling-support-on-the-us-and-the-cuban-embargo/article71654007.ece",
+   "src": "The Hindu - Editorial",
+   "t": "2026-11-02T19:22:25+05:30",
+   "date": "2026-11-02",
+   "snip": "India and the world must stand up against the bullying of Cuba by the U.S.",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
    "id": "https://www.thehindu.com/news/national/dont-travel-by-air-says-supreme-court-refuses-urgent-listing-of-plea-alleging-700-hike-in-airfares/article71656239.ece",
    "h": "Don't travel by air, says Supreme Court; refuses urgent listing of plea alleging 700% hike in airfares",
    "link": "https://www.thehindu.com/news/national/dont-travel-by-air-says-supreme-court-refuses-urgent-listing-of-plea-alleging-700-hike-in-airfares/article71656239.ece",
@@ -4744,6 +4780,18 @@
    "score": 2
   },
   {
+   "id": "https://www.thehindu.com/sci-tech/science/shock-and-regret-scientists-react-to-ai-roiling-lifes-work/article71656158.ece",
+   "h": "Shock and regret: scientists react to AI roiling life’s work",
+   "link": "https://www.thehindu.com/sci-tech/science/shock-and-regret-scientists-react-to-ai-roiling-lifes-work/article71656158.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-11-02T15:42:43+05:30",
+   "date": "2026-11-02",
+   "snip": "OpenAI and Anthropic each said last week that one of their AI models had disproved the exponential time hypothesis",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331375",
    "h": "प्रधानमंत्री श्री नरेन्द्र मोदी के 'हर घर स्वदेशी, घर घर स्वदेशी' के आह्वान को नई पीढ़ी (जेन-जी) तक पहुंचाने के उद्देश्य से दिल्ली के कनॉट प्लेस में 'खादी दिवाली उत्सव-2026' का आयोजन किया जा रहा है",
    "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331375",
@@ -4761,54 +4809,6 @@
    "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331381",
    "src": "PIB",
    "t": "2026-11-02T15:28:41.873266+05:30",
-   "date": "2026-11-02",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331382",
-   "h": "वाणिज्य सचिव श्री राजेश अग्रवाल ने ब्रुसेल्स में यूरोपीय आयोग के अधिकारियों और उद्योग प्रतिनिधियों के साथ उच्च स्तरीय बैठकें कीं",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331382",
-   "src": "PIB",
-   "t": "2026-11-02T15:28:41.873236+05:30",
-   "date": "2026-11-02",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331499",
-   "h": "भगवान बुद्ध के पवित्र अवशेष तवांग मठ पहुंचे; यह प्रदर्शनी अरुणाचल प्रदेश की बौद्ध विरासत में विशेष अवसर है",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331499",
-   "src": "PIB",
-   "t": "2026-11-02T15:28:41.873207+05:30",
-   "date": "2026-11-02",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331387",
-   "h": "खेत बचाओ अभियान - रबी 2026",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331387",
-   "src": "PIB",
-   "t": "2026-11-02T15:28:41.873183+05:30",
-   "date": "2026-11-02",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331400",
-   "h": "ग्रामीण विकास मंत्रालय ने वीबी-जी राम जी अधिनियम के तहत शिकायत निवारण नियम, 2026 अधिसूचित किए",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331400",
-   "src": "PIB",
-   "t": "2026-11-02T15:28:41.873159+05:30",
    "date": "2026-11-02",
    "snip": "",
    "cat": "Polity",
