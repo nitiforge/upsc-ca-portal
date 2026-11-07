@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T23:40:44.416609+05:30",
+ "updated": "2026-11-08T03:21:12.885440+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,54 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/water-released-from-shenbagathoppu-dam-due-to-rain/article71678323.ece",
+   "h": "Water released from Shenbagathoppu dam due to rain",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/water-released-from-shenbagathoppu-dam-due-to-rain/article71678323.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-08T01:00:13+05:30",
+   "date": "2026-11-08",
+   "snip": "Tiruvannamalai Collector Vandhana Garg has warned residents in Cheyyar, Arani, Vandavasi, and Polur towns along Kamandalam Naganathi river against crossing the waterbody as the waterflow in the river is on the rise",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/political-leaders-demand-probe-into-irregularities-in-book-procurement-at-periyar-arivulagam/article71679143.ece",
+   "h": "Political leaders demand probe into irregularities in book procurement at Periyar Arivulagam",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/political-leaders-demand-probe-into-irregularities-in-book-procurement-at-periyar-arivulagam/article71679143.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-08T00:28:33+05:30",
+   "date": "2026-11-08",
+   "snip": "Palaniswami demands that a commission of inquiry be set up under the chairmanship of a former HC judge to probe the allegations. CPI(M) State secretary P. Shanmugam asserts that a regular police inquiry will not bring out the truth",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/international/why-are-the-us-midterm-elections-significant/article71679440.ece",
+   "h": "Why are the U.S. midterm elections significant?",
+   "link": "https://www.thehindu.com/news/international/why-are-the-us-midterm-elections-significant/article71679440.ece",
+   "src": "The Hindu - International",
+   "t": "2026-11-08T00:26:53+05:30",
+   "date": "2026-11-08",
+   "snip": "What do the results tell us about American voters’ attitudes towards President Donald Trump? What do they mean for Democrats and Republicans? What lies ahead for Democrats? Why are these results so important for the rest of the world?",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/indias-policy-shift-towards-israel-is-regrettable-says-former-madras-high-court-judge-at-book-launch/article71679140.ece",
+   "h": "India’s policy shift towards Israel is regrettable, says former Madras High Court judge at book launch",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/indias-policy-shift-towards-israel-is-regrettable-says-former-madras-high-court-judge-at-book-launch/article71679140.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-08T00:00:38+05:30",
+   "date": "2026-11-08",
+   "snip": "The book, Amerikka-Israel Aneethiyum Makkal Samuga Kadamaiyum, features articles examining the trajectory of hostilities between the United States and Iran and the Israel-Lebanon conflict",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333997",
    "h": "प्रधानमंत्री ने नागरिकों को दिवाली की शुभकामनाएं दीं और कहा कि यह पर्व अंधकार पर विजय पाने के संकल्प का प्रतीक है",
@@ -4766,54 +4814,6 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/cities/chennai/cyclone-murasu-damaged-roads-remain-a-concern-after-rainwater-recedes-in-chennai/article71656375.ece",
-   "h": "Cyclone Murasu: floodwater recedes, but damaged roads remain a concern in Chennai",
-   "link": "https://www.thehindu.com/news/cities/chennai/cyclone-murasu-damaged-roads-remain-a-concern-after-rainwater-recedes-in-chennai/article71656375.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-03T14:39:06+05:30",
-   "date": "2026-11-03",
-   "snip": "Chennai recorded an average of 2.08 mm rain between 6 a.m. and 2 p.m. During this eight-hour period, 47 stations recorded very light rain and 16 recorded light rain. Ennore recorded the highest rainfall at 5.6 mm.",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/goa/st-seat-reservation-goa-to-move-supreme-court-against-high-court-order-stalling-the-process/article71660108.ece",
-   "h": "ST seat reservation: Goa to move Supreme Court against High Court order stalling the process",
-   "link": "https://www.thehindu.com/news/national/goa/st-seat-reservation-goa-to-move-supreme-court-against-high-court-order-stalling-the-process/article71660108.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-03T14:15:04+05:30",
-   "date": "2026-11-03",
-   "snip": "The Panaji Bench of the HC had last week restrained the Census Commissioner from notifying ST population estimates, observing that such figures could not be determined on any basis other than the first official Census conducted after 2026",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 4
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/tamil-nadu/dmk-seeks-dvac-inquiry-into-minister-rajmohans-allegation-of-being-offered-bribery-for-post/article71656918.ece",
-   "h": "DMK seeks DVAC inquiry into Minister Rajmohan’s allegation of being offered bribery for post",
-   "link": "https://www.thehindu.com/news/national/tamil-nadu/dmk-seeks-dvac-inquiry-into-minister-rajmohans-allegation-of-being-offered-bribery-for-post/article71656918.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-03T13:23:53+05:30",
-   "date": "2026-11-03",
-   "snip": "‘The Minister did not report the offer to the DVAC or any other law enforcement agency; he made it public only on November 1, without disclosing the identity of the person who made the offer,’ said I. Paranthamen",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/cities/chennai/i-was-offered-5-crore-to-make-someone-iyal-isai-nataka-mandram-president-rajmohan/article71653205.ece",
-   "h": "I was offered ₹5 crore to make someone Iyal Isai Nataka Mandram president: Tamil Nadu Minister Rajmohan",
-   "link": "https://www.thehindu.com/news/cities/chennai/i-was-offered-5-crore-to-make-someone-iyal-isai-nataka-mandram-president-rajmohan/article71653205.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-03T13:23:05+05:30",
-   "date": "2026-11-03",
-   "snip": "According to him, for the first time in Tamil Nadu, every Minister in the Cabinet hates bribery and corruption",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
   }
  ]
 }
