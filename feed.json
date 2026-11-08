@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T00:28:13.485245+05:30",
+ "updated": "2026-11-09T04:14:35.106939+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,18 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/national/jammu-and-kashmir/fire-engulfs-jammus-nehru-market-guts-around-12-shops/article71681226.ece",
+   "h": "Fire engulfs Jammu’s Nehru Market, guts around 12 shops",
+   "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/fire-engulfs-jammus-nehru-market-guts-around-12-shops/article71681226.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-09T02:59:17+05:30",
+   "date": "2026-11-09",
+   "snip": "Another blaze was reported in the border district of Kathua, where, a store room at the district police lines went up in flames",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334200",
    "h": "प्रधानमंत्री ने बस्तर स्थित कोबरा ऑपरेशंस बेस पर जवानों के साथ मिठाइयां बांटकर दीपावली मनाई",
@@ -4797,18 +4809,6 @@
    "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332216",
    "src": "PIB",
    "t": "2026-11-03T23:04:07.474951+05:30",
-   "date": "2026-11-03",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332261",
-   "h": "केंद्रीय स्वास्थ्य मंत्रालय ने दवा की खेप जारी करने के लिए योग्य कर्मियों को अधिकृत करने को अनिवार्य बनाने के लिए औषधि नियमावली, 1945 में संशोधन का प्रस्ताव रखा",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332261",
-   "src": "PIB",
-   "t": "2026-11-03T23:04:07.474923+05:30",
    "date": "2026-11-03",
    "snip": "",
    "cat": "Polity",
