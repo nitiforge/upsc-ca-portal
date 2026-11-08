@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T03:21:12.885440+05:30",
+ "updated": "2026-11-08T06:36:55.131167+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,30 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/international/explosions-heard-in-areas-in-southern-iran-iranian-media-report/article71679592.ece",
+   "h": "Explosions heard in areas in southern Iran, Iranian media report",
+   "link": "https://www.thehindu.com/news/international/explosions-heard-in-areas-in-southern-iran-iranian-media-report/article71679592.ece",
+   "src": "The Hindu - International",
+   "t": "2026-11-08T05:51:20+05:30",
+   "date": "2026-11-08",
+   "snip": "State TV said Iranian ‌officials have not confirmed any missile strikes on the areas, while the semi-official Tasnim news agency cited ‌a source as saying that the explosions heard ‌on ⁠Qeshm Island were not related to missile strikes",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 4
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/how-assam-captive-elephants-are-donated-and-transferred-to-tamil-nadu-temples/article71677667.ece",
+   "h": "Jumbo hustle: the transfer of elephants to Tamil Nadu’s temples",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/how-assam-captive-elephants-are-donated-and-transferred-to-tamil-nadu-temples/article71677667.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-08T02:14:16+05:30",
+   "date": "2026-11-08",
+   "snip": "The unseemly haste with which five elephants from Assam were transported to temples in Tamil Nadu raises pertinent questions about the process of animal transfer, and whether the rules are cheat proof. Here, Geetha Srimathi examines the entire issue threadbare, explaining how elephants are acquired for temples in the State, and the yawning gaps in the rules, and processes that allow humans to ‘trade’ in pachyderms.",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
   {
    "id": "https://www.thehindu.com/news/national/tamil-nadu/water-released-from-shenbagathoppu-dam-due-to-rain/article71678323.ece",
    "h": "Water released from Shenbagathoppu dam due to rain",
@@ -50,6 +74,18 @@
    "cat": "International Relations",
    "gs": "GS2",
    "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/keralam-measles-outbreaks-call-for-a-relook-at-disease-epidemiology/article71678654.ece",
+   "h": "Keralam measles outbreaks call for a relook at disease epidemiology",
+   "link": "https://www.thehindu.com/news/national/kerala/keralam-measles-outbreaks-call-for-a-relook-at-disease-epidemiology/article71678654.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-08T00:12:52+05:30",
+   "date": "2026-11-08",
+   "snip": "Once predominantly a childhood disease affecting children aged one to five, measles is now being reported across age groups, including among fully vaccinated individuals and infants below nine months, who are not yet eligible for routine measles vaccination",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 3
   },
   {
    "id": "https://www.thehindu.com/news/national/tamil-nadu/indias-policy-shift-towards-israel-is-regrettable-says-former-madras-high-court-judge-at-book-launch/article71679140.ece",
@@ -4778,42 +4814,6 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/science/a-mothers-hidden-genes-decide-which-way-her-snail-baby-spirals/article71660357.ece",
-   "h": "A mother’s hidden genes decide which way her snail baby spirals",
-   "link": "https://www.thehindu.com/sci-tech/science/a-mothers-hidden-genes-decide-which-way-her-snail-baby-spirals/article71660357.ece",
-   "src": "The Hindu - Science",
-   "t": "2026-11-03T15:12:00+05:30",
-   "date": "2026-11-03",
-   "snip": "In 2023, after poring through photos posted online by hikers, a researcher found a location in north Japan where there were both left- and right-handed snails of a single species. Their shells also looked similar, suggesting the snails had interbred. This new population provided important clues about how the myosin gene worked",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/tamil-nadu/three-including-drivers-injured-after-omnibus-hits-lorry-on-chennai-bengaluru-highway-in-vellore/article71659619.ece",
-   "h": "Three including drivers injured after omnibus hits lorry on Chennai-Bengaluru Highway in Vellore",
-   "link": "https://www.thehindu.com/news/national/tamil-nadu/three-including-drivers-injured-after-omnibus-hits-lorry-on-chennai-bengaluru-highway-in-vellore/article71659619.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-03T15:04:24+05:30",
-   "date": "2026-11-03",
-   "snip": "An omnibus that was headed to Chennai with 22 passengers onboard hit a lorry laden with over 40,000 empty TASMAC liquor bottles, from behind",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/ladakh/ladakh-admin-directs-sonam-wangchuk-founded-school-to-halt-activities-pending-high-court-verdict/article71659827.ece",
-   "h": "Ladakh admin directs Sonam Wangchuk-founded school to halt activities pending High Court verdict",
-   "link": "https://www.thehindu.com/news/national/ladakh/ladakh-admin-directs-sonam-wangchuk-founded-school-to-halt-activities-pending-high-court-verdict/article71659827.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-03T15:03:01+05:30",
-   "date": "2026-11-03",
-   "snip": "According to the notice, the administration received information that classes and other activities at Desert Flower School Phyang, Leh, had started without obtaining the requisite consent, clearances or approvals from competent authorities",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
   }
  ]
 }
