@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T04:14:35.106939+05:30",
+ "updated": "2026-11-09T07:32:40.434946+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,18 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/international/rubio-says-trumps-war-against-iran-not-necessarily-popular-but-needed-to-stop-a-nuclear-threat/article71681264.ece",
+   "h": "Rubio says Trump's war against Iran not 'necessarily popular' but needed to stop a nuclear threat",
+   "link": "https://www.thehindu.com/news/international/rubio-says-trumps-war-against-iran-not-necessarily-popular-but-needed-to-stop-a-nuclear-threat/article71681264.ece",
+   "src": "The Hindu - International",
+   "t": "2026-11-09T06:52:56+05:30",
+   "date": "2026-11-09",
+   "snip": "America's top diplomat offered a robust defence of the more than eight-month-old war even as voters blamed Mr. Trump's policies for the hit to their pocketbooks, including higher energy prices that stemmed from disruptions to shipments in the Strait of Hormuz",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 2
+  },
   {
    "id": "https://www.thehindu.com/news/national/jammu-and-kashmir/fire-engulfs-jammus-nehru-market-guts-around-12-shops/article71681226.ece",
    "h": "Fire engulfs Jammu’s Nehru Market, guts around 12 shops",
@@ -4797,18 +4809,6 @@
    "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332291",
    "src": "PIB",
    "t": "2026-11-03T23:04:07.474976+05:30",
-   "date": "2026-11-03",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332216",
-   "h": "भारतीय तटरक्षक बल और श्रीलंका के तटीय बल के बीच 9वीं उच्च स्तरीय बैठक का आयोजन",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332216",
-   "src": "PIB",
-   "t": "2026-11-03T23:04:07.474951+05:30",
    "date": "2026-11-03",
    "snip": "",
    "cat": "Polity",
