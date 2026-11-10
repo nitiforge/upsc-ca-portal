@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T23:59:23.284855+05:30",
+ "updated": "2026-11-11T05:10:10.042450+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,114 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/national/west-bengal/producers-welcome-proposal-for-minimum-sustainable-price-for-tea/article71686974.ece",
+   "h": "Producers welcome proposal for minimum sustainable price for tea",
+   "link": "https://www.thehindu.com/news/national/west-bengal/producers-welcome-proposal-for-minimum-sustainable-price-for-tea/article71686974.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-11T04:00:20+05:30",
+   "date": "2026-11-11",
+   "snip": "Tea Board of India has recommended a proposal to the Ministry of Commerce to implement minimum sustainable price (MSP) for tea. Several stake holders said that MSP is essential for long-term sustainability of the industry",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/maharashtra/bombay-high-court-declines-request-for-hearing-each-day-in-quota-petitions-for-maratha-reservation/article71687008.ece",
+   "h": "Bombay High Court declines request for hearing each day in quota petitions for Maratha reservation",
+   "link": "https://www.thehindu.com/news/national/maharashtra/bombay-high-court-declines-request-for-hearing-each-day-in-quota-petitions-for-maratha-reservation/article71687008.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-11T03:54:48+05:30",
+   "date": "2026-11-11",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/bihar/bihar-cabinet-hikes-3-da-for-employees-pensioners/article71687144.ece",
+   "h": "Bihar Cabinet hikes 3% DA for employees, pensioners",
+   "link": "https://www.thehindu.com/news/national/bihar/bihar-cabinet-hikes-3-da-for-employees-pensioners/article71687144.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-11T03:12:24+05:30",
+   "date": "2026-11-11",
+   "snip": "The Cabinet approved the “Bihar Ki Beti Startup Challenge Scheme”, under which, 2,100 female students may be provided benefits beginning from the current financial year",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-cabinet-clears-policy-frameworks-to-attract-investments-in-ai-electronics-renewable-energy/article71686342.ece",
+   "h": "Andhra Pradesh Cabinet clears policy frameworks to attract investments in AI, electronics, renewable energy",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-cabinet-clears-policy-frameworks-to-attract-investments-in-ai-electronics-renewable-energy/article71686342.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-11T02:49:51+05:30",
+   "date": "2026-11-11",
+   "snip": "Directorate of Traffic Management and Road Safety to be set up at Mangalagiri; ₹31,387-crore green integrated AI data centre proposed by AM Intelligence at Amanam in Visakhapatnam district cleared",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/vaiko-releases-34-year-crime-report-rebukes-allies-for-criticising-tn-government/article71686350.ece",
+   "h": "Vaiko releases 34-year crime report; rebukes allies for criticising T.N. government",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/vaiko-releases-34-year-crime-report-rebukes-allies-for-criticising-tn-government/article71686350.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-11T01:26:07+05:30",
+   "date": "2026-11-11",
+   "snip": "",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/opinion/editorial/caste-and-class-on-obc-reservation/article71686599.ece",
+   "h": "Caste and class: On OBC reservation",
+   "link": "https://www.thehindu.com/opinion/editorial/caste-and-class-on-obc-reservation/article71686599.ece",
+   "src": "The Hindu - Editorial",
+   "t": "2026-11-11T01:13:59+05:30",
+   "date": "2026-11-11",
+   "snip": "Exclusion of creamy layer is essential, but must be done consistently",
+   "cat": "Society",
+   "gs": "GS1",
+   "score": 4
+  },
+  {
+   "id": "https://www.thehindu.com/opinion/editorial/without-any-rationale-on-the-disbanding-of-the-justice-kurian-joseph-committee/article71686725.ece",
+   "h": "Without any rationale: On the disbanding of the Justice Kurian Joseph Committee",
+   "link": "https://www.thehindu.com/opinion/editorial/without-any-rationale-on-the-disbanding-of-the-justice-kurian-joseph-committee/article71686725.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-11T01:02:37+05:30",
+   "date": "2026-11-11",
+   "snip": "India’s federal structure could have benefited from the Kurian Committee",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/gem-granites-veeramanis-daughter-archana-moves-madras-high-court-alleging-human-rights-violations-by-sit/article71686923.ece",
+   "h": "Gem Granites Veeramani’s daughter Archana moves Madras High Court alleging human rights violations by SIT",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/gem-granites-veeramanis-daughter-archana-moves-madras-high-court-alleging-human-rights-violations-by-sit/article71686923.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-11T00:42:33+05:30",
+   "date": "2026-11-11",
+   "snip": "She claims to have been deboarded from a Singapore-bound airplane and picked up from the airport by the police without showing any summons, warrant, court order or Look Out Circular",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/ai-generated-book-purchase-case-dmks-paranthamen-moves-madras-high-court-seeking-registration-of-fir-by-dvac/article71686183.ece",
+   "h": "‘AI-generated’ book purchase case: DMK’s Paranthamen moves Madras High Court seeking registration of FIR by DVAC",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/ai-generated-book-purchase-case-dmks-paranthamen-moves-madras-high-court-seeking-registration-of-fir-by-dvac/article71686183.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-11T00:27:28+05:30",
+   "date": "2026-11-11",
+   "snip": "Says, he had lodged a complaint as early as on November 7, 2026 but the vigilance sleuths had not taken any action on his plaint",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334749",
    "h": "आवधिक श्रम बल सर्वेक्षण (पीएलएफएस) त्रैमासिक बुलेटिन जुलाई-सितंबर 2026 पर प्रेस नोट",
@@ -4706,114 +4814,6 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/sc-mandates-free-movement-no-illegal-detentions-subject-to-public-order/article71571202.ece",
-   "h": "Supreme Court bars illegal detention as lawyers cite Emergency",
-   "link": "https://www.thehindu.com/news/national/sc-mandates-free-movement-no-illegal-detentions-subject-to-public-order/article71571202.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-05T13:02:35+05:30",
-   "date": "2026-11-05",
-   "snip": "Court seeks affidavits on Metro curbs and alleged violations of its October 9 order",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/cities/mumbai/threat-emails-to-ayushmann-khurrana-tusshar-kapoor-mumbai-crime-branch-arrests-techie-from-bengaluru/article71668622.ece",
-   "h": "Threat emails to Ayushmann Khurrana, Tusshar Kapoor: Mumbai Crime branch arrests techie from Bengaluru",
-   "link": "https://www.thehindu.com/news/cities/mumbai/threat-emails-to-ayushmann-khurrana-tusshar-kapoor-mumbai-crime-branch-arrests-techie-from-bengaluru/article71668622.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-05T12:56:57+05:30",
-   "date": "2026-11-05",
-   "snip": "The accused had allegedly been threatening several film personalities in Mumbai through different means over the past few days",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/keralam-forms-road-safety-mission-to-check-road-fatalities-mammootty-to-be-brand-ambassador/article71666427.ece",
-   "h": "Keralam forms road safety mission to check road fatalities; Mammootty to be brand ambassador",
-   "link": "https://www.thehindu.com/news/national/kerala/keralam-forms-road-safety-mission-to-check-road-fatalities-mammootty-to-be-brand-ambassador/article71666427.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-05T12:32:07+05:30",
-   "date": "2026-11-05",
-   "snip": "Project also encompasses modernisation of roads, addressing ‘black spots’, maintaining signboards, widening zebra crossings, and establishing designated safety zones through the use of colour-coded road markings",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/keralam-higher-education-dept-seeks-explanation-from-calicut-university-over-pro-v-cs-appointment/article71668767.ece",
-   "h": "Keralam Higher Education dept seeks explanation from Calicut University over pro-V-C’s appointment",
-   "link": "https://www.thehindu.com/news/national/kerala/keralam-higher-education-dept-seeks-explanation-from-calicut-university-over-pro-v-cs-appointment/article71668767.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-05T12:12:48+05:30",
-   "date": "2026-11-05",
-   "snip": "Department has sought to know how P. Rasheed Ahammed, the PVC, was relieved of duties from his parent institution and permitted to assume charge on deputation without obtaining prior sanction from government",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/science/nvs-03-reaches-geosynchronous-orbit-satellite-in-good-health/article71667218.ece",
-   "h": "NVS-03 reaches geosynchronous orbit; satellite in good health",
-   "link": "https://www.thehindu.com/sci-tech/science/nvs-03-reaches-geosynchronous-orbit-satellite-in-good-health/article71667218.ece",
-   "src": "The Hindu - Science",
-   "t": "2026-11-05T11:04:06+05:30",
-   "date": "2026-11-05",
-   "snip": "‘Four orbit manoeuvres have been successfully completed with a cumulative LAM engine burn of 6164 seconds; with this the satellite has reached Geo Synchronous Orbit at an inclination of 29.980,’ said ISRO",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 4
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/technology/us-democrats-midterm-sweep-fuels-750-billion-big-tech-rally/article71668523.ece",
-   "h": "U.S. Democrats' midterm sweep fuels $750 billion Big Tech rally",
-   "link": "https://www.thehindu.com/sci-tech/technology/us-democrats-midterm-sweep-fuels-750-billion-big-tech-rally/article71668523.ece",
-   "src": "The Hindu - International",
-   "t": "2026-11-05T10:03:50+05:30",
-   "date": "2026-11-05",
-   "snip": "Apple, which has avoided ‌Big Tech’s massive AI spending but is feeling the sting of an AI-fueled surge in memory chip prices, jumped nearly 7% ‌to a record high",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332834",
-   "h": "पीआईबी नागपुर के ‘नक्सल मुक्त भारत’ विषय पर आयोजित वार्तालाप में गढ़चिरौली में सुरक्षा, विकास और सामुदायिक भागीदारी पर जोर दिया गया",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332834",
-   "src": "PIB",
-   "t": "2026-11-05T09:02:45.024232+05:30",
-   "date": "2026-11-05",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332833",
-   "h": "न्याय विभाग ने सरकारी मंत्रालयों और विभागों के लिए “ई-फाइलिंग 3.0: प्रक्रिया से व्यवहार तक” विषय पर कार्यशाला का आयोजन किया",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332833",
-   "src": "PIB",
-   "t": "2026-11-05T09:02:45.024109+05:30",
-   "date": "2026-11-05",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332835",
-   "h": "‘विकसित भारत युवा संवाद: अपना वोट जानें’ अभियान के तहत एमवाई भारत ने एक ही दिन में 100 कार्यक्रमों का आयोजन किया",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332835",
-   "src": "PIB",
-   "t": "2026-11-05T09:02:45.024068+05:30",
-   "date": "2026-11-05",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
   }
  ]
 }
