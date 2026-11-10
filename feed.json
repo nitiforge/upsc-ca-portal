@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T01:56:33.703753+05:30",
+ "updated": "2026-11-10T08:21:35.753130+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,66 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/sci-tech/energy-and-environment/heat-trapping-carbon-pollution-drops-but-scientists-cite-iran-war-rather-than-energy-progress/article71684827.ece",
+   "h": "Heat-trapping carbon pollution drops, but scientists cite Iran war rather than energy progress",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/heat-trapping-carbon-pollution-drops-but-scientists-cite-iran-war-rather-than-energy-progress/article71684827.ece",
+   "src": "The Hindu - International",
+   "t": "2026-11-10T07:46:59+05:30",
+   "date": "2026-11-10",
+   "snip": "In 2026, the world emitted 42.2 billion tonne of heat-trapping carbon dioxide from the burning of fossil fuels such as coal, oil and gas. It's a 0.4% decrease from last year, according to the scientists of the Global Carbon Project",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/international/how-ai-is-reshaping-chinas-universities/article71683874.ece",
+   "h": "How AI is reshaping China’s universities",
+   "link": "https://www.thehindu.com/news/international/how-ai-is-reshaping-chinas-universities/article71683874.ece",
+   "src": "The Hindu - International",
+   "t": "2026-11-10T07:37:51+05:30",
+   "date": "2026-11-10",
+   "snip": "AI disruption and a tightening job market are driving a sweeping change across China’s universities; under the government’s ‘guideline on the reform of higher education institutions’, universities will now be tasked with specific goals, pursuing either research, application-oriented objectives, or skills development",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/jammu-and-kashmir/outcry-as-jk-bank-implements-reservation-policy-pushed-by-ex-chairman-and-vhp-trustee-rk-chhibber/article71683483.ece",
+   "h": "Outcry as J&K Bank implements reservation policy pushed by ex-chairman and VHP trustee R.K. Chhibber",
+   "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/outcry-as-jk-bank-implements-reservation-policy-pushed-by-ex-chairman-and-vhp-trustee-rk-chhibber/article71683483.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-10T04:27:23+05:30",
+   "date": "2026-11-10",
+   "snip": "The bank has decided to fill 1400 vacancies, including 323 probationary officers and 1033 posts for banking associates, as per the new reservation policy",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/jammu-and-kashmir/ed-attaches-properties-in-kashmir-in-misuse-of-pm-employment-generation-programme-scheme-case/article71683744.ece",
+   "h": "ED attaches properties in Kashmir in ‘misuse’ of PM Employment Generation Programme scheme case",
+   "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/ed-attaches-properties-in-kashmir-in-misuse-of-pm-employment-generation-programme-scheme-case/article71683744.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-10T03:38:12+05:30",
+   "date": "2026-11-10",
+   "snip": "An ED spokesman said there was misappropriation of PMEGP Scheme’s loans in criminal conspiracy with the PMEGP borrowers, bank officials of Sumbal Branch and Gamud Gadkhud Branch of J&K Bank and other unknown persons",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/opinion/op-ed/a-case-for-nepal-suing-major-carbon-emitters-for-floods/article71683852.ece",
+   "h": "A case for Nepal: suing major carbon emitters for floods",
+   "link": "https://www.thehindu.com/opinion/op-ed/a-case-for-nepal-suing-major-carbon-emitters-for-floods/article71683852.ece",
+   "src": "The Hindu - Environment",
+   "t": "2026-11-10T01:56:18+05:30",
+   "date": "2026-11-10",
+   "snip": "While climate wrongs harm society, they do not harm individuals in a sufficiently direct and proximate way",
+   "cat": "Environment",
+   "gs": "GS3",
+   "score": 3
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334347",
    "h": "विधि कार्य विभाग ने 'विशेष अभियान 6' के तहत महत्वपूर्ण उपलब्धियां हासिल की; 27,000 से अधिक भौतिक फाइलों की समीक्षा की, 15,679 फाइल हटाए गए और कबाड़ के निपटान से 4.71 लाख रुपये की कमाई की",
@@ -230,6 +290,18 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/rights-panel-seeks-report-from-lsgd-on-linking-chilavannur-bund-road-with-vyttila-aroor-bypass/article71683245.ece",
+   "h": "Rights panel seeks report from LSGD on linking Chilavannur Bund Road with Vyttila-Aroor bypass",
+   "link": "https://www.thehindu.com/news/national/kerala/rights-panel-seeks-report-from-lsgd-on-linking-chilavannur-bund-road-with-vyttila-aroor-bypass/article71683245.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-10T01:09:32+05:30",
+   "date": "2026-11-10",
+   "snip": "Panel directs the Local Self Government department to convene a meeting of the District Collector, GCDA secretary, and Corporation secretary within a week to decide on funding for the project",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
   },
   {
    "id": "https://www.thehindu.com/news/national/tamil-nadu/five-persons-including-four-girls-drown-in-irrigation-tank-in-tiruvannamalai/article71682584.ece",
@@ -4737,78 +4809,6 @@
    "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332349",
    "src": "PIB",
    "t": "2026-11-04T15:25:53.944606+05:30",
-   "date": "2026-11-04",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332347",
-   "h": "सीएसआईआर- एनआईएससीपीआर ने सीडीटीके-2026 पर अंतरराष्ट्रीय सम्मेलन का सफलतापूर्वक समापन किया; यह 'इंडियन जर्नल ऑफ ट्रेडिशनल नॉलेज' (आईजेटीके) के 25 वर्ष पूरे होने का प्रतीक",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332347",
-   "src": "PIB",
-   "t": "2026-11-04T15:25:53.944552+05:30",
-   "date": "2026-11-04",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332358",
-   "h": "इंडियाएआई मिशन ने 'इंडियाएआई इनोवेशन सेंटर' पिलर के तहत स्वदेशी फाउंडेशन मॉडल- सॉकेट का ईकेए-1 और जेंटीक्यू के धीर 2बी तथा धीर 5बी- पेश किए",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332358",
-   "src": "PIB",
-   "t": "2026-11-04T15:25:53.944524+05:30",
-   "date": "2026-11-04",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332348",
-   "h": "प्रधानमंत्री ने सीआरपीएफ की उस उपलब्धि की जानकारी दी, जिसमें 47 वर्षों में पहली बार लगातार 12 महीनों तक की हताहत नहीं हुआ",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332348",
-   "src": "PIB",
-   "t": "2026-11-04T15:25:53.944496+05:30",
-   "date": "2026-11-04",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332451",
-   "h": "वाणिज्य एवं उद्योग राज्य मंत्री श्री जितिन प्रसाद ने पोलैंड का दौरा किया; द्विपक्षीय व्यापार, निवेश और प्रौद्योगिकी सहयोग को मजबूत करने पर चर्चा की",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332451",
-   "src": "PIB",
-   "t": "2026-11-04T15:25:53.944468+05:30",
-   "date": "2026-11-04",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332452",
-   "h": "प्रधानमंत्री ने आत्म-साक्षात्कार और आत्‍मबल के महत्व पर जोर देते हुए संस्कृत सुभाषितम् साझा किया",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332452",
-   "src": "PIB",
-   "t": "2026-11-04T15:25:53.944440+05:30",
-   "date": "2026-11-04",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332450",
-   "h": "भारतीय रेल ने अक्टूबर 2026 में 145.07 मिलियन टन माल ढुलाई की",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332450",
-   "src": "PIB",
-   "t": "2026-11-04T15:25:53.944415+05:30",
    "date": "2026-11-04",
    "snip": "",
    "cat": "Polity",
