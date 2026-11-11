@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T05:10:10.042450+05:30",
+ "updated": "2026-11-11T08:33:37.111048+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,42 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/sci-tech/energy-and-environment/world-leaders-take-stage-at-cop31-but-big-names-missing/article71688148.ece",
+   "h": "World leaders take stage at COP31 but big names missing",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/world-leaders-take-stage-at-cop31-but-big-names-missing/article71688148.ece",
+   "src": "The Hindu - International",
+   "t": "2026-11-11T07:45:22+05:30",
+   "date": "2026-11-11",
+   "snip": "COP31 host Turkiye is championing a voluntary initiative to accelerate the electrification of transport, buildings and industry, with a target of raising electricity’s share of global energy consumption to 35% by 2035",
+   "cat": "Environment",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/international/us-house-oversight-committee-criticises-trump-administration-over-release-of-epstein-records/article71688114.ece",
+   "h": "U.S. House Oversight Committee criticises Trump administration over release of Epstein records",
+   "link": "https://www.thehindu.com/news/international/us-house-oversight-committee-criticises-trump-administration-over-release-of-epstein-records/article71688114.ece",
+   "src": "The Hindu - International",
+   "t": "2026-11-11T07:11:40+05:30",
+   "date": "2026-11-11",
+   "snip": "The 137-page report, released by the GOP-controlled committee, comes nearly a year after Congress passed and President Trump signed the Epstein Files Transparency Act",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/international/us-judge-says-trumps-10-billion-bbc-defamation-case-can-proceed/article71688097.ece",
+   "h": "U.S. judge says Trump’s $10 billion BBC defamation case can proceed",
+   "link": "https://www.thehindu.com/news/international/us-judge-says-trumps-10-billion-bbc-defamation-case-can-proceed/article71688097.ece",
+   "src": "The Hindu - International",
+   "t": "2026-11-11T06:06:19+05:30",
+   "date": "2026-11-11",
+   "snip": "U.S. District Judge Jeffrey Kuntz in Florida declined to throw out Mr. Trump’s defamation ​claim against the BBC, ‌saying Mr. Trump had plausibly alleged that the broadcaster damaged his reputation and knew or should have known the clip was misleading",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
   {
    "id": "https://www.thehindu.com/news/national/west-bengal/producers-welcome-proposal-for-minimum-sustainable-price-for-tea/article71686974.ece",
    "h": "Producers welcome proposal for minimum sustainable price for tea",
@@ -362,6 +398,18 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/cities/Visakhapatnam/visakhapatnam-gets-a-facelift-ahead-of-cii-summit/article71687118.ece",
+   "h": "Visakhapatnam gets a facelift ahead of CII summit",
+   "link": "https://www.thehindu.com/news/cities/Visakhapatnam/visakhapatnam-gets-a-facelift-ahead-of-cii-summit/article71687118.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-10T23:31:10+05:30",
+   "date": "2026-11-10",
+   "snip": "",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 2
   },
   {
    "id": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-weighs-making-fathers-name-optional-in-official-documents/article71685940.ece",
@@ -1562,6 +1610,18 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/sci-tech/energy-and-environment/indias-efforts-to-clean-its-air-need-not-slow-its-economic-growth/article71681547.ece",
+   "h": "India’s efforts to clean its air need not slow its economic growth",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/indias-efforts-to-clean-its-air-need-not-slow-its-economic-growth/article71681547.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-11-09T11:21:02+05:30",
+   "date": "2026-11-09",
+   "snip": "The best interventions must address air pollution while supporting development priorities. Cleaner industrial processes may reduce emissions while improving efficiency. Clean cooking can reduce household smoke while improving convenience and health. Better waste management can reduce open burning while improving urban services",
+   "cat": "Environment",
+   "gs": "GS3",
+   "score": 4
   },
   {
    "id": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-in-turkiye-climate-and-geopolitical-pressures-mount/article71681273.ece",
@@ -4753,66 +4813,6 @@
    "snip": "The study by a Guwahati-based non-profit development organisation says 91% of the respondents across three States cited a “push” factor, such as shortage of land for farming or the need to repay loans, behind migration",
    "cat": "Society",
    "gs": "GS1",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/very-few-complaints-received-so-far-on-police-brutality-during-july-20-protests-says-supreme-court/article71669259.ece",
-   "h": "‘Very few complaints’ received so far on police brutality during July 20 protests, says Supreme Court",
-   "link": "https://www.thehindu.com/news/national/very-few-complaints-received-so-far-on-police-brutality-during-july-20-protests-says-supreme-court/article71669259.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-05T15:15:32+05:30",
-   "date": "2026-11-05",
-   "snip": "The Court allowed the petitioners the liberty to forward whatever material they have, including video clips, to the HPEC for its consideration",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/sanskit-varsity-suspension-row-sfi-says-relay-fast-to-go-on-till-authorities-revoke-disciplinary-action-unconditionally/article71668832.ece",
-   "h": "Sanskit varsity suspension row: SFI says relay fast to go on till authorities revoke disciplinary action ‘unconditionally’",
-   "link": "https://www.thehindu.com/news/national/kerala/sanskit-varsity-suspension-row-sfi-says-relay-fast-to-go-on-till-authorities-revoke-disciplinary-action-unconditionally/article71668832.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-05T13:45:38+05:30",
-   "date": "2026-11-05",
-   "snip": "Their hopes of getting relief from the Supreme Court on their plea challenging the Kerala High Court Division Bench order barring them from writing the semester examinations suffered a setback on the day, with the apex court declining to interfere with the directive",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/opinion/editorial/the-hindu-editorial-november-2-2026-slow-recovery-on-the-isros-gslv-f18-mission/article71654004.ece",
-   "h": "Slow recovery: On the ISRO’s GSLV-F18 mission",
-   "link": "https://www.thehindu.com/opinion/editorial/the-hindu-editorial-november-2-2026-slow-recovery-on-the-isros-gslv-f18-mission/article71654004.ece",
-   "src": "The Hindu - Editorial",
-   "t": "2026-11-05T13:41:21+05:30",
-   "date": "2026-11-05",
-   "snip": "ISRO needs more human and material resources to fulfil its mandate",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 5
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/science/the-amazon-is-no-longer-a-carbon-sink-it-is-an-emitter/article71655416.ece",
-   "h": "The Amazon is no longer a carbon sink, it is an emitter",
-   "link": "https://www.thehindu.com/sci-tech/science/the-amazon-is-no-longer-a-carbon-sink-it-is-an-emitter/article71655416.ece",
-   "src": "The Hindu - Science",
-   "t": "2026-11-05T13:34:56+05:30",
-   "date": "2026-11-05",
-   "snip": "The Hindu’s weekly Science for All newsletter explains all things Science, without the jargon.",
-   "cat": "Environment",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/24-hour-to-produce-before-magistrate-starts-from-detention-not-formal-arrest-supreme-court/article71668833.ece",
-   "h": "24-hour to produce before Magistrate starts from detention, not ‘formal arrest’: Supreme Court",
-   "link": "https://www.thehindu.com/news/national/24-hour-to-produce-before-magistrate-starts-from-detention-not-formal-arrest-supreme-court/article71668833.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-05T13:29:35+05:30",
-   "date": "2026-11-05",
-   "snip": "The Court said fundamental rights trumped even over special laws like UAPA, PMLA, in which the right to bail was heavily restricted",
-   "cat": "Polity",
-   "gs": "GS2",
    "score": 2
   }
  ]
