@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T04:05:55.830416+05:30",
+ "updated": "2026-11-13T08:26:23.422810+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -16,6 +16,102 @@
  },
  "items": [
   {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335670",
+   "h": "राष्ट्रीय डिजिटल जीवन प्रमाणपत्र अभियान 5.0 के तहत 20 लाख से अधिक रक्षा पेंशनभोगियों ने अपना डिजिटल जीवन प्रमाणन सत्यापित किया",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335670",
+   "src": "PIB",
+   "t": "2026-11-13T08:25:56.590719+05:30",
+   "date": "2026-11-13",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335668",
+   "h": "टीबी उन्मूलन की दिशा में भारत ने उल्‍लेखनीय प्रगति हासिल की : टीबी से होने वाली मौतों की दर में 38% की कमी, 94% उपचार सफलता दर",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335668",
+   "src": "PIB",
+   "t": "2026-11-13T08:25:56.590587+05:30",
+   "date": "2026-11-13",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335669",
+   "h": "कैब को किराए पर लेने से संबंधित प्रस्तावित सुधारों से व्यावसायिक अवसर बढ़ेंगे और यात्री सेवाओं में सुधार होगा",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335669",
+   "src": "PIB",
+   "t": "2026-11-13T08:25:56.590557+05:30",
+   "date": "2026-11-13",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335667",
+   "h": "प्रधानमंत्री श्री नरेन्द्र मोदी ने 'किसान तक भारत कृषि सम्मेलन 2026' में भाग लिया",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335667",
+   "src": "PIB",
+   "t": "2026-11-13T08:25:56.589002+05:30",
+   "date": "2026-11-13",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/sci-tech/energy-and-environment/un-climate-summit-pushes-electrification-goal-as-groups-call-for-mining-safeguards/article71696419.ece",
+   "h": "UN climate summit pushes electrification goal as groups call for mining safeguards",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/un-climate-summit-pushes-electrification-goal-as-groups-call-for-mining-safeguards/article71696419.ece",
+   "src": "The Hindu - Environment",
+   "t": "2026-11-13T08:20:37+05:30",
+   "date": "2026-11-13",
+   "snip": "The pledge builds on commitments made at previous UN climate summits: At COP28, countries agreed to work toward tripling renewable energy capacity and transitioning away from fossil fuels. COP29 focused on energy storage, grid modernisation and climate finance",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 4
+  },
+  {
+   "id": "https://www.thehindu.com/news/cities/Kochi/minister-level-meeting-seeks-report-on-relocation-rehabilitation-plans-for-pt-colony-residents-from-ernakulam-collector/article71693526.ece",
+   "h": "Minister-level meeting seeks report on relocation, rehabilitation plans for P&T Colony residents from Ernakulam Collector",
+   "link": "https://www.thehindu.com/news/cities/Kochi/minister-level-meeting-seeks-report-on-relocation-rehabilitation-plans-for-pt-colony-residents-from-ernakulam-collector/article71693526.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-13T06:58:01+05:30",
+   "date": "2026-11-13",
+   "snip": "Kochi MLA Mohammed Shiyas had submitted a memorandum to the Minister outlining three possible rehabilitation packages",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/west-bengal/choosing-faith-over-fear/article71693306.ece",
+   "h": "Bengal Church attacks: Choosing faith over fear",
+   "link": "https://www.thehindu.com/news/national/west-bengal/choosing-faith-over-fear/article71693306.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-13T06:46:05+05:30",
+   "date": "2026-11-13",
+   "snip": "West Bengal has witnessed a sudden, rapid spike in attacks on Christian home fellowships and churches since the summer of 2026, when the BJP government came to power in the State. Senjuti Sengupta and Shiv Sahay Singh report on the fear of the community that is less than 1% of the population in West Bengal",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/west-bengal/west-bengal-government-to-appoint-coordinators-if-stay-on-civic-polls-not-lifted-says-cm-adhikari/article71694684.ece",
+   "h": "West Bengal government to appoint coordinators if stay on civic polls not lifted, says CM Adhikari",
+   "link": "https://www.thehindu.com/news/national/west-bengal/west-bengal-government-to-appoint-coordinators-if-stay-on-civic-polls-not-lifted-says-cm-adhikari/article71694684.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-13T04:35:30+05:30",
+   "date": "2026-11-13",
+   "snip": "Chief Minister Suvendu Adhikari said that his government would approach the Supreme Court with a Special Leave Petition (SLP) seeking that the stay on holding civic polls be lifted",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335662",
    "h": "केंद्रीय जल शक्ति मंत्री श्री सी. आर. पाटिल ने तिरुचिरापल्ली में जेजेएम 2.0 पर आयोजित पहले क्षेत्रीय सम्मेलन को संबोधित किया",
    "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335662",
@@ -26,6 +122,30 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/maharashtra/bomb-threat-emails-target-bmc-pune-civic-body-pnb-branches-searches-find-nothing-suspicious/article71694748.ece",
+   "h": "Bomb threat emails target BMC, Pune civic body, PNB branches; searches find nothing suspicious",
+   "link": "https://www.thehindu.com/news/national/maharashtra/bomb-threat-emails-target-bmc-pune-civic-body-pnb-branches-searches-find-nothing-suspicious/article71694748.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-13T03:08:57+05:30",
+   "date": "2026-11-13",
+   "snip": "“A hoax bomb threat email was received at the BMC office and PNB Bank this morning. Nothing suspicious was found. Further legal process is ongoing,” Deputy Commissioner of Police (Zone 2) Raghasudha R. said",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/tnpdcl-seeks-nod-to-procure-3000-mw/article71693793.ece",
+   "h": "TNPDCL seeks nod to procure 3,000 MW",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/tnpdcl-seeks-nod-to-procure-3000-mw/article71693793.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-13T03:05:23+05:30",
+   "date": "2026-11-13",
+   "snip": "The TNPDCL, which submitted the proposal to procure 1,500 MW to the Tamil Nadu Electricity Regulatory Commission (TNERC) in February this year, has now doubled the quantum",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
   },
   {
    "id": "https://www.thehindu.com/opinion/op-ed/india-and-uk-are-turning-climate-ambition-into-action/article71695180.ece",
@@ -74,6 +194,30 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/rti-act-strengthens-peoples-voice-in-democracy-says-keralam-information-commissioner/article71694470.ece",
+   "h": "RTI Act strengthens people’s voice in democracy, says Keralam Information Commissioner",
+   "link": "https://www.thehindu.com/news/national/kerala/rti-act-strengthens-peoples-voice-in-democracy-says-keralam-information-commissioner/article71694470.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-13T01:22:29+05:30",
+   "date": "2026-11-13",
+   "snip": "The RTI Act is a people’s law and government officials had a responsibility to implement it effectively, says T.K. Ramakrishnan",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/mental-health-project-to-address-teenage-suicides-in-puthencruz-division/article71692973.ece",
+   "h": "Mental health project to address teenage suicides in Puthencruz division",
+   "link": "https://www.thehindu.com/news/national/kerala/mental-health-project-to-address-teenage-suicides-in-puthencruz-division/article71692973.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-13T01:12:16+05:30",
+   "date": "2026-11-13",
+   "snip": "The programme named ‘Wings of Happiness’ to be organised in 13 schools in the division",
+   "cat": "Society",
+   "gs": "GS1",
+   "score": 2
   },
   {
    "id": "https://www.thehindu.com/news/national/kerala/state-to-file-fresh-affidavit-in-kerala-high-court-on-bar-licences-excise-minister/article71695324.ece",
@@ -169,6 +313,18 @@
    "snip": "The electric-vehicle maker reported a consolidated ‌loss of 3.62 billion rupees ($38.66 million) ​for the three months ended September ⁠30, compared with a loss of 4.18 billion rupees a year ago",
    "cat": "Polity",
    "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/sci-tech/science/isro-successfully-carries-out-ground-static-test-of-pslv-third-stage/article71694068.ece",
+   "h": "ISRO successfully carries out ground static test of PSLV third stage",
+   "link": "https://www.thehindu.com/sci-tech/science/isro-successfully-carries-out-ground-static-test-of-pslv-third-stage/article71694068.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-11-12T22:56:35+05:30",
+   "date": "2026-11-12",
+   "snip": "The configuration of the third stage was revisited comprehensively with respect to the design margins, raw material acceptance criteria, assembly procedures, and the quality checks that were followed so far",
+   "cat": "Science & Tech",
+   "gs": "GS3",
    "score": 2
   },
   {
@@ -1380,6 +1536,18 @@
    "date": "2026-11-11",
    "snip": "CEO Cristiano Amon has described the exercise as a performance-focused reduction, while Qualcomm’s latest annual report puts its global workforce at 57,000; the company did not respond to a request for comment on the reported India cuts",
    "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/sci-tech/technology/tarluvada-blue-wall-visakhapatnam-google-hyperscale-ai-data-centre-no-land-jobs/article71688860.ece",
+   "h": "Age of AI: behind Tarluvada’s blue wall in Visakhapatnam",
+   "link": "https://www.thehindu.com/sci-tech/technology/tarluvada-blue-wall-visakhapatnam-google-hyperscale-ai-data-centre-no-land-jobs/article71688860.ece",
+   "src": "The Hindu - Environment",
+   "t": "2026-11-11T18:15:43+05:30",
+   "date": "2026-11-11",
+   "snip": "As construction for hyperscale Google AI data centres go full throttle in Visakhapatnam, farmers say promised land and jobs have not arrived",
+   "cat": "Science & Tech",
    "gs": "GS3",
    "score": 2
   },
@@ -4588,6 +4756,18 @@
    "score": 3
   },
   {
+   "id": "https://www.thehindu.com/sci-tech/energy-and-environment/at-cop31-the-overshoot-narrative-cannot-replace-climate-action/article71677165.ece",
+   "h": "At COP31, the ‘overshoot’ narrative cannot replace climate action",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/at-cop31-the-overshoot-narrative-cannot-replace-climate-action/article71677165.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-11-07T14:18:45+05:30",
+   "date": "2026-11-07",
+   "snip": "No COP decision has referred to the quantitative value of the total or remaining carbon budget nor has discussed which countries have spent it the most. If COP31 is to deliver real impetus to climate action, its decisions must revert to the basics",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 4
+  },
+  {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333877",
    "h": "केंद्रीय नारकोटिक्स ब्यूरो (सीबीएन) ने अपना 77वां स्थापना दिवस मनाया और गहन प्रवर्तन, डिजिटल शासन और \"युवा रक्षा\" मिशन के माध्यम से \"नशा मुक्त युवा, विकसित भारत\" हेतु भारत के दृष्टिकोण की पुष्टि की",
    "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333877",
@@ -4634,186 +4814,6 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/business/Industry/omcs-refute-karnatakas-e20-report-seeks-additional-details-about-procedure/article71675835.ece",
-   "h": "OMCs refute Karnataka’s E20 report, seeks additional details about procedure",
-   "link": "https://www.thehindu.com/business/Industry/omcs-refute-karnatakas-e20-report-seeks-additional-details-about-procedure/article71675835.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-07T11:47:08+05:30",
-   "date": "2026-11-07",
-   "snip": "The state-owned OMCs held the 56 samples tested by them from across the state reported an average 19.3% ethanol content in the vehicular fuel.",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-mptc-zptc-election-results-live-updates-vote-counting-winners-tdp-ysrcp-bjp/article71677223.ece",
-   "h": "Andhra Pradesh MPTC, ZPTC election results LIVE: Counting under way across 365 centres amidst high security",
-   "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-mptc-zptc-election-results-live-updates-vote-counting-winners-tdp-ysrcp-bjp/article71677223.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-07T11:44:44+05:30",
-   "date": "2026-11-07",
-   "snip": "State Election Commissioner Anil Chandra Punetha and other top officials are monitoring the counting.",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/tamil-nadu/library-book-scam-madras-high-court-had-sounded-warning-two-years-ago-called-for-enquiry/article71677381.ece",
-   "h": "Library book ‘scam’: Madras High Court had sounded warning two years ago, called for enquiry",
-   "link": "https://www.thehindu.com/news/national/tamil-nadu/library-book-scam-madras-high-court-had-sounded-warning-two-years-ago-called-for-enquiry/article71677381.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-07T11:03:25+05:30",
-   "date": "2026-11-07",
-   "snip": "Against the backdrop of writer Perumal Murugan’s expose on substandard books containing grossly erroneous historical information making their way into the shelves of the Periyar Arivulagam in Coimbatore, it would be worthwhile to take a look at how the court had sought to streamline procurement of books",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/cities/Delhi/delhi-high-court-grants-7-day-custody-parole-to-al-falah-university-chairman-to-tend-to-ailing-wife/article71674472.ece",
-   "h": "Delhi High Court grants 7-day custody parole to Al Falah University chairman to tend to ailing wife",
-   "link": "https://www.thehindu.com/news/cities/Delhi/delhi-high-court-grants-7-day-custody-parole-to-al-falah-university-chairman-to-tend-to-ailing-wife/article71674472.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-07T10:43:52+05:30",
-   "date": "2026-11-07",
-   "snip": "In July, the high court had refused to grant interim bail to Siddiqui and permitted him to meet his wife on custody parole on three dates.",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/supreme-court-terms-vehicular-emissions-major-contributor-to-air-pollution-in-delhi-ncr/article71673419.ece",
-   "h": "Supreme Court terms vehicular emissions major contributor to air pollution in Delhi-NCR",
-   "link": "https://www.thehindu.com/news/national/supreme-court-terms-vehicular-emissions-major-contributor-to-air-pollution-in-delhi-ncr/article71673419.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-07T10:36:08+05:30",
-   "date": "2026-11-07",
-   "snip": "The Bench highlighted the large number of vehicles plying on roads connecting Delhi with neighbouring areas, including Ghaziabad, Greater Noida, Gurugram and Faridabad",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 4
-  },
-  {
-   "id": "https://www.thehindu.com/videos/shows/why-are-these-beed-women-farmers-staring-at-a-dark-diwali-this-year-pulse-maharashtra/article71677344.ece",
-   "h": "Why are these Beed women farmers staring at a dark Diwali this year? | Pulse Maharashtra",
-   "link": "https://www.thehindu.com/videos/shows/why-are-these-beed-women-farmers-staring-at-a-dark-diwali-this-year-pulse-maharashtra/article71677344.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-07T10:31:37+05:30",
-   "date": "2026-11-07",
-   "snip": "This Diwali, the women farmers of Takarwan village in Beed say, their dreams have shattered. One of the worst droughts in Maharashtra has caused them immense losses. Now, their only hope is the Employment Guarantee Schemes, which have so far been an undelivered promise. While the state government has said it will inject over Rs 6000 crore for employment guarantee schemes this drought season, for these women it has meant an empty promise so far.",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/messis-keralam-visit-row-ed-registers-money-laundering-case/article71677300.ece",
-   "h": "Messi’s Keralam visit row: ED registers money-laundering case",
-   "link": "https://www.thehindu.com/news/national/kerala/messis-keralam-visit-row-ed-registers-money-laundering-case/article71677300.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-07T10:26:43+05:30",
-   "date": "2026-11-07",
-   "snip": "Kochi unit of ED registers Enforcement Case Information Report (ECIR) against Anto Augustine, the authorised signatory of Reporter Broadcasting Company Private Limited, and the company itself, based on FIR filed by Kalamassery police",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/wayanad-landslides-despite-township-progress-13-adivasi-families-still-caught-between-no-go-zones-and-delayed-rehab/article71677156.ece",
-   "h": "Wayanad landslides: Despite township progress, 13 Adivasi families still caught between ‘no-go zones’ and delayed rehab",
-   "link": "https://www.thehindu.com/news/national/kerala/wayanad-landslides-despite-township-progress-13-adivasi-families-still-caught-between-no-go-zones-and-delayed-rehab/article71677156.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-07T10:18:55+05:30",
-   "date": "2026-11-07",
-   "snip": "Some now live in rented accommodation with government assistance, cut off from their forest environment and traditional livelihoods. Others have returned to the forest, as construction of the promised houses on alternative land allocated to them at Puthiyavillage in Meppadi under Forest Rights Act, 2006 is yet to begin",
-   "cat": "Environment",
-   "gs": "GS3",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/opinion/editorial/young-and-fast-on-f1s-youngest-champion/article71674756.ece",
-   "h": "Young and fast: on F1’s youngest champion",
-   "link": "https://www.thehindu.com/opinion/editorial/young-and-fast-on-f1s-youngest-champion/article71674756.ece",
-   "src": "The Hindu - Editorial",
-   "t": "2026-11-07T10:04:19+05:30",
-   "date": "2026-11-07",
-   "snip": "As F1’s youngest champion, Kimi Antonelli can attract a new generation of fans",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/videos/why-are-flight-tickets-so-expensive-now-the-truth-behind-rising-airfares-explained/article71677303.ece",
-   "h": "Why are flight tickets so expensive now? The truth behind rising airfares | Explained",
-   "link": "https://www.thehindu.com/videos/why-are-flight-tickets-so-expensive-now-the-truth-behind-rising-airfares-explained/article71677303.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-07T10:02:48+05:30",
-   "date": "2026-11-07",
-   "snip": "Have you noticed that domestic flight tickets in India have become significantly more expensive? According to the Consumer Price Index, domestic airfares were nearly 30% higher in September compared to a year earlier. But what is driving this surge? In this explainer, The Hindu’s aviation reporter Jagriti Chandra breaks down the factors behind rising airfares, including higher aviation fuel prices, the impact of global oil markets, rupee depreciation, airspace restrictions, geopolitical tensions, airline capacity constraints and dynamic pricing models.",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/cities/mumbai/two-sisters-injured-in-shooting-at-navi-mumbai-home-one-arrested-another-on-the-run/article71675117.ece",
-   "h": "Two sisters injured in shooting at Navi Mumbai home; one arrested, another on the run",
-   "link": "https://www.thehindu.com/news/cities/mumbai/two-sisters-injured-in-shooting-at-navi-mumbai-home-one-arrested-another-on-the-run/article71675117.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-07T09:24:48+05:30",
-   "date": "2026-11-07",
-   "snip": "One sister suffered a bullet injury to her back, while the other was grazed near her ear; police are investigating the motive behind the attack",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/opinion/editorial/epic-failures-on-electoral-roll-welfare/article71674394.ece",
-   "h": "Epic failures: on electoral roll, welfare",
-   "link": "https://www.thehindu.com/opinion/editorial/epic-failures-on-electoral-roll-welfare/article71674394.ece",
-   "src": "The Hindu - Editorial",
-   "t": "2026-11-07T09:19:46+05:30",
-   "date": "2026-11-07",
-   "snip": "The electoral roll cannot be used to determine welfare beneficiaries",
-   "cat": "Society",
-   "gs": "GS1",
-   "score": 4
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/assam/assam-prohibits-drone-operations-near-amur-falcon-roosting-sites/article71674015.ece",
-   "h": "Assam prohibits drone operations near Amur falcon roosting sites",
-   "link": "https://www.thehindu.com/news/national/assam/assam-prohibits-drone-operations-near-amur-falcon-roosting-sites/article71674015.ece",
-   "src": "The Hindu - Environment",
-   "t": "2026-11-07T09:16:30+05:30",
-   "date": "2026-11-07",
-   "snip": "The order follows reports of content creators and visitors flying drones close to congregations of the migratory raptors, apparently to capture photographs and videos for social media",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/diwali-2026-supreme-court-green-cracker-norms-permitted-time-slots-and-other-directions/article71669897.ece",
-   "h": "Deepavali 2026: All you need to know about Supreme Court-permitted time slots, green crackers and other directives",
-   "link": "https://www.thehindu.com/news/national/diwali-2026-supreme-court-green-cracker-norms-permitted-time-slots-and-other-directions/article71669897.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-07T09:15:36+05:30",
-   "date": "2026-11-07",
-   "snip": "The Supreme Court permitted the bursting of certified green firecrackers between 6 a.m. and 7 a.m. and between 8 p.m. and 10 p.m. on November 7 and November 8, 2026 in Delhi-NCR",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/andhra-pradesh/counting-of-votes-in-zptcs-and-mptcs-election-results-andhra-pradesh/article71677201.ece",
-   "h": "Counting of votes in ZPTCs and MPTCs begins in Andhra Pradesh",
-   "link": "https://www.thehindu.com/news/national/andhra-pradesh/counting-of-votes-in-zptcs-and-mptcs-election-results-andhra-pradesh/article71677201.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-07T08:48:03+05:30",
-   "date": "2026-11-07",
-   "snip": "State Election Commissioner Anil Chandra Punetha and other top officials are monitoring the counting.",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
   }
  ]
 }
