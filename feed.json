@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T22:25:28.887481+05:30",
+ "updated": "2026-11-15T02:37:40.086552+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,66 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/investment-promotion-panel-holds-first-meeting-targets-72-billion-in-exports/article71702277.ece",
+   "h": "Investment promotion panel holds first meeting, targets $72 billion in exports",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/investment-promotion-panel-holds-first-meeting-targets-72-billion-in-exports/article71702277.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-15T00:41:00+05:30",
+   "date": "2026-11-15",
+   "snip": "Discussions also focused on the proposed new industrial policy, single-window clearances, and MoUs inked since the TVK-led government came to power",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/andhra-pradesh/scor-central-bank-of-india-ink-pact-to-extend-welfare-facilities-for-railway-staff/article71701919.ece",
+   "h": "SCoR, Central Bank of India ink pact to extend welfare facilities for railway staff",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/scor-central-bank-of-india-ink-pact-to-extend-welfare-facilities-for-railway-staff/article71701919.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-14T23:49:05+05:30",
+   "date": "2026-11-14",
+   "snip": "",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/sci-tech/technology/jensen-huang-ai-rainmaker-meets-his-waterloo/article71702817.ece",
+   "h": "Jensen Huang | AI rainmaker meets his Waterloo",
+   "link": "https://www.thehindu.com/sci-tech/technology/jensen-huang-ai-rainmaker-meets-his-waterloo/article71702817.ece",
+   "src": "The Hindu - International",
+   "t": "2026-11-14T23:13:10+05:30",
+   "date": "2026-11-14",
+   "snip": "The Nvidia chief’s abrupt exit marks a stunning fall from grace for the man who built the hardware foundation of the AI revolution, forged deep ties with Silicon Valley’s tech leaders and expanded the company’s reach across every layer of the AI stack",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/alive-to-voters-need-to-find-their-names-on-the-electoral-roll-eci-assures-supreme-court/article71702627.ece",
+   "h": "‘Alive’ to voters’ need to find their names on the electoral roll, ECI assures Supreme Court",
+   "link": "https://www.thehindu.com/news/national/alive-to-voters-need-to-find-their-names-on-the-electoral-roll-eci-assures-supreme-court/article71702627.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-14T22:32:34+05:30",
+   "date": "2026-11-14",
+   "snip": "Poll body says voters who shifted within the State need not submit Form 8; DEC oversight over IT Division in place",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/international/pakistan-climate-minister-sco-summit-india-visit-new-delhi/article71701699.ece",
+   "h": "Amidst Indus water tensions, Pakistan to send vocal critic to SCO Civilisational Dialogue; first Ministerial visit in three years",
+   "link": "https://www.thehindu.com/news/international/pakistan-climate-minister-sco-summit-india-visit-new-delhi/article71701699.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-14T22:30:51+05:30",
+   "date": "2026-11-14",
+   "snip": "Dr. Malik, the Federal Minister for Climate Change and Environmental Coordination, had earlier this year said that Pakistan would ‘cut off those hands’ that are trying to control the Indus waters",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336267",
    "h": "तिरुचिरापल्ली में 'जल जीवन मिशन 2.0' पर पहला क्षेत्रीय सम्मेलन संपन्न; ‘सतत’ पेयजल सेवाओं और सामुदायिक स्वामित्व पर जोर",
@@ -4753,66 +4813,6 @@
    "snip": "The Adi community has been protesting against the Siang Upper Multipurpose Project in Arunachal Pradesh, saying it threatens their land, livelihoods, and civilisation. The agitation has turned violent in response to increasing use of force by the State authorities. The community alleges that the State government has used deceit, force, and threats to get consent for the feasibility study. Abhinay Lakshman reports on the resistance",
    "cat": "Economy",
    "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/science/why-do-firecracker-emissions-sometimes-linger-in-the-air/article71687297.ece",
-   "h": "Why do firecracker emissions sometimes linger in the air?",
-   "link": "https://www.thehindu.com/sci-tech/science/why-do-firecracker-emissions-sometimes-linger-in-the-air/article71687297.ece",
-   "src": "The Hindu - Science",
-   "t": "2026-11-10T22:47:23+05:30",
-   "date": "2026-11-10",
-   "snip": "",
-   "cat": "Environment",
-   "gs": "GS3",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/jammu-and-kashmir/national-conference-plans-advisorycouncilsof-mlas-to-address-internal-dissent/article71687131.ece",
-   "h": "National Conference plans advisory councils of MLAs to address internal dissent",
-   "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/national-conference-plans-advisorycouncilsof-mlas-to-address-internal-dissent/article71687131.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-10T22:39:11+05:30",
-   "date": "2026-11-10",
-   "snip": "Farooq Abdullah reaches out to legislators after 17 MLAs raise demands following Cabinet expansion; councils to work with Ministers on policy and departmental functioning",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/telangana/cm-directs-officials-to-strengthen-arguments-in-supreme-court-on-krishna-waters/article71687230.ece",
-   "h": "CM directs officials to strengthen arguments in Supreme Court on Krishna waters",
-   "link": "https://www.thehindu.com/news/national/telangana/cm-directs-officials-to-strengthen-arguments-in-supreme-court-on-krishna-waters/article71687230.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-10T22:34:30+05:30",
-   "date": "2026-11-10",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/telangana-to-host-bharat-summit-on-november-13-and-14/article71686906.ece",
-   "h": "Telangana to host Bharat Summit on November 13 and 14",
-   "link": "https://www.thehindu.com/news/national/telangana-to-host-bharat-summit-on-november-13-and-14/article71686906.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-10T22:32:34+05:30",
-   "date": "2026-11-10",
-   "snip": "Global leaders and policymakers from 70 countries expected to attend; Kharge, Rahul and Priyanka invited, says Congress’ Foreign Affairs Department chairman Salman Khurshid",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/uttar-pradesh/onus-on-uttar-pradesh-to-ensure-undertrials-allowed-bail-are-released-says-supreme-court/article71687143.ece",
-   "h": "Onus on Uttar Pradesh to ensure undertrials allowed bail are released, says Supreme Court",
-   "link": "https://www.thehindu.com/news/national/uttar-pradesh/onus-on-uttar-pradesh-to-ensure-undertrials-allowed-bail-are-released-says-supreme-court/article71687143.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-10T22:28:38+05:30",
-   "date": "2026-11-10",
-   "snip": "Of the 264 undertrial prisoners allowed bail, 106 had to continue behind bars for various reasons, including their inability to provide financial security or a guarantor to back them",
-   "cat": "Polity",
-   "gs": "GS2",
    "score": 2
   }
  ]
