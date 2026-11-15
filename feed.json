@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T02:37:40.086552+05:30",
+ "updated": "2026-11-15T06:33:34.530030+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,66 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/national/maharashtra/drought-stricken-beed-land-of-parched-fields-and-broken-promises/article71689837.ece",
+   "h": "Drought-stricken Beed: Land of parched fields and broken promises",
+   "link": "https://www.thehindu.com/news/national/maharashtra/drought-stricken-beed-land-of-parched-fields-and-broken-promises/article71689837.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-15T04:26:01+05:30",
+   "date": "2026-11-15",
+   "snip": "Drought has devastated Maharashtra’s Beed district, pushing women farmers and labourers towards distress migration. Despite repeated pleas for employment, villagers say government job guarantees have failed them, even as the State announces a ₹6,728-crore package",
+   "cat": "Society",
+   "gs": "GS1",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece",
+   "h": "SpaceX’s Starship returns from orbit and is captured by launch pad arms in a dramatic first",
+   "link": "https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece",
+   "src": "The Hindu - International",
+   "t": "2026-11-15T04:02:08+05:30",
+   "date": "2026-11-15",
+   "snip": "SpaceX expects to begin launching Starships from Florida’s Kennedy Space Center within the next few months",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/maritime-security-in-focus-at-india-belgium-naval-talks/article71702848.ece",
+   "h": "Maritime security in focus at India-Belgium naval talks",
+   "link": "https://www.thehindu.com/news/national/maritime-security-in-focus-at-india-belgium-naval-talks/article71702848.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-15T04:00:45+05:30",
+   "date": "2026-11-15",
+   "snip": "The bilateral talk was aimed at strengthening maritime cooperation and further deepening navy-to-navy engagements between the two countries",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/maharashtra/45-magnitude-earthquake-tremors-felt-in-jalgaon/article71702938.ece",
+   "h": "4.5 magnitude earthquake tremors felt in Maharashtra’s Jalgaon",
+   "link": "https://www.thehindu.com/news/national/maharashtra/45-magnitude-earthquake-tremors-felt-in-jalgaon/article71702938.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-15T02:48:48+05:30",
+   "date": "2026-11-15",
+   "snip": "District Collector Rohan Ghuge said, “No loss of life or property damage in Jalgaon has been reported. Residents should not panic or fall prey to any rumours”",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/former-civil-servants-urge-cm-vijay-to-restore-mandate-of-panel-on-union-state-relations/article71702201.ece",
+   "h": "Former civil servants urge CM Vijay to restore mandate of panel on Union-State relations",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/former-civil-servants-urge-cm-vijay-to-restore-mandate-of-panel-on-union-state-relations/article71702201.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-15T00:42:14+05:30",
+   "date": "2026-11-15",
+   "snip": "Referring to the removal of Part I of the HLC’s report from the government website, the group said it found it difficult to discern any compelling justification for the government’s decision",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
   {
    "id": "https://www.thehindu.com/news/national/tamil-nadu/investment-promotion-panel-holds-first-meeting-targets-72-billion-in-exports/article71702277.ece",
    "h": "Investment promotion panel holds first meeting, targets $72 billion in exports",
@@ -313,6 +373,18 @@
    "snip": "At the Bharat Summit, the LoP says money power, institutional capture changed the political landscape, left Opposition in shock for a decade; cites anomalies in Maharashtra elections",
    "cat": "International Relations",
    "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/sci-tech/energy-and-environment/air-pollution-does-not-recognise-state-boundaries-coordinated-action-required-union-minister/article71701924.ece",
+   "h": "Air pollution does not recognise State boundaries, coordinated action required: Union Minister",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/air-pollution-does-not-recognise-state-boundaries-coordinated-action-required-union-minister/article71701924.ece",
+   "src": "The Hindu - Environment",
+   "t": "2026-11-14T21:46:03+05:30",
+   "date": "2026-11-14",
+   "snip": "Minister for Environment, Forest and Climate Change Bhupender Yadav directed all agencies to move beyond planning and ensure rigorous, time-bound, and coordinated enforcement on the ground",
+   "cat": "Environment",
+   "gs": "GS3",
    "score": 2
   },
   {
@@ -4742,78 +4814,6 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334805",
-   "h": "व्यावसायिक जोखिम से सुरक्षित आजीविका तक",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334805",
-   "src": "PIB",
-   "t": "2026-11-10T23:58:55.484265+05:30",
-   "date": "2026-11-10",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334818",
-   "h": "आर्थिक तंगी से लेकर वैश्विक स्तर की शिक्षा के अवसर तक का सफर",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334818",
-   "src": "PIB",
-   "t": "2026-11-10T23:58:55.484248+05:30",
-   "date": "2026-11-10",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334869",
-   "h": "दिल्ली हाट में आयोजित ‘शिल्प समागम मेला 2026’ में कुल 64.52 लाख रुपये से अधिक की बिक्री हुई, जो लोगों की शानदार प्रतिक्रिया और कारीगरों के लिए बाजार के बढ़ते अवसरों को दर्शाती है",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334869",
-   "src": "PIB",
-   "t": "2026-11-10T23:58:55.483503+05:30",
-   "date": "2026-11-10",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/cities/Visakhapatnam/visakhapatnam-gets-a-facelift-ahead-of-cii-summit/article71687118.ece",
-   "h": "Visakhapatnam gets a facelift ahead of CII summit",
-   "link": "https://www.thehindu.com/news/cities/Visakhapatnam/visakhapatnam-gets-a-facelift-ahead-of-cii-summit/article71687118.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-10T23:31:10+05:30",
-   "date": "2026-11-10",
-   "snip": "",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-weighs-making-fathers-name-optional-in-official-documents/article71685940.ece",
-   "h": "Andhra Pradesh weighs making father’s name optional in official documents",
-   "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-weighs-making-fathers-name-optional-in-official-documents/article71685940.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-10T23:20:48+05:30",
-   "date": "2026-11-10",
-   "snip": "State consultation calls for a child-friendly policy to ensure that children of single parents, sex workers, divorced couples and orphans are not denied education, identity documents or welfare benefits",
-   "cat": "Society",
-   "gs": "GS1",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/arunachal-pradesh/siang-dam-and-a-threatened-homeland-in-arunachal-pradesh/article71675266.ece",
-   "h": "The Siang dam and a threatened homeland",
-   "link": "https://www.thehindu.com/news/national/arunachal-pradesh/siang-dam-and-a-threatened-homeland-in-arunachal-pradesh/article71675266.ece",
-   "src": "The Hindu - Environment",
-   "t": "2026-11-10T22:59:35+05:30",
-   "date": "2026-11-10",
-   "snip": "The Adi community has been protesting against the Siang Upper Multipurpose Project in Arunachal Pradesh, saying it threatens their land, livelihoods, and civilisation. The agitation has turned violent in response to increasing use of force by the State authorities. The community alleges that the State government has used deceit, force, and threats to get consent for the feasibility study. Abhinay Lakshman reports on the resistance",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
   }
  ]
 }
