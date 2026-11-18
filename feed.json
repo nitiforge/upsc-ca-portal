@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T23:41:07.231208+05:30",
+ "updated": "2026-11-18T06:28:16.191096+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,102 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/national/assam/construction-activities-on-kaziranga-wildlife-corridors-flagged/article71713607.ece",
+   "h": "Construction activities on Kaziranga wildlife corridors flagged",
+   "link": "https://www.thehindu.com/news/national/assam/construction-activities-on-kaziranga-wildlife-corridors-flagged/article71713607.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-18T03:14:11+05:30",
+   "date": "2026-11-18",
+   "snip": "An Eastern Assam-based environment activist writes to the Supreme Court-constituted Central Empowered Committee, highlighting the concerns",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/convocation-ceremony-row-maharajas-college-council-asks-suspended-students-to-accept-their-mistake/article71713079.ece",
+   "h": "Convocation ceremony row: Maharaja’s College council asks suspended students to accept their mistake",
+   "link": "https://www.thehindu.com/news/national/kerala/convocation-ceremony-row-maharajas-college-council-asks-suspended-students-to-accept-their-mistake/article71713079.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-18T01:42:21+05:30",
+   "date": "2026-11-18",
+   "snip": "The incident caused disrepute to the image of the institution in the public domain, finds inquiry report",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/cities/Kochi/kerala-high-court-allows-cusat-employees-to-seek-review-of-suspension/article71712795.ece",
+   "h": "Kerala High Court allows Cusat employees to seek review of suspension",
+   "link": "https://www.thehindu.com/news/cities/Kochi/kerala-high-court-allows-cusat-employees-to-seek-review-of-suspension/article71712795.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-18T01:31:05+05:30",
+   "date": "2026-11-18",
+   "snip": "The court directed the Syndicate to examine whether the continued suspension was justified",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/kerala-hc-allows-amended-plea-by-suspended-sanskrit-varsity-students-against-inquiry-report/article71712319.ece",
+   "h": "Kerala HC allows amended plea by suspended Sanskrit varsity students against inquiry report",
+   "link": "https://www.thehindu.com/news/national/kerala/kerala-hc-allows-amended-plea-by-suspended-sanskrit-varsity-students-against-inquiry-report/article71712319.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-18T01:27:22+05:30",
+   "date": "2026-11-18",
+   "snip": "The students had challenged the suspension order and sought permission to appear for the semester examinations in their original petition",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/earthshot-prize-climate-action-needs-innovation-global-cooperation-say-leaders-on-green-carpet-in-mumbai/article71713406.ece",
+   "h": "Earthshot Prize: Climate action needs innovation, global cooperation, say leaders on green carpet in Mumbai",
+   "link": "https://www.thehindu.com/news/national/earthshot-prize-climate-action-needs-innovation-global-cooperation-say-leaders-on-green-carpet-in-mumbai/article71713406.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-18T01:19:26+05:30",
+   "date": "2026-11-18",
+   "snip": "Maharashtra Environment and Climate Change Minister Pankaja Munde called for global cooperation to protect the planet for future generations",
+   "cat": "Environment",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/kerala-high-court-dismisses-lawyers-plea-for-contempt-proceedings-against-judge/article71712101.ece",
+   "h": "Kerala High Court dismisses lawyer’s plea for contempt proceedings against judge",
+   "link": "https://www.thehindu.com/news/national/kerala/kerala-high-court-dismisses-lawyers-plea-for-contempt-proceedings-against-judge/article71712101.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-18T01:16:14+05:30",
+   "date": "2026-11-18",
+   "snip": "The court observed that the petitioner’s capacity as a lawyer was not in question and that she should not worry about social media comments",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/kochi-corporation-to-seek-govt-relief-for-building-tax-defaulters/article71712738.ece",
+   "h": "Kochi Corporation to seek govt. relief for building tax defaulters",
+   "link": "https://www.thehindu.com/news/national/kerala/kochi-corporation-to-seek-govt-relief-for-building-tax-defaulters/article71712738.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-18T01:12:51+05:30",
+   "date": "2026-11-18",
+   "snip": "A resolution to this effect was moved by Vaduthala West councillor Jismy Jerald, highlighting a similar issue faced by around 160 families who were assigned title deeds for river puramboke land",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/thirupparankundram-row-tn-govt-pushes-for-stay-of-hc-order-to-avoid-breach-of-peace/article71713024.ece",
+   "h": "Thirupparankundram row: T.N. govt pushes for stay of HC order to avoid breach of peace",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/thirupparankundram-row-tn-govt-pushes-for-stay-of-hc-order-to-avoid-breach-of-peace/article71713024.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-18T00:41:07+05:30",
+   "date": "2026-11-18",
+   "snip": "The HC had confirmed an earlier order to the Arulmigu Subramaniaswamy Temple devasthanam or management body to light the Karthigai Deepam on a stone pillar located atop the Thirupparankundram Hill",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337484",
    "h": "प्रधानमंत्री ने मनीला में आयोजित आसियान शिखर सम्मेलन के अवसर पर थाईलैंड के प्रधानमंत्री से मुलाकात की",
@@ -4716,102 +4812,6 @@
    "date": "2026-11-13",
    "snip": "Orthodox Syrian Church members petition HC that the Patriarch may violate previous Supreme Court orders and indulge in religious activities during his visit to Keralam",
    "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/business/Industry/copper-prices-slid-to-near-four-month-low-amid-fears-of-hike-in-us-interest-rates-lower-demand-especially-from-ai/article71698830.ece",
-   "h": "Copper prices slid to near four-month low amid fears of hike in U.S. interest rates, lower AI demand",
-   "link": "https://www.thehindu.com/business/Industry/copper-prices-slid-to-near-four-month-low-amid-fears-of-hike-in-us-interest-rates-lower-demand-especially-from-ai/article71698830.ece",
-   "src": "The Hindu - Business",
-   "t": "2026-11-13T21:46:57+05:30",
-   "date": "2026-11-13",
-   "snip": "According to the industry body FIMI, prices are expected to remain volatile in the short-term though they may elevate in the long-term fuelled by increased demand.",
-   "cat": "Environment",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/energy-and-environment/aaditya-thackeray-calls-for-climate-change-councils-at-centre-state-levels-to-tackle-pollution/article71698204.ece",
-   "h": "Aaditya Thackeray calls for Climate Change Councils at Centre, State levels to tackle pollution",
-   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/aaditya-thackeray-calls-for-climate-change-councils-at-centre-state-levels-to-tackle-pollution/article71698204.ece",
-   "src": "The Hindu - Environment",
-   "t": "2026-11-13T20:28:57+05:30",
-   "date": "2026-11-13",
-   "snip": "At the State level, he proposed similar councils chaired by the respective Chief Ministers, with participation from relevant departments to monitor the implementation of climate action plans",
-   "cat": "Environment",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/energy-and-environment/why-the-same-climate-finance-dispute-returns-at-every-un-climate-summit/article71690224.ece",
-   "h": "Why climate finance remains a recurring flashpoint at UN summits",
-   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/why-the-same-climate-finance-dispute-returns-at-every-un-climate-summit/article71690224.ece",
-   "src": "The Hindu - Business",
-   "t": "2026-11-13T19:50:43+05:30",
-   "date": "2026-11-13",
-   "snip": "As climate negotiators meet in Türkiye, the familiar battle over climate finance exposes a deeper divide. While wealthy nations count the money they mobilise, developing countries question how much actually reaches them",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://indianexpress.com/article/india/bhagwant-mann-pakistan-visit-lahore-conference-mea-10962073/",
-   "h": "MEA cites ‘national policy’ on Pak over Punjab CM’s Lahore invite",
-   "link": "https://indianexpress.com/article/india/bhagwant-mann-pakistan-visit-lahore-conference-mea-10962073/",
-   "src": "Indian Express - India",
-   "t": "2026-11-13T19:47:42+05:30",
-   "date": "2026-11-13",
-   "snip": "",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://indianexpress.com/article/explained/explained-sci-tech/microsoft-global-outage-outlook-teams-365-exchage-online-10962091/",
-   "h": "Microsoft global outage: How one cloud failure disrupted businesses worldwide",
-   "link": "https://indianexpress.com/article/explained/explained-sci-tech/microsoft-global-outage-outlook-teams-365-exchage-online-10962091/",
-   "src": "Indian Express - Explained",
-   "t": "2026-11-13T19:41:53+05:30",
-   "date": "2026-11-13",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://indianexpress.com/article/explained/explained-sci-tech/why-the-microsoft-outage-is-taking-so-long-to-be-resolved-10961960/",
-   "h": "Microsoft’s 21-hour outage: How its fallout cascaded into lives of users worldwide",
-   "link": "https://indianexpress.com/article/explained/explained-sci-tech/why-the-microsoft-outage-is-taking-so-long-to-be-resolved-10961960/",
-   "src": "Indian Express - Explained",
-   "t": "2026-11-13T19:01:42+05:30",
-   "date": "2026-11-13",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://indianexpress.com/article/explained/explained-economics/paytm-wallet-services-rbi-approval-conditions-explained-10962025/",
-   "h": "Paytm wallet to be back? What RBI’s initial nod means, and why it restricted Paytm Payments Bank",
-   "link": "https://indianexpress.com/article/explained/explained-economics/paytm-wallet-services-rbi-approval-conditions-explained-10962025/",
-   "src": "Indian Express - Explained",
-   "t": "2026-11-13T18:54:45+05:30",
-   "date": "2026-11-13",
-   "snip": "",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 6
-  },
-  {
-   "id": "https://indianexpress.com/article/india/several-foreign-delegates-denied-entry-to-india-for-bharat-summit-says-telangana-cm-10962009/",
-   "h": "Why a Congress-backed global summit has triggered a row over foreign visitors",
-   "link": "https://indianexpress.com/article/india/several-foreign-delegates-denied-entry-to-india-for-bharat-summit-says-telangana-cm-10962009/",
-   "src": "Indian Express - India",
-   "t": "2026-11-13T18:34:05+05:30",
-   "date": "2026-11-13",
-   "snip": "",
-   "cat": "International Relations",
    "gs": "GS2",
    "score": 2
   }
