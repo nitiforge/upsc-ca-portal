@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T05:00:03.687369+05:30",
+ "updated": "2026-11-19T09:56:45.627660+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,78 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/international/donald-trump-xi-jinping-vladimir-putin-trilateral-meeting-in-shenzhen-live-updates-november-19-2026/article71718525.ece",
+   "h": "Xi-Trump-Putin trilateral meeting LIVE: Leaders meet with nuclear arms and two wars on table",
+   "link": "https://www.thehindu.com/news/international/donald-trump-xi-jinping-vladimir-putin-trilateral-meeting-in-shenzhen-live-updates-november-19-2026/article71718525.ece",
+   "src": "The Hindu - International",
+   "t": "2026-11-19T08:08:12+05:30",
+   "date": "2026-11-19",
+   "snip": "The Chinese President opened the two-day APEC gathering with an address to a CEO Summit, where he made a pitch for openness and stable supply chains",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/international/muslims-to-outnumber-christians-by-2035-worldwide-pew-research/article71718507.ece",
+   "h": "Muslims to outnumber Christians by 2035 worldwide: Pew research",
+   "link": "https://www.thehindu.com/news/international/muslims-to-outnumber-christians-by-2035-worldwide-pew-research/article71718507.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-19T06:57:12+05:30",
+   "date": "2026-11-19",
+   "snip": "The absolute number of Hindus in India and worldwide will rise from 1.2 billion in 2020 to 1.4 billion by 2070",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/international/xi-trump-putin-exchange-greetings-before-historic-china-summit/article71718490.ece",
+   "h": "Xi, Trump, Putin exchange greetings before historic China summit",
+   "link": "https://www.thehindu.com/news/international/xi-trump-putin-exchange-greetings-before-historic-china-summit/article71718490.ece",
+   "src": "The Hindu - International",
+   "t": "2026-11-19T06:47:44+05:30",
+   "date": "2026-11-19",
+   "snip": "The agenda for the November 19 meeting between Presidents Xi Jinping, Donald Trump and Vladimir Putin -- which has raised fears of a carve-up into new \"spheres of influence\" -- was unclear",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/census-2027-other-religions-list-made-predictive-text-over-200-entries-from-earlier-list-dropped/article71716433.ece",
+   "h": "Census 2027: ‘Other’ religions list made predictive text, over 200 entries from earlier list dropped",
+   "link": "https://www.thehindu.com/news/national/census-2027-other-religions-list-made-predictive-text-over-200-entries-from-earlier-list-dropped/article71716433.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-19T06:32:43+05:30",
+   "date": "2026-11-19",
+   "snip": "This comes days after The Hindu reported that at least 287 entries such as ISKCON, Gorak Nath, Sanatan, Vedic Dharm, Ramdev etc. had been listed in a drop-down menu for “Other” religions on the portal and then removed",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/hc-directs-state-government-not-to-open-any-new-tasmac-liquor-shops-in-tamil-nadu/article71716455.ece",
+   "h": "Madurai Bench of Madras High Court directs T.N. government not to open any new Tasmac shops",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/hc-directs-state-government-not-to-open-any-new-tasmac-liquor-shops-in-tamil-nadu/article71716455.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-19T05:26:51+05:30",
+   "date": "2026-11-19",
+   "snip": "A Division Bench said the State already had a large number of Tasmac shops, and considering the public interest, new Tasmac shops should not be opened",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/bihar/bihar-minister-targets-peoples-movement-for-pm-modis-one-tree-scheme/article71717698.ece",
+   "h": "Bihar Minister targets people’s movement for PM Modi’s ‘One Tree’ scheme",
+   "link": "https://www.thehindu.com/news/national/bihar/bihar-minister-targets-peoples-movement-for-pm-modis-one-tree-scheme/article71717698.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-19T05:02:55+05:30",
+   "date": "2026-11-19",
+   "snip": "On the occasion of Akshaya Navami, State Agriculture Minister Sinha spoke about connecting five pledges with culture, nature, and farmers",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 3
+  },
   {
    "id": "https://www.thehindu.com/news/national/indias-csr-spending-leaves-gaps-in-health-water-security-innovation-report/article71716827.ece",
    "h": "India’s CSR spending leaves gaps in health, water security, innovation: Report",
@@ -124,6 +196,18 @@
    "score": 3
   },
   {
+   "id": "https://www.thehindu.com/news/national/kerala/t1-t2-sections-contain-sensitive-information-that-needs-protection-from-purview-of-rti-vacb-informs-kerala-high-court/article71717092.ece",
+   "h": "T1, T2 sections contain sensitive information that needs protection from purview of RTI, VACB informs Kerala High Court",
+   "link": "https://www.thehindu.com/news/national/kerala/t1-t2-sections-contain-sensitive-information-that-needs-protection-from-purview-of-rti-vacb-informs-kerala-high-court/article71717092.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-19T01:10:07+05:30",
+   "date": "2026-11-19",
+   "snip": "The VACB’s affidavit pointed out that the disclosure of an intelligence input against a public servant would forewarn him, and that he might conceal evidence to defeat the investigation",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
    "id": "https://www.thehindu.com/news/national/tamil-nadu/declare-parandur-airport-abandonment-decision-unconstitutional-insists-a-pil-plea-before-madras-high-court/article71716148.ece",
    "h": "Declare Parandur airport abandonment decision unconstitutional, insists a PIL plea before Madras High Court",
    "link": "https://www.thehindu.com/news/national/tamil-nadu/declare-parandur-airport-abandonment-decision-unconstitutional-insists-a-pil-plea-before-madras-high-court/article71716148.ece",
@@ -196,6 +280,18 @@
    "score": 2
   },
   {
+   "id": "https://www.thehindu.com/business/Economy/how-ai-could-reshape-global-growth-and-productivity/article71717356.ece",
+   "h": "How AI could reshape global growth and productivity",
+   "link": "https://www.thehindu.com/business/Economy/how-ai-could-reshape-global-growth-and-productivity/article71717356.ece",
+   "src": "The Hindu - Business",
+   "t": "2026-11-18T23:54:05+05:30",
+   "date": "2026-11-18",
+   "snip": "A key expected impact of AI is an unprecedented rise in labour productivity, as its success as a technological revolution is premised on such an increase; what remains to be seen is how pervasive its impact will be across different sectors of the economy",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
    "id": "https://www.thehindu.com/news/national/bihar/bihar-doctor-fined-30-lakh-for-leaving-surgical-gauze-in-abdomen-during-gallbladder-surgery/article71716750.ece",
    "h": "Bihar doctor fined ₹30 lakh for leaving surgical gauze in abdomen during gallbladder surgery",
    "link": "https://www.thehindu.com/news/national/bihar/bihar-doctor-fined-30-lakh-for-leaving-surgical-gauze-in-abdomen-during-gallbladder-surgery/article71716750.ece",
@@ -205,6 +301,18 @@
    "snip": "The Bihar State Consumer Disputes Redressal Commission found the doctor guilty of gross medical negligence The case is related to the late Nibha Singh, a resident of Madhepura, Bihar.",
    "cat": "Science & Tech",
    "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/business/markets/rupee-rises-7-paise-to-close-at-9344-against-us-dollar/article71715596.ece",
+   "h": "Rupee hits seven-month high of 93.28 against U.S. dollar, pares gains to settle flat at 93.50",
+   "link": "https://www.thehindu.com/business/markets/rupee-rises-7-paise-to-close-at-9344-against-us-dollar/article71715596.ece",
+   "src": "The Hindu - Business",
+   "t": "2026-11-18T23:06:20+05:30",
+   "date": "2026-11-18",
+   "snip": "The rupee gave up its early gains as the Dollar index rose to its highest since April 2025 on rate hike hopes after remarks by U.S. Federal Reserve Governor Christopher Waller",
+   "cat": "Polity",
+   "gs": "GS2",
    "score": 2
   },
   {
@@ -686,6 +794,42 @@
    "cat": "Environment",
    "gs": "GS3",
    "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/business/nepals-plea-at-climate-summit-reveals-limits-of-loss-and-damage-finance/article71715663.ece",
+   "h": "Nepal’s plea at climate summit reveals limits of loss and damage finance",
+   "link": "https://www.thehindu.com/business/nepals-plea-at-climate-summit-reveals-limits-of-loss-and-damage-finance/article71715663.ece",
+   "src": "The Hindu - Business",
+   "t": "2026-11-18T17:54:31+05:30",
+   "date": "2026-11-18",
+   "snip": "Four years after governments promised help for countries battered by climate disasters, Nepal’s appeal in Türkiye exposes how little money is available",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/sci-tech/science/how-did-isro-pick-astronaut-candidates-for-the-gaganyaan-mission/article71707743.ece",
+   "h": "How did ISRO pick astronaut candidates for the Gaganyaan mission?",
+   "link": "https://www.thehindu.com/sci-tech/science/how-did-isro-pick-astronaut-candidates-for-the-gaganyaan-mission/article71707743.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-11-18T17:40:13+05:30",
+   "date": "2026-11-18",
+   "snip": "As India embarks on its first manned space mission, developing indigenous capabilities in crew selection and training not only lays the foundation for sustained space activities but also gives an impetus to bioastronautics — the study of behavioural, and medical aspects of humans living in space",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/sci-tech/science/rosalind-franklin-notes-crack-mystery-photograph-51-dna-watson/article71715655.ece",
+   "h": "Rosalind Franklin’s notes crack mystery of DNA’s most famous photo",
+   "link": "https://www.thehindu.com/sci-tech/science/rosalind-franklin-notes-crack-mystery-photograph-51-dna-watson/article71715655.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-11-18T17:35:45+05:30",
+   "date": "2026-11-18",
+   "snip": "Photograph 51 is one of the most iconic images in the history of science, featuring in several lists of the most important photographs ever taken. Its fame comes not only from the role it played in revealing DNA’s helical structure but also from the controversy surrounding its use and the subsequent debate on credit",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
   },
   {
    "id": "https://www.thehindu.com/business/Economy/india-us-trade-deal-signing-will-still-take-some-time-says-commerce-secretary-rajesh-agrawal/article71715672.ece",
@@ -1816,6 +1960,18 @@
    "score": 2
   },
   {
+   "id": "https://www.thehindu.com/news/cities/Delhi/abki-baar-aqi-400-paar-says-congress-takes-a-swipe-at-modi-over-delhi-pollution/article71701683.ece",
+   "h": "‘Abki baar, AQI 400-paar’: Congress takes a swipe at Modi over Delhi pollution",
+   "link": "https://www.thehindu.com/news/cities/Delhi/abki-baar-aqi-400-paar-says-congress-takes-a-swipe-at-modi-over-delhi-pollution/article71701683.ece",
+   "src": "The Hindu - Environment",
+   "t": "2026-11-17T18:18:53+05:30",
+   "date": "2026-11-17",
+   "snip": "Referring to reports of worsening air quality in Delhi, Jairam Ramesh said the city had become the most polluted in the world, with toxic air making breathing difficult",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 3
+  },
+  {
    "id": "https://www.thehindu.com/news/national/karnataka/three-space-companies-selected-to-develop-high-resolution-3d-reconstruction-techniques-for-indian-cities/article71711538.ece",
    "h": "Three space companies selected to develop high-resolution 3D reconstruction techniques for Indian cities",
    "link": "https://www.thehindu.com/news/national/karnataka/three-space-companies-selected-to-develop-high-resolution-3d-reconstruction-techniques-for-indian-cities/article71711538.ece",
@@ -1823,6 +1979,18 @@
    "t": "2026-11-17T18:02:52+05:30",
    "date": "2026-11-17",
    "snip": "The pilot demonstrations will cover Bengaluru and Shimla, and the deliverables will include the horizontal and vertical dimensions of urban settlements, offering a more comprehensive understanding of how Indian cities are expanding and densifying.",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/sci-tech/science/how-do-autistic-people-parse-information-a-video-game-can-help-say/article71711501.ece",
+   "h": "How do autistic people parse information? A video game can help say",
+   "link": "https://www.thehindu.com/sci-tech/science/how-do-autistic-people-parse-information-a-video-game-can-help-say/article71711501.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-11-17T17:04:36+05:30",
+   "date": "2026-11-17",
+   "snip": "Researchers have developed a non-verbal online game that adolescents across the autism spectrum can learn and play; it holds special promise for India by bypassing the need to translate complex clinical instructions into regional languages and allowing clinicians to reach autistic individuals far beyond the major metros",
    "cat": "Science & Tech",
    "gs": "GS3",
    "score": 2
@@ -4646,174 +4814,6 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336310",
-   "h": "देशभर के छावनी बोर्डों में वरिष्ठ नागरिक कल्याण योजनाओं के विस्तार के लिए सामाजिक न्याय और अधिकारिता विभाग तथा रक्षा संपदा महानिदेशालय के बीच समझौता ज्ञापन पर हस्ताक्षर होंगे",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336310",
-   "src": "PIB",
-   "t": "2026-11-14T22:25:00.988761+05:30",
-   "date": "2026-11-14",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336337",
-   "h": "असम में डीआरआई ने एक टिपर ट्रक के खास तरीके से बनाए गई खाली जगह में छिपाई गई 20 किलो मेथ टैबलेट जब्त कीं; एक शख्स गिरफ्तार",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336337",
-   "src": "PIB",
-   "t": "2026-11-14T22:25:00.988730+05:30",
-   "date": "2026-11-14",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336319",
-   "h": "बंटे हुए वतन का सफर: गोवा में वैश्विक सिनेमाई उत्सव की शुरुआत पावेल पावलिकोव्स्की की फिल्म 'फादरलैंड' से होगी",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336319",
-   "src": "PIB",
-   "t": "2026-11-14T22:25:00.988701+05:30",
-   "date": "2026-11-14",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336315",
-   "h": "बेल्जियम नौसेना के कमांडर रियर एडमिरल टैंगी बॉटमैन ने भारत का दौरा किया",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336315",
-   "src": "PIB",
-   "t": "2026-11-14T22:25:00.988672+05:30",
-   "date": "2026-11-14",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336362",
-   "h": "सामाजिक न्याय एवं अधिकारिता मंत्रालय ने 45वें भारत अंतरराष्ट्रीय व्यापार मेले 2026 में कारीगरों के उत्पादों का प्रदर्शन किया",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336362",
-   "src": "PIB",
-   "t": "2026-11-14T22:25:00.988636+05:30",
-   "date": "2026-11-14",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336333",
-   "h": "केंद्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह महाराष्ट्र के पुणे में एनएचईसी मल्टी स्टेट सहकारी संस्था का भूमि पूजन करेंगे",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336333",
-   "src": "PIB",
-   "t": "2026-11-14T22:25:00.987258+05:30",
-   "date": "2026-11-14",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/sparsham-to-focus-on-childrens-mental-health-behavioural-change-minister/article71702556.ece",
-   "h": "Sparsham to focus on children’s mental health, behavioural change: Minister",
-   "link": "https://www.thehindu.com/news/national/kerala/sparsham-to-focus-on-childrens-mental-health-behavioural-change-minister/article71702556.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-14T22:13:22+05:30",
-   "date": "2026-11-14",
-   "snip": "The initiative is being envisaged as a child well-being and violence prevention mission",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/andhra-pradesh/ap-attracts-major-investments-at-cii-summit-in-visakhapatnam/article71701918.ece",
-   "h": "A.P. attracts major investments at CII summit in Visakhapatnam",
-   "link": "https://www.thehindu.com/news/national/andhra-pradesh/ap-attracts-major-investments-at-cii-summit-in-visakhapatnam/article71701918.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-14T22:10:40+05:30",
-   "date": "2026-11-14",
-   "snip": "HSL-Cyient DLM pact to boost indigenous marine electronics; MEIL and fabrIQ commit ₹43,700 crore to projects expected to generate over 1.06 lakh jobs",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/india-no-longer-a-democracy-under-bjp-led-regime-rahul-gandhi/article71702053.ece",
-   "h": "India is no longer functioning as a democracy, destroyed since 2014: Rahul Gandhi",
-   "link": "https://www.thehindu.com/news/national/india-no-longer-a-democracy-under-bjp-led-regime-rahul-gandhi/article71702053.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-14T21:51:34+05:30",
-   "date": "2026-11-14",
-   "snip": "At the Bharat Summit, the LoP says money power, institutional capture changed the political landscape, left Opposition in shock for a decade; cites anomalies in Maharashtra elections",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/energy-and-environment/air-pollution-does-not-recognise-state-boundaries-coordinated-action-required-union-minister/article71701924.ece",
-   "h": "Air pollution does not recognise State boundaries, coordinated action required: Union Minister",
-   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/air-pollution-does-not-recognise-state-boundaries-coordinated-action-required-union-minister/article71701924.ece",
-   "src": "The Hindu - Environment",
-   "t": "2026-11-14T21:46:03+05:30",
-   "date": "2026-11-14",
-   "snip": "Minister for Environment, Forest and Climate Change Bhupender Yadav directed all agencies to move beyond planning and ensure rigorous, time-bound, and coordinated enforcement on the ground",
-   "cat": "Environment",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-attracts-989-lakh-crore-in-investments-after-cii-summit-says-mp/article71701907.ece",
-   "h": "Andhra Pradesh attracted ₹9.89 lakh crore in investments after CII summit, says MP",
-   "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-attracts-989-lakh-crore-in-investments-after-cii-summit-says-mp/article71701907.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-14T21:41:49+05:30",
-   "date": "2026-11-14",
-   "snip": "P4 model seeks to channel corporate CSR funds into education, village development and employment, says Kalisetti Appalanaidu",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/karnataka/karnataka-to-build-30000-houses-for-industrial-workers-under-shramik-nivas-scheme/article71702522.ece",
-   "h": "Karnataka to build 30,000 houses for industrial workers under ‘Shramik Nivas’ scheme",
-   "link": "https://www.thehindu.com/news/national/karnataka/karnataka-to-build-30000-houses-for-industrial-workers-under-shramik-nivas-scheme/article71702522.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-14T21:34:46+05:30",
-   "date": "2026-11-14",
-   "snip": "",
-   "cat": "Society",
-   "gs": "GS1",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-asks-security-police-organisations-to-review-mental-health-policies-for-armed-personnel/article71702395.ece",
-   "h": "Karnataka High Court asks security, police organisations to review mental health policies for armed personnel",
-   "link": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-asks-security-police-organisations-to-review-mental-health-policies-for-armed-personnel/article71702395.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-14T21:19:38+05:30",
-   "date": "2026-11-14",
-   "snip": "Justice Suraj Govindaraj passed the order while quashing the criminal proceedings against a 37-year-old CISF Sub-Inspector for attempting to kill herself in 2022 by using her service pistol while on duty in Mangaluru",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/nod-for-mayilpeeli-scholarship-exam-withdrawn/article71702398.ece",
-   "h": "Nod for Mayilpeeli scholarship exam withdrawn",
-   "link": "https://www.thehindu.com/news/national/kerala/nod-for-mayilpeeli-scholarship-exam-withdrawn/article71702398.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-14T20:58:33+05:30",
-   "date": "2026-11-14",
-   "snip": "Permission given to NTU for conducting scholarship test for UP and high school students withdrawn on directions of Minister for General Education N. Samsudheen following “complaints”",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 2
   }
  ]
 }
