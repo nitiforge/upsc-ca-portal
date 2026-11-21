@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T00:30:21.268238+05:30",
+ "updated": "2026-11-21T06:15:51.935193+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,102 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/news/national/west-bengal/transgender-persons-to-be-roped-in-for-tax-collection-in-west-bengal/article71725267.ece",
+   "h": "Transgender persons to be roped in for tax collection in West Bengal",
+   "link": "https://www.thehindu.com/news/national/west-bengal/transgender-persons-to-be-roped-in-for-tax-collection-in-west-bengal/article71725267.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-21T03:12:49+05:30",
+   "date": "2026-11-21",
+   "snip": "West Bengal Minister Agnimitra Paul launches a programme to provide dignified, alternative livelihoods to trans persons",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/manipur/chandel-district-official-issues-advisory-after-spurious-liquor-kills-11-in-manipur/article71726040.ece",
+   "h": "Chandel district official issues advisory after spurious liquor kills 11 in Manipur",
+   "link": "https://www.thehindu.com/news/national/manipur/chandel-district-official-issues-advisory-after-spurious-liquor-kills-11-in-manipur/article71726040.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-21T02:16:29+05:30",
+   "date": "2026-11-21",
+   "snip": "The Chandel district authorities have urged the people to report suspected manufacturing, storage, sale or distribution of adulterated liquor",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/congress-wants-consultation-on-delimitation-issue-accuses-government-of-not-reaching-out/article71724511.ece",
+   "h": "Congress proposes four-point formula for delimitation, says INDIA bloc on board",
+   "link": "https://www.thehindu.com/news/national/congress-wants-consultation-on-delimitation-issue-accuses-government-of-not-reaching-out/article71724511.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-21T01:25:46+05:30",
+   "date": "2026-11-21",
+   "snip": "Party proposes retaining 543 Lok Sabha seats, existing State-wise distribution and a 25-year freeze, with one-third reservation for women",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/bihar/patna-high-court-quashes-dismissal-of-teachers-and-staff-of-sanskrit-colleges/article71725090.ece",
+   "h": "Patna High Court quashes dismissal of teachers and staff of Sanskrit Colleges",
+   "link": "https://www.thehindu.com/news/national/bihar/patna-high-court-quashes-dismissal-of-teachers-and-staff-of-sanskrit-colleges/article71725090.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-21T01:25:15+05:30",
+   "date": "2026-11-21",
+   "snip": "The court has directed the Bihar Education Department to release the grant-in-aid to the university within three months.",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/karnataka/cabinet-decision-to-forfeit-basava-mantapa-book-yet-to-take-effect-for-want-of-notification/article71725620.ece",
+   "h": "Cabinet decision to forfeit Basava Mantapa book yet to take effect for want of notification",
+   "link": "https://www.thehindu.com/news/national/karnataka/cabinet-decision-to-forfeit-basava-mantapa-book-yet-to-take-effect-for-want-of-notification/article71725620.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-21T01:20:08+05:30",
+   "date": "2026-11-21",
+   "snip": "This, even as Chief Minister D.K. Shivakumar on Friday said that his government will “not tolerate derogatory remarks against Basavanna, the cultural leader of the State” and had instructed officials to forfeit all copies of the book.",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/following-cyclone-akvan-monsoon-rain-to-resume-over-tn-from-tomorrow/article71724527.ece",
+   "h": "Following Cyclone Akvan, monsoon rain to resume over T.N. from tomorrow",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/following-cyclone-akvan-monsoon-rain-to-resume-over-tn-from-tomorrow/article71724527.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-21T01:16:09+05:30",
+   "date": "2026-11-21",
+   "snip": "The RMC has forecast moderate rainfall in coastal districts, including Chennai and Cuddalore, and mild rainfall over adjoining areas; wet weather likely to last till the first week of December",
+   "cat": "Environment",
+   "gs": "GS3",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/lawyer-seeks-to-probate-will-left-behind-by-former-dgps-wife-madras-high-court-orders-cb-cid-probe-after-suspecting-its-genuineness/article71725560.ece",
+   "h": "Lawyer seeks to probate will left behind by former DGP’s wife: Madras High Court orders CB-CID probe after suspecting its genuineness",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/lawyer-seeks-to-probate-will-left-behind-by-former-dgps-wife-madras-high-court-orders-cb-cid-probe-after-suspecting-its-genuineness/article71725560.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-21T01:14:48+05:30",
+   "date": "2026-11-21",
+   "snip": "Justices N. Sathish Kumar and G.K. Muthukumaar direct incumbent DGP Mahesh Kumar Aggarwal to ensure that an investigation gets conducted after registering a FIR",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/west-bengal/comments-by-abhishek-banerjee-painful-but-not-contemptuous-calcutta-high-court/article71724792.ece",
+   "h": "Comments by Abhishek Banerjee painful but not contemptuous: Calcutta High Court",
+   "link": "https://www.thehindu.com/news/national/west-bengal/comments-by-abhishek-banerjee-painful-but-not-contemptuous-calcutta-high-court/article71724792.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-21T01:01:39+05:30",
+   "date": "2026-11-21",
+   "snip": "The development comes days after Justice Krishna Rao of the Calcutta High Court on November 17 issued criminal contempt proceedings against Abhishek Banerjee for remarks made on November 7",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339255",
    "h": "माननीय प्रधानमंत्री श्री नरेन्द्र मोदी ने ‘समावेशी नीति संकल्प 2026’ के पूर्ण सत्र की अध्यक्षता की",
@@ -254,6 +350,18 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/andhra-pradesh/ensure-no-household-is-left-out-in-census-enumeration-officials-told/article71725611.ece",
+   "h": "Ensure no household is left out in Census enumeration, officials told",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/ensure-no-household-is-left-out-in-census-enumeration-officials-told/article71725611.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-21T00:26:14+05:30",
+   "date": "2026-11-21",
+   "snip": "",
+   "cat": "Society",
+   "gs": "GS1",
+   "score": 2
   },
   {
    "id": "https://www.thehindu.com/sci-tech/technology/anthropic-researcher-says-claude-solved-maths-greatest-riddle/article71725942.ece",
@@ -4704,114 +4812,6 @@
    "date": "2026-11-17",
    "snip": "In the first Quad Summit since 2024, PM Modi is expected to meet U.S. President Trump, Japanese PM Takaichi and Australian PM Albanese",
    "cat": "International Relations",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/census-2027-turning-out-to-be-farce-congress/article71710420.ece",
-   "h": "Census 2027 turning out to be farce: Congress",
-   "link": "https://www.thehindu.com/news/national/census-2027-turning-out-to-be-farce-congress/article71710420.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-17T13:44:34+05:30",
-   "date": "2026-11-17",
-   "snip": "Census 2027 is turning out to be a farce in many respects. This will have grave implications, Jairam Ramesh said",
-   "cat": "Society",
-   "gs": "GS1",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/lpst-protests-keralam-mulling-lowering-teacher-student-ratio-in-govt-schools-with-division-fall-leading-to-loss-of-post/article71710858.ece",
-   "h": "LPST protests: Keralam mulling lowering teacher-student ratio in govt schools with division fall leading to loss of post",
-   "link": "https://www.thehindu.com/news/national/kerala/lpst-protests-keralam-mulling-lowering-teacher-student-ratio-in-govt-schools-with-division-fall-leading-to-loss-of-post/article71710858.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-17T13:42:04+05:30",
-   "date": "2026-11-17",
-   "snip": "Proposal likely to come up in Wednesday’s Cabinet meet. Implementation is expected to create additional financial burden of ₹50 crore a year",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/international/north-koreas-kim-visits-ski-resort-as-donald-trump-hints-at-possible-meeting/article71710685.ece",
-   "h": "North Korea’s Kim visits ski resort as Donald Trump hints at possible meeting",
-   "link": "https://www.thehindu.com/news/international/north-koreas-kim-visits-ski-resort-as-donald-trump-hints-at-possible-meeting/article71710685.ece",
-   "src": "The Hindu - International",
-   "t": "2026-11-17T13:37:32+05:30",
-   "date": "2026-11-17",
-   "snip": "We may meet with Kim Jong Un also, so that'll be good, Donald Trump told reporters",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-andhra-home-minister-anitha-puts-coastal-districts-on-high-alert-warns-fishermen/article71710830.ece",
-   "h": "Cyclone Akvan: Andhra Home Minister Anitha puts coastal districts on high alert, warns fishermen",
-   "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-andhra-home-minister-anitha-puts-coastal-districts-on-high-alert-warns-fishermen/article71710830.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-17T13:35:33+05:30",
-   "date": "2026-11-17",
-   "snip": "Andhra Pradesh Home Minister Vangalapudi Anitha asks people to stay alert over the next four days and the Agriculture Department to help farmers protect crops ready for harvest",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/cities/bangalore/bengaluru-tech-summit-karnataka-charts-next-tech-leap-to-push-ai-deep-tech-cm-dk-shivakumar/article71710810.ece",
-   "h": "Karnataka charting next tech leap to push AI, deep-tech: CM D.K. Shivakumar",
-   "link": "https://www.thehindu.com/news/cities/bangalore/bengaluru-tech-summit-karnataka-charts-next-tech-leap-to-push-ai-deep-tech-cm-dk-shivakumar/article71710810.ece",
-   "src": "The Hindu - Business",
-   "t": "2026-11-17T13:32:53+05:30",
-   "date": "2026-11-17",
-   "snip": "Inaugurating the 29th Bengaluru Tech Summit, Chief Minister D.K. Shivakumar unveils major infrastructure, funding, and reskilling initiatives to lead global innovation beyond artificial intelligence",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/international/tokyo-lodges-protest-after-aircraft-believed-to-be-russian-violate-japan-airspace/article71710315.ece",
-   "h": "Tokyo lodges protest after aircraft believed to be Russian violate Japan airspace",
-   "link": "https://www.thehindu.com/news/international/tokyo-lodges-protest-after-aircraft-believed-to-be-russian-violate-japan-airspace/article71710315.ece",
-   "src": "The Hindu - International",
-   "t": "2026-11-17T13:22:25+05:30",
-   "date": "2026-11-17",
-   "snip": "The last confirmed violation of ‌Japan’s airspace by Russian aircraft ​was off Rebun Island, Hokkaido, in ⁠September 2024, according to the ⁠Defence Ministry",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/cities/kolkata/calcutta-high-court-issues-criminal-contempt-proceedings-against-abhishek-banerjee/article71710835.ece",
-   "h": "Calcutta High Court issues criminal contempt proceedings against Abhishek Banerjee",
-   "link": "https://www.thehindu.com/news/cities/kolkata/calcutta-high-court-issues-criminal-contempt-proceedings-against-abhishek-banerjee/article71710835.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-17T13:20:31+05:30",
-   "date": "2026-11-17",
-   "snip": "Justice Krishna Rao had said that by his remarks on November 7, Abhishek Banerjee had committed criminal contempt of the court” and “attempted with interference of administration of justice",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/technology/singapore-seeks-trusted-access-to-ai-chips-after-new-us-curbs/article71710285.ece",
-   "h": "Singapore seeks ‘trusted access’ to AI chips after new US curbs",
-   "link": "https://www.thehindu.com/sci-tech/technology/singapore-seeks-trusted-access-to-ai-chips-after-new-us-curbs/article71710285.ece",
-   "src": "The Hindu - International",
-   "t": "2026-11-17T13:19:27+05:30",
-   "date": "2026-11-17",
-   "snip": "Singapore is finding itself at the centre of the controversy as cloud computing firm Megaspeed, suspected of helping Chinese firms get around US export controls, is based there",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/international/us-federal-court-strikes-down-fixed-terms-for-student-exchange-visas/article71710228.ece",
-   "h": "U.S. federal court strikes down fixed terms for student, exchange visas",
-   "link": "https://www.thehindu.com/news/international/us-federal-court-strikes-down-fixed-terms-for-student-exchange-visas/article71710228.ece",
-   "src": "The Hindu - International",
-   "t": "2026-11-17T13:16:02+05:30",
-   "date": "2026-11-17",
-   "snip": "In July, the U.S. Department of Homeland Security (DHS) proposed a policy aimed at preventing international students from staying in the country for more than four years unless they obtained federal approval",
-   "cat": "Polity",
    "gs": "GS2",
    "score": 2
   }
