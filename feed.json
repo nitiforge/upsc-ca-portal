@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T03:09:43.374235+05:30",
+ "updated": "2026-11-22T07:05:58.626307+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -160,6 +160,90 @@
    "score": 3
   },
   {
+   "id": "https://www.thehindu.com/news/national/uttar-pradesh/tenure-focused-on-institutional-reform-oriented-approach-says-outgoing-uppsc-chairman-sanjay-shrinet/article71729462.ece",
+   "h": "Tenure focused on institutional reform-oriented approach, says outgoing UPPSC Chairman Sanjay Shrinet",
+   "link": "https://www.thehindu.com/news/national/uttar-pradesh/tenure-focused-on-institutional-reform-oriented-approach-says-outgoing-uppsc-chairman-sanjay-shrinet/article71729462.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-22T01:37:23+05:30",
+   "date": "2026-11-22",
+   "snip": "‘Under my leadership, the Commission adopted an extremely strict and transparent approach towards ensuring the integrity and security of examinations and enhancing the quality of confidential operations,’ said Sanjay Shrinet",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/west-bengal/west-bengalgovernment-to-appoint-coordinators-for-all-209-wards-in-kolkataunion-minister-sukanta-majumdar/article71729005.ece",
+   "h": "West Bengal government to appoint coordinators for all 209 wards in Kolkata: Union Minister Sukanta Majumdar",
+   "link": "https://www.thehindu.com/news/national/west-bengal/west-bengalgovernment-to-appoint-coordinators-for-all-209-wards-in-kolkataunion-minister-sukanta-majumdar/article71729005.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-22T01:26:20+05:30",
+   "date": "2026-11-22",
+   "snip": "This announcement comes as the Kolkata Corporation election remains stalled by the Calcutta High Court; Mamata-Trinamool says why not hold elections and appoint elected representatives",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/kerala-high-courts-remarks-trigger-fresh-debate-on-kochis-night-life/article71728981.ece",
+   "h": "Kerala High Court’s remarks trigger fresh debate on Kochi’s night life",
+   "link": "https://www.thehindu.com/news/national/kerala/kerala-high-courts-remarks-trigger-fresh-debate-on-kochis-night-life/article71728981.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-22T01:20:12+05:30",
+   "date": "2026-11-22",
+   "snip": "Court’s question on whether the police are opposed to nightlife altogether sparks debate over the city’s growing appetite for late-night events and gatherings and long-standing concerns raised by law enforcers",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/cities/Kochi/mallussery-mango-pokkali-rice-among-peoples-favourites-as-official-species-for-ernakulam/article71729213.ece",
+   "h": "Mallussery mango, Pokkali rice among people’s favourites as official species for Ernakulam",
+   "link": "https://www.thehindu.com/news/cities/Kochi/mallussery-mango-pokkali-rice-among-peoples-favourites-as-official-species-for-ernakulam/article71729213.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-22T01:08:28+05:30",
+   "date": "2026-11-22",
+   "snip": "Suggestions sought from public as part of a joint initiative by the district panchayat and the Biodiversity Management Committee",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/odisha/eastern-ghats-on-a-slippery-slope/article71718920.ece",
+   "h": "Eastern Ghats on a slippery slope",
+   "link": "https://www.thehindu.com/news/national/odisha/eastern-ghats-on-a-slippery-slope/article71718920.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-22T01:07:23+05:30",
+   "date": "2026-11-22",
+   "snip": "The deaths of 10 people in two landslides triggered by Cyclone Arnab have drawn attention to the fragile ecology of the Eastern Ghats in Odisha and the growing dangers lurking in its hills. Satyasundar Barik examines how climate extremes, deforestation, and unplanned development are threatening the ecosystem",
+   "cat": "Environment",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/cities/Madurai/deepathoon-row-state-govt-consulting-experts-on-filing-review-petition-says-minister/article71728654.ece",
+   "h": "Deepathoon row: State govt. consulting experts on filing review petition, says Minister",
+   "link": "https://www.thehindu.com/news/cities/Madurai/deepathoon-row-state-govt-consulting-experts-on-filing-review-petition-says-minister/article71728654.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-22T00:57:06+05:30",
+   "date": "2026-11-22",
+   "snip": "A decision will be taken soon on moving the petition against the Supreme Court’s interim order, says C.T.R. Nirmal Kumar; VCK chief says his party is firmly opposed to implementing the verdict",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/cities/bangalore/government-has-asked-us-to-reconsider-restricting-all-protests-to-freedom-park-says-bengalurus-new-chief-commissioner-of-police/article71728696.ece",
+   "h": "Government has asked us to reconsider restricting all protests to Freedom Park, says Bengaluru’s new Chief Commissioner of Police",
+   "link": "https://www.thehindu.com/news/cities/bangalore/government-has-asked-us-to-reconsider-restricting-all-protests-to-freedom-park-says-bengalurus-new-chief-commissioner-of-police/article71728696.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-22T00:36:02+05:30",
+   "date": "2026-11-22",
+   "snip": "After having taken charge during a transition phase, R. Hithendra says his first order of business is to establish a new layer of top-level governance and resolve coordination issues between commissionerates",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
    "id": "https://www.thehindu.com/news/national/three-cyclones-in-three-weeks-whats-happening-in-the-bay-of-bengal-explained/article71721198.ece",
    "h": "Three cyclones in three weeks: What’s happening in the Bay of Bengal? | Explained",
    "link": "https://www.thehindu.com/news/national/three-cyclones-in-three-weeks-whats-happening-in-the-bay-of-bengal-explained/article71721198.ece",
@@ -181,6 +265,18 @@
    "snip": "He approves construction of a temple for Lord Surya and Brihaspati in Rajamahendravaram at a cost of ₹1.80 crore and instructs officials to focus on crowd control and regulating vehicular traffic",
    "cat": "International Relations",
    "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/madurais-great-gold-heist/article71729301.ece",
+   "h": "Madurai’s great gold heist",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/madurais-great-gold-heist/article71729301.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-21T23:16:32+05:30",
+   "date": "2026-11-21",
+   "snip": "The daring heist at a newly opened jewellery showroom in Madurai, executed by a lone, first-time burglar who wanted to live a lavish life and become rich soon, has all the makings of a potboiler. This report narrates the story as it happened and how the police solved the crime",
+   "cat": "Economy",
+   "gs": "GS3",
    "score": 2
   },
   {
@@ -4276,6 +4372,18 @@
    "score": 3
   },
   {
+   "id": "https://www.thehindu.com/news/national/assam/construction-activities-on-kaziranga-wildlife-corridors-flagged/article71713607.ece",
+   "h": "Construction activities on Kaziranga wildlife corridors flagged",
+   "link": "https://www.thehindu.com/news/national/assam/construction-activities-on-kaziranga-wildlife-corridors-flagged/article71713607.ece",
+   "src": "The Hindu - Environment",
+   "t": "2026-11-18T21:44:59+05:30",
+   "date": "2026-11-18",
+   "snip": "An Eastern Assam-based environment activist writes to the Supreme Court-constituted Central Empowered Committee, highlighting the concerns",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 4
+  },
+  {
    "id": "https://indianexpress.com/article/india/pm-modi-nasha-mukt-india-substance-abuse-council-of-ministers-meeting-10968739/",
    "h": "Focus on ‘nasha mukt’ India: PM Modi to ministers, cites success against Naxals, poverty",
    "link": "https://indianexpress.com/article/india/pm-modi-nasha-mukt-india-substance-abuse-council-of-ministers-meeting-10968739/",
@@ -4705,114 +4813,6 @@
    "snip": "People can call 112, 1070 or 18004250101 in an emergency, and report power cuts, fallen trees and waterlogging on WhatsApp at 95523 00009",
    "cat": "Economy",
    "gs": "GS3",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/international/india-japan-set-to-review-defence-ties-as-rajnath-jaishankar-arrive-in-tokyo/article71714856.ece",
-   "h": "India, Japan set to review defence ties as Rajnath, Jaishankar arrive in Tokyo",
-   "link": "https://www.thehindu.com/news/international/india-japan-set-to-review-defence-ties-as-rajnath-jaishankar-arrive-in-tokyo/article71714856.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-18T12:36:37+05:30",
-   "date": "2026-11-18",
-   "snip": "The two-day visit comes a day after the Quad leaders' summit in Manila, Philippines and as India hosts a joint humanitarian assistance and disaster relief (HADR) exercise involving the four member countries",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/telangana/over-400-citizens-urge-cm-to-postpone-invest-telangana-global-summit-citing-drought/article71712667.ece",
-   "h": "Over 400 citizens urge CM to postpone Invest Telangana Global Summit citing drought",
-   "link": "https://www.thehindu.com/news/national/telangana/over-400-citizens-urge-cm-to-postpone-invest-telangana-global-summit-citing-drought/article71712667.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-18T12:27:31+05:30",
-   "date": "2026-11-18",
-   "snip": "Environmentalists, scientists, academics, civil society representatives and people’s organisations expressed concern over the reported deployment of one government officer for each delegate, arguing that administrative personnel should instead be engaged in drought mitigation",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 4
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/azam-khan-supreme-court-ed-interim-bail/article71714741.ece",
-   "h": "ED moves Supreme Court challenging interim bail granted to Azam Khan in money laundering case",
-   "link": "https://www.thehindu.com/news/national/azam-khan-supreme-court-ed-interim-bail/article71714741.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-18T12:23:14+05:30",
-   "date": "2026-11-18",
-   "snip": "Supreme Court said the plea would be listed for hearing on November 19; ED sources said the agency has filed a Special Leave Petition (SLP) before the Supreme Court against the Allahabad High Court’s order",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/tamil-nadu/disclose-kolathur-mla-vs-babus-health-status-litigant-before-madras-high-court/article71714662.ece",
-   "h": "Disclose Kolathur MLA V.S. Babu’s health status: litigant before Madras High Court",
-   "link": "https://www.thehindu.com/news/national/tamil-nadu/disclose-kolathur-mla-vs-babus-health-status-litigant-before-madras-high-court/article71714662.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-18T12:19:55+05:30",
-   "date": "2026-11-18",
-   "snip": "A resident of the constituency files a writ petition (criminal) seeking a direction to the government officials to consider representations made by him in this regard",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/kerala-hc-directs-ksrtc-to-play-multilingual-messages-against-waste-dumping-in-sabarimala-pilgrim-buses/article71713440.ece",
-   "h": "Kerala HC directs KSRTC to play multilingual messages against waste dumping in Sabarimala pilgrim buses",
-   "link": "https://www.thehindu.com/news/national/kerala/kerala-hc-directs-ksrtc-to-play-multilingual-messages-against-waste-dumping-in-sabarimala-pilgrim-buses/article71713440.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-18T12:05:29+05:30",
-   "date": "2026-11-18",
-   "snip": "Division Bench tells Travancore Devaswom Board that messages should highlight the importance of maintaining cleanliness and sanctity of Pampa river and its surrounding areas",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/international/chinas-xi-other-leaders-say-asia-pacific-must-embrace-open-trade-and-fair-growth/article71714725.ece",
-   "h": "China’s Xi, other leaders say Asia-Pacific must embrace open trade and fair growth",
-   "link": "https://www.thehindu.com/news/international/chinas-xi-other-leaders-say-asia-pacific-must-embrace-open-trade-and-fair-growth/article71714725.ece",
-   "src": "The Hindu - International",
-   "t": "2026-11-18T12:05:21+05:30",
-   "date": "2026-11-18",
-   "snip": "In a CEO Summit on the sidelines of the APEC Summit, the Chinese President did not mention export controls, Nvidia or the U.S. directly",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/tamil-nadu/pallikaranai-marsh-construction-ban-madras-hc-asks-litigants-to-approach-supreme-court-for-interim-relief/article71714706.ece",
-   "h": "Pallikaranai marsh construction ban: Madras HC asks litigants to approach Supreme Court for interim relief",
-   "link": "https://www.thehindu.com/news/national/tamil-nadu/pallikaranai-marsh-construction-ban-madras-hc-asks-litigants-to-approach-supreme-court-for-interim-relief/article71714706.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-18T12:02:23+05:30",
-   "date": "2026-11-18",
-   "snip": "Chief Justice Sushrut Arvind Dharmadhikari and Justice G. Arul Murugan dispose of a batch of cases, including the one filed by CREDAI-Chennai, with liberty to the petitioners to move the top court",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://indianexpress.com/article/explained/explained-health/icmr-antibiotic-resistance-report-2025-common-infections-india-10967863/",
-   "h": "Why common infections are becoming harder to treat in India: ICMR scientist explains",
-   "link": "https://indianexpress.com/article/explained/explained-health/icmr-antibiotic-resistance-report-2025-common-infections-india-10967863/",
-   "src": "Indian Express - Explained",
-   "t": "2026-11-18T11:25:39+05:30",
-   "date": "2026-11-18",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/repayment-of-loan-does-not-exonerate-accused-charged-under-pmla-says-kerala-hc/article71713481.ece",
-   "h": "Repayment of loan does not exonerate accused charged under PMLA, says Kerala HC",
-   "link": "https://www.thehindu.com/news/national/kerala/repayment-of-loan-does-not-exonerate-accused-charged-under-pmla-says-kerala-hc/article71713481.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-18T11:16:30+05:30",
-   "date": "2026-11-18",
-   "snip": "High Court dismisses petition by 23rd accused seeking discharge from money-laundering case related to Karuvannur Service Cooperative Bank in Thrissur",
-   "cat": "Polity",
-   "gs": "GS2",
    "score": 3
   }
  ]
