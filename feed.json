@@ -1,20 +1,104 @@
 {
- "updated": "2026-11-23T03:48:54.812238+05:30",
+ "updated": "2026-11-23T08:28:05.048508+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
   "The Hindu - Editorial": "ok (60)",
   "The Hindu - International": "ok (60)",
   "The Hindu - Business": "ok (60)",
-  "Indian Express - India": "failed: HTTPError",
-  "Indian Express - Explained": "failed: HTTPError",
-  "Indian Express - Editorials": "failed: HTTPError",
+  "Indian Express - India": "ok (200)",
+  "Indian Express - Explained": "ok (200)",
+  "Indian Express - Editorials": "ok (200)",
   "The Hindu - Science": "ok (60)",
   "The Hindu - Environment": "ok (60)",
   "PRS India": "failed: HTTPError",
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://www.thehindu.com/sci-tech/science/japan-europe-spacecraft-bepicolombo-begins-orbit-of-mercury-with-a-glitch-reported/article71733234.ece",
+   "h": "Japan-Europe spacecraft BepiColombo begins orbit of Mercury, with a glitch reported",
+   "link": "https://www.thehindu.com/sci-tech/science/japan-europe-spacecraft-bepicolombo-begins-orbit-of-mercury-with-a-glitch-reported/article71733234.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-11-23T08:07:44+05:30",
+   "date": "2026-11-23",
+   "snip": "The mission will seek to answer questions about Mercury such as why it has a magnetic field, why ice exists in the polar craters of a sun-scorched planet, and what is the nature of enigmatic depressions called \"hollows\" on its surface",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 4
+  },
+  {
+   "id": "https://indianexpress.com/article/opinion/editorials/ehsaas-2026-delhi-student-mental-health-policy-10974089/",
+   "h": "Ehsaas moves needle on students’ mental health",
+   "link": "https://indianexpress.com/article/opinion/editorials/ehsaas-2026-delhi-student-mental-health-policy-10974089/",
+   "src": "Indian Express - Editorials",
+   "t": "2026-11-23T06:15:11+05:30",
+   "date": "2026-11-23",
+   "snip": "",
+   "cat": "Society",
+   "gs": "GS1",
+   "score": 4
+  },
+  {
+   "id": "https://indianexpress.com/article/explained/india-protecting-wildlife-achievments-challenges-10974140/",
+   "h": "How India outdid the West in protecting wildlife, and the gaps that remain",
+   "link": "https://indianexpress.com/article/explained/india-protecting-wildlife-achievments-challenges-10974140/",
+   "src": "Indian Express - Explained",
+   "t": "2026-11-23T06:02:11+05:30",
+   "date": "2026-11-23",
+   "snip": "",
+   "cat": "Environment",
+   "gs": "GS3",
+   "score": 4
+  },
+  {
+   "id": "https://indianexpress.com/article/opinion/editorials/balendra-shah-visit-india-nepal-diplomatic-ties-10974081/",
+   "h": "With Balen Shah in India, Delhi must size up new Kathmandu, speak to it",
+   "link": "https://indianexpress.com/article/opinion/editorials/balendra-shah-visit-india-nepal-diplomatic-ties-10974081/",
+   "src": "Indian Express - Editorials",
+   "t": "2026-11-23T06:00:13+05:30",
+   "date": "2026-11-23",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://indianexpress.com/article/india/tamil-nadu-seeks-stay-supreme-court-deepathoon-order-10974183/",
+   "h": "Tamil Nadu seeks stay on Supreme Court order in deepathoon row, says it would ‘alter position irreversibly’",
+   "link": "https://indianexpress.com/article/india/tamil-nadu-seeks-stay-supreme-court-deepathoon-order-10974183/",
+   "src": "Indian Express - India",
+   "t": "2026-11-23T05:20:27+05:30",
+   "date": "2026-11-23",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://indianexpress.com/article/india/cop31-antaralya-summit-fails-fossil-fuel-deal-10974180/",
+   "h": "COP31 concludes without agreement as countries differ on fossil fuel phase-out",
+   "link": "https://indianexpress.com/article/india/cop31-antaralya-summit-fails-fossil-fuel-deal-10974180/",
+   "src": "Indian Express - India",
+   "t": "2026-11-23T05:20:22+05:30",
+   "date": "2026-11-23",
+   "snip": "",
+   "cat": "Environment",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://indianexpress.com/article/india/pm-garib-kalyan-scheme-free-ration-scheme-inclusion-error-study-10974173/",
+   "h": "Car, Government job, free food: Study flags 13% ‘inclusion error’ in PM Garib Kalyan scheme",
+   "link": "https://indianexpress.com/article/india/pm-garib-kalyan-scheme-free-ration-scheme-inclusion-error-study-10974173/",
+   "src": "Indian Express - India",
+   "t": "2026-11-23T05:20:16+05:30",
+   "date": "2026-11-23",
+   "snip": "",
+   "cat": "Society",
+   "gs": "GS1",
+   "score": 2
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340129",
    "h": "57वें इफ्फी में ब्रिक्स फिल्म फेस्टिवल राउंडटेबल ने सह-निर्माण, वितरण और प्रौद्योगिकी आदान-प्रदान के अवसरों पर चर्चा की",
@@ -62,6 +146,30 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/international/israels-eisenkot-condemns-arson-attacks-by-jewish-settlers-in-west-bank/article71732544.ece",
+   "h": "Israel’s Eisenkot condemns arson attacks by Jewish settlers in West Bank",
+   "link": "https://www.thehindu.com/news/international/israels-eisenkot-condemns-arson-attacks-by-jewish-settlers-in-west-bank/article71732544.ece",
+   "src": "The Hindu - International",
+   "t": "2026-11-23T03:32:28+05:30",
+   "date": "2026-11-23",
+   "snip": "Gadi Eisenkot called the attacks ‘Jewish terrorism’, saying that ‘extremist groups that set ⁠fire to vehicles and homes are undermining regional stability, putting lives at risk and doing grave damage to Israel’s national security and foreign relations’",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/raut-alleges-bjp-offers-funds-to-secure-support-for-delimitation-bill/article71732151.ece",
+   "h": "Raut alleges BJP offers funds to secure support for Delimitation Bill",
+   "link": "https://www.thehindu.com/news/national/raut-alleges-bjp-offers-funds-to-secure-support-for-delimitation-bill/article71732151.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-23T01:48:09+05:30",
+   "date": "2026-11-23",
+   "snip": "Sanjay Raut alleged during the conference that an MP would receive ₹150 crore upon breaking away from a party to support the Delimitation Bill without facing disqualification",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
   },
   {
    "id": "https://www.thehindu.com/news/national/uttar-pradesh/18th-up-legislative-assembly-sits-less-than-90-days-experts-point-to-unhealthy-concentration-of-power-in-the-executive/article71732384.ece",
@@ -508,6 +616,18 @@
    "score": 3
   },
   {
+   "id": "https://indianexpress.com/article/india/bisleri-water-unsafe-fssai-prosecution-packaged-sample-10974022/",
+   "h": "Bisleri water fails safety test, FSSAI sanctions prosecution",
+   "link": "https://indianexpress.com/article/india/bisleri-water-unsafe-fssai-prosecution-packaged-sample-10974022/",
+   "src": "Indian Express - India",
+   "t": "2026-11-22T21:11:49+05:30",
+   "date": "2026-11-22",
+   "snip": "",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
    "id": "https://www.thehindu.com/news/national/karnataka/kerc-mandates-4333-of-energy-from-renewable-sources-for-escoms-industries-by-2030/article71656793.ece",
    "h": "KERC mandates 43.33% of energy from renewable sources for Escoms, industries by 2030",
    "link": "https://www.thehindu.com/news/national/karnataka/kerc-mandates-4333-of-energy-from-renewable-sources-for-escoms-industries-by-2030/article71656793.ece",
@@ -542,6 +662,18 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 2
+  },
+  {
+   "id": "https://indianexpress.com/article/explained/explained-global/china-this-week-trump-xi-putin-declaration-japan-10973949/",
+   "h": "China This Week | Trump, Xi and Putin’s declaration, Japan’s snub, and the Shenzhen story",
+   "link": "https://indianexpress.com/article/explained/explained-global/china-this-week-trump-xi-putin-declaration-japan-10973949/",
+   "src": "Indian Express - Explained",
+   "t": "2026-11-22T20:37:27+05:30",
+   "date": "2026-11-22",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
   },
   {
    "id": "https://www.thehindu.com/news/cities/Delhi/caqm-releases-report-card-of-delhi-and-its-neighbours-on-implementation-of-pollution-action-plans/article71731434.ece",
@@ -604,6 +736,18 @@
    "score": 2
   },
   {
+   "id": "https://indianexpress.com/article/explained/explained-sci-tech/india-first-h5n1-bird-flu-vaccine-chickens-nihsad-bhopal-10973882/",
+   "h": "How India’s first indigenous bird flu vaccine was developed, why it matters",
+   "link": "https://indianexpress.com/article/explained/explained-sci-tech/india-first-h5n1-bird-flu-vaccine-chickens-nihsad-bhopal-10973882/",
+   "src": "Indian Express - Explained",
+   "t": "2026-11-22T18:44:37+05:30",
+   "date": "2026-11-22",
+   "snip": "",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 4
+  },
+  {
    "id": "https://www.thehindu.com/news/international/eu-will-not-endorse-climate-deal-throwing-cop31-outcome-into-doubt/article71731355.ece",
    "h": "EU will ‘not endorse’ climate deal, throwing COP31 outcome into doubt",
    "link": "https://www.thehindu.com/news/international/eu-will-not-endorse-climate-deal-throwing-cop31-outcome-into-doubt/article71731355.ece",
@@ -626,6 +770,42 @@
    "cat": "Economy",
    "gs": "GS3",
    "score": 2
+  },
+  {
+   "id": "https://indianexpress.com/article/explained/explained-global/rahul-gandhi-strong-israel-ties-india-history-palestine-10973765/",
+   "h": "Rahul Gandhi on Israel: How defence tech, Kargil war shaped India’s ties",
+   "link": "https://indianexpress.com/article/explained/explained-global/rahul-gandhi-strong-israel-ties-india-history-palestine-10973765/",
+   "src": "Indian Express - Explained",
+   "t": "2026-11-22T16:13:53+05:30",
+   "date": "2026-11-22",
+   "snip": "",
+   "cat": "Security",
+   "gs": "GS3",
+   "score": 4
+  },
+  {
+   "id": "https://indianexpress.com/article/explained/explained-climate/cyclone-akvan-early-fog-punjab-and-haryana-10973728/",
+   "h": "Why Cyclone Akvan in Bay of Bengal contributed to early fog in Punjab, Haryana",
+   "link": "https://indianexpress.com/article/explained/explained-climate/cyclone-akvan-early-fog-punjab-and-haryana-10973728/",
+   "src": "Indian Express - Explained",
+   "t": "2026-11-22T15:39:15+05:30",
+   "date": "2026-11-22",
+   "snip": "",
+   "cat": "Geography",
+   "gs": "GS1",
+   "score": 4
+  },
+  {
+   "id": "https://indianexpress.com/article/explained/telangana-intermediate-colleges-scrapped-2027-28-schools-10973726/",
+   "h": "Why Telangana is scrapping intermediate colleges and merging them with schools",
+   "link": "https://indianexpress.com/article/explained/telangana-intermediate-colleges-scrapped-2027-28-schools-10973726/",
+   "src": "Indian Express - Explained",
+   "t": "2026-11-22T15:39:13+05:30",
+   "date": "2026-11-22",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
   },
   {
    "id": "https://www.thehindu.com/news/international/saudi-led-coalition-says-it-intercepted-houthi-missile-in-western-region/article71731039.ece",
@@ -770,6 +950,30 @@
    "cat": "Economy",
    "gs": "GS3",
    "score": 2
+  },
+  {
+   "id": "https://indianexpress.com/article/explained/cannabis-cultivation-possession-ganja-ndps-act-punishment-gujarat-10972937/",
+   "h": "Two farmers were caught growing ganja. Why the one who harvested crop faces tougher charge",
+   "link": "https://indianexpress.com/article/explained/cannabis-cultivation-possession-ganja-ndps-act-punishment-gujarat-10972937/",
+   "src": "Indian Express - Explained",
+   "t": "2026-11-22T07:21:55+05:30",
+   "date": "2026-11-22",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://indianexpress.com/article/explained/explained-global/why-shenzhen-matters-nuclear-disarm-us-russia-china-10972977/",
+   "h": "Trump, Xi and Putin agree to reduce nuclear risks: Why the Shenzhen declaration matters",
+   "link": "https://indianexpress.com/article/explained/explained-global/why-shenzhen-matters-nuclear-disarm-us-russia-china-10972977/",
+   "src": "Indian Express - Explained",
+   "t": "2026-11-22T07:00:39+05:30",
+   "date": "2026-11-22",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
   },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339782",
@@ -1070,6 +1274,18 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/business/indian-supply-chains-may-have-500-billion-in-inventory-tied-up-kinaxis-ceo/article71729188.ece",
+   "h": "Indian supply chains may have $500 billion in inventory tied up: Kinaxis CEO",
+   "link": "https://www.thehindu.com/business/indian-supply-chains-may-have-500-billion-in-inventory-tied-up-kinaxis-ceo/article71729188.ece",
+   "src": "The Hindu - Business",
+   "t": "2026-11-21T22:30:13+05:30",
+   "date": "2026-11-21",
+   "snip": "Quick commerce is adding complexity to supply-chain planning, while AI agents could allow companies to do the same work with fewer employees, though workforce reduction is not the primary objective, says Razat Gaurav",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
   },
   {
    "id": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-extends-into-overtime-in-turkiye-meeting/article71729107.ece",
@@ -1540,6 +1756,30 @@
    "score": 2
   },
   {
+   "id": "https://indianexpress.com/article/india/dharamshala-permanent-high-court-bench-himachal-assembly-10972999/",
+   "h": "High Court bench in Dharamshala: Himachal Assembly passes resolution, seeks Centre’s approval",
+   "link": "https://indianexpress.com/article/india/dharamshala-permanent-high-court-bench-himachal-assembly-10972999/",
+   "src": "Indian Express - India",
+   "t": "2026-11-21T19:53:47+05:30",
+   "date": "2026-11-21",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://indianexpress.com/article/explained/explained-politics/gta-6-meme-bjp-congress-political-row-india-10972904/",
+   "h": "‘We got this before GTA 6’: Why the BJP and Congress are invoking a viral meme in their political battle",
+   "link": "https://indianexpress.com/article/explained/explained-politics/gta-6-meme-bjp-congress-political-row-india-10972904/",
+   "src": "Indian Express - Explained",
+   "t": "2026-11-21T18:30:40+05:30",
+   "date": "2026-11-21",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
    "id": "https://www.thehindu.com/news/international/european-union-proposes-tax-on-big-tech-to-boost-budget/article71728111.ece",
    "h": "European Union proposes tax on Big Tech to boost budget",
    "link": "https://www.thehindu.com/news/international/european-union-proposes-tax-on-big-tech-to-boost-budget/article71728111.ece",
@@ -1550,6 +1790,30 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 4
+  },
+  {
+   "id": "https://indianexpress.com/article/explained/supreme-court-cec-riverbed-sand-mining-dam-desilting-10972632/",
+   "h": "Why the Supreme Court’s environmental watchdog wants to curb riverbed sand mining, and what it proposes instead",
+   "link": "https://indianexpress.com/article/explained/supreme-court-cec-riverbed-sand-mining-dam-desilting-10972632/",
+   "src": "Indian Express - Explained",
+   "t": "2026-11-21T17:28:42+05:30",
+   "date": "2026-11-21",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 6
+  },
+  {
+   "id": "https://indianexpress.com/article/explained/explained-culture/gta-6-grand-theft-auto-history-evolution-gameplay-explained-10972822/",
+   "h": "How Grand Theft Auto changed gaming, and why GTA VI has so much to live up to",
+   "link": "https://indianexpress.com/article/explained/explained-culture/gta-6-grand-theft-auto-history-evolution-gameplay-explained-10972822/",
+   "src": "Indian Express - Explained",
+   "t": "2026-11-21T17:08:31+05:30",
+   "date": "2026-11-21",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
   },
   {
    "id": "https://www.thehindu.com/news/international/iran-us-negotiations-stalled-over-uranium-enrichment-dispute-mediators-warn-of-renewed-conflict-says-reports/article71727934.ece",
@@ -1574,6 +1838,18 @@
    "cat": "International Relations",
    "gs": "GS2",
    "score": 2
+  },
+  {
+   "id": "https://indianexpress.com/article/explained/explained-global/why-myanmars-genocide-verdict-matters-including-for-israels-case-10972612/",
+   "h": "Why Myanmar’s genocide verdict matters, including for Israel’s case",
+   "link": "https://indianexpress.com/article/explained/explained-global/why-myanmars-genocide-verdict-matters-including-for-israels-case-10972612/",
+   "src": "Indian Express - Explained",
+   "t": "2026-11-21T13:32:24+05:30",
+   "date": "2026-11-21",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
   },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339410",
@@ -4535,282 +4811,6 @@
    "t": "2026-11-19T01:11:39+05:30",
    "date": "2026-11-19",
    "snip": "India needs to be at its best in Tests against New Zealand",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/t1-t2-sections-contain-sensitive-information-that-needs-protection-from-purview-of-rti-vacb-informs-kerala-high-court/article71717092.ece",
-   "h": "T1, T2 sections contain sensitive information that needs protection from purview of RTI, VACB informs Kerala High Court",
-   "link": "https://www.thehindu.com/news/national/kerala/t1-t2-sections-contain-sensitive-information-that-needs-protection-from-purview-of-rti-vacb-informs-kerala-high-court/article71717092.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-19T01:10:07+05:30",
-   "date": "2026-11-19",
-   "snip": "The VACB’s affidavit pointed out that the disclosure of an intelligence input against a public servant would forewarn him, and that he might conceal evidence to defeat the investigation",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/tamil-nadu/declare-parandur-airport-abandonment-decision-unconstitutional-insists-a-pil-plea-before-madras-high-court/article71716148.ece",
-   "h": "Declare Parandur airport abandonment decision unconstitutional, insists a PIL plea before Madras High Court",
-   "link": "https://www.thehindu.com/news/national/tamil-nadu/declare-parandur-airport-abandonment-decision-unconstitutional-insists-a-pil-plea-before-madras-high-court/article71716148.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-19T01:08:41+05:30",
-   "date": "2026-11-19",
-   "snip": "Litigant claims the project had been abandoned without any technical data, expert committee report or comparative economic study in support of the decision",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/karnataka/bengaluru-is-indias-ai-start-up-capital-city-captures-47-of-national-venture-funding/article71717187.ece",
-   "h": "Bengaluru is India’s AI, start-up capital; city captures 47% of national venture funding: Report",
-   "link": "https://www.thehindu.com/news/national/karnataka/bengaluru-is-indias-ai-start-up-capital-city-captures-47-of-national-venture-funding/article71717187.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-19T00:59:35+05:30",
-   "date": "2026-11-19",
-   "snip": "The city is now the world’s fifth-largest unicorn hub, the largest outside the U.S., Europe, China, and London,with 57 unicorns valued at $211 billion, representing 55.3% of the combined value of all Indian unicorns",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/opinion/op-ed/a-regulatory-fix-for-indias-campuses/article71716165.ece",
-   "h": "A regulatory fix for India’s campuses",
-   "link": "https://www.thehindu.com/opinion/op-ed/a-regulatory-fix-for-indias-campuses/article71716165.ece",
-   "src": "The Hindu - Environment",
-   "t": "2026-11-19T00:58:18+05:30",
-   "date": "2026-11-19",
-   "snip": "The Ministry must act without delay and issue a statutory notification, consistent with the court’s judgment, for eligible educational campuses",
-   "cat": "Society",
-   "gs": "GS1",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/andhra-pradesh/women-outnumber-men-in-admissions-to-mbbs-first-year-course-in-andhra-pradesh/article71716519.ece",
-   "h": "Women outnumber men in admissions to MBBS first year course in Andhra Pradesh",
-   "link": "https://www.thehindu.com/news/national/andhra-pradesh/women-outnumber-men-in-admissions-to-mbbs-first-year-course-in-andhra-pradesh/article71716519.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-19T00:30:07+05:30",
-   "date": "2026-11-19",
-   "snip": "Of the total 6,929 seats filled under the State quota, women account for 61.34%, while 38.66% are men; only eight seats remain vacant",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/cabinet-approves-supernumerary-appointments-for-first-rank-holders-in-assistant-professor-lists/article71717248.ece",
-   "h": "Keralam Cabinet approves supernumerary appointments for first-rank holders in Assistant Professor lists",
-   "link": "https://www.thehindu.com/news/national/kerala/cabinet-approves-supernumerary-appointments-for-first-rank-holders-in-assistant-professor-lists/article71717248.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-19T00:17:13+05:30",
-   "date": "2026-11-19",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/cities/chennai/tn-government-accords-administrative-sanction-of-6513-crore-for-2221-roadworks/article71716883.ece",
-   "h": "T.N. government accords administrative sanction of ₹6,513 crore for 2,221 roadworks",
-   "link": "https://www.thehindu.com/news/cities/chennai/tn-government-accords-administrative-sanction-of-6513-crore-for-2221-roadworks/article71716883.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-19T00:16:20+05:30",
-   "date": "2026-11-19",
-   "snip": "They will be executed as part of the Comprehensive Road Infrastructure Development Programme 2026-27",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/business/Economy/how-ai-could-reshape-global-growth-and-productivity/article71717356.ece",
-   "h": "How AI could reshape global growth and productivity",
-   "link": "https://www.thehindu.com/business/Economy/how-ai-could-reshape-global-growth-and-productivity/article71717356.ece",
-   "src": "The Hindu - Business",
-   "t": "2026-11-18T23:54:05+05:30",
-   "date": "2026-11-18",
-   "snip": "A key expected impact of AI is an unprecedented rise in labour productivity, as its success as a technological revolution is premised on such an increase; what remains to be seen is how pervasive its impact will be across different sectors of the economy",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/science/un-sustainable-development-goals-group-for-science-technology-rejigged/article71716677.ece",
-   "h": "UN Sustainable Development Goals group for science, technology rejigged",
-   "link": "https://www.thehindu.com/sci-tech/science/un-sustainable-development-goals-group-for-science-technology-rejigged/article71716677.ece",
-   "src": "The Hindu - Science",
-   "t": "2026-11-18T23:15:54+05:30",
-   "date": "2026-11-18",
-   "snip": "The group has been constituted even as the international community ramps up efforts to achieve the 2030 Agenda for Sustainable Development",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/bihar/bihar-doctor-fined-30-lakh-for-leaving-surgical-gauze-in-abdomen-during-gallbladder-surgery/article71716750.ece",
-   "h": "Bihar doctor fined ₹30 lakh for leaving surgical gauze in abdomen during gallbladder surgery",
-   "link": "https://www.thehindu.com/news/national/bihar/bihar-doctor-fined-30-lakh-for-leaving-surgical-gauze-in-abdomen-during-gallbladder-surgery/article71716750.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-18T23:06:36+05:30",
-   "date": "2026-11-18",
-   "snip": "The Bihar State Consumer Disputes Redressal Commission found the doctor guilty of gross medical negligence The case is related to the late Nibha Singh, a resident of Madhepura, Bihar.",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/business/markets/rupee-rises-7-paise-to-close-at-9344-against-us-dollar/article71715596.ece",
-   "h": "Rupee hits seven-month high of 93.28 against U.S. dollar, pares gains to settle flat at 93.50",
-   "link": "https://www.thehindu.com/business/markets/rupee-rises-7-paise-to-close-at-9344-against-us-dollar/article71715596.ece",
-   "src": "The Hindu - Business",
-   "t": "2026-11-18T23:06:20+05:30",
-   "date": "2026-11-18",
-   "snip": "The rupee gave up its early gains as the Dollar index rose to its highest since April 2025 on rate hike hopes after remarks by U.S. Federal Reserve Governor Christopher Waller",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338095",
-   "h": "युवा कार्यक्रम और खेल मंत्रालय नागरिकों को 18 से 26 नवंबर तक आयोजित होने वाले संविधान दिवस क्विज़ 2026 में भाग लेने के लिए आमंत्रित करता है; 500 विजेताओं को नकद पुरस्कार मिलेंगे",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338095",
-   "src": "PIB",
-   "t": "2026-11-18T22:56:33.014495+05:30",
-   "date": "2026-11-18",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338091",
-   "h": "समर्पित छात्रावास अवसंरचना के माध्यम से ओबीसी छात्राओं के लिए शैक्षणिक अवसरों को सुदृढ़ करना",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338091",
-   "src": "PIB",
-   "t": "2026-11-18T22:56:33.014467+05:30",
-   "date": "2026-11-18",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338109",
-   "h": "केंद्रीय संचार मंत्री श्री ज्योतिरादित्य सिंधिया ग्वालियर में आगामी दूरसंचार विनिर्माण क्षेत्र के लिए भोपाल में आयोजित आशय पत्र वितरण समारोह में भाग लेंगे",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338109",
-   "src": "PIB",
-   "t": "2026-11-18T22:56:33.014440+05:30",
-   "date": "2026-11-18",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338080",
-   "h": "केन्द्रीय गृह मंत्री श्री अमित शाह ने घाटी में लश्कर के अंतिम सक्रिय आतंकवादी, लतीफ भट को मार गिराने के लिए JKP, सेना, CRPF और खुफिया एजेंसियों के बहादुर जवानों को बधाई दी",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338080",
-   "src": "PIB",
-   "t": "2026-11-18T22:56:33.014408+05:30",
-   "date": "2026-11-18",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338084",
-   "h": "भारत की राष्‍ट्रपति श्री राम कॉलेज ऑफ कॉमर्स के शताब्दी समारोहों के समापन कार्यक्रम में शामिल हुईं",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338084",
-   "src": "PIB",
-   "t": "2026-11-18T22:56:33.014379+05:30",
-   "date": "2026-11-18",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338142",
-   "h": "केंद्रीय स्वास्थ्य मंत्रालय ने 'विश्व रोगाणुरोधी प्रतिरोध जागरूकता सप्ताह 2026' मनाया, AMR के खिलाफ सामूहिक कार्रवाई का आह्वान किया",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338142",
-   "src": "PIB",
-   "t": "2026-11-18T22:56:33.014342+05:30",
-   "date": "2026-11-18",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338163",
-   "h": "पर्वत मंथन कॉन्क्लेव 2026 का समापन, हिमालयी शहरों में जलवायु अनुकूलन क्षमता, पर्यावरणीय नियोजन और नगरपालिका वित्त को मजबूत करने के लिए सुझाव प्रस्तुत",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338163",
-   "src": "PIB",
-   "t": "2026-11-18T22:56:33.014314+05:30",
-   "date": "2026-11-18",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338135",
-   "h": "केंद्रीय सूक्ष्म, लघु और मध्यम उद्यम (एमएसएमई) मंत्री श्री जीतन राम मांझी ने 45वें भारत अंतर्राष्ट्रीय व्यापार मेले में एमएसएमई, केवीआईसी, कॉयर और एनएसएसएच मंडप का उद्घाटन किया",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338135",
-   "src": "PIB",
-   "t": "2026-11-18T22:56:33.014284+05:30",
-   "date": "2026-11-18",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338134",
-   "h": "उपराष्ट्रपति ने नई दिल्ली में वर्धमान महावीर मेडिकल कॉलेज और सफदरजंग अस्पताल के रजत जयंती समारोह और 8वें वार्षिक दीक्षांत समारोह में भाग लिया",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338134",
-   "src": "PIB",
-   "t": "2026-11-18T22:56:33.014254+05:30",
-   "date": "2026-11-18",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338146",
-   "h": "केंद्रीय आयुष मंत्री श्री प्रतापराव जाधव ने बुर्किना फासो के मंत्री और वहां के राष्ट्रपति के विशेष सलाहकार महामहिम श्री रोजर बारो से मुलाकात की",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338146",
-   "src": "PIB",
-   "t": "2026-11-18T22:56:33.014226+05:30",
-   "date": "2026-11-18",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338164",
-   "h": "45वें आईआईटीएफ 2026 में सामाजिक न्याय और अधिकारिता मंत्रालय के मंडप में कुल ₹ 29.56 लाख की बिक्री हुई; ग्राहकों की बढ़ती दिलचस्पी से कारीगरों के लिए आर्थिक अवसर बढ़े",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338164",
-   "src": "PIB",
-   "t": "2026-11-18T22:56:33.014196+05:30",
-   "date": "2026-11-18",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338162",
-   "h": "डीओएसईएल के सचिव ने दिव्यांग व्यक्तियों के अधिकारों पर संयुक्त राष्ट्र के विशेष दूत के साथ एक संवाद सत्र की अध्यक्षता की",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338162",
-   "src": "PIB",
-   "t": "2026-11-18T22:56:33.014166+05:30",
-   "date": "2026-11-18",
-   "snip": "",
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
