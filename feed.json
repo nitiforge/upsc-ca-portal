@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T03:42:40.536561+05:30",
+ "updated": "2026-11-26T09:40:41.719592+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,150 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341700",
+   "h": "अमेरिकी व्यापार प्रतिनिधि (यूएसटीआर) की धारा 301 के तहत लिए गए निर्णय पर भारत का वक्तव्य",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341700",
+   "src": "PIB",
+   "t": "2026-11-26T09:40:14.590323+05:30",
+   "date": "2026-11-26",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/constitution-day-indian-democracy-pm-modi-congress-samvidhan-raksha-march-november-26-2026-live-updates/article71745137.ece",
+   "h": "Constitution Day LIVE updates: Priceless heritage of Indian democracy, says PM Modi",
+   "link": "https://www.thehindu.com/news/national/constitution-day-indian-democracy-pm-modi-congress-samvidhan-raksha-march-november-26-2026-live-updates/article71745137.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-26T09:35:18+05:30",
+   "date": "2026-11-26",
+   "snip": "Congress to hold ‘Samvidhan Raksha’ marches across states on Constitution Day, intensifying its campaign against alleged electoral roll manipulation and the ECI’s failure to safeguard the right to vote",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/maharashtra/country-could-face-a-blood-revolution-unless-the-constitution-is-saved-prakash-ambedkar/article71745141.ece",
+   "h": "Country could face a ‘blood revolution’ unless the Constitution is saved: Prakash Ambedkar",
+   "link": "https://www.thehindu.com/news/national/maharashtra/country-could-face-a-blood-revolution-unless-the-constitution-is-saved-prakash-ambedkar/article71745141.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-26T09:24:20+05:30",
+   "date": "2026-11-26",
+   "snip": "Prakash Ambedkar said it is “unfortunate” that the ideals of the Constitution were under threat as Rashtriya Swayamsevak Sangh (RSS) and the BJP is doing everything to be in power",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/govts-endeavour-has-been-to-deepen-constitutions-connect-with-people-strengthen-unity-pm-modi/article71743504.ece",
+   "h": "Govt.’s endeavour has been to deepen Constitution’s connect with people, strengthen unity: PM Modi",
+   "link": "https://www.thehindu.com/news/national/govts-endeavour-has-been-to-deepen-constitutions-connect-with-people-strengthen-unity-pm-modi/article71743504.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-26T08:48:57+05:30",
+   "date": "2026-11-26",
+   "snip": "He pays tribute to Dr. Rajendra Prasad, Dr. Babasaheb Ambedkar and all members of the Constituent Assembly, which adopted the Constitution on November 26, 1949; highlights the founding principles’ role in strengthening democracy and promoting social and economic justice",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/supreme-court-hearing-on-deepathoon-case-madurai-tamil-nadu/article71741225.ece",
+   "h": "Thirupparankundram row: Supreme Court to examine if wilful disobedience occurred, as State and Hindu parties spar",
+   "link": "https://www.thehindu.com/news/national/supreme-court-hearing-on-deepathoon-case-madurai-tamil-nadu/article71741225.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-26T08:39:49+05:30",
+   "date": "2026-11-26",
+   "snip": "Madurai Collector claims all arrangements made to light the lamp on the Deepathoon, as per the SC’s November 20 order, but temple did not send team; temple cites ‘historical continuity’; Hindu parties accuse State, temple of collusion to defy order",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 4
+  },
+  {
+   "id": "https://www.thehindu.com/news/international/us-army-declares-success-in-detonation-of-lead-based-explosives-stockpile-in-iowa/article71745045.ece",
+   "h": "U.S. Army declares success in detonation of lead-based explosives stockpile in Iowa",
+   "link": "https://www.thehindu.com/news/international/us-army-declares-success-in-detonation-of-lead-based-explosives-stockpile-in-iowa/article71745045.ece",
+   "src": "The Hindu - International",
+   "t": "2026-11-26T07:35:09+05:30",
+   "date": "2026-11-26",
+   "snip": "The Army and the U.S. Environmental Protection Agency said emission monitors detected zero levels of airborne lead in the surrounding region immediately after the explosion",
+   "cat": "Environment",
+   "gs": "GS3",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/why-is-november-26-celebrated-as-constitution-day-in-india/article71733839.ece",
+   "h": "Why is November 26 celebrated as Constitution Day in India",
+   "link": "https://www.thehindu.com/news/national/why-is-november-26-celebrated-as-constitution-day-in-india/article71733839.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-26T07:29:52+05:30",
+   "date": "2026-11-26",
+   "snip": "India marks Constitution Day on November 26 to commemorate the 1949 adoption of the Substantive Preamble by the Constituent Assembly, the moment the nation pledged to a sovereign democratic republic and the people’s rule.",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/india-china-hold-high-level-talks-in-arunachal-sector-on-border-management-lac-issues-mea/article71745024.ece",
+   "h": "India, China hold high-level talks in Arunachal sector on border management, LAC issues: MEA",
+   "link": "https://www.thehindu.com/news/national/india-china-hold-high-level-talks-in-arunachal-sector-on-border-management-lac-issues-mea/article71745024.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-26T06:54:23+05:30",
+   "date": "2026-11-26",
+   "snip": "MEA spokesperson Randhir also addressed a report claiming China-sourced satellite data may have aided Pakistan in tracking Indian troop movements and monitoring installations during Operation Sindoor",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 4
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/beyond-2611-other-major-terror-attacks-in-mumbai-over-the-years/article71737700.ece",
+   "h": "Beyond 26/11: Other major terror attacks in Mumbai over the years",
+   "link": "https://www.thehindu.com/news/national/beyond-2611-other-major-terror-attacks-in-mumbai-over-the-years/article71737700.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-26T06:46:28+05:30",
+   "date": "2026-11-26",
+   "snip": "Here is a look at some of the other major terror attacks that have struck Mumbai city over the years, apart from the 26/11 attacks",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/cities/mumbai/maha-govt-approves-free-food-grains-for-over-4230-lakh-farmers/article71742560.ece",
+   "h": "Maharashtra Cabinet approves free foodgrains for over 42 lakh farmers",
+   "link": "https://www.thehindu.com/news/cities/mumbai/maha-govt-approves-free-food-grains-for-over-4230-lakh-farmers/article71742560.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-26T06:44:29+05:30",
+   "date": "2026-11-26",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/karnataka/karnataka-charts-indias-first-comprehensive-care-and-rehabilitation-policy-for-burns-survivors/article71742493.ece",
+   "h": "Karnataka charts India’s first comprehensive care and rehabilitation policy for burns survivors",
+   "link": "https://www.thehindu.com/news/national/karnataka/karnataka-charts-indias-first-comprehensive-care-and-rehabilitation-policy-for-burns-survivors/article71742493.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-26T06:15:57+05:30",
+   "date": "2026-11-26",
+   "snip": "15-bed burns care wards to be set up in district hospitals; Bangalore Medical College and Research Institute’s Mahabodhi Burns Care Centre to be upgraded as Centre of Excellence",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-quashes-postal-ballot-tampering-case-against-former-chikkamagaluru-dc-bjp-leader-jeevaraj/article71742574.ece",
+   "h": "Karnataka High Court quashes postal ballot tampering case against former Chikkamagaluru DC, BJP leader Jeevaraj",
+   "link": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-quashes-postal-ballot-tampering-case-against-former-chikkamagaluru-dc-bjp-leader-jeevaraj/article71742574.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-26T06:14:43+05:30",
+   "date": "2026-11-26",
+   "snip": "The High Court of Karnataka has quashed criminal case registered in 2026 against former Chikkamagaluru Deputy Commissioner K.N. Ramesh, Returning Officer Vedamurthy T.R. and BJP leader D.N. Jeevaraj over alleged tampering of postal ballots after counting of votes in 2023 in the elections held to Sringeri Assembly constituency",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341544",
    "h": "जब शब्द कम पड़ जाएं, तो संगीत बोलता है: 57वें आईएफएफआई में गायिका के.एस. चित्रा ने लता मंगेशकर, आशा भोसले और एस. जानकी की आवाज़ों को याद किया",
@@ -256,6 +400,18 @@
    "score": 3
   },
   {
+   "id": "https://www.thehindu.com/news/national/bihar/bihar-cabinet-approves-129437-acres-of-land-for-industrial-areas/article71743360.ece",
+   "h": "Bihar cabinet approves 1294.37 acres of land for industrial areas",
+   "link": "https://www.thehindu.com/news/national/bihar/bihar-cabinet-approves-129437-acres-of-land-for-industrial-areas/article71743360.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-26T02:56:28+05:30",
+   "date": "2026-11-26",
+   "snip": "Cabinet also approved dismissal of 11 government doctors from service. For the first time Cabinet meeting conducted through e-Cabinet system. Bihar Cabinet approved a total of 34 decisions.",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
    "id": "https://www.thehindu.com/news/national/west-bengal/supreme-court-inclined-to-stay-calcutta-hc-order-deferring-kolkata-civic-polls-till-decision-on-ward-delimitation/article71741489.ece",
    "h": "Supreme Court suggests referring KMC delimitation case back to High Court for fresh look",
    "link": "https://www.thehindu.com/news/national/west-bengal/supreme-court-inclined-to-stay-calcutta-hc-order-deferring-kolkata-civic-polls-till-decision-on-ward-delimitation/article71741489.ece",
@@ -278,6 +434,18 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/cities/Delhi/delhi-high-court-grants-time-to-ed-to-respond-to-engineer-rashids-plea/article71742613.ece",
+   "h": "Delhi High Court grants time to ED to respond to Engineer Rashid’s plea",
+   "link": "https://www.thehindu.com/news/cities/Delhi/delhi-high-court-grants-time-to-ed-to-respond-to-engineer-rashids-plea/article71742613.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-26T02:29:13+05:30",
+   "date": "2026-11-26",
+   "snip": "Justice Sachin Datta listed the matter for further hearing on December 16 after the prosecutor said he needed one week to consult the special public prosecutor in the case",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
   },
   {
    "id": "https://www.thehindu.com/news/national/west-bengal/rajbanshi-languageto-be-included-ineighth-schedule-of-constitutionsuvendu-adhikari/article71742836.ece",
@@ -542,6 +710,18 @@
    "cat": "Security",
    "gs": "GS3",
    "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/sci-tech/energy-and-environment/ibisbill-rare-bird-stony-rivers-himalayan-water-sediment-illegal-mining/article71742273.ece",
+   "h": "A rare bird on stony rivers shows why Himalayan water needs its sediment",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/ibisbill-rare-bird-stony-rivers-himalayan-water-sediment-illegal-mining/article71742273.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-11-25T18:49:36+05:30",
+   "date": "2026-11-25",
+   "snip": "The Himalayan rivers are home to several species that depend on rivers and their ecosystems, including fish, aquatic invertebrates like stonefly larvae and mayfly nymphs, and flora such as Himalayan alder and sea buckthorn along the banks and on the floodplains. When a river changes, all these environs, and their species, change as well",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 3
   },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341385",
@@ -916,6 +1096,18 @@
    "score": 2
   },
   {
+   "id": "https://www.thehindu.com/sci-tech/science/hostile-architecture-the-design-choices-keeping-wildlife-out-of-urban-india/article71742099.ece",
+   "h": "Hostile architecture: the design choices keeping wildlife out of urban India",
+   "link": "https://www.thehindu.com/sci-tech/science/hostile-architecture-the-design-choices-keeping-wildlife-out-of-urban-india/article71742099.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-11-25T16:49:47+05:30",
+   "date": "2026-11-25",
+   "snip": "For animals and birds in India’s urban areas, hostile architecture takes many forms. ‘From spikes on ledges and nets over balconies to broken glass or spikes on compound walls that prevent animals from entering or perching,’ Shilpa Shirish, who specialises in culturally sensitive design at the Indian Institute of Human Settlements, Bengaluru, said",
+   "cat": "Environment",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
    "id": "https://www.thehindu.com/sci-tech/energy-and-environment/meet-the-little-stint-the-tiny-siberian-traveller-visiting-indias-wetlands/article71719477.ece",
    "h": "Meet the little stint: The tiny Siberian traveller visiting India’s wetlands",
    "link": "https://www.thehindu.com/sci-tech/energy-and-environment/meet-the-little-stint-the-tiny-siberian-traveller-visiting-indias-wetlands/article71719477.ece",
@@ -962,6 +1154,18 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/sci-tech/science/cop31-fossil-fuels-unmet-promises-climate-finance-action/article71741894.ece",
+   "h": "COP31 and the unmet promises of climate action",
+   "link": "https://www.thehindu.com/sci-tech/science/cop31-fossil-fuels-unmet-promises-climate-finance-action/article71741894.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-11-25T15:30:52+05:30",
+   "date": "2026-11-25",
+   "snip": "COP31 has once again laid out the gap between what countries promise and what they are actually prepared to do. With the window to keep warming below 1.5 degrees rapidly closing, the coming year should be spent on fixing what is broken",
+   "cat": "Environment",
+   "gs": "GS3",
+   "score": 2
   },
   {
    "id": "https://www.thehindu.com/news/national/why-has-the-india-bloc-posed-48-questions-to-the-election-commission-over-sir/article71718779.ece",
@@ -4610,210 +4814,6 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339769",
-   "h": "प्रसार भारती ने इफ़्फी (आईएफएफआई) 57 में भारतीय कथा-कथन की नई प्रतिभाओं को खोजने के लिए ‘पेज से पिच तक’ की शुरुआत की",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339769",
-   "src": "PIB",
-   "t": "2026-11-22T03:09:15.861585+05:30",
-   "date": "2026-11-22",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339819",
-   "h": "एनआईएसडी ने सामाजिक रक्षा संबंधी पहलों को सुदृढ़ बनाने के लिए देशभर के विश्वविद्यालयों और संस्थानों के साथ हस्ताक्षरित 23 समझौता ज्ञापनों का आदान-प्रदान किया",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339819",
-   "src": "PIB",
-   "t": "2026-11-22T03:09:15.861568+05:30",
-   "date": "2026-11-22",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339788",
-   "h": "सूचना एवं प्रसारण मंत्रालय के सचिव श्री चंचल कुमार ने गोवा में 57वें इफ़्फी में प्रकाशन विभाग के स्टॉल का उद्घाटन किया",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339788",
-   "src": "PIB",
-   "t": "2026-11-22T03:09:15.861551+05:30",
-   "date": "2026-11-22",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339828",
-   "h": "इफ्फी 2026 में भारत और स्पेन ने मीडिया और मनोरंजन क्षेत्र में सहयोग के नए रास्ते तलाशे",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339828",
-   "src": "PIB",
-   "t": "2026-11-22T03:09:15.861535+05:30",
-   "date": "2026-11-22",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339816",
-   "h": "इफ्फी 2026 में ‘धुरंधर’ की प्रेस कॉन्फ्रेंस के दौरान जाने-माने अभिनेता राकेश बेदी ने किरदारों को गढ़ने और उन्हें जीवंत बनाने की कला पर अपने विचार साझा किए",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339816",
-   "src": "PIB",
-   "t": "2026-11-22T03:09:15.861516+05:30",
-   "date": "2026-11-22",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339783",
-   "h": "उत्तर प्रदेश के लखनऊ में 'कौशल दीक्षांत समारोह' में भाग लेने के दौरान प्रधानमंत्री के संबोधन का मूल पाठ",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339783",
-   "src": "PIB",
-   "t": "2026-11-22T03:09:15.861494+05:30",
-   "date": "2026-11-22",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339823",
-   "h": "केंद्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह ने आज ईटानगर में एक उच्च स्तरीय बैठक में अरुणाचल प्रदेश में कानून-व्यवस्था, आंतरिक सुरक्षा एवं सीमा प्रबंधन की समीक्षा की; प्रदेश के विकास कार्यों की भी समीक्षा बैठक की",
-   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339823",
-   "src": "PIB",
-   "t": "2026-11-22T03:09:15.860777+05:30",
-   "date": "2026-11-22",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/uttar-pradesh/tenure-focused-on-institutional-reform-oriented-approach-says-outgoing-uppsc-chairman-sanjay-shrinet/article71729462.ece",
-   "h": "Tenure focused on institutional reform-oriented approach, says outgoing UPPSC Chairman Sanjay Shrinet",
-   "link": "https://www.thehindu.com/news/national/uttar-pradesh/tenure-focused-on-institutional-reform-oriented-approach-says-outgoing-uppsc-chairman-sanjay-shrinet/article71729462.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-22T01:37:23+05:30",
-   "date": "2026-11-22",
-   "snip": "‘Under my leadership, the Commission adopted an extremely strict and transparent approach towards ensuring the integrity and security of examinations and enhancing the quality of confidential operations,’ said Sanjay Shrinet",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/west-bengal/west-bengalgovernment-to-appoint-coordinators-for-all-209-wards-in-kolkataunion-minister-sukanta-majumdar/article71729005.ece",
-   "h": "West Bengal government to appoint coordinators for all 209 wards in Kolkata: Union Minister Sukanta Majumdar",
-   "link": "https://www.thehindu.com/news/national/west-bengal/west-bengalgovernment-to-appoint-coordinators-for-all-209-wards-in-kolkataunion-minister-sukanta-majumdar/article71729005.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-22T01:26:20+05:30",
-   "date": "2026-11-22",
-   "snip": "This announcement comes as the Kolkata Corporation election remains stalled by the Calcutta High Court; Mamata-Trinamool says why not hold elections and appoint elected representatives",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/kerala-high-courts-remarks-trigger-fresh-debate-on-kochis-night-life/article71728981.ece",
-   "h": "Kerala High Court’s remarks trigger fresh debate on Kochi’s night life",
-   "link": "https://www.thehindu.com/news/national/kerala/kerala-high-courts-remarks-trigger-fresh-debate-on-kochis-night-life/article71728981.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-22T01:20:12+05:30",
-   "date": "2026-11-22",
-   "snip": "Court’s question on whether the police are opposed to nightlife altogether sparks debate over the city’s growing appetite for late-night events and gatherings and long-standing concerns raised by law enforcers",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/cities/Kochi/mallussery-mango-pokkali-rice-among-peoples-favourites-as-official-species-for-ernakulam/article71729213.ece",
-   "h": "Mallussery mango, Pokkali rice among people’s favourites as official species for Ernakulam",
-   "link": "https://www.thehindu.com/news/cities/Kochi/mallussery-mango-pokkali-rice-among-peoples-favourites-as-official-species-for-ernakulam/article71729213.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-22T01:08:28+05:30",
-   "date": "2026-11-22",
-   "snip": "Suggestions sought from public as part of a joint initiative by the district panchayat and the Biodiversity Management Committee",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/odisha/eastern-ghats-on-a-slippery-slope/article71718920.ece",
-   "h": "Eastern Ghats on a slippery slope",
-   "link": "https://www.thehindu.com/news/national/odisha/eastern-ghats-on-a-slippery-slope/article71718920.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-22T01:07:23+05:30",
-   "date": "2026-11-22",
-   "snip": "The deaths of 10 people in two landslides triggered by Cyclone Arnab have drawn attention to the fragile ecology of the Eastern Ghats in Odisha and the growing dangers lurking in its hills. Satyasundar Barik examines how climate extremes, deforestation, and unplanned development are threatening the ecosystem",
-   "cat": "Environment",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/cities/Madurai/deepathoon-row-state-govt-consulting-experts-on-filing-review-petition-says-minister/article71728654.ece",
-   "h": "Deepathoon row: State govt. consulting experts on filing review petition, says Minister",
-   "link": "https://www.thehindu.com/news/cities/Madurai/deepathoon-row-state-govt-consulting-experts-on-filing-review-petition-says-minister/article71728654.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-22T00:57:06+05:30",
-   "date": "2026-11-22",
-   "snip": "A decision will be taken soon on moving the petition against the Supreme Court’s interim order, says C.T.R. Nirmal Kumar; VCK chief says his party is firmly opposed to implementing the verdict",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/cities/bangalore/government-has-asked-us-to-reconsider-restricting-all-protests-to-freedom-park-says-bengalurus-new-chief-commissioner-of-police/article71728696.ece",
-   "h": "Government has asked us to reconsider restricting all protests to Freedom Park, says Bengaluru’s new Chief Commissioner of Police",
-   "link": "https://www.thehindu.com/news/cities/bangalore/government-has-asked-us-to-reconsider-restricting-all-protests-to-freedom-park-says-bengalurus-new-chief-commissioner-of-police/article71728696.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-22T00:36:02+05:30",
-   "date": "2026-11-22",
-   "snip": "After having taken charge during a transition phase, R. Hithendra says his first order of business is to establish a new layer of top-level governance and resolve coordination issues between commissionerates",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/three-cyclones-in-three-weeks-whats-happening-in-the-bay-of-bengal-explained/article71721198.ece",
-   "h": "Three cyclones in three weeks: What’s happening in the Bay of Bengal? | Explained",
-   "link": "https://www.thehindu.com/news/national/three-cyclones-in-three-weeks-whats-happening-in-the-bay-of-bengal-explained/article71721198.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-22T00:18:55+05:30",
-   "date": "2026-11-22",
-   "snip": "Such a frequency is uncommon but not unique this year; there were around 1.8 cyclones a year in the post-monsoon period in 1982-2022, with the average increasing after 2001",
-   "cat": "Environment",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/andhra-pradesh/adopt-best-practices-from-maha-kumbh-meal-for-conduct-of-godavaripushkaralu-cm-tells-officials/article71729072.ece",
-   "h": "Adopt best practices from ‘Maha Kumbh Meal’ for conduct of Godavari Pushkaralu, CM tells officials",
-   "link": "https://www.thehindu.com/news/national/andhra-pradesh/adopt-best-practices-from-maha-kumbh-meal-for-conduct-of-godavaripushkaralu-cm-tells-officials/article71729072.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-21T23:28:15+05:30",
-   "date": "2026-11-21",
-   "snip": "He approves construction of a temple for Lord Surya and Brihaspati in Rajamahendravaram at a cost of ₹1.80 crore and instructs officials to focus on crowd control and regulating vehicular traffic",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/tamil-nadu/madurais-great-gold-heist/article71729301.ece",
-   "h": "Madurai’s great gold heist",
-   "link": "https://www.thehindu.com/news/national/tamil-nadu/madurais-great-gold-heist/article71729301.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-21T23:16:32+05:30",
-   "date": "2026-11-21",
-   "snip": "The daring heist at a newly opened jewellery showroom in Madurai, executed by a lone, first-time burglar who wanted to live a lavish life and become rich soon, has all the makings of a potboiler. This report narrates the story as it happened and how the police solved the crime",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
   }
  ]
 }
