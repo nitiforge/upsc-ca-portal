@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T04:19:19.749833+05:30",
+ "updated": "2026-11-27T10:18:38.546457+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,126 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342380",
+   "h": "पीएसए कार्यालय, एमईए, IISc, ओआरएफ और जीआईएस के सहयोग से 'टेक्नोलॉजी डायलॉग' के तीसरे संस्करण का आयोजन करेगा",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342380",
+   "src": "PIB",
+   "t": "2026-11-27T10:18:10.669890+05:30",
+   "date": "2026-11-27",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342379",
+   "h": "डब्ल्यूओएएच पीवीएस मिशन ने भारत की जलीय पशु स्वास्थ्य सेवाओं का मूल्यांकन शुरू किया",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342379",
+   "src": "PIB",
+   "t": "2026-11-27T10:18:10.668901+05:30",
+   "date": "2026-11-27",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-27-2026/article71749336.ece",
+   "h": "Deepam row LIVE: Supreme Court to hear contempt pleas today",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-27-2026/article71749336.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-27T09:55:58+05:30",
+   "date": "2026-11-27",
+   "snip": "The hearing follows the Tamil Nadu government's apology to the Supreme Court over the non-compliance with its November 20 order permitting the lamp to be lit at 'Deepathoon' on November 24 as a one-time measure.",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/andhra-pradesh/youth-jumps-into-krishna-river-police-launch-search/article71748047.ece",
+   "h": "Youth jumps into Krishna River, police launch search",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/youth-jumps-into-krishna-river-police-launch-search/article71748047.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-27T08:59:22+05:30",
+   "date": "2026-11-27",
+   "snip": "",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/international/bangladeshs-opposition-party-blasts-australian-media-reports-over-leaders-visit/article71749303.ece",
+   "h": "Bangladesh’s Opposition party blasts Australian media reports over leader’s visit",
+   "link": "https://www.thehindu.com/news/international/bangladeshs-opposition-party-blasts-australian-media-reports-over-leaders-visit/article71749303.ece",
+   "src": "The Hindu - International",
+   "t": "2026-11-27T08:59:18+05:30",
+   "date": "2026-11-27",
+   "snip": "The party said the legal notice sent to The Australian newspaper pointed out ‘seven defamatory imputations and demands corrections, retraction of the report, an apology and the preservation of relevant documents’",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/sci-tech/science/prototype-of-chandrayaan-5lupex-rover-unveiled/article71746762.ece",
+   "h": "Prototype of Chandrayaan-5/LUPEX rover unveiled",
+   "link": "https://www.thehindu.com/sci-tech/science/prototype-of-chandrayaan-5lupex-rover-unveiled/article71746762.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-27T08:24:05+05:30",
+   "date": "2026-11-27",
+   "snip": "The Chandrayaan-5/LuPEX mission is the fifth mission in the Chandrayaan series of lunar missions; JAXA, the Japanese space agency, unveiled the rover in Japan on November 25",
+   "cat": "Science & Tech",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/sci-tech/energy-and-environment/why-is-cop31-perceived-to-be-a-failure-explained/article71749253.ece",
+   "h": "Why is COP31 perceived to be a failure? | Explained",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/why-is-cop31-perceived-to-be-a-failure-explained/article71749253.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-27T08:22:27+05:30",
+   "date": "2026-11-27",
+   "snip": "Parties agreed to arrangements for the Adaptation Fund to serve the Paris Agreement exclusively once the first share of proceeds under Article 6.4 (the Paris Agreement’s carbon-market mechanism) turns into revenue, though this fund is practically underfunded",
+   "cat": "Environment",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/andhra-pradesh/krishna-district-records-7977-voter-turnout-in-panchayat-polls/article71747932.ece",
+   "h": "Krishna district records 79.77% voter turnout in panchayat polls",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/krishna-district-records-7977-voter-turnout-in-panchayat-polls/article71747932.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-27T08:15:04+05:30",
+   "date": "2026-11-27",
+   "snip": "Show-cause notices issued to 280 employees who were assigned election duties but remain absent without prior permission",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/andhra-pradesh/guntur-urban-local-body-polls-record-7330-voter-turnout/article71747364.ece",
+   "h": "Guntur urban local body polls record 73.30% voter turnout",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/guntur-urban-local-body-polls-record-7330-voter-turnout/article71747364.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-27T08:10:08+05:30",
+   "date": "2026-11-27",
+   "snip": "Repolling ordered at Ward No. 1 of Vellaturu panchayat after unidentified persons entered the polling station and damaged the ballot box",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/telangana/droughts-bitter-harvest-of-debt/article71748155.ece",
+   "h": "Drought’s bitter harvest of debt",
+   "link": "https://www.thehindu.com/news/national/telangana/droughts-bitter-harvest-of-debt/article71748155.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-27T05:59:48+05:30",
+   "date": "2026-11-27",
+   "snip": "As El Niño conditions deepen Telangana’s agricultural distress, failed kharif crops have left farmers saddled with mounting debts, wiped-out investments and little means of recovery. With loan repayments looming and rural livelihoods under threat, Abhinay Deshpande reports on the human toll of the crisis, the growing desperation among farming families and the gaps in support, as experts warn that worsening water scarcity could prolong the distress well beyond this season",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 3
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342190",
    "h": "“एक इंसान के लिए छुट्टी, दूसरे के लिए रोजमर्रा की जद्दोजहद”: इफ्फी 2026 में अ फ्यू डेज़ इन द सन में दो अलग-अलग दुनियाओं का आमना-सामना",
@@ -208,6 +328,30 @@
    "score": 3
   },
   {
+   "id": "https://www.thehindu.com/news/national/haryana/constitution-is-the-guiding-force-for-present-future-says-haryana-cm-saini-congress-accuses-bjp-of-undermining-democracy/article71747227.ece",
+   "h": "Constitution is the guiding force for present, future, says Haryana CM Saini; Congress accuses BJP of undermining democracy",
+   "link": "https://www.thehindu.com/news/national/haryana/constitution-is-the-guiding-force-for-present-future-says-haryana-cm-saini-congress-accuses-bjp-of-undermining-democracy/article71747227.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-27T04:17:00+05:30",
+   "date": "2026-11-27",
+   "snip": "Respecting the Constitution is not the responsibility of any one political party or government, but the duty of every individual whom the people have entrusted with the opportunity to serve them, said Nayab Singh Saini",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/bihar/nitin-nabin-accuses-congress-party-of-insulting-both-constitution-and-ambedkar/article71747280.ece",
+   "h": "Nitin Nabin accuses Congress party of insulting both Constitution and Ambedkar",
+   "link": "https://www.thehindu.com/news/national/bihar/nitin-nabin-accuses-congress-party-of-insulting-both-constitution-and-ambedkar/article71747280.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-27T02:51:20+05:30",
+   "date": "2026-11-27",
+   "snip": "He also alleged that the Congress party turned the Constitution into a tool for attaining power and also misused Article 356 to topple elected State governments 90 times",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
    "id": "https://www.thehindu.com/news/national/rajasthan/in-rajasthan-the-girls-who-refuse-to-be-spoken-for/article71742334.ece",
    "h": "In Rajasthan, the girls who refuse to be spoken for",
    "link": "https://www.thehindu.com/news/national/rajasthan/in-rajasthan-the-girls-who-refuse-to-be-spoken-for/article71742334.ece",
@@ -218,6 +362,54 @@
    "cat": "International Relations",
    "gs": "GS2",
    "score": 4
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/k-chandru-former-judge-of-madras-high-court-expresses-concern-at-increasing-rights-violations-threats-to-constitutional-values/article71747527.ece",
+   "h": "K. Chandru, former judge of Madras High Court, expresses concern at increasing rights violations, threats to constitutional values",
+   "link": "https://www.thehindu.com/news/national/kerala/k-chandru-former-judge-of-madras-high-court-expresses-concern-at-increasing-rights-violations-threats-to-constitutional-values/article71747527.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-27T02:20:44+05:30",
+   "date": "2026-11-27",
+   "snip": "With more and more rights, including the one to hold peaceful protest, being curtailed, a concerted fight is needed to uphold justice and constitutional values, he says",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/fact-unions-protest-against-fertiliser-import-policy-demand-revival-of-production-units/article71747359.ece",
+   "h": "FACT unions protest against fertiliser import policy, demand revival of production units",
+   "link": "https://www.thehindu.com/news/national/kerala/fact-unions-protest-against-fertiliser-import-policy-demand-revival-of-production-units/article71747359.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-27T02:06:07+05:30",
+   "date": "2026-11-27",
+   "snip": "Unions demand change in leadership of marketing division, alleging inactivity despite nearly two lakh tonnes of fertiliser remaining in stock",
+   "cat": "Economy",
+   "gs": "GS3",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/educational-institutions-across-keralam-will-fall-into-anarchy-if-single-bench-verdict-is-sustained-ssus-contends-before-kerala-hc/article71747465.ece",
+   "h": "Educational institutions across Keralam will fall into anarchy if Single Bench verdict is sustained, SSUS contends before Kerala HC",
+   "link": "https://www.thehindu.com/news/national/kerala/educational-institutions-across-keralam-will-fall-into-anarchy-if-single-bench-verdict-is-sustained-ssus-contends-before-kerala-hc/article71747465.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-27T02:03:43+05:30",
+   "date": "2026-11-27",
+   "snip": "The High Court Division Bench reserves its verdict on appeal filed by the university against the Single Bench order revoking suspension of 16 students affiliated with the Students’ Federation of India",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/kerala/kerala-high-court-cancels-bail-of-corruption-case-convict-for-suppressing-evidence/article71747703.ece",
+   "h": "Kerala High Court cancels bail of corruption case convict for suppressing evidence",
+   "link": "https://www.thehindu.com/news/national/kerala/kerala-high-court-cancels-bail-of-corruption-case-convict-for-suppressing-evidence/article71747703.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-27T01:56:48+05:30",
+   "date": "2026-11-27",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
   },
   {
    "id": "https://www.thehindu.com/news/national/jammu-and-kashmir/two-women-booked-over-use-of-banned-vpns-in-poonch-absconder-held-after-two-decadesin-reasi-officials/article71747503.ece",
@@ -433,6 +625,18 @@
    "snip": "Brisk polling was recorded in Chittoor, Annamayya and Sri Sathya Sai districts, with turnout crossing 75% in all three. Counting indicated an early advantage for TDP-backed candidates, while protests and tension were reported at a few polling stations",
    "cat": "Polity",
    "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/business/Economy//article71747863.ece",
+   "h": "The fiscal cost of cash-transfer schemes",
+   "link": "https://www.thehindu.com/business/Economy//article71747863.ece",
+   "src": "The Hindu - Business",
+   "t": "2026-11-26T21:53:29+05:30",
+   "date": "2026-11-26",
+   "snip": "A social policy is often based on expected electoral gain, and is implemented without any ex ante appraisal; since cash transfers and subsidies are perpetual in nature and politically hard to reverse, such continuous commitment of financial resources demands prior evaluation and real-time monitoring to address potential shortcomings",
+   "cat": "Economy",
+   "gs": "GS3",
    "score": 3
   },
   {
@@ -2101,6 +2305,18 @@
    "snip": "The top court directs the Congress leader to be impleaded as a party in the High Court case",
    "cat": "Polity",
    "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/sci-tech/energy-and-environment/the-changing-scents-of-a-warming-world/article71741960.ece",
+   "h": "The changing scents of a warming world",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/the-changing-scents-of-a-warming-world/article71741960.ece",
+   "src": "The Hindu - Science",
+   "t": "2026-11-25T17:07:54+05:30",
+   "date": "2026-11-25",
+   "snip": "Be it in a forest or among the flowers in a garden, the air is enriched in volatile organic compounds, whose profiles climate change is beginning to alter",
+   "cat": "Environment",
+   "gs": "GS3",
    "score": 2
   },
   {
@@ -4598,222 +4814,6 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/indias-recurring-pollution-crisis-calls-for-a-sustained-movement-for-cleaner-air/article71731473.ece",
-   "h": "India’s recurring pollution crisis calls for a sustained movement for cleaner air",
-   "link": "https://www.thehindu.com/news/national/indias-recurring-pollution-crisis-calls-for-a-sustained-movement-for-cleaner-air/article71731473.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-23T15:01:00+05:30",
-   "date": "2026-11-23",
-   "snip": "India’s fight against air pollution requires public engagement, effective communication and changes in civic behaviour; lessons from Swachh Bharat Mission offer a template for mobilising citizens to take ownership of clean air through collective action and responsible habits",
-   "cat": "Environment",
-   "gs": "GS3",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/pm-modi-holds-bilateral-talks-with-nepal-prime-minister-balendra-shah-trade-investment-connectivity-on-agenda/article71733786.ece",
-   "h": "PM Modi holds bilateral talks with Nepal Prime Minister Balendra Shah; trade, investment, connectivity on agenda",
-   "link": "https://www.thehindu.com/news/national/pm-modi-holds-bilateral-talks-with-nepal-prime-minister-balendra-shah-trade-investment-connectivity-on-agenda/article71733786.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-23T14:59:57+05:30",
-   "date": "2026-11-23",
-   "snip": "Nepali counterpart Balendra Shah, on a two-day State visit, laid a wreath at Raj Ghat and received a Guard of Honour at Rashtrapati Bhavan before the talks at Hyderabad House",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/cities/Hyderabad/beyond-qutb-shahi-tombs-people-explore-trees-birds-and-ecological-relations-at-hyderabads-106-acre-heritage-park/article71731314.ece",
-   "h": "Beyond Qutb Shahi tombs | People explore trees, birds and ecological relations at Hyderabad’s 106-acre heritage park",
-   "link": "https://www.thehindu.com/news/cities/Hyderabad/beyond-qutb-shahi-tombs-people-explore-trees-birds-and-ecological-relations-at-hyderabads-106-acre-heritage-park/article71731314.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-23T14:58:08+05:30",
-   "date": "2026-11-23",
-   "snip": "Telangana Tourism Development Corporation announced the third Nature Walk would be organised on November 29, 2026",
-   "cat": "Environment",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://indianexpress.com/article/explained/bisleri-water-bromide-pha-fssai-prosecution-reliance-10974886/",
-   "h": "Bisleri water case: The chemicals, conflicting safety tests and Reliance angle",
-   "link": "https://indianexpress.com/article/explained/bisleri-water-bromide-pha-fssai-prosecution-reliance-10974886/",
-   "src": "Indian Express - Explained",
-   "t": "2026-11-23T14:51:14+05:30",
-   "date": "2026-11-23",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/health/bisleri-says-its-water-safe-for-consumption-after-fssai-sanctions-prosecution-says-it-has-received-no-notice/article71733517.ece",
-   "h": "Bisleri says it’s water ‘safe for consumption’ after FSSAI sanctions prosecution, says it has received no notice",
-   "link": "https://www.thehindu.com/sci-tech/health/bisleri-says-its-water-safe-for-consumption-after-fssai-sanctions-prosecution-says-it-has-received-no-notice/article71733517.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-23T14:49:33+05:30",
-   "date": "2026-11-23",
-   "snip": "The company said five of six samples collected from its Goa facility in September 2025 met applicable standards, while an independent test found the bromate level in the disputed sample within the prescribed limit",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/kerala-hc-allows-amended-plea-by-suspended-sanskrit-varsity-students-against-inquiry-report/article71712319.ece",
-   "h": "Kerala HC allows amended plea by suspended Sanskrit varsity students against inquiry report",
-   "link": "https://www.thehindu.com/news/national/kerala/kerala-hc-allows-amended-plea-by-suspended-sanskrit-varsity-students-against-inquiry-report/article71712319.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-23T14:41:33+05:30",
-   "date": "2026-11-23",
-   "snip": "The students had challenged the suspension order and sought permission to appear for the semester examinations in their original petition",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/high-court-relief-sparks-celebrations-as-16-suspended-ssus-students-return-to-kalady-university-campus-in-victory-march/article71733609.ece",
-   "h": "High Court relief sparks celebrations as 16 suspended SSUS students return to Kalady University campus in victory march",
-   "link": "https://www.thehindu.com/news/national/kerala/high-court-relief-sparks-celebrations-as-16-suspended-ssus-students-return-to-kalady-university-campus-in-victory-march/article71733609.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-23T14:39:06+05:30",
-   "date": "2026-11-23",
-   "snip": "The suspended students were then taken to the SSUS campus in a triumphant march carrying a banner that read, “The people united will never be defeated”",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/kerala-high-court-reserves-order-on-plea-by-ssus-students-challenging-their-suspension/article71716507.ece",
-   "h": "Kerala High Court reserves order on plea by SSUS students challenging their suspension",
-   "link": "https://www.thehindu.com/news/national/kerala/kerala-high-court-reserves-order-on-plea-by-ssus-students-challenging-their-suspension/article71716507.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-23T14:38:55+05:30",
-   "date": "2026-11-23",
-   "snip": "The students allege that they were suspended without being given reasons and denied an opportunity to present their side during the inquiry",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/cities/Delhi/yamuna-60-clean-water-safe-to-drink-entire-river-to-be-cleaned-by-2030-delhi-minister-sirsa/article71733785.ece",
-   "h": "Yamuna 60% clean, water safe to drink; entire river to be cleaned by 2030: Delhi Minister Sirsa",
-   "link": "https://www.thehindu.com/news/cities/Delhi/yamuna-60-clean-water-safe-to-drink-entire-river-to-be-cleaned-by-2030-delhi-minister-sirsa/article71733785.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-23T14:27:07+05:30",
-   "date": "2026-11-23",
-   "snip": "“60% of Yamuna jii is totally clean… Clean means so clean that even you can drink that water,” Delhi Minister Sirsa said, urging people to visit the river and see for themselves",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/uttar-pradesh/supreme-court-says-right-to-seek-correction-of-electoral-roll-entry-is-personal-cant-be-pursued-in-pil/article71733841.ece",
-   "h": "Supreme Court says, right to seek correction of electoral roll entry is personal, can't be pursued in PIL",
-   "link": "https://www.thehindu.com/news/national/uttar-pradesh/supreme-court-says-right-to-seek-correction-of-electoral-roll-entry-is-personal-cant-be-pursued-in-pil/article71733841.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-23T14:10:52+05:30",
-   "date": "2026-11-23",
-   "snip": "A Bench comprising CJI Surya Kant and Justices Joymalya Bagchi and V. Mohana said it was not inclined to entertain the plea",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/business/Industry/ai-reality-check-leadership-turmoil-ipo-jitters-and-the-fragility-of-big-tech/article71730828.ece",
-   "h": "AI reality check: Leadership turmoil, IPO jitters and the fragility of big tech",
-   "link": "https://www.thehindu.com/business/Industry/ai-reality-check-leadership-turmoil-ipo-jitters-and-the-fragility-of-big-tech/article71730828.ece",
-   "src": "The Hindu - Business",
-   "t": "2026-11-23T14:07:02+05:30",
-   "date": "2026-11-23",
-   "snip": "As financial markets begin to question the economics, reliability and sustainability of the AI revolution, the AI trade faces its most significant reality check yet",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://indianexpress.com/article/explained/explained-ai/why-trump-wants-jensen-huang-back-at-nvidia-and-why-its-board-is-resisting-10974781/",
-   "h": "Why Nvidia reinstated Jensen Huang as CEO",
-   "link": "https://indianexpress.com/article/explained/explained-ai/why-trump-wants-jensen-huang-back-at-nvidia-and-why-its-board-is-resisting-10974781/",
-   "src": "Indian Express - Explained",
-   "t": "2026-11-23T13:52:24+05:30",
-   "date": "2026-11-23",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/health/in-search-of-skin-lightening-creams-kidneys-take-a-hit/article68101560.ece",
-   "h": "In search of skin lightening creams, kidneys take a hit",
-   "link": "https://www.thehindu.com/sci-tech/health/in-search-of-skin-lightening-creams-kidneys-take-a-hit/article68101560.ece",
-   "src": "The Hindu - Science",
-   "t": "2026-11-23T13:13:44+05:30",
-   "date": "2026-11-23",
-   "snip": "Researchers from Kerala have reported a series of cases from Malappuram district where the regular use of fairness creams has been linked to nephrotic syndrome. Heavy metal screening of the blood and urine samples of these patients revealed high levels of mercury, the toxic effects of which are well-known",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/news/international/how-did-the-cop31-climate-agreement-fall-apart-and-what-happensnow/article71733595.ece",
-   "h": "How did the COP31 climate agreement fall apart – and what happens now?",
-   "link": "https://www.thehindu.com/news/international/how-did-the-cop31-climate-agreement-fall-apart-and-what-happensnow/article71733595.ece",
-   "src": "The Hindu - International",
-   "t": "2026-11-23T13:13:05+05:30",
-   "date": "2026-11-23",
-   "snip": "In a year of unprecedented climate disasters, a supercharged El Niño and as the world heads inevitably past 1.5 °C of warming, the EU and other nations said that the international process did not meet the moment",
-   "cat": "Environment",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://indianexpress.com/article/explained/explained-ai/sarvam-chinese-models-india-ai-sovereignty-ambitions-10974591/",
-   "h": "‘Token Factory operates on GPUs procured privately’: Sarvam’s defence amid Chinese AI models row",
-   "link": "https://indianexpress.com/article/explained/explained-ai/sarvam-chinese-models-india-ai-sovereignty-ambitions-10974591/",
-   "src": "Indian Express - Explained",
-   "t": "2026-11-23T12:35:06+05:30",
-   "date": "2026-11-23",
-   "snip": "",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 5
-  },
-  {
-   "id": "https://indianexpress.com/article/explained/explained-economics/sebi-fpi-disclosure-rules-foreign-investors-adani-10974489/",
-   "h": "FPI disclosure relief: Why SEBI wants to ease rules, and could it reduce transparency?",
-   "link": "https://indianexpress.com/article/explained/explained-economics/sebi-fpi-disclosure-rules-foreign-investors-adani-10974489/",
-   "src": "Indian Express - Explained",
-   "t": "2026-11-23T10:29:08+05:30",
-   "date": "2026-11-23",
-   "snip": "",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 5
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/science/japan-europe-spacecraft-bepicolombo-begins-orbit-of-mercury-with-a-glitch-reported/article71733234.ece",
-   "h": "Japan-Europe spacecraft BepiColombo begins orbit of Mercury, with a glitch reported",
-   "link": "https://www.thehindu.com/sci-tech/science/japan-europe-spacecraft-bepicolombo-begins-orbit-of-mercury-with-a-glitch-reported/article71733234.ece",
-   "src": "The Hindu - Science",
-   "t": "2026-11-23T08:07:44+05:30",
-   "date": "2026-11-23",
-   "snip": "The mission will seek to answer questions about Mercury such as why it has a magnetic field, why ice exists in the polar craters of a sun-scorched planet, and what is the nature of enigmatic depressions called \"hollows\" on its surface",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 4
-  },
-  {
-   "id": "https://indianexpress.com/article/opinion/editorials/ehsaas-2026-delhi-student-mental-health-policy-10974089/",
-   "h": "Ehsaas moves needle on students’ mental health",
-   "link": "https://indianexpress.com/article/opinion/editorials/ehsaas-2026-delhi-student-mental-health-policy-10974089/",
-   "src": "Indian Express - Editorials",
-   "t": "2026-11-23T06:15:11+05:30",
-   "date": "2026-11-23",
-   "snip": "",
-   "cat": "Society",
-   "gs": "GS1",
-   "score": 4
   }
  ]
 }
