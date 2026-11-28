@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T04:29:38.192905+05:30",
+ "updated": "2026-11-28T10:10:21.276625+05:30",
  "status": {
   "PIB": "ok (20)",
   "The Hindu - National": "ok (60)",
@@ -15,6 +15,102 @@
   "Rajya Sabha TV / Sansad TV": "failed: URLError"
  },
  "items": [
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342954",
+   "h": "भूमि संसाधन विभाग के सचिव ने ओडिशा में डब्ल्यूडीसी-पीएमकेएसवाई 2.0 और विश्व बैंक समर्थित ‘रिवार्ड’ कार्यक्रम के क्रियान्वयन की समीक्षा की",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342954",
+   "src": "PIB",
+   "t": "2026-11-28T10:09:52.839659+05:30",
+   "date": "2026-11-28",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342955",
+   "h": "भारत 2030 में आईटीयू पूर्ण अधिकार (प्लेनिपोटेंशियरी) सम्मेलन की मेजबानी करेगा; केंद्रीय मंत्री श्री ज्योतिरादित्य एम. सिंधिया ने वैश्विक दूरसंचार हिस्सेदारों को भारत आने का निमंत्रण दिया",
+   "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342955",
+   "src": "PIB",
+   "t": "2026-11-28T10:09:52.838312+05:30",
+   "date": "2026-11-28",
+   "snip": "",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/delimitation-bill-special-parliament-session-india-bloc-meeting-opposition-bjp-live-updates-november-28-2026/article71753535.ece",
+   "h": "Delimitation Bill LIVE: INDIA bloc to meet ahead of special Parliament session; Cabinet clears 50% increase in seats",
+   "link": "https://www.thehindu.com/news/national/delimitation-bill-special-parliament-session-india-bloc-meeting-opposition-bjp-live-updates-november-28-2026/article71753535.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-28T10:08:11+05:30",
+   "date": "2026-11-28",
+   "snip": "Opposition leaders to discuss a joint response ahead of special session; parties warn the move could distort representation, weaken federalism and politically benefit the BJP",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-28-2026/article71753437.ece",
+   "h": "Thirupparankundram row: Supreme Court-appointed former Judges leave for Madurai",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-28-2026/article71753437.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-28T10:01:46+05:30",
+   "date": "2026-11-28",
+   "snip": "Supreme Court declared that Executive authorities had wilfully disobeyed the orders of the court over the failure to light the ceremonial Karthigai Deepam at the disputed stone pillar on Thirupparankundram",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
+   "id": "https://www.thehindu.com/news/cities/Madurai/devotees-gather-at-thiruparankundram-foothills-under-tight-security/article71753537.ece",
+   "h": "Devotees gather at Thiruparankundram foothills under tight security",
+   "link": "https://www.thehindu.com/news/cities/Madurai/devotees-gather-at-thiruparankundram-foothills-under-tight-security/article71753537.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-28T10:01:31+05:30",
+   "date": "2026-11-28",
+   "snip": "Two former Madras High Court judges, Justice S. Vaidyanathan and Justice V. Parthiban, who were appointed as receivers to oversee the temple’s affairs and ensure the ritual is conducted without obstruction, have already arrived in Madurai to supervise the arrangements",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 4
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/uttar-pradesh/centres-delimitation-fix-steadies-yogi-adityanaths-nerves-ahead-of-polls/article71753568.ece",
+   "h": "Centre’s delimitation fix steadies Yogi Adityanath’s nerves ahead of polls",
+   "link": "https://www.thehindu.com/news/national/uttar-pradesh/centres-delimitation-fix-steadies-yogi-adityanaths-nerves-ahead-of-polls/article71753568.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-28T09:53:49+05:30",
+   "date": "2026-11-28",
+   "snip": "By raising the constitutional ceiling on State assemblies from 500 to 650 seats, the Union Cabinet’s revised delimitation bill allows U.P. assembly to expand to 605 members without dividing the State",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 2
+  },
+  {
+   "id": "https://www.thehindu.com/sci-tech/health/why-the-supreme-court-wants-red-warning-labels-on-unhealthy-packaged-foods-explained/article71753487.ece",
+   "h": "Why the Supreme Court wants red warning labels on unhealthy packaged foods | Explained",
+   "link": "https://www.thehindu.com/sci-tech/health/why-the-supreme-court-wants-red-warning-labels-on-unhealthy-packaged-foods-explained/article71753487.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-28T07:54:21+05:30",
+   "date": "2026-11-28",
+   "snip": "The Supreme Court, earlier this week, directed the FSSAI to introduce a single-phase front-of-pack nutrition labelling (FoPNL) regime and gave the regulator four months to finalise the draft regulations",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 4
+  },
+  {
+   "id": "https://www.thehindu.com/news/national/what-is-the-indraprastha-communique-issued-after-sco-civilizational-forum-in-new-delhi-explained/article71753482.ece",
+   "h": "What is the Indraprastha Communique issued after SCO Civilizational Forum in New Delhi? | Explained",
+   "link": "https://www.thehindu.com/news/national/what-is-the-indraprastha-communique-issued-after-sco-civilizational-forum-in-new-delhi-explained/article71753482.ece",
+   "src": "The Hindu - National",
+   "t": "2026-11-28T07:43:05+05:30",
+   "date": "2026-11-28",
+   "snip": "The dialogue, which was organized by the Ministry of Culture and the Ministry of External Affairs, was proposed by Prime Minister Narendra Modi at the SCO leaders’ Summit in Tianjin last year and adopted by the SCO Council",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 2
+  },
   {
    "id": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342835",
    "h": "आगरा में जल जीवन मिशन 2.0 पर दूसरा क्षेत्रीय सम्मेलन संपन्न; स्थायित्व, सामुदायिक स्वामित्व और ग्राम पंचायत-नेतृत्व वाले जल शासन पर जोर दिया गया",
@@ -4672,6 +4768,30 @@
    "score": 2
   },
   {
+   "id": "https://www.thehindu.com/opinion/editorial/fatal-disagreement-on-the-cop31-summit/article71735124.ece",
+   "h": "Fatal disagreement: on the COP31 summit",
+   "link": "https://www.thehindu.com/opinion/editorial/fatal-disagreement-on-the-cop31-summit/article71735124.ece",
+   "src": "The Hindu - Editorial",
+   "t": "2026-11-24T12:07:07+05:30",
+   "date": "2026-11-24",
+   "snip": "Developed nations must bear much of the cost of carbon emissions",
+   "cat": "International Relations",
+   "gs": "GS2",
+   "score": 7
+  },
+  {
+   "id": "https://www.thehindu.com/opinion/editorial/just-verdict-on-myanmar-and-the-international-court-of-justice/article71735482.ece",
+   "h": "Just verdict: on Myanmar and the International Court of Justice",
+   "link": "https://www.thehindu.com/opinion/editorial/just-verdict-on-myanmar-and-the-international-court-of-justice/article71735482.ece",
+   "src": "The Hindu - Editorial",
+   "t": "2026-11-24T12:04:37+05:30",
+   "date": "2026-11-24",
+   "snip": "Rohingya cannot return unless Myanmar turns democratic",
+   "cat": "Polity",
+   "gs": "GS2",
+   "score": 3
+  },
+  {
    "id": "https://indianexpress.com/article/explained/explained-ai/jensen-huang-nvidia-ceo-reinstatement-us-scrutiny-10976063/",
    "h": "In Jensen Huang’s return, unanswered questions of national security, governance and politics",
    "link": "https://indianexpress.com/article/explained/explained-ai/jensen-huang-nvidia-ceo-reinstatement-us-scrutiny-10976063/",
@@ -4694,126 +4814,6 @@
    "cat": "Polity",
    "gs": "GS2",
    "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/keralam-devaswom-minister-cites-booking-system-glitches-bulk-slot-sales-for-dip-in-sabarimala-pilgrim-numbers/article71737285.ece",
-   "h": "Keralam Devaswom Minister cites booking system glitches, ‘bulk slot sales’ for dip in Sabarimala pilgrim numbers",
-   "link": "https://www.thehindu.com/news/national/kerala/keralam-devaswom-minister-cites-booking-system-glitches-bulk-slot-sales-for-dip-in-sabarimala-pilgrim-numbers/article71737285.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-24T11:14:47+05:30",
-   "date": "2026-11-24",
-   "snip": "He said that in view of many pilgrims not turning up after booking through virtual queue, instructions have been given to increase spot booking slots, but it requires approval of Kerala High Court",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://indianexpress.com/article/explained/explained-climate/cop31-antalya-climate-deal-failure-india-implications-10976018/",
-   "h": "COP31 ended without an overarching decision. Why does that matter?",
-   "link": "https://indianexpress.com/article/explained/explained-climate/cop31-antalya-climate-deal-failure-india-implications-10976018/",
-   "src": "Indian Express - Explained",
-   "t": "2026-11-24T11:12:47+05:30",
-   "date": "2026-11-24",
-   "snip": "",
-   "cat": "Environment",
-   "gs": "GS3",
-   "score": 4
-  },
-  {
-   "id": "https://www.thehindu.com/news/national/kerala/kerala-hc-directs-tdb-to-report-on-alleged-poor-quality-of-puja-items-at-pamba-ganapathy-temple/article71735682.ece",
-   "h": "Kerala HC directs TDB to report on alleged poor quality of puja items at Pamba Ganapathy Temple",
-   "link": "https://www.thehindu.com/news/national/kerala/kerala-hc-directs-tdb-to-report-on-alleged-poor-quality-of-puja-items-at-pamba-ganapathy-temple/article71735682.ece",
-   "src": "The Hindu - National",
-   "t": "2026-11-24T10:22:48+05:30",
-   "date": "2026-11-24",
-   "snip": "",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 3
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/science/japan-europe-spacecraft-bepicolombo-begins-orbit-of-mercury-with-a-glitch-reported/article71733234.ece",
-   "h": "Japan-Europe spacecraft BepiColombo begins orbit of Mercury, with a glitch reported",
-   "link": "https://www.thehindu.com/sci-tech/science/japan-europe-spacecraft-bepicolombo-begins-orbit-of-mercury-with-a-glitch-reported/article71733234.ece",
-   "src": "The Hindu - Science",
-   "t": "2026-11-24T10:22:01+05:30",
-   "date": "2026-11-24",
-   "snip": "The mission will seek to answer questions about Mercury such as why it has a magnetic field, why ice exists in the polar craters of a sun-scorched planet, and what is the nature of enigmatic depressions called \"hollows\" on its surface",
-   "cat": "Economy",
-   "gs": "GS3",
-   "score": 4
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/technology/elon-musks-companies-sued-by-us-states-over-flood-of-sexualised-images-made-with-grok-ai/article71737074.ece",
-   "h": "Elon Musk’s companies sued by U.S. states over flood of sexualised images made with Grok AI",
-   "link": "https://www.thehindu.com/sci-tech/technology/elon-musks-companies-sued-by-us-states-over-flood-of-sexualised-images-made-with-grok-ai/article71737074.ece",
-   "src": "The Hindu - International",
-   "t": "2026-11-24T10:10:14+05:30",
-   "date": "2026-11-24",
-   "snip": "Two Democratic attorneys general are suing several of Elon Musk’s companies in connection with the controversy over his AI chatbot’s ability to create sexualised images",
-   "cat": "Science & Tech",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/sci-tech/science/chinas-shenzhou-24-spaceship-to-include-first-foreign-astronaut-from-pakistan/article71737165.ece",
-   "h": "China's Shenzhou-24 spaceship to include first foreign astronaut from Pakistan",
-   "link": "https://www.thehindu.com/sci-tech/science/chinas-shenzhou-24-spaceship-to-include-first-foreign-astronaut-from-pakistan/article71737165.ece",
-   "src": "The Hindu - International",
-   "t": "2026-11-24T09:52:29+05:30",
-   "date": "2026-11-24",
-   "snip": "Pakistani payload specialist Zeeshan Ali's participation is ‌part of bilateral cooperation under Beijing’s ‌Belt ⁠and Road Initiative",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 3
-  },
-  {
-   "id": "https://indianexpress.com/article/explained/explained-global/ganga-water-sharing-treaty-renewal-2026-india-bangladesh-10975613/",
-   "h": "Ganga Water Treaty: Will the 1996 pact be renewed? Where India, Bangladesh stand",
-   "link": "https://indianexpress.com/article/explained/explained-global/ganga-water-sharing-treaty-renewal-2026-india-bangladesh-10975613/",
-   "src": "Indian Express - Explained",
-   "t": "2026-11-24T09:14:34+05:30",
-   "date": "2026-11-24",
-   "snip": "",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 5
-  },
-  {
-   "id": "https://www.thehindu.com/business/training-vs-inference-whats-the-distinction-at-the-heart-of-the-sarvam-ai-china-models-controversy-explained/article71736231.ece",
-   "h": "Training vs inference: What’s the distinction at the heart of the Sarvam AI-China models controversy? | Explained",
-   "link": "https://www.thehindu.com/business/training-vs-inference-whats-the-distinction-at-the-heart-of-the-sarvam-ai-china-models-controversy-explained/article71736231.ece",
-   "src": "The Hindu - Business",
-   "t": "2026-11-24T09:12:04+05:30",
-   "date": "2026-11-24",
-   "snip": "Can India build an indigenous AI ecosystem while hosting models developed in China? What is Sarvam’s Token Factory? What does it mean for India’s AI ambitions?",
-   "cat": "International Relations",
-   "gs": "GS2",
-   "score": 2
-  },
-  {
-   "id": "https://www.thehindu.com/news/international/earthquake-strikes-nepals-koshi-province-close-to-china-border/article71737092.ece",
-   "h": "5.6 magnitude earthquake strikes Nepal’s Koshi province close to China border",
-   "link": "https://www.thehindu.com/news/international/earthquake-strikes-nepals-koshi-province-close-to-china-border/article71737092.ece",
-   "src": "The Hindu - International",
-   "t": "2026-11-24T09:11:17+05:30",
-   "date": "2026-11-24",
-   "snip": "The European-Mediterranean Seismological Centre (EMSC), however, put the earthquake’s magnitude at 5.3 and said it occurred at a depth of 10 kilometres",
-   "cat": "Security",
-   "gs": "GS3",
-   "score": 2
-  },
-  {
-   "id": "https://indianexpress.com/article/opinion/editorials/gta-6-violence-empathy-gaming-culture-10975546/",
-   "h": "Grand Theft Auto in 2026 — where’s the over-the-top carnage gone?",
-   "link": "https://indianexpress.com/article/opinion/editorials/gta-6-violence-empathy-gaming-culture-10975546/",
-   "src": "Indian Express - Editorials",
-   "t": "2026-11-24T06:15:55+05:30",
-   "date": "2026-11-24",
-   "snip": "",
-   "cat": "Polity",
-   "gs": "GS2",
-   "score": 3
   }
  ]
 }
